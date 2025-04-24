@@ -96,7 +96,7 @@ After fitting the model, we obtain the following regression coefficients:
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.6\textwidth]{regression_table.png}
+    \includegraphics[width=0.6\textwidth]{coef_table.png}
     \caption{Regression coefficients for the model: GDP - Production + Area + Sales + Crop.}
 \end{figure}
 
