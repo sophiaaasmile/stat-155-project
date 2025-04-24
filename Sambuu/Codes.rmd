@@ -1,0 +1,146 @@
+```{r setup, include=FALSE}
+# Loading required libraries and setting global chunk options
+library(ggplot2)
+library(dplyr)
+library(tidyverse)
+library(scales)
+library(knitr)
+library(gridExtra)
+
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, 
+                      fig.align = "center", fig.width = 8, fig.height = 6, include = FALSE)
+```
+
+
+```{r}
+# Reading the crop and GDP data files
+GDP2022 <- read.csv("Data/GDP2022.csv")
+
+wheat2022 <- read.csv("Data/wheat_area_sale_production.csv")
+soybean2022 <- read.csv("Data/soybeans_area_sale_production.csv")
+corn2022 <- read.csv("Data/corn_area_sales_production.csv")
+```
+
+```{r}
+# Cleaning and reformatting the GDP dataset: 
+#   separate state and county, remove symbols, and match full state names
+
+GDP2022 %>%
+  separate(GeoName, into = c("County", "StateAbb"), sep = ",\\s*") %>%
+  mutate(StateAbb = gsub("\\*", "", StateAbb)) %>%
+  mutate(State = state.name[match(StateAbb, state.abb)]) %>%
+  select(-StateAbb, -GeoFips) -> GDP2022
+```
+
+```{r}
+# Defining a general function to clean crop data: 
+#   filter for 2022, reshape, rename columns, and merge with GDP
+clean_data <- function(crop_data, crop_name1, crop_name2 = crop_name1, crop_name3 = crop_name1){
+  crop_data %>%
+    filter(Year == 2022) %>%
+    select(State, County, Data.Item, Value) %>%
+    mutate(Value = as.numeric(gsub(",", "", Value))) -> crop_clean
+  
+  crop_clean %>%
+    pivot_wider(names_from = Data.Item, values_from = Value) %>%
+    rename(area = paste(crop_name1, '- ACRES HARVESTED'), production = paste(crop_name2, '- PRODUCTION, MEASURED IN BU'), sales = paste(crop_name3, '- SALES, MEASURED IN $')) -> crop_clean
+  
+  crop_clean %>%
+    mutate(State = tolower(State), County = tolower(County)) %>%
+    full_join(
+      GDP2022 %>% mutate(State = tolower(State), County = tolower(County)), 
+      by = c("State", "County")
+    ) %>% drop_na() %>% mutate(GDP = as.numeric(GDP)) -> crop_clean
+  
+  return (crop_clean)
+}
+```
+
+```{r}
+# Cleaning individual crop datasets and combine them into a single dataset for analysis
+soybean_clean <- clean_data(soybean2022, "SOYBEANS") %>% mutate(crop = "SOYBEANS")
+wheat_clean <- clean_data(wheat2022, "WHEAT") %>% mutate(crop = "WHEAT")
+corn_clean <- clean_data(corn2022, "CORN, GRAIN", crop_name3 = "CORN") %>% mutate(crop = "CORN")
+
+rbind(corn_clean, soybean_clean, wheat_clean) %>% arrange(State, County) -> data_clean
+```
+
+```{r}
+# Creating a scatter plot of Sales vs. Production, colored by crop type
+data_clean %>%
+  ggplot(aes(x = sales, y = production, color = crop)) + 
+  geom_point(alpha = 0.6, size = 2) +
+  geom_smooth(method = "lm", se = FALSE, linewidth = 1.2) +
+  scale_x_continuous(labels = dollar_format()) +
+  scale_y_continuous(labels = comma_format()) +
+  labs(
+    title = "Sales vs. Production by Crop",
+    subtitle = "Each point represents a U.S. county in 2022",
+    x = "Sales (USD)",
+    y = "Production (Bushels)",
+    color = "Crop"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    plot.title = element_text(face = "bold", size = 16),
+    plot.subtitle = element_text(size = 12, margin = margin(b = 10)),
+    axis.title = element_text(face = "bold"),
+    axis.text = element_text(color = "gray20"),
+    legend.title = element_text(face = "bold"),
+    plot.caption = element_text(size = 9, face = "italic", color = "gray40"),
+    panel.grid.minor = element_blank()
+  )
+```
+
+```{r}
+# Creating a scatter plot of Area vs. Production, colored by crop type
+data_clean %>%
+  ggplot(aes(x = area, y = production, color = crop)) + 
+  geom_point(alpha = 0.6, size = 2) +
+  geom_smooth(method = "lm", se = FALSE, linewidth = 1.2) +
+  scale_x_continuous(labels = comma_format()) +
+  scale_y_continuous(labels = comma_format()) +
+  labs(
+    title = "Area vs. Production by Crop",
+    subtitle = "Each point represents a U.S. county in 2022",
+    x = "Area Harvested (Acres)",
+    y = "Production (Bushels)",
+    color = "Crop"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    plot.title = element_text(face = "bold", size = 16),
+    plot.subtitle = element_text(size = 12, margin = margin(b = 10)),
+    axis.title = element_text(face = "bold"),
+    axis.text = element_text(color = "gray20"),
+    legend.title = element_text(face = "bold"),
+    panel.grid.minor = element_blank()
+  )
+```
+
+
+
+```{r}
+# Fitting a multiple linear regression model
+mod <- lm(GDP ~ production + area + sales + crop, data = data_clean)
+
+summary(mod)
+```
+```{r}
+# Building and saving a table of regression coefficients as an image
+coefs <- data.frame(
+  Predictor = c("(Intercept)", "Production", "Area", "Sales", "Crop: Soybeans", "Crop: Wheat"),
+  Estimate = c(6313000, -0.236, -43.37, 0.04921, -869000, -335500),
+  Std_Error = c(397000, 0.1313, 9.527, 0.02439, 600200, 561800),
+  t_value = c(15.90, -1.796, -4.553, 2.018, -1.448, -0.597),
+  p_value = c("< 0.001", "0.0726", "< 0.001", "0.0437", "0.1477", "0.5504")
+)
+
+coefs$Estimate <- prettyNum(round(coefs$Estimate, 3), big.mark = ",")
+coefs$Std_Error <- prettyNum(round(coefs$Std_Error, 3), big.mark = ",")
+coefs$t_value <- round(coefs$t_value, 2)
+
+tbl <- tableGrob(coefs)
+ggsave("regression_table.png", tbl, width = 7, height = 3, dpi = 300)
+```
+
