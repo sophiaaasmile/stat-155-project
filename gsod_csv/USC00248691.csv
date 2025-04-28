@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00248691","1905","48.083333","-109.666667",,"WARRICK, MT US","        54","6","        39","6","         0","6","        19","6","         8"," ","   157"," ,6,0213, ","  15.7"," ,6,0213, ","    310.0"," ,6","     1536"," ,6"
+"USC00248691","1906","48.083333","-109.666667",,"WARRICK, MT US","        79","6","        48","6","         5","6","","","         4"," ","",""," 209.8"," ,6,0607, ","    746.2"," ,6","",""

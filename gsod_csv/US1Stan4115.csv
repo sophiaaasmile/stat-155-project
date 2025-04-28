@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1Stan4115","2020","41.95301777","-97.22789464",,"STANTON 0.5 NW, NE US","        95","N","        47","N","         4","N","  39.6"," ,N,0320, ","    536.0"," ,N"
+"US1Stan4115","2021","41.95301777","-97.22789464",,"STANTON 0.5 NW, NE US","        92","N","        51","N","         6","N","  66.8"," ,N,0831, ","    718.8"," ,N"
+"US1Stan4115","2022","41.95301777","-97.22789464",,"STANTON 0.5 NW, NE US","        75","N","        37","N","         1","N","  27.7"," ,N,0706, ","    365.8"," ,N"
+"US1Stan4115","2023","41.95301777","-97.22789464",,"STANTON 0.5 NW, NE US","        81","N","        38","N","         6","N","  53.8"," ,N,1012, ","    589.7"," ,N"

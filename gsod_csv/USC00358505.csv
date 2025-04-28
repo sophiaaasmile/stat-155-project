@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00358505","1970","45.55","-123.6","118.9","TILLAMOOK 13 ENE, OR US","","","","","","","","","","","         1"," ","","","","","","","","","",""
+"USC00358505","1971","45.55","-123.6","118.9","TILLAMOOK 13 ENE, OR US","","","","","","","       22","","        14","0","         3"," ","   559"," ,0,0114, ","   229"," ,0,0113, ","","","","","     1317"," ,0"
+"USC00358505","1972","45.55","-123.6","118.9","TILLAMOOK 13 ENE, OR US","       153","0","       144","0","        46","0","       30","","        11","0","         3"," ","   279"," ,0,1212, ","   229"," ,0,1206, "," 177.8"," ,0,0111, ","   3659.9"," ,0","     1012"," ,0"
+"USC00358505","1974","45.55","-123.6","118.9","TILLAMOOK 13 ENE, OR US","","","","","","","","","","","         1"," ","","","","","","","","","",""

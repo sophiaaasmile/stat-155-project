@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00293589","1951","36.7","-107.48333","2044.0","GOBERNADOR 7 W, NM US","","","","","","","","","         1"," ","","","","","","","",""
+"USC00293589","1953","36.7","-107.48333","2044.0","GOBERNADOR 7 W, NM US","","","","","","","","","","","","","","","    250.1"," ,0","",""
+"USC00293589","1954","36.7","-107.48333","2044.0","GOBERNADOR 7 W, NM US","        43","0","        32","0","         0","0","         0","0","","","     0"," ,0,1231,+","  23.9"," ,0,0701, ","    245.1"," ,0","        0"," ,0"

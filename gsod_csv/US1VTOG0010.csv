@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VTOG0010","2022","43.9357","-72.7483","491.0","BRAINTREE 2.8 SW, VT US","       165","N","        90","N","        11","N","  45.2"," ,N,1014, ","   1200.7"," ,N"
+"US1VTOG0010","2023","43.9357","-72.7483","491.0","BRAINTREE 2.8 SW, VT US","       182","N","       108","N","        22","N","  83.3"," ,N,0710, ","   1793.1"," ,N"
+"US1VTOG0010","2024","43.9357","-72.7483","491.0","BRAINTREE 2.8 SW, VT US","       182","N","        98","N","        15","N","  45.2"," ,N,1212, ","   1302.1"," ,N"

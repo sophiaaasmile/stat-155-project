@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES"
+"USW00013761","1945","36.01667","-76.56667","13.1","EDENTON NAAS, NC US","       141"," ","        31"," ","","","",""
+"USW00013761","1946","36.01667","-76.56667","13.1","EDENTON NAAS, NC US","        58"," ","        21"," ","    1601.0","0","    1601.0"," "
+"USW00013761","1949","36.01667","-76.56667","13.1","EDENTON NAAS, NC US","        13"," ","","","","","",""
+"USW00013761","1950","36.01667","-76.56667","13.1","EDENTON NAAS, NC US","        18"," ","         1"," ","","","",""

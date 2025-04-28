@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VAND0005","2021","37.867528","-76.416133","4.6","HEATHSVILLE 4.6 SE, VA US","       123","N","        81","N","        13","N"," 136.7"," ,N,0702, ","   1472.5"," ,N"
+"US1VAND0005","2022","37.867528","-76.416133","4.6","HEATHSVILLE 4.6 SE, VA US","       115","N","        76","N","        12","N"," 112.8"," ,N,0912, ","   1293.8"," ,N"
+"US1VAND0005","2023","37.867528","-76.416133","4.6","HEATHSVILLE 4.6 SE, VA US","       115","N","        77","N","        13","N","  74.9"," ,N,1218, ","   1176.7"," ,N"
+"US1VAND0005","2024","37.867528","-76.416133","4.6","HEATHSVILLE 4.6 SE, VA US","       106","N","        75","N","        16","N","  83.6"," ,N,0721, ","   1391.0"," ,N"

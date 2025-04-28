@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBEL065","2019","31.0388","-97.6039","211.5","BELTON 8.5 WSW, TX US","        85","N","        43","N","         8","N","  69.6"," ,N,0503, ","    757.7"," ,N"
+"US1TXBEL065","2020","31.0388","-97.6039","211.5","BELTON 8.5 WSW, TX US","        72","N","        46","N","        12","N","  72.4"," ,N,0212, ","    867.7"," ,N"
+"US1TXBEL065","2021","31.0388","-97.6039","211.5","BELTON 8.5 WSW, TX US","        82","N","        42","N","        10","N","  57.4"," ,N,1014, ","    756.2"," ,N"

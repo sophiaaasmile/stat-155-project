@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBXR409","2020","29.4036917","-98.3464506","201.2","CHINA GROVE 0.6 N, TX US","        71","N","        41","N","         6","N","  64.3"," ,N,0525, ","    648.8"," ,N"
+"US1TXBXR409","2022","29.4036917","-98.3464506","201.2","CHINA GROVE 0.6 N, TX US","        58","N","        25","N","         3","N","  57.9"," ,N,1211, ","    403.8"," ,N"
+"US1TXBXR409","2023","29.4036917","-98.3464506","201.2","CHINA GROVE 0.6 N, TX US","        84","N","        45","N","         4","N","  68.1"," ,N,1027, ","    648.0"," ,N"
+"US1TXBXR409","2024","29.4036917","-98.3464506","201.2","CHINA GROVE 0.6 N, TX US","        53","N","        28","N","         9","N","  70.9"," ,N,0124, ","    564.2"," ,N"

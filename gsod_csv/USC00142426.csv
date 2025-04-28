@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00142426","1956","37.2","-96.0","262.1","ELK CITY 8 SW SOIL CONSERVATION SERVICE 5, KS US","        85","0","        42","0","         6","0","         7","0","        26"," ","        60"," ","    89"," ,0,0202, ","  75.7"," ,0,0623, ","    564.4"," ,0","      392"," ,0"
+"USC00142426","1957","37.2","-96.0","262.1","ELK CITY 8 SW SOIL CONSERVATION SERVICE 5, KS US","","","","","","","","","        54"," ","        55"," ","","","","","","","",""
+"USC00142426","1958","37.2","-96.0","262.1","ELK CITY 8 SW SOIL CONSERVATION SERVICE 5, KS US","","","","","","","","","        26"," ","        37"," ","","","","","","","",""

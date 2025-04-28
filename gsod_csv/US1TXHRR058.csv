@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXHRR058","2011","29.8133","-95.5389","29.0","SPRING VALLEY 2.7 NW, TX US","        58","N","        32","N","         8","N","  82.0"," ,N,1010, ","    591.7"," ,N"
+"US1TXHRR058","2012","29.8133","-95.5389","29.0","SPRING VALLEY 2.7 NW, TX US","        96","N","        62","N","        18","N","  65.8"," ,N,0110, ","   1295.1"," ,N"
+"US1TXHRR058","2016","29.8133","-95.5389","29.0","SPRING VALLEY 2.7 NW, TX US","","","","","","","","","   1493.8"," ,N"
+"US1TXHRR058","2017","29.8133","-95.5389","29.0","SPRING VALLEY 2.7 NW, TX US","        90","N","        62","N","        17","N"," 245.1"," ,N,0828, ","   1887.2"," ,N"
+"US1TXHRR058","2020","29.8133","-95.5389","29.0","SPRING VALLEY 2.7 NW, TX US","","","","","","","","","   1535.4"," ,N"

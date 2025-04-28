@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VAFR0034","2020","37.10626","-79.7673","278.6","WIRTZ 7.1 ENE, VA US","","","","","","","","","   1734.1"," ,N"
+"US1VAFR0034","2021","37.10626","-79.7673","278.6","WIRTZ 7.1 ENE, VA US","       100","N","        68","N","         6","N","  74.9"," ,N,0922, ","    825.9"," ,N"
+"US1VAFR0034","2022","37.10626","-79.7673","278.6","WIRTZ 7.1 ENE, VA US","       115","N","        87","N","        16","N","  67.6"," ,N,0524, ","   1263.2"," ,N"

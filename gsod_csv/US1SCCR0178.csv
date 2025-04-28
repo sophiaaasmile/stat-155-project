@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCCR0178","2020","32.7875","-80.04351",,"CHARLESTON 2.9 W, SC US","       137","N","        84","N","        21","N","  97.3"," ,N,0521,+","   1644.4"," ,N"
+"US1SCCR0178","2021","32.7875","-80.04351",,"CHARLESTON 2.9 W, SC US","       121","N","        80","N","        17","N"," 133.1"," ,N,0708, ","   1743.7"," ,N"
+"US1SCCR0178","2022","32.7875","-80.04351",,"CHARLESTON 2.9 W, SC US","       109","N","        74","N","        17","N"," 121.2"," ,N,0902, ","   1489.1"," ,N"
+"US1SCCR0178","2023","32.7875","-80.04351",,"CHARLESTON 2.9 W, SC US","       119","N","        82","N","        16","N","  74.9"," ,N,0918, ","   1432.2"," ,N"
+"US1SCCR0178","2024","32.7875","-80.04351",,"CHARLESTON 2.9 W, SC US","       102","N","        72","N","        16","N"," 148.6"," ,N,0806, ","   1453.3"," ,N"

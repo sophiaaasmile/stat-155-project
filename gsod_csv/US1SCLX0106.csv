@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCLX0106","2017","33.98357","-81.185085","112.8","LEXINGTON 2.5 E, SC US","       108","N","        66","N","        13","N"," 122.4"," ,N,0912, ","   1195.9"," ,N"
+"US1SCLX0106","2018","33.98357","-81.185085","112.8","LEXINGTON 2.5 E, SC US","       118","N","        73","N","        11","N"," 109.7"," ,N,1011, ","   1208.5"," ,N"
+"US1SCLX0106","2019","33.98357","-81.185085","112.8","LEXINGTON 2.5 E, SC US","       118","N","        77","N","        16","N"," 113.0"," ,N,0608, ","   1264.1"," ,N"
+"US1SCLX0106","2020","33.98357","-81.185085","112.8","LEXINGTON 2.5 E, SC US","       141","N","        94","N","        15","N","  93.2"," ,N,0530, ","   1374.8"," ,N"

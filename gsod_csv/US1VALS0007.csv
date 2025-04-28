@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VALS0007","2021","37.9895","-78.084499","120.4","LOUISA 5.1 WSW, VA US","       119","N","        74","N","         7","N","  68.1"," ,N,0611, ","    948.7"," ,N"
+"US1VALS0007","2022","37.9895","-78.084499","120.4","LOUISA 5.1 WSW, VA US","       126","N","        83","N","        14","N","  49.8"," ,N,0617, ","   1288.5"," ,N"
+"US1VALS0007","2023","37.9895","-78.084499","120.4","LOUISA 5.1 WSW, VA US","       115","N","        73","N","        10","N","  67.3"," ,N,1122, ","   1063.6"," ,N"
+"US1VALS0007","2024","37.9895","-78.084499","120.4","LOUISA 5.1 WSW, VA US","       127","N","        72","N","         8","N","  90.7"," ,N,0830, ","   1123.0"," ,N"

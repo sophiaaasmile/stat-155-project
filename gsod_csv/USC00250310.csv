@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00250310","1894","41.033333","-97.783333",,"ARBORVILLE, NE US","        44","6","        34","6","         3","6","  48.0"," ,6,0623, ","    332.3"," ,6"
+"USC00250310","1898","41.033333","-97.783333",,"ARBORVILLE, NE US","        60","6","        45","6","         6","6","  41.9"," ,6,1009, ","    577.5"," ,6"
+"USC00250310","1899","41.033333","-97.783333",,"ARBORVILLE, NE US","        52","6","        40","6","         5","6","  87.1"," ,6,0502, ","    610.2"," ,6"

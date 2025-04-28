@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00027419","1984","31.9","-111.06667","1085.1","SAHUARITA 8 W, AZ US","        49","0","        38","0","         4","0","        0","","         0","0","     0"," ,0,1231,+","     0","T,0,1215, ","  59.7"," ,0,0927, ","    568.7"," ,0","        0","T,0"
+"USC00027419","1985","31.9","-111.06667","1085.1","SAHUARITA 8 W, AZ US","        46","0","        34","0","         1","0","","","","","","","","","  30.2"," ,0,0918, ","    399.4"," ,0","",""
+"USC00027419","1987","31.9","-111.06667","1085.1","SAHUARITA 8 W, AZ US","        43","0","        25","0","         4","0","","","","","","","","","  37.6"," ,0,1031, ","    324.7"," ,0","",""

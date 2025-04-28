@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00144716","1955","39.08333","-98.15","488.0","LINCOLN 3 N SOIL CONSERVATION SERVICE 4, KS US","","","","","","","","","         6"," ","","","","","","","",""
+"USC00144716","1956","39.08333","-98.15","488.0","LINCOLN 3 N SOIL CONSERVATION SERVICE 4, KS US","        35","0","        28","0","         1","0","         8","0","        16"," ","   178"," ,0,0201, ","  29.2"," ,0,1030, ","    235.7"," ,0","      631"," ,0"
+"USC00144716","1957","39.08333","-98.15","488.0","LINCOLN 3 N SOIL CONSERVATION SERVICE 4, KS US","        76","0","        61","0","        10","0","         3","0","        17"," ","   127"," ,0,1118, ","  73.7"," ,0,0828, ","    894.4"," ,0","      297"," ,0"
+"USC00144716","1958","39.08333","-98.15","488.0","LINCOLN 3 N SOIL CONSERVATION SERVICE 4, KS US","","","","","","","","","         1"," ","","","","","","","",""

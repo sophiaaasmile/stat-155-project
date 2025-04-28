@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCCR0155","2020","32.55544","-80.368166","6.4","EDISTO BEACH 5.4 NNW, SC US","       127","N","        79","N","        16","N"," 135.9"," ,N,0825, ","   1520.2"," ,N"
+"US1SCCR0155","2021","32.55544","-80.368166","6.4","EDISTO BEACH 5.4 NNW, SC US","       111","N","        75","N","        17","N"," 107.4"," ,N,0818, ","   1407.4"," ,N"
+"US1SCCR0155","2022","32.55544","-80.368166","6.4","EDISTO BEACH 5.4 NNW, SC US","       115","N","        71","N","        15","N","  58.2"," ,N,0826, ","   1205.6"," ,N"
+"US1SCCR0155","2023","32.55544","-80.368166","6.4","EDISTO BEACH 5.4 NNW, SC US","       112","N","        74","N","        16","N","  59.7"," ,N,0817, ","   1275.5"," ,N"
+"US1SCCR0155","2024","32.55544","-80.368166","6.4","EDISTO BEACH 5.4 NNW, SC US","       105","N","        77","N","        20","N"," 311.2"," ,N,0806, ","   1703.9"," ,N"

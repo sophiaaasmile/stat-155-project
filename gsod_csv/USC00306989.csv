@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00306989","1938","42.11667","-78.8","412.1","REDHOUSE, NY US","","","","","","","        45"," ","","","",""
+"USC00306989","1939","42.11667","-78.8","412.1","REDHOUSE, NY US","       160","6","        96","6","         8","6","        39"," ","  47.5"," ,6,1009, ","   1033.8"," ,6"
+"USC00306989","1940","42.11667","-78.8","412.1","REDHOUSE, NY US","       171","6","       106","6","         4","6","        65"," ","  64.0"," ,6,0611, ","   1174.6"," ,6"

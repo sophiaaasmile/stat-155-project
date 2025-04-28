@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00501228","2001","61.495","-149.75722","42.7","CAMP TOGOWOODS, AK US","","","         2"," ","","","","","","","",""
+"USC00501228","2002","61.495","-149.75722","42.7","CAMP TOGOWOODS, AK US","      143","","        11"," ","         6"," ","   559"," ,0,0327,+","","","",""
+"USC00501228","2003","61.495","-149.75722","42.7","CAMP TOGOWOODS, AK US","","","        10"," ","         3"," ","","","    439.5"," ,0","     1096"," , "
+"USC00501228","2004","61.495","-149.75722","42.7","CAMP TOGOWOODS, AK US","","","         9"," ","         3"," ","","","","","",""
+"USC00501228","2005","61.495","-149.75722","42.7","CAMP TOGOWOODS, AK US","","","","","         4"," ","","","","","",""

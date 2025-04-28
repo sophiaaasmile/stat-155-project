@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00346643","1944","35.45","-96.3","244.1","OKEMAH 2, OK US","","","","","","","         1"," ","","","",""
+"USC00346643","1946","35.45","-96.3","244.1","OKEMAH 2, OK US","","","","","","","         1"," ","","","",""
+"USC00346643","1949","35.45","-96.3","244.1","OKEMAH 2, OK US","        92","0","        69","0","        18","0","","","  84.3"," ,0,0517, ","   1349.3"," ,0"

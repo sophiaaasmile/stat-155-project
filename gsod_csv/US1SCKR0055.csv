@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCKR0055","2021","34.10281","-80.7168","75.3","LUGOFF 8.7 SSW, SC US","       103","N","        77","N","         9","N","  56.1"," ,N,0707, ","   1033.7"," ,N"
+"US1SCKR0055","2022","34.10281","-80.7168","75.3","LUGOFF 8.7 SSW, SC US","       100","N","        74","N","        10","N","  96.3"," ,N,0930, ","   1238.3"," ,N"
+"US1SCKR0055","2023","34.10281","-80.7168","75.3","LUGOFF 8.7 SSW, SC US","        82","N","        62","N","        23","N","  74.2"," ,N,0211, ","   1572.0"," ,N"
+"US1SCKR0055","2024","34.10281","-80.7168","75.3","LUGOFF 8.7 SSW, SC US","       113","N","        72","N","        15","N","  88.6"," ,N,0927, ","   1380.4"," ,N"

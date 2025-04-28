@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00419013","1961","33.3","-99.21667",,"THROCKMORTON 8 NNW, TX US","        53","0","        44","0","        12","0"," 104.6"," ,0,0709, ","    828.4"," ,0"
+"USC00419013","1962","33.3","-99.21667",,"THROCKMORTON 8 NNW, TX US","        54","0","        38","0","         9","0"," 100.6"," ,0,0905, ","    926.1"," ,0"
+"USC00419013","1963","33.3","-99.21667",,"THROCKMORTON 8 NNW, TX US","        39","0","        28","0","         8","0","  50.0"," ,0,0528, ","    632.8"," ,0"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00419643","1944","34.816667","-102.566667",,"WESTWAY, TX US","","","","","","","         2"," ","","","","","",""
+"USC00419643","1945","34.816667","-102.566667",,"WESTWAY, TX US","        31","6","        24","6","         5","6","","","","","  66.8"," ,6,0815, ","    333.9"," ,6"
+"USC00419643","1947","34.816667","-102.566667",,"WESTWAY, TX US","","","","","","","         6"," ","         3"," ","","","",""
+"USC00419643","1948","34.816667","-102.566667",,"WESTWAY, TX US","","","","","","","         9"," ","","","","","",""

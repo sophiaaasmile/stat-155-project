@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WAIS0046","2020","48.34757","-122.582376","88.4","OAK HARBOR 4.2 NNE, WA US","       152","N","        80","N","         1","N","         2","N","   152"," ,N,0115, ","  38.6"," ,N,0206, ","    765.4"," ,N","      198"," ,N"
+"US1WAIS0046","2022","48.34757","-122.582376","88.4","OAK HARBOR 4.2 NNE, WA US","","","","","","","","","","","","","    686.5"," ,N","",""
+"US1WAIS0046","2023","48.34757","-122.582376","88.4","OAK HARBOR 4.2 NNE, WA US","","","","","","","","","","","","","    583.4"," ,N","",""

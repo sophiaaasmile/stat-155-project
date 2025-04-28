@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00472992","2010","44.0949","-91.2922","245.4","GALESVILLE 2 ESE, WI US","       93","","        11","0","        16"," ","        15"," ","   533"," ,0,1212, ","   305"," ,0,1212, ","     1010"," ,0"
+"USC00472992","2011","44.0949","-91.2922","245.4","GALESVILLE 2 ESE, WI US","","","","","         8"," ","         7"," ","","","","","",""
+"USC00472992","2012","44.0949","-91.2922","245.4","GALESVILLE 2 ESE, WI US","","","","","        24"," ","        35"," ","","","","","",""
+"USC00472992","2013","44.0949","-91.2922","245.4","GALESVILLE 2 ESE, WI US","","","","","        28"," ","        23"," ","","","","","",""
+"USC00472992","2014","44.0949","-91.2922","245.4","GALESVILLE 2 ESE, WI US","","","","","         3"," ","","","","","","","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXRV0002","2019","30.9597","-103.7633","994.9","BALMORHEA 2.1 SW, TX US","        63","N","        29","N","         1","N","  53.3"," ,N,0922, ","    325.8"," ,N"
+"US1TXRV0002","2022","30.9597","-103.7633","994.9","BALMORHEA 2.1 SW, TX US","        51","N","        31","N","         5","N","  67.3"," ,N,0817, ","    456.4"," ,N"
+"US1TXRV0002","2024","30.9597","-103.7633","994.9","BALMORHEA 2.1 SW, TX US","        33","N","        16","N","         1","N","  25.4"," ,N,0701, ","    167.4"," ,N"

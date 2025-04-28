@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1UTWG0007","2012","37.17886092","-113.00853974","1171.0","SPRINGDALE 0.6 SW, UT US","        51","N","        29","N","         0","N","  25.1"," ,N,0731, ","    267.2"," ,N"
+"US1UTWG0007","2013","37.17886092","-113.00853974","1171.0","SPRINGDALE 0.6 SW, UT US","        42","N","        26","N","         1","N","  46.7"," ,N,0826, ","    299.4"," ,N"
+"US1UTWG0007","2014","37.17886092","-113.00853974","1171.0","SPRINGDALE 0.6 SW, UT US","        38","N","        20","N","         2","N","  39.9"," ,N,0928, ","    268.1"," ,N"
+"US1UTWG0007","2015","37.17886092","-113.00853974","1171.0","SPRINGDALE 0.6 SW, UT US","        56","N","        33","N","         1","N","  25.7"," ,N,0915, ","    305.8"," ,N"

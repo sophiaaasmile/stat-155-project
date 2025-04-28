@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WIPK0007","2020","45.3937303","-92.4077977","352.3","AMERY 6.5 NNW, WI US","       113","N","        53","N","         9","N","  71.4"," ,N,0629, ","    782.3"," ,N"
+"US1WIPK0007","2021","45.3937303","-92.4077977","352.3","AMERY 6.5 NNW, WI US","       108","N","        55","N","         6","N","  65.8"," ,N,0808, ","    674.0"," ,N"
+"US1WIPK0007","2023","45.3937303","-92.4077977","352.3","AMERY 6.5 NNW, WI US","       108","N","        56","N","         6","N","  52.1"," ,N,0728, ","    836.3"," ,N"

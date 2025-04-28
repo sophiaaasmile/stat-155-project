@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYHF","DYHF_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USW00093937","2022","33.16667","-95.61667","149.0","SULPHUR SPRINGS MUNICIPAL AIRPORT, TX US","","","","","","","        49"," ","         6"," ","        19"," ","","","","","","","",""
+"USW00093937","2023","33.16667","-95.61667","149.0","SULPHUR SPRINGS MUNICIPAL AIRPORT, TX US","        75","W","        44","W","         6","W","        67"," ","         8"," ","        32"," ","  43.2"," ,W,0208, ","    1090.8","8","    1090.8","W","    554.2"," ,W"
+"USW00093937","2024","33.16667","-95.61667","149.0","SULPHUR SPRINGS MUNICIPAL AIRPORT, TX US","","","","","","","        71"," ","         7"," ","        30"," ","","","","","","","",""
+"USW00093937","2025","33.16667","-95.61667","149.0","SULPHUR SPRINGS MUNICIPAL AIRPORT, TX US","","","","","","","        13"," ","         3"," ","         9"," ","","","","","","","",""

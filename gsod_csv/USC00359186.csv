@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00359186","1899","42.8","-123.583333","318.5","WEST FORK, OR US","","","","","","","        11"," ","","","",""
+"USC00359186","1900","42.8","-123.583333","318.5","WEST FORK, OR US","        89","6","        77","6","         9","6","","","  50.3"," ,6,1220, ","    927.8"," ,6"
+"USC00359186","1901","42.8","-123.583333","318.5","WEST FORK, OR US","","","","","","","         6"," ","","","",""
+"USC00359186","1902","42.8","-123.583333","318.5","WEST FORK, OR US","","","","","","","         5"," ","","","",""

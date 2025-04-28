@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXCML035","2014","29.734","-98.2021","279.8","NEW BRAUNFELS 5.5 WNW, TX US","        74","N","        42","N","         7","N","  69.1"," ,N,0513, ","    650.7"," ,N"
+"US1TXCML035","2015","29.734","-98.2021","279.8","NEW BRAUNFELS 5.5 WNW, TX US","        96","N","        60","N","        17","N"," 138.2"," ,N,1030, ","   1262.6"," ,N"
+"US1TXCML035","2016","29.734","-98.2021","279.8","NEW BRAUNFELS 5.5 WNW, TX US","        76","N","        56","N","        16","N"," 134.9"," ,N,0926, ","   1399.9"," ,N"
+"US1TXCML035","2021","29.734","-98.2021","279.8","NEW BRAUNFELS 5.5 WNW, TX US","        91","N","        53","N","        12","N"," 125.7"," ,N,1014, ","   1089.3"," ,N"
+"US1TXCML035","2022","29.734","-98.2021","279.8","NEW BRAUNFELS 5.5 WNW, TX US","        55","N","        35","N","         4","N","  73.7"," ,N,0203, ","    476.6"," ,N"

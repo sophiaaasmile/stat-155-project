@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00385973","1915","34.85","-83.15","420.6","MOUNTAIN REST, SC US","","","","","","","         1"," ","","","","","",""
+"USC00385973","1916","34.85","-83.15","420.6","MOUNTAIN REST, SC US","       128","6","        95","6","        18","6","","","",""," 126.5"," ,6,0708, ","   1892.2"," ,6"
+"USC00385973","1917","34.85","-83.15","420.6","MOUNTAIN REST, SC US","       103","6","        88","6","        20","6","","","         2"," ","  86.4"," ,6,0220, ","   1563.7"," ,6"

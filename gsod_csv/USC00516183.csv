@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00516183","1973","19.81667","-155.46667","4198.0","MAUNA KEA OBSERVATOR, HI US","        27","0","        12","0","         0","0","","","  10.9"," ,0,0913, ","    137.7"," ,0"
+"USC00516183","1974","19.81667","-155.46667","4198.0","MAUNA KEA OBSERVATOR, HI US","        42","0","        19","0","         0","0","","","  23.6"," ,0,1027, ","    150.1"," ,0"
+"USC00516183","1975","19.81667","-155.46667","4198.0","MAUNA KEA OBSERVATOR, HI US","","","","","","","         1"," ","","","",""
+"USC00516183","1976","19.81667","-155.46667","4198.0","MAUNA KEA OBSERVATOR, HI US","","","","","","","         1"," ","","","",""
+"USC00516183","1981","19.81667","-155.46667","4198.0","MAUNA KEA OBSERVATOR, HI US","","","","","","","","","","","    149.8"," ,0"

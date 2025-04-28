@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00413025","1999","27.48139","-97.79972","25.6","EXXON GAS PLANT, TX US","        23","0","        22","0","         5","0","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","  91.4"," ,0,0929, ","    550.3"," ,0","        0"," ,0"
+"USC00413025","2000","27.48139","-97.79972","25.6","EXXON GAS PLANT, TX US","","","","","","","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","","","","","        0"," ,0"
+"USC00413025","2001","27.48139","-97.79972","25.6","EXXON GAS PLANT, TX US","","","","","","","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","","","","","        0"," ,0"

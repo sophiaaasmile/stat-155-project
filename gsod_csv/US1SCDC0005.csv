@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCDC0005","2009","33.041725","-80.224539","22.9","SUMMERVILLE 3.7 NW, SC US","       126","N","        77","N","        16","N","  93.2"," ,N,0901, ","   1326.5"," ,N"
+"US1SCDC0005","2010","33.041725","-80.224539","22.9","SUMMERVILLE 3.7 NW, SC US","       103","N","        67","N","        13","N","  99.8"," ,N,0927, ","   1281.0"," ,N"
+"US1SCDC0005","2011","33.041725","-80.224539","22.9","SUMMERVILLE 3.7 NW, SC US","        98","N","        68","N","         9","N","  60.5"," ,N,0806, ","    959.1"," ,N"
+"US1SCDC0005","2012","33.041725","-80.224539","22.9","SUMMERVILLE 3.7 NW, SC US","       128","N","        81","N","        14","N","  79.8"," ,N,0530, ","   1199.7"," ,N"

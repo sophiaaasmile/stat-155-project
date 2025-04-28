@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00215819","1969","48.1","-93.08333","411.5","NETT LAKE, MN US","","","","","","","","","         9"," ","         2"," ","","","","","","","",""
+"USC00215819","1970","48.1","-93.08333","411.5","NETT LAKE, MN US","","","","","","","","","         2"," ","","","","","","","","","",""
+"USC00215819","1972","48.1","-93.08333","411.5","NETT LAKE, MN US","","","","","","","","","","","         4"," ","","","","","","","",""
+"USC00215819","1973","48.1","-93.08333","411.5","NETT LAKE, MN US","        69","0","        45","0","         2","0","         7","0","","","         7"," ","    76"," ,0,0415, "," 195.6"," ,0,0901, ","    765.3"," ,0","      361"," ,0"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXHLE010","2022","33.875827","-101.86175","1027.2","ABERNATHY 3.2 NNW, TX US","        54","N","        29","N","         3","N","  47.8"," ,N,0818, ","    383.5"," ,N"
+"US1TXHLE010","2023","33.875827","-101.86175","1027.2","ABERNATHY 3.2 NNW, TX US","        59","N","        34","N","         3","N","  42.7"," ,N,0527, ","    490.9"," ,N"
+"US1TXHLE010","2024","33.875827","-101.86175","1027.2","ABERNATHY 3.2 NNW, TX US","        53","N","        36","N","         5","N","  71.1"," ,N,1118, ","    496.9"," ,N"

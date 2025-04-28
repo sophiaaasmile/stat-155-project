@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WYPK0003","2006","44.7537","-108.7372","1331.1","POWELL 1.1 ESE, WY US","        31","N","        10","N","         0","N","         0","N","    20"," ,N,1222, ","  11.2"," ,N,0509, ","     88.6"," ,N","       59"," ,N"
+"US1WYPK0003","2007","44.7537","-108.7372","1331.1","POWELL 1.1 ESE, WY US","        52","N","        17","N","         0","N","         7","N","   406"," ,N,0331, ","  22.4"," ,N,0607, ","    180.2"," ,N","      689"," ,N"
+"US1WYPK0003","2008","44.7537","-108.7372","1331.1","POWELL 1.1 ESE, WY US","        34","N","        14","N","         0","N","         6","N","   102"," ,N,0118, ","  24.1"," ,N,0523, ","    122.4"," ,N","      349"," ,N"

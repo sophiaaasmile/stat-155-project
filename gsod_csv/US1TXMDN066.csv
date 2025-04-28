@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXMDN066","2019","29.525","-99.1433","335.3","HONDO 11.7 N, TX US","        81","N","        40","N","         2","N","  34.3"," ,N,0503, ","    429.5"," ,N"
+"US1TXMDN066","2020","29.525","-99.1433","335.3","HONDO 11.7 N, TX US","        76","N","        41","N","         6","N","  50.3"," ,N,0525, ","    584.1"," ,N"

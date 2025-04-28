@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00044673","2006","38.57944","-122.25","138.7","LAKE BERRYESSA, CA US","        79","0","        45","0","         6","0","        0","","         0","0","","","     0"," ,0,1231,+","     0"," ,0,1231,+","  43.2"," ,0,0227, ","    650.1"," ,0","        0"," ,0"
+"USC00044673","2007","38.57944","-122.25","138.7","LAKE BERRYESSA, CA US","","","","","","","        0","","         0","0","","","     0"," ,0,1231,+","     0"," ,0,1231,+","","","","","        0"," ,0"
+"USC00044673","2008","38.57944","-122.25","138.7","LAKE BERRYESSA, CA US","","","","","","","","","","","         5"," ","","","","","","","","","",""

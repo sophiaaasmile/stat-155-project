@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SDBK0018","2012","44.28992","-96.78709","493.2","BROOKINGS 1.1 S, SD US","        81","N","        49","N","         5","N","  84.6"," ,N,0506, ","    617.7"," ,N"
+"US1SDBK0018","2013","44.28992","-96.78709","493.2","BROOKINGS 1.1 S, SD US","       114","N","        50","N","         5","N","  49.3"," ,N,0609, ","    630.1"," ,N"
+"US1SDBK0018","2014","44.28992","-96.78709","493.2","BROOKINGS 1.1 S, SD US","       109","N","        55","N","         8","N","  72.6"," ,N,0602, ","    755.9"," ,N"
+"US1SDBK0018","2015","44.28992","-96.78709","493.2","BROOKINGS 1.1 S, SD US","       103","N","        46","N","         4","N","  58.4"," ,N,0819, ","    627.2"," ,N"

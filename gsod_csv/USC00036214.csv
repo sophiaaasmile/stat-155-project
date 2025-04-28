@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00036214","1947","36.28333","-93.66667","369.1","ROCKHOUSE, AR US","","","","","","","","","","","         6"," ","         1"," ","","","","","","","","","",""
+"USC00036214","1948","36.28333","-93.66667","369.1","ROCKHOUSE, AR US","        55","0","        54","0","        18","0","        6","","         6","0","         7"," ","        12"," ","   203"," ,0,0310, ","   216"," ,0,0310, ","  61.0"," ,0,1006, ","   1039.0"," ,0","      439"," ,0"
+"USC00036214","1949","36.28333","-93.66667","369.1","ROCKHOUSE, AR US","","","","","","","","","","","         2"," ","","","","","","","","","","","",""

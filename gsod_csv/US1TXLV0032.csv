@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXLV0032","2020","29.472297","-96.949647","83.5","HALLETTSVILLE 2.0 NNW, TX US","        92","N","        49","N","        10","N","  77.5"," ,N,0922, ","    874.5"," ,N"
+"US1TXLV0032","2021","29.472297","-96.949647","83.5","HALLETTSVILLE 2.0 NNW, TX US","       104","N","        59","N","        11","N"," 174.5"," ,N,0501, ","   1137.6"," ,N"
+"US1TXLV0032","2022","29.472297","-96.949647","83.5","HALLETTSVILLE 2.0 NNW, TX US","        70","N","        48","N","         8","N"," 105.4"," ,N,0201, ","    745.0"," ,N"
+"US1TXLV0032","2023","29.472297","-96.949647","83.5","HALLETTSVILLE 2.0 NNW, TX US","        79","N","        44","N","        11","N","  81.8"," ,N,0510, ","    870.5"," ,N"
+"US1TXLV0032","2024","29.472297","-96.949647","83.5","HALLETTSVILLE 2.0 NNW, TX US","        83","N","        56","N","        12","N","  81.8"," ,N,0124, ","   1069.4"," ,N"

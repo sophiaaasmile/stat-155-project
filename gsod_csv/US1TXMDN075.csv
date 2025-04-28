@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXMDN075","2022","29.317653","-99.343881","313.0","D HANIS 3.9 WSW, TX US","        49","N","        23","N","         3","N","  74.2"," ,N,1017, ","    312.2"," ,N"
+"US1TXMDN075","2023","29.317653","-99.343881","313.0","D HANIS 3.9 WSW, TX US","        56","N","        43","N","         7","N","  54.6"," ,N,1110, ","    593.1"," ,N"
+"US1TXMDN075","2024","29.317653","-99.343881","313.0","D HANIS 3.9 WSW, TX US","        35","N","        31","N","         4","N","  74.9"," ,N,0829, ","    515.2"," ,N"

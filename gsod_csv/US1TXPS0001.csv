@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXPS0001","2017","30.323127","-104.016231","1439.9","MARFA 1.0 NNE, TX US","        39","N","        24","N","         3","N","  38.1"," ,N,1001, ","    320.8"," ,N"
+"US1TXPS0001","2018","30.323127","-104.016231","1439.9","MARFA 1.0 NNE, TX US","        49","N","        27","N","         3","N","  43.2"," ,N,0617, ","    322.5"," ,N"
+"US1TXPS0001","2020","30.323127","-104.016231","1439.9","MARFA 1.0 NNE, TX US","        30","N","        15","N","         1","N","  29.0"," ,N,0706, ","    172.4"," ,N"

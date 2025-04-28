@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1TXEP0003","2006","31.8789","-106.5382","1299.1","EL PASO 6.3 WNW, TX US","","","","","","","         0","N","     0"," ,N,1231,+","","","","","        0"," ,N"
+"US1TXEP0003","2007","31.8789","-106.5382","1299.1","EL PASO 6.3 WNW, TX US","        55","N","        32","N","         0","N","         1","N","   107"," ,N,1125, ","  20.1"," ,N,0803, ","    284.2"," ,N","      120"," ,N"
+"US1TXEP0003","2008","31.8789","-106.5382","1299.1","EL PASO 6.3 WNW, TX US","        40","N","        26","N","         4","N","         0","N","     0"," ,N,1231,+","  80.5"," ,N,0727, ","    405.9"," ,N","        0"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00166132","1953","30.95","-92.4",,"MERIDIAN FIRE TOWER, LA US","","","","","","","","","","","         3"," ","        23"," ","","","","","","","","","",""
+"USC00166132","1954","30.95","-92.4",,"MERIDIAN FIRE TOWER, LA US","        87","0","        60","0","        14","0","        1","","         0","0","","","        79"," ","    25"," ,0,0305, ","    13"," ,0,0305, "," 136.1"," ,0,1013, ","   1294.0"," ,0","       13"," ,0"
+"USC00166132","1955","30.95","-92.4",,"MERIDIAN FIRE TOWER, LA US","","","","","","","","","","","","","        30"," ","","","","","","","","","",""

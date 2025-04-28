@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DYFG","DYFG_ATTRIBUTES","DYHF","DYHF_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES"
+"USW00053975","2022","32.57917","-96.71917","152.7","LANCASTER AIRPORT, TX US","        31"," ","         4"," ","        19"," ","","","",""
+"USW00053975","2023","32.57917","-96.71917","152.7","LANCASTER AIRPORT, TX US","        48"," ","         7"," ","        25"," ","","","",""
+"USW00053975","2024","32.57917","-96.71917","152.7","LANCASTER AIRPORT, TX US","        62"," ","         9"," ","        36"," ","    1132.2","2","    1132.2","W"
+"USW00053975","2025","32.57917","-96.71917","152.7","LANCASTER AIRPORT, TX US","        19"," ","         2"," ","         5"," ","","","",""

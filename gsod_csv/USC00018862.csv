@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00018862","1999","32.44639","-86.14167","53.3","WETUMPKA 8 SE, AL US","","","         0","0","","","","","     0"," ,0,1231,+","        0"," ,0"
+"USC00018862","2000","32.44639","-86.14167","53.3","WETUMPKA 8 SE, AL US","","","         0","0","         1"," ","","","     0"," ,0,1231,+","        0"," ,0"
+"USC00018862","2001","32.44639","-86.14167","53.3","WETUMPKA 8 SE, AL US","","","         0","0","","","","","     0"," ,0,1231,+","        0"," ,0"
+"USC00018862","2002","32.44639","-86.14167","53.3","WETUMPKA 8 SE, AL US","        0","","         0","0","","","     0"," ,0,1231,+","     0"," ,0,1231,+","        0"," ,0"

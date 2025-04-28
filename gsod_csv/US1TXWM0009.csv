@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXWM0009","2008","30.5486","-97.6261","216.1","ROUND ROCK 3.6 ENE, TX US","        72","N","        32","N","         4","N","  95.8"," ,N,0515, ","    506.9"," ,N"
+"US1TXWM0009","2009","30.5486","-97.6261","216.1","ROUND ROCK 3.6 ENE, TX US","       101","N","        53","N","        13","N","  69.1"," ,N,0912, ","    873.2"," ,N"
+"US1TXWM0009","2010","30.5486","-97.6261","216.1","ROUND ROCK 3.6 ENE, TX US","        75","N","        48","N","         3","N"," 133.4"," ,N,0908, ","    766.0"," ,N"
+"US1TXWM0009","2011","30.5486","-97.6261","216.1","ROUND ROCK 3.6 ENE, TX US","        51","N","        27","N","         5","N","  39.9"," ,N,0109, ","    350.8"," ,N"
+"US1TXWM0009","2012","30.5486","-97.6261","216.1","ROUND ROCK 3.6 ENE, TX US","        53","N","        35","N","        11","N","  59.9"," ,N,0320, ","    602.2"," ,N"

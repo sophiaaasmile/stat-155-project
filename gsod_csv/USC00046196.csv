@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00046196","1964","33.58333","-116.43333","1229.0","NIGHTINGALE, CA US","        42","0","        24","0","         3","0","        5","","         5","0","        15"," ","   254"," ,0,1118, ","   330"," ,0,1118, ","  41.1"," ,0,0726, ","    262.5"," ,0","      533"," ,0"
+"USC00046196","1967","33.58333","-116.43333","1229.0","NIGHTINGALE, CA US","        41","0","        26","0","         2","0","","","","","         6"," ","","","","","  25.4"," ,0,1218,+","    322.9"," ,0","",""
+"USC00046196","1968","33.58333","-116.43333","1229.0","NIGHTINGALE, CA US","","","","","","","","","","","         5"," ","","","","","","","","","",""

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXCLD043","2017","29.706758","-97.521426","154.8","LULING 7.8 ENE, TX US","        69","N","        40","N","        14","N"," 192.5"," ,N,0827, ","   1023.5"," ,N"
+"US1TXCLD043","2018","29.706758","-97.521426","154.8","LULING 7.8 ENE, TX US","        91","N","        55","N","         8","N","  59.4"," ,N,1208, ","    834.9"," ,N"
+"US1TXCLD043","2019","29.706758","-97.521426","154.8","LULING 7.8 ENE, TX US","        81","N","        49","N","        11","N","  69.1"," ,N,0408, ","    778.9"," ,N"
+"US1TXCLD043","2020","29.706758","-97.521426","154.8","LULING 7.8 ENE, TX US","        68","N","        43","N","        10","N","  62.0"," ,N,0404, ","    808.4"," ,N"

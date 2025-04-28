@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WAKP0061","2020","47.7387","-122.5557","50.0","SUQUAMISH 1.5 ENE, WA US","       205","N","       108","N","         5","N","  35.6"," ,N,1221, ","   1042.4"," ,N"
+"US1WAKP0061","2022","47.7387","-122.5557","50.0","SUQUAMISH 1.5 ENE, WA US","       198","N","        81","N","        10","N","  68.1"," ,N,0103, ","   1097.7"," ,N"
+"US1WAKP0061","2023","47.7387","-122.5557","50.0","SUQUAMISH 1.5 ENE, WA US","       210","N","        88","N","         6","N","  65.3"," ,N,1205, ","    979.3"," ,N"

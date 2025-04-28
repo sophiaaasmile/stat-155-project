@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00353029","2000","43.3572","-121.0516","1318.6","FORT ROCK, OR US","        43","0","        29","0","         0","0","         4","0","","","    76"," ,0,1212,+","  17.8"," ,0,0214, ","    230.0"," ,0","      241"," ,0"
+"USC00353029","2001","43.3572","-121.0516","1318.6","FORT ROCK, OR US","        36","0","        30","0","         1","0","         5","0","         4"," ","   178"," ,0,1124, ","  30.5"," ,0,0220, ","    209.7"," ,0","      368"," ,0"
+"USC00353029","2004","43.3572","-121.0516","1318.6","FORT ROCK, OR US","","","","","","","         6","0","         1"," ","   127"," ,0,1207, ","","","","","      401"," ,0"

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00147047","2002","38.88139","-98.86583","570.0","RUSSELL 2 S, KS US","","","","","","","         5","0","   216"," ,0,0209, ","","","    441.2"," ,0","      736"," ,0"
+"USC00147047","2003","38.88139","-98.86583","570.0","RUSSELL 2 S, KS US","        55","0","        36","0","         2","0","         4","0","   102"," ,0,1209, ","  49.5"," ,0,0629, ","    388.7"," ,0","      293"," ,0"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTN0176","2021","32.807083","-97.448022","196.6","LAKE WORTH 1.0 WSW, TX US","        78","N","        46","N","        10","N","  75.7"," ,N,0601,+","    832.1"," ,N"
+"US1TXTN0176","2022","32.807083","-97.448022","196.6","LAKE WORTH 1.0 WSW, TX US","        60","N","        33","N","        10","N"," 148.8"," ,N,0822, ","    873.1"," ,N"
+"US1TXTN0176","2024","32.807083","-97.448022","196.6","LAKE WORTH 1.0 WSW, TX US","        72","N","        51","N","         9","N","  69.9"," ,N,0421, ","    879.3"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBRS035","2021","29.4119","-103.6511","973.5","TERLINGUA 6.1 NNW, TX US","        48","N","        19","N","         1","N","  29.5"," ,N,0713, ","    179.0"," ,N"
+"US1TXBRS035","2022","29.4119","-103.6511","973.5","TERLINGUA 6.1 NNW, TX US","        48","N","        23","N","         1","N","  30.0"," ,N,0901, ","    262.5"," ,N"
+"US1TXBRS035","2023","29.4119","-103.6511","973.5","TERLINGUA 6.1 NNW, TX US","        46","N","        23","N","         3","N","  31.2"," ,N,0823, ","    308.5"," ,N"
+"US1TXBRS035","2024","29.4119","-103.6511","973.5","TERLINGUA 6.1 NNW, TX US","        18","N","         4","N","         0","N","  13.5"," ,N,0801, ","     48.7"," ,N"

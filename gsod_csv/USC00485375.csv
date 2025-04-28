@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00485375","1949","43.0","-104.9",,"LANCE CREEK 12 WSW, WY US","        39","0","        30","0","         0","0","        12","0","         2"," ","         3"," ","   183"," ,0,0104, ","  19.8"," ,0,0430, ","    260.5"," ,0","     1142"," ,0"
+"USC00485375","1950","43.0","-104.9",,"LANCE CREEK 12 WSW, WY US","        38","0","        35","0","         3","0","        15","0","","","","","   203"," ,0,0326, ","  36.8"," ,0,0721, ","    346.4"," ,0","     1454"," ,0"
+"USC00485375","1951","43.0","-104.9",,"LANCE CREEK 12 WSW, WY US","","","","","","","","","        10"," ","","","","","","","","","",""

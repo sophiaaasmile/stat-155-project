@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TNLR0013","2009","35.1176","-87.4576","256.0","LORETTO 2.8 NNW, TN US","       158","N","        98","N","        19","N"," 212.3"," ,N,0705, ","   1734.1"," ,N"
+"US1TNLR0013","2010","35.1176","-87.4576","256.0","LORETTO 2.8 NNW, TN US","       104","N","        71","N","        10","N","  85.9"," ,N,0503, ","   1107.7"," ,N"
+"US1TNLR0013","2013","35.1176","-87.4576","256.0","LORETTO 2.8 NNW, TN US","       115","N","        87","N","        18","N","  58.2"," ,N,0412, ","   1420.9"," ,N"

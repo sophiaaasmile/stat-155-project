@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SDLN0012","2022","43.384209","-96.8460972","422.1","LENNOX 3.3 NE, SD US","        77","N","        39","N","         5","N","  33.0"," ,N,0807, ","    446.9"," ,N"
+"US1SDLN0012","2023","43.384209","-96.8460972","422.1","LENNOX 3.3 NE, SD US","        78","N","        49","N","         4","N","  62.2"," ,N,0806, ","    516.5"," ,N"
+"US1SDLN0012","2024","43.384209","-96.8460972","422.1","LENNOX 3.3 NE, SD US","        94","N","        53","N","         8","N"," 154.9"," ,N,0621, ","    844.3"," ,N"

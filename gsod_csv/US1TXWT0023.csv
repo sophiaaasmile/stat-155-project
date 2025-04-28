@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXWT0023","2019","33.888782","-98.467849","299.0","WICHITA FALLS 2.8 ESE, TX US","        73","N","        50","N","         6","N","  68.1"," ,N,0414, ","    640.7"," ,N"
+"US1TXWT0023","2020","33.888782","-98.467849","299.0","WICHITA FALLS 2.8 ESE, TX US","        82","N","        53","N","        12","N","  69.9"," ,N,0728, ","    943.8"," ,N"
+"US1TXWT0023","2021","33.888782","-98.467849","299.0","WICHITA FALLS 2.8 ESE, TX US","        70","N","        52","N","         7","N"," 103.6"," ,N,0428, ","    712.4"," ,N"
+"US1TXWT0023","2022","33.888782","-98.467849","299.0","WICHITA FALLS 2.8 ESE, TX US","        57","N","        34","N","         4","N","  53.1"," ,N,0525, ","    529.4"," ,N"

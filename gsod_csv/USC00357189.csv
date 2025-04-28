@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00357189","1910","44.65","-121.533333","643.1","RIO HERMOSA, OR US","","","","","","","","","","","         1"," ","","","","","","","","","",""
+"USC00357189","1911","44.65","-121.533333","643.1","RIO HERMOSA, OR US","        70","6","        43","6","         0","6","       40","","        11","6","","","   152"," ,6,0111, ","   178"," ,6,0213, ","  23.6"," ,6,0117, ","    357.4"," ,6","      901"," ,6"
+"USC00357189","1913","44.65","-121.533333","643.1","RIO HERMOSA, OR US","        73","6","        50","6","         3","6","","","","","","","","","","","  44.7"," ,6,1013, ","    595.7"," ,6","",""

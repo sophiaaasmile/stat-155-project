@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TNCN0010","2020","35.78546","-86.01898","365.8","WOODBURY 4.0 SE, TN US","       160","N","       108","N","        21","N","  72.4"," ,N,0206, ","   1676.7"," ,N"
+"US1TNCN0010","2022","35.78546","-86.01898","365.8","WOODBURY 4.0 SE, TN US","       119","N","        86","N","        16","N","  78.5"," ,N,0223, ","   1517.3"," ,N"
+"US1TNCN0010","2023","35.78546","-86.01898","365.8","WOODBURY 4.0 SE, TN US","       134","N","        85","N","        11","N","  50.8"," ,N,0508, ","   1223.9"," ,N"
+"US1TNCN0010","2024","35.78546","-86.01898","365.8","WOODBURY 4.0 SE, TN US","       129","N","        83","N","        14","N"," 141.5"," ,N,0509, ","   1387.9"," ,N"

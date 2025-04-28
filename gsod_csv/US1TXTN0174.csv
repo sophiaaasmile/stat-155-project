@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTN0174","2020","32.61989","-97.17067","208.5","ARLINGTON 5.7 SSW, TX US","        87","N","        56","N","        10","N","  88.6"," ,N,0517, ","    905.8"," ,N"
+"US1TXTN0174","2022","32.61989","-97.17067","208.5","ARLINGTON 5.7 SSW, TX US","        69","N","        32","N","        11","N"," 114.8"," ,N,0823, ","    867.7"," ,N"
+"US1TXTN0174","2023","32.61989","-97.17067","208.5","ARLINGTON 5.7 SSW, TX US","        93","N","        52","N","        12","N"," 116.8"," ,N,1026, ","    962.5"," ,N"

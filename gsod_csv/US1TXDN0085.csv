@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXDN0085","2021","33.279907","-97.010085","199.9","AUBREY 2.3 SW, TX US","        85","N","        54","N","        13","N","  70.9"," ,N,0517, ","   1024.6"," ,N"
+"US1TXDN0085","2022","33.279907","-97.010085","199.9","AUBREY 2.3 SW, TX US","        66","N","        34","N","        10","N","  68.1"," ,N,0525, ","    772.3"," ,N"
+"US1TXDN0085","2023","33.279907","-97.010085","199.9","AUBREY 2.3 SW, TX US","        74","N","        46","N","         7","N"," 126.2"," ,N,1026, ","    781.8"," ,N"

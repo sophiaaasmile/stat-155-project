@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00168230","2006","30.12167","-91.15806","4.6","SAMSTOWN, LA US","","","","","        22"," ","        50"," ","","","","","",""
+"USC00168230","2007","30.12167","-91.15806","4.6","SAMSTOWN, LA US","","","","","        19"," ","        50"," ","","","","","",""
+"USC00168230","2008","30.12167","-91.15806","4.6","SAMSTOWN, LA US","        1","","         0","0","         3"," ","         7"," ","    51"," ,0,1211, ","     0"," ,0,1231,+","        0"," ,0"
+"USC00168230","2009","30.12167","-91.15806","4.6","SAMSTOWN, LA US","","","","","         7"," ","        32"," ","","","","","",""

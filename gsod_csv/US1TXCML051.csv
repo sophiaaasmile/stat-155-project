@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXCML051","2017","29.863026","-98.45444","346.6","SPRING BRANCH 2.4 SW, TX US","        63","N","        49","N","         9","N","  87.4"," ,N,0116, ","    830.6"," ,N"
+"US1TXCML051","2019","29.863026","-98.45444","346.6","SPRING BRANCH 2.4 SW, TX US","        59","N","        40","N","         7","N","  57.7"," ,N,0625, ","    641.2"," ,N"
+"US1TXCML051","2020","29.863026","-98.45444","346.6","SPRING BRANCH 2.4 SW, TX US","        78","N","        48","N","        10","N","  57.4"," ,N,0525, ","    707.9"," ,N"

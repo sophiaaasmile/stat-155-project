@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYHF","DYHF_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USW00000176","2022","32.717","-98.892","391.1","STEPHENS CO AIRPORT, TX US","","","","","","","        49"," ","         3"," ","        16"," ","","","",""
+"USW00000176","2023","32.717","-98.892","391.1","STEPHENS CO AIRPORT, TX US","","","","","","","        88"," ","         2"," ","        25"," ","","","",""
+"USW00000176","2024","32.717","-98.892","391.1","STEPHENS CO AIRPORT, TX US","        63","W","        44","W","         7","W","       126"," ","         3"," ","        31"," ","  68.1"," ,W,1108, ","    642.4"," ,W"
+"USW00000176","2025","32.717","-98.892","391.1","STEPHENS CO AIRPORT, TX US","","","","","","","        17"," ","","","         5"," ","","","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXGP0121","2018","29.656021","-97.738176","142.0","KINGSBURY 5.4 E, TX US","       114","N","        60","N","         6","N","  63.8"," ,N,1208, ","    852.2"," ,N"
+"US1TXGP0121","2019","29.656021","-97.738176","142.0","KINGSBURY 5.4 E, TX US","        99","N","        44","N","         7","N","  46.0"," ,N,0504, ","    641.4"," ,N"
+"US1TXGP0121","2020","29.656021","-97.738176","142.0","KINGSBURY 5.4 E, TX US","        88","N","        46","N","         8","N","  78.0"," ,N,0910, ","    791.8"," ,N"

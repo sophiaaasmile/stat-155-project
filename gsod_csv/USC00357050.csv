@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00357050","2008","44.2602","-121.1482","935.7","REDMOND AIR CENTER, OR US","","","","","","","","","","","","","         3"," ","","","","","","","","","",""
+"USC00357050","2009","44.2602","-121.1482","935.7","REDMOND AIR CENTER, OR US","        50","0","        19","0","         1","0","        8","","         5","0","         1"," ","","","    76"," ,0,1231,+","    81"," ,0,0126, ","  27.9"," ,0,1123, ","    182.4"," ,0","      239"," ,0"
+"USC00357050","2010","44.2602","-121.1482","935.7","REDMOND AIR CENTER, OR US","","","","","","","","","         3","0","         3"," ","","","","","   165"," ,0,1220, ","","","","","      330"," ,0"
+"USC00357050","2012","44.2602","-121.1482","935.7","REDMOND AIR CENTER, OR US","","","","","","","","","","","","","","","","","","","","","    206.1"," ,7","",""
+"USC00357050","2021","44.2602","-121.1482","935.7","REDMOND AIR CENTER, OR US","","","","","","","","","","","         2"," ","","","","","","","","","","","",""

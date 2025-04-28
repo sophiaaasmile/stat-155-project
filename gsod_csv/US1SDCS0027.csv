@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SDCS0027","2018","43.802","-102.992","967.4","HERMOSA 10.3 ESE, SD US","        80","N","        50","N","         4","N","  39.9"," ,N,0722, ","    559.2"," ,N"
+"US1SDCS0027","2020","43.802","-102.992","967.4","HERMOSA 10.3 ESE, SD US","        70","N","        31","N","         1","N","  25.4"," ,N,0706, ","    250.8"," ,N"
+"US1SDCS0027","2022","43.802","-102.992","967.4","HERMOSA 10.3 ESE, SD US","        58","N","        27","N","         3","N"," 109.2"," ,N,0826, ","    398.3"," ,N"
+"US1SDCS0027","2023","43.802","-102.992","967.4","HERMOSA 10.3 ESE, SD US","        81","N","        49","N","         8","N","  50.3"," ,N,1013, ","    658.1"," ,N"

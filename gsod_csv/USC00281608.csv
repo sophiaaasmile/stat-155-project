@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00281608","1974","39.9","-75.01667","12.2","CHERRY HILL, NJ US","","","","","","","","","         4"," ","","","",""
+"USC00281608","1976","39.9","-75.01667","12.2","CHERRY HILL, NJ US","        78","0","        48","0","         9","0","","","","","  50.8"," ,0,1001,+","    909.5"," ,0"
+"USC00281608","1999","39.9","-75.01667","12.2","CHERRY HILL, NJ US","","","","","","","         2"," ","","","","","",""
+"USC00281608","2000","39.9","-75.01667","12.2","CHERRY HILL, NJ US","","","","","","","         1"," ","         3"," ","","","",""

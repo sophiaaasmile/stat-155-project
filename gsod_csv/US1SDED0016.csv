@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SDED0016","2022","45.514246","-99.244115","553.2","ROSCOE 6.2 NE, SD US","        55","N","        34","N","         7","N"," 112.3"," ,N,0704, ","    571.9"," ,N"
+"US1SDED0016","2023","45.514246","-99.244115","553.2","ROSCOE 6.2 NE, SD US","        58","N","        40","N","         5","N","  50.8"," ,N,0704, ","    503.8"," ,N"
+"US1SDED0016","2024","45.514246","-99.244115","553.2","ROSCOE 6.2 NE, SD US","        65","N","        34","N","         1","N","  25.7"," ,N,0815, ","    313.1"," ,N"

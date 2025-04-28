@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TNDV0061","2014","36.15948","-86.85135","132.9","BELLE MEADE 4.2 N, TN US","       123","N","        85","N","        13","N","  93.0"," ,N,0429, ","   1347.9"," ,N"
+"US1TNDV0061","2015","36.15948","-86.85135","132.9","BELLE MEADE 4.2 N, TN US","       128","N","        92","N","        15","N","  50.5"," ,N,0414, ","   1394.5"," ,N"
+"US1TNDV0061","2016","36.15948","-86.85135","132.9","BELLE MEADE 4.2 N, TN US","       114","N","        78","N","        10","N","  51.6"," ,N,0707, ","   1152.1"," ,N"

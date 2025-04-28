@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00385305","2008","34.1337","-78.9039","29.6","LORIS 6 NNW, SC US","","","","","","","","","","","        22"," ","         7"," ","","","","","","","","","",""
+"USC00385305","2009","34.1337","-78.9039","29.6","LORIS 6 NNW, SC US","       113","0","        83","0","        16","0","        0","","         0","0","        47"," ","         1"," ","     0"," ,0,1231,+","     0"," ,0,1231,+","  93.0"," ,0,1111, ","   1249.3"," ,0","        8"," ,0"
+"USC00385305","2010","34.1337","-78.9039","29.6","LORIS 6 NNW, SC US","","","","","","","","","","","         2"," ","         2"," ","","","","","","","","","",""

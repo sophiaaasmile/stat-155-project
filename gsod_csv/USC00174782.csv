@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00174782","2016","43.6805","-70.1606","5.2","LONG ISLAND, ME US","","","        30"," ","         9"," ","","","","","",""
+"USC00174782","2017","43.6805","-70.1606","5.2","LONG ISLAND, ME US","        18","7","        54"," ","         7"," ","   381"," ,7,0315, ","   1236.2"," ,7","     2274"," ,7"
+"USC00174782","2018","43.6805","-70.1606","5.2","LONG ISLAND, ME US","","","        35"," ","        10"," ","","","","","",""
+"USC00174782","2019","43.6805","-70.1606","5.2","LONG ISLAND, ME US","","","        23"," ","         4"," ","","","","","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00201768","2008","45.9248","-86.4435","225.6","COOKS 2 NE, MI US","","","         6"," ","         1"," ","","","","","",""
+"USC00201768","2009","45.9248","-86.4435","225.6","COOKS 2 NE, MI US","        27","0","","","","","   241"," ,0,1209, ","","","     2326"," ,0"
+"USC00201768","2016","45.9248","-86.4435","225.6","COOKS 2 NE, MI US","","","","","","","","","   1003.5"," ,7","",""

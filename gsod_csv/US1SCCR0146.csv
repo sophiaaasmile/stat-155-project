@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCCR0146","2021","32.898333","-79.753611","4.0","MOUNT PLEASANT 8.2 NE, SC US","       155","N","        80","N","        18","N","  71.9"," ,N,0708, ","   1256.9"," ,N"
+"US1SCCR0146","2022","32.898333","-79.753611","4.0","MOUNT PLEASANT 8.2 NE, SC US","       146","N","        79","N","        16","N","  84.1"," ,N,0702, ","   1321.6"," ,N"
+"US1SCCR0146","2023","32.898333","-79.753611","4.0","MOUNT PLEASANT 8.2 NE, SC US","       159","N","        88","N","        20","N"," 134.1"," ,N,1218, ","   1661.9"," ,N"
+"US1SCCR0146","2024","32.898333","-79.753611","4.0","MOUNT PLEASANT 8.2 NE, SC US","       133","N","        73","N","        22","N"," 166.1"," ,N,0806, ","   1699.5"," ,N"

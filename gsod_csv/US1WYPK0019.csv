@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WYPK0019","2010","44.743588","-108.783788","1352.4","POWELL 1.5 SW, WY US","        40","N","        19","N","         0","N","  16.0"," ,N,0722, ","    134.4"," ,N"
+"US1WYPK0019","2011","44.743588","-108.783788","1352.4","POWELL 1.5 SW, WY US","        60","N","        22","N","         0","N","  20.8"," ,N,0525, ","    163.6"," ,N"
+"US1WYPK0019","2012","44.743588","-108.783788","1352.4","POWELL 1.5 SW, WY US","        24","N","         7","N","         0","N","   6.4"," ,N,0603, ","     53.2"," ,N"

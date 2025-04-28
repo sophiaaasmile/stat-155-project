@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00291086","1909","35.3","-108.11667","2257.0","BLUEWATER LAKE, NM US","        23","6","        21","6","         1","6","","","         6","6","","","","","   305"," ,6,0310, ","  25.4"," ,6,0704, ","    220.0"," ,6","      686"," ,6"
+"USC00291086","1944","35.3","-108.11667","2257.0","BLUEWATER LAKE, NM US","","","","","","","","","","","         1"," ","","","","","","","","","",""
+"USC00291086","1948","35.3","-108.11667","2257.0","BLUEWATER LAKE, NM US","        54","0","        40","0","         2","0","       46","","        19","0","","","   330"," ,0,0226, ","   267"," ,0,0224, ","  39.4"," ,0,0601, ","    353.6"," ,0","     1701"," ,0"
+"USC00291086","1949","35.3","-108.11667","2257.0","BLUEWATER LAKE, NM US","","","","","","","","","","","         3"," ","","","","","","","","","",""

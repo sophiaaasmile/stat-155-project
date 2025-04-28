@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCRC0127","2022","34.02805","-81.0495","86.9","COLUMBIA 2.1 NNW, SC US","        90","N","        85","N","        22","N"," 140.0"," ,N,0705, ","   1987.9"," ,N"
+"US1SCRC0127","2023","34.02805","-81.0495","86.9","COLUMBIA 2.1 NNW, SC US","        74","N","        66","N","        21","N"," 100.1"," ,N,0212, ","   2097.3"," ,N"
+"US1SCRC0127","2024","34.02805","-81.0495","86.9","COLUMBIA 2.1 NNW, SC US","        78","N","        73","N","        23","N"," 273.3"," ,N,0927, ","   2280.2"," ,N"

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00395569","1952","44.75","-98.98333","445.0","MILLER 16 N, SD US","        39","0","        33","0","         1","0","         6","0","        12"," ","        26"," ","   305"," ,0,0219, ","  26.7"," ,0,0623, ","    344.8"," ,0","      698"," ,0"
+"USC00395569","1953","44.75","-98.98333","445.0","MILLER 16 N, SD US","","","","","","","","","         6"," ","","","","","","","","","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBND008","2011","29.745292","-98.98037","396.5","PIPE CREEK 3.0 NW, TX US","        54","N","        28","N","         1","N","  40.6"," ,N,1009, ","    329.3"," ,N"
+"US1TXBND008","2012","29.745292","-98.98037","396.5","PIPE CREEK 3.0 NW, TX US","        92","N","        38","N","        12","N","  66.3"," ,N,0320, ","    748.1"," ,N"
+"US1TXBND008","2013","29.745292","-98.98037","396.5","PIPE CREEK 3.0 NW, TX US","        98","N","        40","N","         5","N","  63.2"," ,N,0109, ","    520.3"," ,N"

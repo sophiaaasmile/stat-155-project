@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WAPR0054","2020","47.3245","-122.6224","83.5","GIG HARBOR 1.6 W, WA US","       185","N","        97","N","         8","N","  42.2"," ,N,0201, ","   1210.8"," ,N"
+"US1WAPR0054","2021","47.3245","-122.6224","83.5","GIG HARBOR 1.6 W, WA US","       163","N","       112","N","        11","N","  69.3"," ,N,0112, ","   1467.3"," ,N"
+"US1WAPR0054","2023","47.3245","-122.6224","83.5","GIG HARBOR 1.6 W, WA US","","","","","","","","","   1054.9"," ,N"
+"US1WAPR0054","2024","47.3245","-122.6224","83.5","GIG HARBOR 1.6 W, WA US","       171","N","       100","N","         5","N","  39.9"," ,N,1218, ","   1072.2"," ,N"

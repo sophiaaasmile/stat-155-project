@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00316185","1956","35.5","-83.5","769.0","NOLAND CREEK, NC US","        87","0","        69","0","        17","0","  53.3"," ,0,0203, ","   1397.7"," ,0"
+"USC00316185","1957","35.5","-83.5","769.0","NOLAND CREEK, NC US","       100","0","        83","0","        14","0","  88.9"," ,0,0201, ","   1797.2"," ,0"
+"USC00316185","1958","35.5","-83.5","769.0","NOLAND CREEK, NC US","","","","","","","","","   1174.8"," ,0"

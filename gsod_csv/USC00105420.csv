@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00105420","1961","44.08333","-115.56667","1179.9","LOWMAN 3 E, ID US","","","","","","","         3"," ","         1"," ","","","",""
+"USC00105420","1962","44.08333","-115.56667","1179.9","LOWMAN 3 E, ID US","        93","0","        71","0","         3","0","         3"," ","         3"," ","  43.4"," ,0,1121, ","    730.8"," ,0"
+"USC00105420","1963","44.08333","-115.56667","1179.9","LOWMAN 3 E, ID US","","","","","","","         6"," ","         7"," ","","","",""

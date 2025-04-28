@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SDSP0001","2017","44.676885","-98.534583","402.9","TULARE 4.5 SSW, SD US","        73","N","        35","N","         3","N","  46.5"," ,N,0924, ","    400.6"," ,N"
+"US1SDSP0001","2019","44.676885","-98.534583","402.9","TULARE 4.5 SSW, SD US","       113","N","        61","N","         8","N","  90.2"," ,N,0803, ","    868.5"," ,N"
+"US1SDSP0001","2020","44.676885","-98.534583","402.9","TULARE 4.5 SSW, SD US","        70","N","        38","N","         3","N","  90.7"," ,N,0618, ","    480.1"," ,N"

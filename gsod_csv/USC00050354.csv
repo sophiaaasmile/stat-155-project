@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"USC00050354","1949","40.23333","-108.96667","1805.9","DINOSAUR NATIONAL MONUMENT, CO US","        92","0","        40","0","         0","0","","","","","","","","","  20.6"," ,0,1008, ","","","    319.4"," ,0","",""
+"USC00050354","1951","40.23333","-108.96667","1805.9","DINOSAUR NATIONAL MONUMENT, CO US","","","","","","","","","","","","","         1"," ","","","","","","","",""
+"USC00050354","1963","40.23333","-108.96667","1805.9","DINOSAUR NATIONAL MONUMENT, CO US","","","","","","","","","","","","","        15"," ","","","","","","","",""
+"USC00050354","1964","40.23333","-108.96667","1805.9","DINOSAUR NATIONAL MONUMENT, CO US","        69","0","        30","0","         0","0","        58","0","       147","0","        34","0","         2"," ","  13.2"," ,0,1113, ","   35.6","0,0720, ","    214.8"," ,0","     15.10","0"
+"USC00050354","1965","40.23333","-108.96667","1805.9","DINOSAUR NATIONAL MONUMENT, CO US","","","","","","","","","","","","","         2"," ","","","","","","","",""

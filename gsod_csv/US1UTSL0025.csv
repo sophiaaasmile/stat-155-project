@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1UTSL0025","2015","40.591254","-111.790283","1594.1","COTTONWOOD HEIGHTS 1.6 SE, UT US","        95","N","        47","N","         3","N","  31.2"," ,N,0113, ","    594.7"," ,N"
+"US1UTSL0025","2019","40.591254","-111.790283","1594.1","COTTONWOOD HEIGHTS 1.6 SE, UT US","       129","N","        76","N","         4","N","  33.3"," ,N,0410, ","    823.0"," ,N"
+"US1UTSL0025","2020","40.591254","-111.790283","1594.1","COTTONWOOD HEIGHTS 1.6 SE, UT US","        78","N","        35","N","         0","N","  23.4"," ,N,0608, ","    328.3"," ,N"
+"US1UTSL0025","2021","40.591254","-111.790283","1594.1","COTTONWOOD HEIGHTS 1.6 SE, UT US","        98","N","        51","N","         7","N","  43.7"," ,N,1026, ","    636.3"," ,N"
+"US1UTSL0025","2022","40.591254","-111.790283","1594.1","COTTONWOOD HEIGHTS 1.6 SE, UT US","        94","N","        47","N","         2","N","  32.5"," ,N,1023, ","    521.2"," ,N"
+"US1UTSL0025","2023","40.591254","-111.790283","1594.1","COTTONWOOD HEIGHTS 1.6 SE, UT US","       126","N","        61","N","         4","N","  30.0"," ,N,0222, ","    681.6"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WYLM0213","2020","41.1409","-104.7851","1854.1","CHEYENNE 0.5 SE, WY US","        69","N","        29","N","         0","N","","","","","  21.1"," ,N,0609, ","    210.9"," ,N","",""
+"US1WYLM0213","2021","41.1409","-104.7851","1854.1","CHEYENNE 0.5 SE, WY US","        68","N","        28","N","         2","N","","","","","  38.1"," ,N,0428, ","    290.4"," ,N","",""
+"US1WYLM0213","2022","41.1409","-104.7851","1854.1","CHEYENNE 0.5 SE, WY US","        78","N","        31","N","         0","N","        14","N","   178"," ,N,0106, ","  13.0"," ,N,0922, ","    216.2"," ,N","     1214"," ,N"
+"US1WYLM0213","2023","41.1409","-104.7851","1854.1","CHEYENNE 0.5 SE, WY US","        96","N","        56","N","         1","N","","","","","  29.5"," ,N,0802, ","    508.2"," ,N","",""

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXDA0050","2017","32.599609","-96.953694","246.0","CEDAR HILL 1.4 N, TX US","        73","N","        50","N","         8","N","  62.7"," ,N,0603, ","    769.0"," ,N"
+"US1TXDA0050","2018","32.599609","-96.953694","246.0","CEDAR HILL 1.4 N, TX US","        84","N","        51","N","        14","N"," 200.7"," ,N,0922, ","   1426.4"," ,N"
+"US1TXDA0050","2020","32.599609","-96.953694","246.0","CEDAR HILL 1.4 N, TX US","        90","N","        61","N","        13","N"," 113.3"," ,N,0517, ","   1232.9"," ,N"
+"US1TXDA0050","2022","32.599609","-96.953694","246.0","CEDAR HILL 1.4 N, TX US","        59","N","        29","N","         9","N"," 168.9"," ,N,0823, ","    960.3"," ,N"

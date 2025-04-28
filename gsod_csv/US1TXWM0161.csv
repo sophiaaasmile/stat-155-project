@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXWM0161","2016","30.5369","-97.4078","184.1","TAYLOR 2.4 S, TX US","","","","","","","","","   1161.6"," ,N"
+"US1TXWM0161","2017","30.5369","-97.4078","184.1","TAYLOR 2.4 S, TX US","        91","N","        42","N","        12","N"," 116.1"," ,N,0827, ","   1056.4"," ,N"
+"US1TXWM0161","2020","30.5369","-97.4078","184.1","TAYLOR 2.4 S, TX US","       100","N","        57","N","         5","N","  83.6"," ,N,1231, ","    701.7"," ,N"
+"US1TXWM0161","2022","30.5369","-97.4078","184.1","TAYLOR 2.4 S, TX US","        71","N","        35","N","         6","N","  63.8"," ,N,0201, ","    668.5"," ,N"

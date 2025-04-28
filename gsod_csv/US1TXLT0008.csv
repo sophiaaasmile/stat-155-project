@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXLT0008","2018","31.31744","-96.562315","146.0","KOSSE 4.0 E, TX US","        98","N","        58","N","        18","N","  85.1"," ,N,0328, ","   1210.2"," ,N"
+"US1TXLT0008","2019","31.31744","-96.562315","146.0","KOSSE 4.0 E, TX US","       113","N","        49","N","        15","N","  88.1"," ,N,0425, ","   1031.8"," ,N"
+"US1TXLT0008","2020","31.31744","-96.562315","146.0","KOSSE 4.0 E, TX US","       107","N","        58","N","        15","N"," 108.7"," ,N,0902, ","   1195.3"," ,N"

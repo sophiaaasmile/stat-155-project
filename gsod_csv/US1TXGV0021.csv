@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXGV0021","2010","29.494111","-95.11884","7.6","LEAGUE CITY 0.9 NW, TX US","       106","N","        63","N","        15","N"," 100.3"," ,N,1102, ","   1257.6"," ,N"
+"US1TXGV0021","2011","29.494111","-95.11884","7.6","LEAGUE CITY 0.9 NW, TX US","        77","N","        40","N","         9","N","  97.3"," ,N,1010, ","    744.2"," ,N"
+"US1TXGV0021","2012","29.494111","-95.11884","7.6","LEAGUE CITY 0.9 NW, TX US","       109","N","        63","N","        15","N"," 163.3"," ,N,0512, ","   1402.1"," ,N"
+"US1TXGV0021","2013","29.494111","-95.11884","7.6","LEAGUE CITY 0.9 NW, TX US","       125","N","        71","N","        15","N"," 111.5"," ,N,1101, ","   1252.0"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00047962","1975","36.31667","-120.58333","1311.9","SANTA RITA PEAK, CA US","        31","0","        24","0","         4","0","        5","","","","   152"," ,0,0201, ","  45.7"," ,0,1011, ","    429.5"," ,0"
+"USC00047962","1976","36.31667","-120.58333","1311.9","SANTA RITA PEAK, CA US","","","","","","","","","         5"," ","","","","","",""
+"USC00047962","1977","36.31667","-120.58333","1311.9","SANTA RITA PEAK, CA US","","","","","","","","","         5"," ","","","","","",""

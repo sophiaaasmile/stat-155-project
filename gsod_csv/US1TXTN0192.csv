@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTN0192","2022","32.959736","-97.235818","211.2","KELLER 2.1 NNW, TX US","        83","N","        39","N","        10","N","  58.7"," ,N,0823, ","    772.2"," ,N"
+"US1TXTN0192","2023","32.959736","-97.235818","211.2","KELLER 2.1 NNW, TX US","       103","N","        52","N","         6","N"," 147.8"," ,N,1026, ","    866.7"," ,N"
+"US1TXTN0192","2024","32.959736","-97.235818","211.2","KELLER 2.1 NNW, TX US","        96","N","        61","N","        13","N","  90.2"," ,N,0505, ","   1117.3"," ,N"

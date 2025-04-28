@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSNW","DSNW_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00250138","2007","42.15389","-103.20833","1300.3","ALLIANCE 19 WNW, NE US","         2","0","","","    76"," ,0,0121, ","","","","","      116"," ,0"
+"USC00250138","2009","42.15389","-103.20833","1300.3","ALLIANCE 19 WNW, NE US","","","         1"," ","","","","","","","",""
+"USC00250138","2010","42.15389","-103.20833","1300.3","ALLIANCE 19 WNW, NE US","","","         1"," ","","","","","","","",""
+"USC00250138","2011","42.15389","-103.20833","1300.3","ALLIANCE 19 WNW, NE US","","","         1"," ","","","    4012.2","2","    4012.2"," ","",""

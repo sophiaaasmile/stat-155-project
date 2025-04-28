@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXMLM037","2021","30.962535","-97.042889","116.4","BURLINGTON 4.6 SW, TX US","       100","N","        59","N","        17","N","  77.2"," ,N,1218, ","   1090.8"," ,N"
+"US1TXMLM037","2022","30.962535","-97.042889","116.4","BURLINGTON 4.6 SW, TX US","        68","N","        40","N","        11","N","  77.0"," ,N,0203, ","    720.2"," ,N"
+"US1TXMLM037","2023","30.962535","-97.042889","116.4","BURLINGTON 4.6 SW, TX US","        68","N","        40","N","        14","N","  69.1"," ,N,1110, ","    884.0"," ,N"
+"US1TXMLM037","2024","30.962535","-97.042889","116.4","BURLINGTON 4.6 SW, TX US","        78","N","        55","N","        14","N","  66.8"," ,N,0523, ","    971.0"," ,N"

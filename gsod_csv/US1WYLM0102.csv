@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WYLM0102","2014","41.59292","-104.83386","1729.7","CHEYENNE 31.0 N, WY US","        73","N","        42","N","         2","N","  30.7"," ,N,0930, ","    453.5"," ,N"
+"US1WYLM0102","2023","41.59292","-104.83386","1729.7","CHEYENNE 31.0 N, WY US","        88","N","        56","N","         6","N","  55.4"," ,N,0630, ","    617.3"," ,N"
+"US1WYLM0102","2024","41.59292","-104.83386","1729.7","CHEYENNE 31.0 N, WY US","        65","N","        31","N","         2","N","  35.3"," ,N,0719, ","    292.2"," ,N"

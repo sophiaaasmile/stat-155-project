@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TNDY0001","2008","36.038085","-89.203204","85.0","NEWBERN 6.5 SE, TN US","        94","N","        69","N","        19","N","  88.6"," ,N,0304, ","   1362.7"," ,N"
+"US1TNDY0001","2017","36.038085","-89.203204","85.0","NEWBERN 6.5 SE, TN US","       102","N","        81","N","        19","N","  56.6"," ,N,0901, ","   1474.6"," ,N"
+"US1TNDY0001","2018","36.038085","-89.203204","85.0","NEWBERN 6.5 SE, TN US","       124","N","        88","N","        22","N","  84.6"," ,N,0521, ","   1618.4"," ,N"
+"US1TNDY0001","2019","36.038085","-89.203204","85.0","NEWBERN 6.5 SE, TN US","","","","","","","","","   1753.7"," ,N"

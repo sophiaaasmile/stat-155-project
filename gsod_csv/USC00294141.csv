@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00294141","1945","35.73333","-107.75","2385.1","HOSPAH, NM US","        44","6","        36","6","         1","6","","","","","  27.9"," ,6,0831, ","    290.6"," ,6"
+"USC00294141","1947","35.73333","-107.75","2385.1","HOSPAH, NM US","","","","","","","         2"," ","         8"," ","","","",""
+"USC00294141","1948","35.73333","-107.75","2385.1","HOSPAH, NM US","","","","","","","","","         2"," ","","","",""

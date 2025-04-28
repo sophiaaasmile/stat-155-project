@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WYNB0004","2005","42.7533","-104.4512","1528.9","LUSK 0.6 S, WY US","        50","N","        25","N","         1","N","         8","N","   127"," ,N,0421, ","  43.2"," ,N,0531, ","    274.1"," ,N","      421"," ,N"
+"US1WYNB0004","2006","42.7533","-104.4512","1528.9","LUSK 0.6 S, WY US","","","","","","","        12","N","   152"," ,N,0313, ","","","","","      848"," ,N"
+"US1WYNB0004","2023","42.7533","-104.4512","1528.9","LUSK 0.6 S, WY US","","","","","","","","","","","","","    690.4"," ,N","",""
+"US1WYNB0004","2024","42.7533","-104.4512","1528.9","LUSK 0.6 S, WY US","","","","","","","","","","","","","    260.1"," ,N","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00258070","1958","40.61667","-96.71667","402.9","SPRAGUE 1 ESE, NE US","        80","0","        55","0","         7","0","","","  61.7"," ,0,0710, ","    728.2"," ,0"
+"USC00258070","1959","40.61667","-96.71667","402.9","SPRAGUE 1 ESE, NE US","        86","0","        57","0","         8","0","","","  50.8"," ,0,0618, ","    811.7"," ,0"
+"USC00258070","1960","40.61667","-96.71667","402.9","SPRAGUE 1 ESE, NE US","       101","0","        66","0","         7","0","         6"," ","  50.8"," ,0,0712, ","    824.8"," ,0"

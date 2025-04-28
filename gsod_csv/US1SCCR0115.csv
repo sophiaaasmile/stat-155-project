@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCCR0115","2018","32.54564","-80.2435","3.0","EDISTO ISLAND 3.6 E, SC US","       105","N","        71","N","        16","N","  96.5"," ,N,1214, ","   1257.3"," ,N"
+"US1SCCR0115","2019","32.54564","-80.2435","3.0","EDISTO ISLAND 3.6 E, SC US","        83","N","        61","N","        14","N"," 163.3"," ,N,0905, ","   1331.0"," ,N"
+"US1SCCR0115","2021","32.54564","-80.2435","3.0","EDISTO ISLAND 3.6 E, SC US","        85","N","        62","N","        12","N","  79.0"," ,N,0910, ","   1081.6"," ,N"
+"US1SCCR0115","2022","32.54564","-80.2435","3.0","EDISTO ISLAND 3.6 E, SC US","        84","N","        63","N","        15","N"," 139.4"," ,N,0910, ","   1317.6"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WALN0010","2011","47.7130285","-118.9411614","583.4","ALMIRA 0.2 NNW, WA US","        86","N","        30","N","         0","N","         6","N","    76"," ,N,0224,+","  15.7"," ,N,0516, ","    249.6"," ,N","      388"," ,N"
+"US1WALN0010","2013","47.7130285","-118.9411614","583.4","ALMIRA 0.2 NNW, WA US","        76","N","        24","N","         0","N","         2","N","   114"," ,N,0107, ","  11.4"," ,N,0620, ","    183.0"," ,N","      181"," ,N"
+"US1WALN0010","2014","47.7130285","-118.9411614","583.4","ALMIRA 0.2 NNW, WA US","","","","","","","","","","","","","    280.2"," ,N","",""
+"US1WALN0010","2020","47.7130285","-118.9411614","583.4","ALMIRA 0.2 NNW, WA US","        84","N","        36","N","         0","N","","","","","  13.5"," ,N,0614, ","    295.5"," ,N","",""

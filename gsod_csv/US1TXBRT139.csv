@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBRT139","2022","30.93478","-98.29661","474.0","LAMPASAS 11.2 SW, TX US","        74","N","        30","N","         6","N","  73.9"," ,N,0628, ","    551.6"," ,N"
+"US1TXBRT139","2023","30.93478","-98.29661","474.0","LAMPASAS 11.2 SW, TX US","        86","N","        38","N","         5","N","  50.8"," ,N,0524, ","    555.2"," ,N"
+"US1TXBRT139","2024","30.93478","-98.29661","474.0","LAMPASAS 11.2 SW, TX US","        89","N","        47","N","        10","N","  50.0"," ,N,0517, ","    731.3"," ,N"

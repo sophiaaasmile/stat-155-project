@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00258225","1951","40.61667","-100.35","762.9","STOCKVILLE 6 NNE, NE US","","","","","","","","","        17"," ","        49"," ","","","","","","","",""
+"USC00258225","1952","40.61667","-100.35","762.9","STOCKVILLE 6 NNE, NE US","","","","","","","","","         4"," ","","","","","","","","","",""
+"USC00258225","1953","40.61667","-100.35","762.9","STOCKVILLE 6 NNE, NE US","        54","0","        43","0","         0","0","        11","0","         1"," ","         1"," ","   127"," ,0,1204,+","  24.1"," ,0,0528, ","    422.3"," ,0","      851"," ,0"
+"USC00258225","1954","40.61667","-100.35","762.9","STOCKVILLE 6 NNE, NE US","","","","","","","","","         2"," ","         3"," ","","","","","","","",""

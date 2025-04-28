@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00307748","1922","43.7","-73.516667","106.7","SILVER BAY, NY US","","","","","","","","","         2"," ","","","",""
+"USC00307748","1924","43.7","-73.516667","106.7","SILVER BAY, NY US","        98","6","        61","6","        13","6","","","","","  74.4"," ,6,0408, ","    948.5"," ,6"
+"USC00307748","1926","43.7","-73.516667","106.7","SILVER BAY, NY US","","","","","","","         1"," ","","","","","",""
+"USC00307748","1927","43.7","-73.516667","106.7","SILVER BAY, NY US","","","","","","","         1"," ","","","","","",""

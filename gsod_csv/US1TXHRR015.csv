@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXHRR015","2017","30.00218","-95.196038","21.6","KINGWOOD 3.9 S, TX US","        96","N","        73","N","        18","N"," 341.4"," ,N,0828, ","   2028.2"," ,N"
+"US1TXHRR015","2018","30.00218","-95.196038","21.6","KINGWOOD 3.9 S, TX US","       118","N","        72","N","        12","N"," 131.1"," ,N,0705, ","   1426.1"," ,N"
+"US1TXHRR015","2020","30.00218","-95.196038","21.6","KINGWOOD 3.9 S, TX US","       108","N","        75","N","        15","N","  83.3"," ,N,0923, ","   1268.6"," ,N"

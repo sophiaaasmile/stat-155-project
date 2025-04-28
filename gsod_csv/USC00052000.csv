@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00052000","1981","37.38333","-103.88333","1563.9","CROWDER RANCH, CO US","        55","0","        37","0","         2","0","         9","0","","","        11"," ","   127"," ,0,1222, ","  39.4"," ,0,0807, ","    423.0"," ,0","      531"," ,0"
+"USC00052000","1982","37.38333","-103.88333","1563.9","CROWDER RANCH, CO US","","","","","","","","","         2"," ","         2"," ","","","","","","","",""

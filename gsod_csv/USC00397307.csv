@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00397307","1949","45.5","-97.5","561.1","ROSLYN, SD US","        76","0","        32","0","         2","0","","","","","  71.1"," ,0,0708, ","    449.0"," ,0"
+"USC00397307","1951","45.5","-97.5","561.1","ROSLYN, SD US","","","","","","","        23"," ","        16"," ","","","",""
+"USC00397307","1952","45.5","-97.5","561.1","ROSLYN, SD US","","","","","","","        19"," ","","","","","",""

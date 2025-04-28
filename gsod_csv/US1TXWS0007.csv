@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXWS0007","2022","33.112191","-97.590808","211.8","DECATUR 8.4 S, TX US","        61","N","        34","N","        11","N","  71.4"," ,N,0525, ","    739.2"," ,N"
+"US1TXWS0007","2023","33.112191","-97.590808","211.8","DECATUR 8.4 S, TX US","        82","N","        43","N","         4","N","  67.1"," ,N,1026, ","    650.0"," ,N"
+"US1TXWS0007","2024","33.112191","-97.590808","211.8","DECATUR 8.4 S, TX US","        80","N","        54","N","        13","N","  66.0"," ,N,1108, ","   1030.5"," ,N"

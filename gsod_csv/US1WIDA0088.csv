@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WIDA0088","2021","43.0929","-89.72889","265.8","BLACK EARTH 3.1 SSE, WI US","        91","N","        57","N","         5","N","  46.7"," ,N,0618, ","    684.9"," ,N"
+"US1WIDA0088","2022","43.0929","-89.72889","265.8","BLACK EARTH 3.1 SSE, WI US","       121","N","        66","N","         9","N","  42.9"," ,N,1105, ","    927.9"," ,N"
+"US1WIDA0088","2023","43.0929","-89.72889","265.8","BLACK EARTH 3.1 SSE, WI US","       127","N","        75","N","         8","N","  67.3"," ,N,0729, ","    888.1"," ,N"
+"US1WIDA0088","2024","43.0929","-89.72889","265.8","BLACK EARTH 3.1 SSE, WI US","       117","N","        77","N","        21","N","  82.8"," ,N,1031, ","   1367.5"," ,N"

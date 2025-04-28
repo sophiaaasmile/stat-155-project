@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1VTES0001","2019","44.5833","-71.7787","430.7","GRANBY 1.4 NW, VT US","       146","N","       102","N","        10","N","","","","","  45.5"," ,N,1007, ","   1104.3"," ,N","",""
+"US1VTES0001","2020","44.5833","-71.7787","430.7","GRANBY 1.4 NW, VT US","       148","N","        72","N","         4","N","","","","","  44.5"," ,N,0111, ","    813.9"," ,N","",""
+"US1VTES0001","2021","44.5833","-71.7787","430.7","GRANBY 1.4 NW, VT US","","","","","","","        37","N","   191"," ,N,1219, ","","","","","     2120"," ,N"

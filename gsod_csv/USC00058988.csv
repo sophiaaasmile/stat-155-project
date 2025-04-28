@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00058988","1950","38.13333","-105.2","2377.4","WETMORE 8 SW, CO US","        51","0","        24","0","         4","0","        11","0","   152"," ,0,0416, ","  66.5"," ,0,0710, ","    359.4"," ,0","      770"," ,0"
+"USC00058988","1951","38.13333","-105.2","2377.4","WETMORE 8 SW, CO US","        43","0","        37","0","         3","0","        15","0","   356"," ,0,1105, ","  29.7"," ,0,0405, ","    465.6"," ,0","     2489"," ,0"
+"USC00058988","1952","38.13333","-105.2","2377.4","WETMORE 8 SW, CO US","        48","0","        36","0","         2","0","","","","","  69.9"," ,0,0421, ","    490.3"," ,0","",""

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00048472","1944","40.88333","-122.1","396.8","SQUAW CREEK GS, CA US","","","","","","","","","         1"," ","","","","","","","",""
+"USC00048472","1945","40.88333","-122.1","396.8","SQUAW CREEK GS, CA US","","","","","","","","","         2"," ","","","","","","","",""
+"USC00048472","1946","40.88333","-122.1","396.8","SQUAW CREEK GS, CA US","        68","6","        55","6","        17","6","         3","6","","","    64"," ,6,1229, "," 135.6"," ,6,1119, ","   1263.8"," ,6","      140"," ,6"
+"USC00048472","1947","40.88333","-122.1","396.8","SQUAW CREEK GS, CA US","","","","","","","         6","6","","","   127"," ,6,0112, ","","","","","      355"," ,6"

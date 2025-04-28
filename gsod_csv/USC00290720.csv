@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00290720","1921","33.53333","-105.36667","1950.7","BACA RANCH RANGER STATION, NM US","        56","6","        41","6","         5","6","","","","","  69.9"," ,6,0731, ","    515.1"," ,6","",""
+"USC00290720","1923","33.53333","-105.36667","1950.7","BACA RANCH RANGER STATION, NM US","        61","6","        48","6","         4","6","","","","","  47.0"," ,6,0829, ","    587.6"," ,6","",""
+"USC00290720","1925","33.53333","-105.36667","1950.7","BACA RANCH RANGER STATION, NM US","        37","6","        25","6","         2","6","         4","6","    76"," ,6,0126,+","  49.5"," ,6,0528, ","    312.3"," ,6","      254"," ,6"
+"USC00290720","1926","33.53333","-105.36667","1950.7","BACA RANCH RANGER STATION, NM US","        66","6","        51","6","         3","6","","","","","  33.0"," ,6,0503, ","    529.2"," ,6","",""

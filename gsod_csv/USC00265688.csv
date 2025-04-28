@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00265688","1976","41.56667","-115.9","2012.9","NORTH FORK 7 NW, NV US","        59","0","        41","0","         1","0","","","  29.0"," ,0,0911, ","    377.7"," ,0"
+"USC00265688","1979","41.56667","-115.9","2012.9","NORTH FORK 7 NW, NV US","","","","","","","         7"," ","","","",""
+"USC00265688","1980","41.56667","-115.9","2012.9","NORTH FORK 7 NW, NV US","","","","","","","         5"," ","","","",""
+"USC00265688","1981","41.56667","-115.9","2012.9","NORTH FORK 7 NW, NV US","","","","","","","         2"," ","","","",""

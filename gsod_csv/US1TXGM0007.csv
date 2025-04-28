@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXGM0007","2017","30.634778","-96.142272","76.5","IOLA 10.4 SSW, TX US","        98","N","        50","N","        13","N"," 227.8"," ,N,0828, ","   1386.6"," ,N"
+"US1TXGM0007","2019","30.634778","-96.142272","76.5","IOLA 10.4 SSW, TX US","       102","N","        53","N","        16","N","  74.4"," ,N,0508, ","   1070.9"," ,N"
+"US1TXGM0007","2022","30.634778","-96.142272","76.5","IOLA 10.4 SSW, TX US","        73","N","        45","N","        13","N","  92.7"," ,N,1211, ","   1036.1"," ,N"

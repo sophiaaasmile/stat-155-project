@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXGA0049","2022","33.542495","-96.588505","248.1","SHERMAN 5.4 SSE, TX US","        48","N","        37","N","        16","N"," 104.1"," ,N,0425, ","    950.0"," ,N"
+"US1TXGA0049","2023","33.542495","-96.588505","248.1","SHERMAN 5.4 SSE, TX US","        57","N","        50","N","        11","N"," 105.2"," ,N,1026, ","    889.5"," ,N"
+"US1TXGA0049","2024","33.542495","-96.588505","248.1","SHERMAN 5.4 SSE, TX US","        63","N","        55","N","        18","N","  69.9"," ,N,0428, ","   1168.6"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00202611","1969","43.35","-85.16667","287.1","ENTRICAN 1 W, MI US","","","","","","","      107","","   457"," ,0,0116,+","","","",""
+"USC00202611","1971","43.35","-85.16667","287.1","ENTRICAN 1 W, MI US","        89","0","        52","0","         3","0","      102","","   330"," ,0,0122,+","  52.8"," ,0,0906, ","    589.3"," ,0"
+"USC00202611","1973","43.35","-85.16667","287.1","ENTRICAN 1 W, MI US","","","","","","","","","","","","","    815.7"," ,0"

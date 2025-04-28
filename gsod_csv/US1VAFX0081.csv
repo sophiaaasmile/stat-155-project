@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VAFX0081","2020","38.826966","-77.16495","86.3","ALEXANDRIA 6.6 WNW, VA US","       185","N","        96","N","        21","N","  61.2"," ,N,1112, ","   1548.3"," ,N"
+"US1VAFX0081","2021","38.826966","-77.16495","86.3","ALEXANDRIA 6.6 WNW, VA US","       141","N","        76","N","        16","N","  91.2"," ,N,0815, ","   1348.9"," ,N"
+"US1VAFX0081","2022","38.826966","-77.16495","86.3","ALEXANDRIA 6.6 WNW, VA US","","","","","","","","","   1179.4"," ,N"
+"US1VAFX0081","2024","38.826966","-77.16495","86.3","ALEXANDRIA 6.6 WNW, VA US","       147","N","        79","N","         7","N","  63.5"," ,N,0110, ","   1045.7"," ,N"

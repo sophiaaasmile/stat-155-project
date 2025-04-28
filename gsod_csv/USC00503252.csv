@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00503252","1923","56.72194","-153.89944","4.6","GEESE ISLANDS, AK US","","","","","","","        11"," ","","","",""
+"USC00503252","1924","56.72194","-153.89944","4.6","GEESE ISLANDS, AK US","       197","6","       143","6","        11","6","        11"," ","  63.2"," ,6,0712, ","   1514.8"," ,6"
+"USC00503252","1925","56.72194","-153.89944","4.6","GEESE ISLANDS, AK US","       170","6","       110","6","         9","6","","","  55.1"," ,6,1119, ","   1236.9"," ,6"
+"USC00503252","1928","56.72194","-153.89944","4.6","GEESE ISLANDS, AK US","","","","","","","         1"," ","","","",""

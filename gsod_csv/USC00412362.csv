@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00412362","1948","29.33333","-100.88333","267.9","DEL RIO 3 S, TX US","","","","","        37"," ","        19"," ","","","","","",""
+"USC00412362","1949","29.33333","-100.88333","267.9","DEL RIO 3 S, TX US","","","","","        18"," ","         2"," ","","","","","",""
+"USC00412362","1952","29.33333","-100.88333","267.9","DEL RIO 3 S, TX US","        0","","         0","0","","","","","     0"," ,0,1231,+","     0","T,0,1118, ","        0","T,0"

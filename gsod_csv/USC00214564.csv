@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00214564","2016","43.7298","-91.9373","317.0","LANESBORO 2 NE, MN US","","","","","","","","","","","        14"," ","        12"," ","","","","","","","","","",""
+"USC00214564","2017","43.7298","-91.9373","317.0","LANESBORO 2 NE, MN US","       116","7","        65","7","         5","7","       70","","         7","7","        38"," ","        24"," ","   229"," ,7,0126,+","   180"," ,7,0125, ","  45.2"," ,7,0617, ","    821.9"," ,7","      708"," ,7"
+"USC00214564","2018","43.7298","-91.9373","317.0","LANESBORO 2 NE, MN US","","","","","","","","","","","        31"," ","        26"," ","","","","","","","","","",""
+"USC00214564","2019","43.7298","-91.9373","317.0","LANESBORO 2 NE, MN US","","","","","","","","","","","        15"," ","        20"," ","","","","","","","","","",""

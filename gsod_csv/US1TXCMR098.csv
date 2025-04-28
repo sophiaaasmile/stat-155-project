@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXCMR098","2016","25.970664","-97.528519",,"BROWNSVILLE 4.3 NW, TX US","        82","N","        47","N","         5","N","  99.1"," ,N,0419, ","    616.0"," ,N"
+"US1TXCMR098","2020","25.970664","-97.528519",,"BROWNSVILLE 4.3 NW, TX US","        78","N","        35","N","         3","N","  53.3"," ,N,0726, ","    516.0"," ,N"
+"US1TXCMR098","2021","25.970664","-97.528519",,"BROWNSVILLE 4.3 NW, TX US","        74","N","        38","N","        10","N"," 155.4"," ,N,1002, ","    858.8"," ,N"
+"US1TXCMR098","2022","25.970664","-97.528519",,"BROWNSVILLE 4.3 NW, TX US","        76","N","        43","N","         5","N","  84.6"," ,N,1122, ","    624.2"," ,N"
+"US1TXCMR098","2023","25.970664","-97.528519",,"BROWNSVILLE 4.3 NW, TX US","        64","N","        33","N","        11","N","  63.5"," ,N,0531, ","    701.2"," ,N"

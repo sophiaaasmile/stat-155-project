@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00294656","1948","35.08333","-106.56667","1626.1","LA MESA, NM US","","","","","","","","","","","        28"," ","","","","","","","","","",""
+"USC00294656","1949","35.08333","-106.56667","1626.1","LA MESA, NM US","        62","0","        22","0","         0","0","       12","","         8","0","        38"," ","    51"," ,0,1222,+","    79"," ,0,0329, ","  24.6"," ,0,0511, ","    239.0"," ,0","      430"," ,0"
+"USC00294656","1950","35.08333","-106.56667","1626.1","LA MESA, NM US","        39","0","        15","0","         0","0","","","","","        29"," ","","","","","  19.6"," ,0,0721, ","    142.7"," ,0","",""

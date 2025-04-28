@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTV0271","2016","30.453467","-97.570311","201.8","PFLUGERVILLE 3.1 ENE, TX US","       106","N","        59","N","        15","N","  73.2"," ,N,0821, ","   1080.8"," ,N"
+"US1TXTV0271","2017","30.453467","-97.570311","201.8","PFLUGERVILLE 3.1 ENE, TX US","       101","N","        50","N","        13","N"," 103.4"," ,N,0827, ","    950.9"," ,N"
+"US1TXTV0271","2018","30.453467","-97.570311","201.8","PFLUGERVILLE 3.1 ENE, TX US","       120","N","        47","N","        10","N"," 117.6"," ,N,0922, ","   1101.2"," ,N"
+"US1TXTV0271","2019","30.453467","-97.570311","201.8","PFLUGERVILLE 3.1 ENE, TX US","       111","N","        42","N","         7","N","  94.7"," ,N,0407, ","    814.6"," ,N"
+"US1TXTV0271","2020","30.453467","-97.570311","201.8","PFLUGERVILLE 3.1 ENE, TX US","       118","N","        51","N","        10","N","  54.1"," ,N,0905, ","    744.4"," ,N"

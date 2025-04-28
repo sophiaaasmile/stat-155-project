@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1TXBXR032","2008","29.589758","-98.411947","270.1","HOLLYWOOD PARK 4.4 E, TX US","        71","N","        30","N","         2","N","         0","N","     0"," ,N,1231,+","  56.1"," ,N,0819, ","    353.3"," ,N","        0"," ,N"
+"US1TXBXR032","2009","29.589758","-98.411947","270.1","HOLLYWOOD PARK 4.4 E, TX US","        84","N","        47","N","        11","N","","","",""," 159.5"," ,N,1004, ","    848.6"," ,N","",""
+"US1TXBXR032","2010","29.589758","-98.411947","270.1","HOLLYWOOD PARK 4.4 E, TX US","        90","N","        45","N","         9","N","","","",""," 136.7"," ,N,0908, ","    923.0"," ,N","",""
+"US1TXBXR032","2011","29.589758","-98.411947","270.1","HOLLYWOOD PARK 4.4 E, TX US","        47","N","        26","N","         5","N","","","","","  59.7"," ,N,0622, ","    422.3"," ,N","",""
+"US1TXBXR032","2012","29.589758","-98.411947","270.1","HOLLYWOOD PARK 4.4 E, TX US","        86","N","        40","N","        11","N","","","",""," 108.0"," ,N,0125, ","    919.1"," ,N","",""

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VAWYC005","2021","38.07461","-78.93035","418.5","WAYNESBORO 1.6 WNW, VA US","","","","","","","","","    722.9"," ,N"
+"US1VAWYC005","2022","38.07461","-78.93035","418.5","WAYNESBORO 1.6 WNW, VA US","       137","N","        79","N","        11","N","  53.1"," ,N,0822, ","   1075.5"," ,N"
+"US1VAWYC005","2023","38.07461","-78.93035","418.5","WAYNESBORO 1.6 WNW, VA US","       113","N","        61","N","         8","N","  51.1"," ,N,1122, ","    795.1"," ,N"
+"US1VAWYC005","2024","38.07461","-78.93035","418.5","WAYNESBORO 1.6 WNW, VA US","       121","N","        61","N","         7","N"," 114.0"," ,N,0809, ","    935.7"," ,N"

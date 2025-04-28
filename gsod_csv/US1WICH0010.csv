@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WICH0010","2020","44.924528","-91.386235","280.4","CHIPPEWA FALLS 0.6 SSE, WI US","       121","N","        62","N","         9","N","  54.9"," ,N,0610, ","    853.2"," ,N"
+"US1WICH0010","2021","44.924528","-91.386235","280.4","CHIPPEWA FALLS 0.6 SSE, WI US","       118","N","        62","N","         7","N","  73.9"," ,N,0627, ","    877.3"," ,N"
+"US1WICH0010","2022","44.924528","-91.386235","280.4","CHIPPEWA FALLS 0.6 SSE, WI US","       129","N","        71","N","         4","N","  54.6"," ,N,0828, ","    819.5"," ,N"
+"US1WICH0010","2023","44.924528","-91.386235","280.4","CHIPPEWA FALLS 0.6 SSE, WI US","       115","N","        67","N","         7","N","  48.0"," ,N,1025, ","    850.0"," ,N"
+"US1WICH0010","2024","44.924528","-91.386235","280.4","CHIPPEWA FALLS 0.6 SSE, WI US","       124","N","        62","N","        12","N","  49.0"," ,N,0806, ","    954.2"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXGZ0030","2020","29.718991","-97.408594","118.0","WAELDER 7.0 WNW, TX US","        61","N","        39","N","         9","N","  67.3"," ,N,0513, ","    786.5"," ,N"
+"US1TXGZ0030","2022","29.718991","-97.408594","118.0","WAELDER 7.0 WNW, TX US","        51","N","        34","N","         5","N","  72.1"," ,N,1211, ","    526.4"," ,N"
+"US1TXGZ0030","2023","29.718991","-97.408594","118.0","WAELDER 7.0 WNW, TX US","        60","N","        36","N","         9","N","  93.5"," ,N,0513, ","    698.4"," ,N"
+"US1TXGZ0030","2024","29.718991","-97.408594","118.0","WAELDER 7.0 WNW, TX US","        66","N","        45","N","        12","N","  91.4"," ,N,0124, ","    920.4"," ,N"

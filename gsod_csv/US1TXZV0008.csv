@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXZV0008","2009","28.8397","-99.92417","210.9","MCNALLY, TX US","        20","N","        19","N","         6","N","  43.2"," ,N,0913, ","    322.1"," ,N"
+"US1TXZV0008","2010","28.8397","-99.92417","210.9","MCNALLY, TX US","","","","","","","","","    425.0"," ,N"
+"US1TXZV0008","2014","28.8397","-99.92417","210.9","MCNALLY, TX US","        10","N","        10","N","         0","N","  21.8"," ,N,0712, ","    284.9"," ,N"

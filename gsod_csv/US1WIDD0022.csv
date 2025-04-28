@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WIDD0022","2021","43.206673","-88.714493","256.3","WATERTOWN 1.2 NNE, WI US","        87","N","        58","N","         7","N","  53.8"," ,N,0504, ","    734.2"," ,N"
+"US1WIDD0022","2022","43.206673","-88.714493","256.3","WATERTOWN 1.2 NNE, WI US","       100","N","        69","N","         5","N"," 115.1"," ,N,0912, ","    957.9"," ,N"
+"US1WIDD0022","2023","43.206673","-88.714493","256.3","WATERTOWN 1.2 NNE, WI US","        92","N","        69","N","         4","N","  50.8"," ,N,1014, ","    785.5"," ,N"
+"US1WIDD0022","2024","43.206673","-88.714493","256.3","WATERTOWN 1.2 NNE, WI US","       114","N","        74","N","        12","N","  81.8"," ,N,0802, ","   1107.0"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00298662","1941","36.3","-103.36667",,"TANNER RANCH, NM US","        84","6","        58","6","         9","6","","","  78.7"," ,6,0921, ","    943.6"," ,6"
+"USC00298662","1942","36.3","-103.36667",,"TANNER RANCH, NM US","        57","6","        42","6","         3","6","","","  92.7"," ,6,0419, ","    601.9"," ,6"
+"USC00298662","1947","36.3","-103.36667",,"TANNER RANCH, NM US","","","","","","","         1"," ","","","",""

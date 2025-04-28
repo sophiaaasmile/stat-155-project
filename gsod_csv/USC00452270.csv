@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00452270","1908","47.65","-122.95","115.8","DUCKABUSH, WA US","","","","","","","         2"," ","","","","","",""
+"USC00452270","1910","47.65","-122.95","115.8","DUCKABUSH, WA US","       157","6","       109","6","        20","6","","","","","  88.9"," ,6,1120, ","   1908.2"," ,6"
+"USC00452270","1914","47.65","-122.95","115.8","DUCKABUSH, WA US","","","","","","","","","         1"," ","","","",""

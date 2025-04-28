@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00027349","1952","36.68333","-112.35","1922.1","RYAN STATION, AZ US","","","","","","","","","","","        40"," ","","","","","","","","","",""
+"USC00027349","1953","36.68333","-112.35","1922.1","RYAN STATION, AZ US","        47","0","        28","0","         2","0","       33","","        10","0","        45"," ","   178"," ,0,1204,+","   173"," ,0,1204, ","  34.8"," ,0,0717, ","    296.5"," ,0","      944"," ,0"
+"USC00027349","1954","36.68333","-112.35","1922.1","RYAN STATION, AZ US","","","","","","","","","","","        29"," ","","","","","","","","","",""

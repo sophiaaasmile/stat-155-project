@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WYGS0039","2022","42.152","-104.46","1294.2","LINGLE 5.9 W, WY US","        55","N","        33","N","         3","N","  26.7"," ,N,0509, ","    305.8"," ,N"
+"US1WYGS0039","2023","42.152","-104.46","1294.2","LINGLE 5.9 W, WY US","        71","N","        39","N","         3","N","  42.7"," ,N,0512, ","    515.0"," ,N"
+"US1WYGS0039","2024","42.152","-104.46","1294.2","LINGLE 5.9 W, WY US","        43","N","        29","N","         2","N","  26.7"," ,N,0611, ","    261.7"," ,N"

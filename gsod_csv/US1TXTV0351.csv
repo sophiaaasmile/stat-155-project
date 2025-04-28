@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTV0351","2022","30.274173","-97.493995","180.1","MANOR 6.2 SE, TX US","        79","N","        41","N","        10","N","  87.1"," ,N,0201, ","    776.3"," ,N"
+"US1TXTV0351","2023","30.274173","-97.493995","180.1","MANOR 6.2 SE, TX US","        74","N","        43","N","         7","N","  66.5"," ,N,1027, ","    728.1"," ,N"
+"US1TXTV0351","2024","30.274173","-97.493995","180.1","MANOR 6.2 SE, TX US","        72","N","        47","N","        10","N","  59.9"," ,N,0122, ","    820.9"," ,N"

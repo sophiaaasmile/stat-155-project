@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBST068","2013","30.084116","-97.317284","110.9","BASTROP 2.1 SSW, TX US","        93","N","        48","N","         3","N"," 122.2"," ,N,1031, ","    706.7"," ,N"
+"US1TXBST068","2014","30.084116","-97.317284","110.9","BASTROP 2.1 SSW, TX US","        85","N","        46","N","         7","N","  56.6"," ,N,0513, ","    783.7"," ,N"
+"US1TXBST068","2015","30.084116","-97.317284","110.9","BASTROP 2.1 SSW, TX US","       107","N","        57","N","        15","N"," 132.8"," ,N,1025, ","   1338.4"," ,N"

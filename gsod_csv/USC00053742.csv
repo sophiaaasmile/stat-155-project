@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00053742","2007","40.358","-107.608","1944.6","HAMILTON 1 SSE, CO US","","","         3"," ","         7"," ","","","",""
+"USC00053742","2008","40.358","-107.608","1944.6","HAMILTON 1 SSE, CO US","","","","","        11"," ","","","",""
+"USC00053742","2009","40.358","-107.608","1944.6","HAMILTON 1 SSE, CO US","","","","","         8"," ","","","",""
+"USC00053742","2010","40.358","-107.608","1944.6","HAMILTON 1 SSE, CO US","        20","0","","","","","   356"," ,0,0407, ","     2196"," ,0"

@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXST0002","2014","26.5386","-98.603","141.4","RIO GRANDE CITY 17.7 NE, TX US","        30","N","        30","N","         9","N","  53.3"," ,N,0915, ","    480.8"," ,N"
+"US1TXST0002","2016","26.5386","-98.603","141.4","RIO GRANDE CITY 17.7 NE, TX US","        29","N","        29","N","         8","N","  68.6"," ,N,0311, ","    509.2"," ,N"
+"US1TXST0002","2017","26.5386","-98.603","141.4","RIO GRANDE CITY 17.7 NE, TX US","        29","N","        29","N","         6","N","  71.4"," ,N,0529, ","    522.4"," ,N"
+"US1TXST0002","2018","26.5386","-98.603","141.4","RIO GRANDE CITY 17.7 NE, TX US","        36","N","        36","N","         9","N","  96.5"," ,N,0911, ","    670.6"," ,N"
+"US1TXST0002","2019","26.5386","-98.603","141.4","RIO GRANDE CITY 17.7 NE, TX US","        24","N","        24","N","         3","N","  34.3"," ,N,0625, ","    335.6"," ,N"
+"US1TXST0002","2021","26.5386","-98.603","141.4","RIO GRANDE CITY 17.7 NE, TX US","        33","N","        32","N","         9","N"," 119.4"," ,N,0604, ","    776.4"," ,N"

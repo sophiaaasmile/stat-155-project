@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00416694","1946","32.75","-101.68333","808.0","ORSON RANCH, TX US","        39","6","        21","6","         4","6","","","  36.3"," ,6,1006, ","    301.9"," ,6"
+"USC00416694","1947","32.75","-101.68333","808.0","ORSON RANCH, TX US","        35","0","        25","0","         3","0","",""," 144.8"," ,0,0510, ","    376.6"," ,0"
+"USC00416694","1948","32.75","-101.68333","808.0","ORSON RANCH, TX US","","","","","","","        37"," ","","","",""

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCLR0032","2020","34.4065","-82.2045","196.3","WARE SHOALS 2.5 ENE, SC US","       121","N","        86","N","        21","N"," 106.9"," ,N,0207, ","   1621.0"," ,N"
+"US1SCLR0032","2021","34.4065","-82.2045","196.3","WARE SHOALS 2.5 ENE, SC US","       118","N","        80","N","         9","N","  79.8"," ,N,1009, ","   1003.6"," ,N"
+"US1SCLR0032","2022","34.4065","-82.2045","196.3","WARE SHOALS 2.5 ENE, SC US","        93","N","        64","N","        14","N","  62.2"," ,N,0309, ","   1152.8"," ,N"
+"US1SCLR0032","2023","34.4065","-82.2045","196.3","WARE SHOALS 2.5 ENE, SC US","       101","N","        77","N","        16","N","  71.1"," ,N,0828, ","   1389.1"," ,N"
+"US1SCLR0032","2024","34.4065","-82.2045","196.3","WARE SHOALS 2.5 ENE, SC US","        91","N","        68","N","        13","N"," 146.1"," ,N,0927, ","   1284.0"," ,N"

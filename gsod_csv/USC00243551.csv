@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00243551","1949","48.4472","-113.2236","1467.0","EAST GLACIER, MT US","","","","","","","","","","","","","         3"," ","","","","","","","","","",""
+"USC00243551","1950","48.4472","-113.2236","1467.0","EAST GLACIER, MT US","","","","","","","","","","","","","        14"," ","","","","","","","","","",""
+"USC00243551","1951","48.4472","-113.2236","1467.0","EAST GLACIER, MT US","       135","0","       103","0","         9","0","      217","","        65","0","        16"," ","        13"," ","  1473"," ,0,0327, ","   711"," ,0,1029, ","  55.1"," ,0,0623, ","   1075.8"," ,0","     7645"," ,0"
+"USC00243551","1952","48.4472","-113.2236","1467.0","EAST GLACIER, MT US","","","","","","","","","","","         4"," ","         2"," ","","","","","","","","","",""

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VTCH0038","2021","44.436697","-73.071548","157.9","WILLISTON 0.2 WSW, VT US","       178","N","        83","N","         4","N","  40.4"," ,N,0718, ","   1019.1"," ,N"
+"US1VTCH0038","2022","44.436697","-73.071548","157.9","WILLISTON 0.2 WSW, VT US","       165","N","        89","N","        11","N","  90.7"," ,N,0914, ","   1151.7"," ,N"
+"US1VTCH0038","2023","44.436697","-73.071548","157.9","WILLISTON 0.2 WSW, VT US","       189","N","        98","N","         8","N","  69.9"," ,N,1008, ","   1282.1"," ,N"
+"US1VTCH0038","2024","44.436697","-73.071548","157.9","WILLISTON 0.2 WSW, VT US","       185","N","        98","N","         8","N","  63.8"," ,N,0711, ","   1098.6"," ,N"

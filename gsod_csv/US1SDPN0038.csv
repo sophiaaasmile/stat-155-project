@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SDPN0038","2013","44.095824","-103.212117","960.7","RAPID CITY 3.5 NE, SD US","        84","N","        50","N","         4","N","  53.6"," ,N,0806, ","    539.4"," ,N"
+"US1SDPN0038","2014","44.095824","-103.212117","960.7","RAPID CITY 3.5 NE, SD US","       107","N","        58","N","         4","N","  81.8"," ,N,0930, ","    638.8"," ,N"
+"US1SDPN0038","2018","44.095824","-103.212117","960.7","RAPID CITY 3.5 NE, SD US","       115","N","        57","N","         4","N","  42.2"," ,N,0715, ","    684.4"," ,N"
+"US1SDPN0038","2024","44.095824","-103.212117","960.7","RAPID CITY 3.5 NE, SD US","        92","N","        47","N","         2","N","  51.8"," ,N,0407, ","    470.1"," ,N"

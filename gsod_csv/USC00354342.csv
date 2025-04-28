@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00354342","1899","44.083333","-123.066667",,"JUNCTION CITY, OR US","","","","","","","         2"," ","","","",""
+"USC00354342","1900","44.083333","-123.066667",,"JUNCTION CITY, OR US","       124","6","        94","6","         6","6","        24"," ","  38.1"," ,6,0308, ","    886.6"," ,6"
+"USC00354342","1901","44.083333","-123.066667",,"JUNCTION CITY, OR US","","","","","","","         7"," ","","","",""
+"USC00354342","1902","44.083333","-123.066667",,"JUNCTION CITY, OR US","        93","6","        91","6","        12","6","         2"," ","  50.8"," ,6,1204, ","   1077.4"," ,6"

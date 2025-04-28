@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXKR0010","2008","30.176247","-99.322463","611.1","INGRAM 8.5 NW, TX US","        72","N","        27","N","         2","N","  61.5"," ,N,0514, ","    350.1"," ,N"
+"US1TXKR0010","2010","30.176247","-99.322463","611.1","INGRAM 8.5 NW, TX US","        85","N","        45","N","         7","N"," 141.2"," ,N,0416, ","    798.2"," ,N"
+"US1TXKR0010","2011","30.176247","-99.322463","611.1","INGRAM 8.5 NW, TX US","","","","","","","","","    299.6"," ,N"
+"US1TXKR0010","2012","30.176247","-99.322463","611.1","INGRAM 8.5 NW, TX US","","","","","","","","","    624.7"," ,N"

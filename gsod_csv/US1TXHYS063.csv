@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXHYS063","2012","30.20483","-98.109273","386.2","DRIPPING SPRINGS 1.7 NW, TX US","        61","N","        34","N","         9","N","  85.6"," ,N,0511, ","    709.9"," ,N"
+"US1TXHYS063","2015","30.20483","-98.109273","386.2","DRIPPING SPRINGS 1.7 NW, TX US","       101","N","        65","N","        14","N"," 168.1"," ,N,1030, ","   1325.0"," ,N"
+"US1TXHYS063","2020","30.20483","-98.109273","386.2","DRIPPING SPRINGS 1.7 NW, TX US","        79","N","        44","N","         8","N","  62.5"," ,N,0525, ","    775.5"," ,N"
+"US1TXHYS063","2022","30.20483","-98.109273","386.2","DRIPPING SPRINGS 1.7 NW, TX US","        57","N","        35","N","         5","N","  35.1"," ,N,0820, ","    432.3"," ,N"
+"US1TXHYS063","2024","30.20483","-98.109273","386.2","DRIPPING SPRINGS 1.7 NW, TX US","        82","N","        50","N","         9","N","  62.7"," ,N,1105, ","    825.6"," ,N"

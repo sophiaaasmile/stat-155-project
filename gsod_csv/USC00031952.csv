@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00031952","2002","34.1002","-94.3724","169.8","DE QUEEN DAM, AR US","","","","","         1"," ","","","","","","","",""
+"USC00031952","2003","34.1002","-94.3724","169.8","DE QUEEN DAM, AR US","        1","","         1","0","","","    25"," ,0,0225, ","    25"," ,0,0225, ","","","       25"," ,0"
+"USC00031952","2004","34.1002","-94.3724","169.8","DE QUEEN DAM, AR US","","","","","         1"," ","","","","","   1054.2"," ,0","",""

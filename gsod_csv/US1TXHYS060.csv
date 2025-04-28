@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXHYS060","2012","30.0506","-98.0187","312.4","DRIFTWOOD 5.0 S, TX US","        77","N","        42","N","        12","N","  69.9"," ,N,0511, ","    792.2"," ,N"
+"US1TXHYS060","2013","30.0506","-98.0187","312.4","DRIFTWOOD 5.0 S, TX US","       101","N","        55","N","         9","N"," 296.7"," ,N,1031, ","   1138.3"," ,N"
+"US1TXHYS060","2014","30.0506","-98.0187","312.4","DRIFTWOOD 5.0 S, TX US","        94","N","        41","N","         8","N","  99.3"," ,N,0513, ","    827.8"," ,N"
+"US1TXHYS060","2016","30.0506","-98.0187","312.4","DRIFTWOOD 5.0 S, TX US","       115","N","        63","N","        15","N","  89.4"," ,N,0926, ","   1220.6"," ,N"

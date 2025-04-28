@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00027990","2021","31.681","-110.6554","1492.0","SONOITA, AZ US","","","","","","","        2","","         1","7","   127"," ,7,0126, ","   140"," ,7,0126, ","","","","","      145"," ,7"
+"USC00027990","2022","31.681","-110.6554","1492.0","SONOITA, AZ US","        73","7","        44","7","         7","7","        0","","         1","7","     0"," ,7,1231,+","    38"," ,7,1213, ","  57.9"," ,7,0728, ","    703.5"," ,7","       38"," ,7"
+"USC00027990","2024","31.681","-110.6554","1492.0","SONOITA, AZ US","","","","","","","        0","","         2","7","     0"," ,7,1231,+","    25"," ,7,0210,+","","","","","       50"," ,7"

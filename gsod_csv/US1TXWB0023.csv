@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXWB0023","2011","27.6765","-99.0423","159.1","FREER 29.5 WSW, TX US","        25","N","        18","N","         3","N","  37.8"," ,N,1211, ","    224.6"," ,N"
+"US1TXWB0023","2012","27.6765","-99.0423","159.1","FREER 29.5 WSW, TX US","        38","N","        28","N","         7","N"," 106.7"," ,N,0929, ","    497.9"," ,N"
+"US1TXWB0023","2013","27.6765","-99.0423","159.1","FREER 29.5 WSW, TX US","        49","N","        32","N","         7","N"," 152.9"," ,N,1014, ","    640.4"," ,N"
+"US1TXWB0023","2016","27.6765","-99.0423","159.1","FREER 29.5 WSW, TX US","        46","N","        34","N","         9","N"," 148.6"," ,N,0926, ","    724.3"," ,N"

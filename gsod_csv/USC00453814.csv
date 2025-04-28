@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00453814","1903","46.1","-119.55",,"HORSE HEAVEN, WA US","","","","","","","        18"," ","","","",""
+"USC00453814","1904","46.1","-119.55",,"HORSE HEAVEN, WA US","","","","","","","        13"," ","","","",""
+"USC00453814","1905","46.1","-119.55",,"HORSE HEAVEN, WA US","        33","6","        21","6","         0","6","         5"," ","  22.9"," ,6,1217, ","    187.4"," ,6"
+"USC00453814","1906","46.1","-119.55",,"HORSE HEAVEN, WA US","","","","","","","         5"," ","","","",""

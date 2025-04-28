@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXCHK009","2021","31.8954","-95.0753","94.2","JACKSONVILLE 11.9 ESE, TX US","        89","N","        57","N","        14","N","  94.0"," ,N,0712, ","   1106.5"," ,N"
+"US1TXCHK009","2022","31.8954","-95.0753","94.2","JACKSONVILLE 11.9 ESE, TX US","        63","N","        47","N","        10","N"," 105.2"," ,N,0823, ","   1093.6"," ,N"
+"US1TXCHK009","2023","31.8954","-95.0753","94.2","JACKSONVILLE 11.9 ESE, TX US","        63","N","        47","N","        14","N","  70.9"," ,N,0925, ","    978.1"," ,N"
+"US1TXCHK009","2024","31.8954","-95.0753","94.2","JACKSONVILLE 11.9 ESE, TX US","        69","N","        62","N","        23","N"," 151.1"," ,N,0709, ","   1825.8"," ,N"

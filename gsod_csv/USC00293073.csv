@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00293073","1948","36.45","-106.5","2349.1","EUBANK RANCH, NM US","","","","","","","","","         5"," ","         3"," ","","","","","","","",""
+"USC00293073","1949","36.45","-106.5","2349.1","EUBANK RANCH, NM US","","","","","","","","","         4"," ","         1"," ","","","","","    389.7"," ,0","     1096"," ,0"
+"USC00293073","1950","36.45","-106.5","2349.1","EUBANK RANCH, NM US","        38","0","        27","0","         0","0","         5","0","         5"," ","         1"," ","    51"," ,0,0310,+","  24.1"," ,0,0801, ","    224.8"," ,0","      378"," ,0"
+"USC00293073","1951","36.45","-106.5","2349.1","EUBANK RANCH, NM US","","","","","","","","","         8"," ","         8"," ","","","","","","","",""

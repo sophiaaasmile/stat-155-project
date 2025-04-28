@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXLK0003","2022","33.589125","-101.95505","999.1","LUBBOCK 4.7 WNW, TX US","        46","N","        29","N","         2","N","  43.7"," ,N,0603, ","    335.9"," ,N"
+"US1TXLK0003","2023","33.589125","-101.95505","999.1","LUBBOCK 4.7 WNW, TX US","        56","N","        37","N","         5","N","  54.4"," ,N,1003, ","    555.9"," ,N"
+"US1TXLK0003","2024","33.589125","-101.95505","999.1","LUBBOCK 4.7 WNW, TX US","        43","N","        30","N","         5","N","  59.9"," ,N,1103, ","    487.9"," ,N"

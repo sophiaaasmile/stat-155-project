@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"VQ1VISJ0005","2021","18.32408","-64.757555","19.2","CRUZ BAY 1.6 E, VI VQ","       215","N","        84","N","         3","N","  43.9"," ,N,1014, ","    802.3"," ,N"
+"VQ1VISJ0005","2022","18.32408","-64.757555","19.2","CRUZ BAY 1.6 E, VI VQ","       218","N","        96","N","         7","N"," 101.6"," ,N,1027, ","   1136.2"," ,N"
+"VQ1VISJ0005","2023","18.32408","-64.757555","19.2","CRUZ BAY 1.6 E, VI VQ","       185","N","        85","N","        13","N"," 160.5"," ,N,1004, ","   1501.2"," ,N"

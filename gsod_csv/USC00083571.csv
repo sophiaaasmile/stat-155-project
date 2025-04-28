@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00083571","1941","27.8","-81.2","14.3","GRAPE HAMMOCK, FL US","       114","6","        78","6","        15","6","","","  80.3"," ,6,0403, ","","","","","   1337.5"," ,6"
+"USC00083571","1942","27.8","-81.2","14.3","GRAPE HAMMOCK, FL US","        94","6","        68","6","        12","6","","","  65.3"," ,6,0810, ","","","","","   1111.5"," ,6"
+"USC00083571","1954","27.8","-81.2","14.3","GRAPE HAMMOCK, FL US","","","","","","","         2"," ","","","","","","","",""
+"USC00083571","1959","27.8","-81.2","14.3","GRAPE HAMMOCK, FL US","","","","","","","","","","","     196.5","5","     196.5","0","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00336371","1948","39.51667","-84.75","274.9","OXFORD, OH US","","","         2"," ","        18"," ","","","","","",""
+"USC00336371","1949","39.51667","-84.75","274.9","OXFORD, OH US","         4","0","        11"," ","         7"," ","    76"," ,0,0131, ","   1133.6"," ,0","      203"," ,0"
+"USC00336371","1950","39.51667","-84.75","274.9","OXFORD, OH US","","","        11"," ","        25"," ","","","","","",""

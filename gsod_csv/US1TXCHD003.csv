@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXCHD003","2011","34.43175","-100.22202","579.4","CHILDRESS 0.4 WNW, TX US","        45","N","        23","N","         1","N","  51.6"," ,N,1122, ","    280.0"," ,N"
+"US1TXCHD003","2012","34.43175","-100.22202","579.4","CHILDRESS 0.4 WNW, TX US","","","","","","","","","    496.8"," ,N"
+"US1TXCHD003","2013","34.43175","-100.22202","579.4","CHILDRESS 0.4 WNW, TX US","","","","","","","","","    430.8"," ,N"
+"US1TXCHD003","2014","34.43175","-100.22202","579.4","CHILDRESS 0.4 WNW, TX US","        57","N","        31","N","         7","N","  82.6"," ,N,0608, ","    544.7"," ,N"

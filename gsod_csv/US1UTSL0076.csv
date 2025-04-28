@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1UTSL0076","2014","40.647341","-111.96394","1366.1","TAYLORSVILLE 2.4 SW, UT US","        90","N","        41","N","         0","N","  23.4"," ,N,0508, ","    394.3"," ,N"
+"US1UTSL0076","2018","40.647341","-111.96394","1366.1","TAYLORSVILLE 2.4 SW, UT US","        59","N","        34","N","         0","N","  24.9"," ,N,1010, ","    261.9"," ,N"
+"US1UTSL0076","2021","40.647341","-111.96394","1366.1","TAYLORSVILLE 2.4 SW, UT US","        72","N","        40","N","         2","N","  40.9"," ,N,0819, ","    385.5"," ,N"
+"US1UTSL0076","2022","40.647341","-111.96394","1366.1","TAYLORSVILLE 2.4 SW, UT US","        68","N","        35","N","         1","N","  27.2"," ,N,1109, ","    305.8"," ,N"
+"US1UTSL0076","2023","40.647341","-111.96394","1366.1","TAYLORSVILLE 2.4 SW, UT US","        89","N","        55","N","         0","N","  21.1"," ,N,0101, ","    462.9"," ,N"

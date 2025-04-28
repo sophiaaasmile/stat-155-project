@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00271960","2004","42.8661","-71.3247","91.4","DERRY, NH US","","","","","        20"," ","        13"," ","","","","","",""
+"USC00271960","2005","42.8661","-71.3247","91.4","DERRY, NH US","","","","","        16"," ","         6"," ","","","","","",""
+"USC00271960","2006","42.8661","-71.3247","91.4","DERRY, NH US","       32","","         9","0","         2"," ","         1"," ","   229"," ,0,0213, ","   173"," ,0,0213,+","      721"," ,0"
+"USC00271960","2007","42.8661","-71.3247","91.4","DERRY, NH US","","","","","","","         1"," ","","","","","",""

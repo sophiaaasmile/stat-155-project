@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WAKG0232","2018","47.470924","-122.487314","93.0","SOUTHWORTH 2.7 SSE, WA US","       185","N","        92","N","         9","N","  52.1"," ,N,1127, ","   1118.1"," ,N"
+"US1WAKG0232","2019","47.470924","-122.487314","93.0","SOUTHWORTH 2.7 SSE, WA US","       172","N","        85","N","         4","N","  70.1"," ,N,1220, ","    928.4"," ,N"
+"US1WAKG0232","2020","47.470924","-122.487314","93.0","SOUTHWORTH 2.7 SSE, WA US","       215","N","       104","N","         9","N","  57.4"," ,N,0201, ","   1305.1"," ,N"
+"US1WAKG0232","2021","47.470924","-122.487314","93.0","SOUTHWORTH 2.7 SSE, WA US","       188","N","       107","N","         9","N","  58.2"," ,N,1029, ","   1407.8"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WYAB0171","2019","41.292494","-105.542337","2235.1","LARAMIE 2.5 ESE, WY US","       114","N","        37","N","         0","N","  20.8"," ,N,0422, ","    345.2"," ,N"
+"US1WYAB0171","2020","41.292494","-105.542337","2235.1","LARAMIE 2.5 ESE, WY US","        79","N","        23","N","         1","N","  49.0"," ,N,0609, ","    226.9"," ,N"
+"US1WYAB0171","2021","41.292494","-105.542337","2235.1","LARAMIE 2.5 ESE, WY US","        85","N","        34","N","         1","N","  32.3"," ,N,0714, ","    317.1"," ,N"
+"US1WYAB0171","2022","41.292494","-105.542337","2235.1","LARAMIE 2.5 ESE, WY US","        81","N","        35","N","         0","N","  11.7"," ,N,0305, ","    227.0"," ,N"

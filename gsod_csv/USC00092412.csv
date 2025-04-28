@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00092412","1984","34.21667","-84.16667","435.9","CUMMING 1 WNW, GA US","","","","","","","","","         1"," ","","","","","","","","","",""
+"USC00092412","1985","34.21667","-84.16667","435.9","CUMMING 1 WNW, GA US","       106","0","        78","0","        15","0","         1","0","         5"," ","         2"," ","   178"," ,0,0213, ","  70.6"," ,0,0728, ","   1201.1"," ,0","      199"," ,0"

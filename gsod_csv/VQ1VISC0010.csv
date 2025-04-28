@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"VQ1VISC0010","2021","17.7432","-64.68275","24.1","CHRISTIANSTED 1.6 E, VI VQ","       203","N","        77","N","         4","N","  93.5"," ,N,1014, ","    819.3"," ,N"
+"VQ1VISC0010","2022","17.7432","-64.68275","24.1","CHRISTIANSTED 1.6 E, VI VQ","       220","N","        92","N","         8","N"," 115.3"," ,N,0918, ","   1103.4"," ,N"
+"VQ1VISC0010","2023","17.7432","-64.68275","24.1","CHRISTIANSTED 1.6 E, VI VQ","       196","N","        70","N","         6","N","  68.6"," ,N,1004, ","    863.6"," ,N"
+"VQ1VISC0010","2024","17.7432","-64.68275","24.1","CHRISTIANSTED 1.6 E, VI VQ","       232","N","       114","N","        20","N"," 134.1"," ,N,0814, ","   1912.6"," ,N"

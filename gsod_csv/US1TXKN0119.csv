@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXKN0119","2019","29.9913","-98.6263","484.0","BOERNE 15.0 NNE, TX US","       104","N","        45","N","         5","N","  57.9"," ,N,0509, ","    608.5"," ,N"
+"US1TXKN0119","2022","29.9913","-98.6263","484.0","BOERNE 15.0 NNE, TX US","        72","N","        36","N","         2","N","  53.3"," ,N,0824, ","    418.1"," ,N"
+"US1TXKN0119","2023","29.9913","-98.6263","484.0","BOERNE 15.0 NNE, TX US","        87","N","        45","N","         8","N","  60.5"," ,N,0517, ","    619.8"," ,N"

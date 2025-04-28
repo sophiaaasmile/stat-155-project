@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXGV0064","2018","29.338008","-95.026056","3.0","HITCHCOCK 1.6 NNW, TX US","       136","N","        78","N","        25","N"," 152.4"," ,N,0911, ","   1897.9"," ,N"
+"US1TXGV0064","2020","29.338008","-95.026056","3.0","HITCHCOCK 1.6 NNW, TX US","       114","N","        66","N","        16","N"," 120.1"," ,N,0721, ","   1454.6"," ,N"
+"US1TXGV0064","2021","29.338008","-95.026056","3.0","HITCHCOCK 1.6 NNW, TX US","       127","N","        68","N","        12","N"," 182.9"," ,N,0914, ","   1367.1"," ,N"
+"US1TXGV0064","2022","29.338008","-95.026056","3.0","HITCHCOCK 1.6 NNW, TX US","       108","N","        61","N","        15","N"," 101.3"," ,N,1125, ","   1070.1"," ,N"

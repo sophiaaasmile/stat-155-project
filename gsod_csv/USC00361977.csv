@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00361977","2013","41.9066","-78.65","460.2","CUSTER CITY, PA US","","","","","","","         8"," ","        20"," ","","","",""
+"USC00361977","2014","41.9066","-78.65","460.2","CUSTER CITY, PA US","       165","7","       101","7","         8","7","        13"," ","        30"," ","  83.8"," ,7,0625, ","   1328.0"," ,7"
+"USC00361977","2015","41.9066","-78.65","460.2","CUSTER CITY, PA US","","","","","","","","","         2"," ","","","",""

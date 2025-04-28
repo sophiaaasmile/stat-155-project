@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00306042","1949","42.35","-74.28333","579.1","WINDHAM NORTH SETTLE, NY US","       159","0","        70","0","         3","0","  38.4"," ,0,0829, ","    742.6"," ,0"
+"USC00306042","1950","42.35","-74.28333","579.1","WINDHAM NORTH SETTLE, NY US","       185","0","        97","0","         7","0","  44.2"," ,0,1205, ","    996.5"," ,0"
+"USC00306042","1951","42.35","-74.28333","579.1","WINDHAM NORTH SETTLE, NY US","       173","0","        90","0","        13","0","  68.3"," ,0,0717, ","   1326.5"," ,0"
+"USC00306042","1952","42.35","-74.28333","579.1","WINDHAM NORTH SETTLE, NY US","       170","0","        75","0","         7","0","  47.2"," ,0,0902, ","   1028.4"," ,0"

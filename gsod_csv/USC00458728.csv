@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00458728","1960","48.65","-119.65","939.1","UPPER PINE CREEK, WA US","        57","0","        39","0","         0","0","        16","0","        30"," ","         4"," ","   127"," ,0,1123, ","  19.1"," ,0,0420, ","    330.4"," ,0","      963"," ,0"
+"USC00458728","1961","48.65","-119.65","939.1","UPPER PINE CREEK, WA US","","","","","","","","","        20"," ","","","","","","","","","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VAAG0033","2021","38.2138905","-78.9613468","379.5","VERONA 2.6 ENE, VA US","       109","N","        68","N","         9","N","  56.1"," ,N,0923, ","    938.8"," ,N"
+"US1VAAG0033","2022","38.2138905","-78.9613468","379.5","VERONA 2.6 ENE, VA US","       120","N","        80","N","         7","N","  44.2"," ,N,0801, ","    904.6"," ,N"
+"US1VAAG0033","2023","38.2138905","-78.9613468","379.5","VERONA 2.6 ENE, VA US","        99","N","        58","N","         7","N","  45.2"," ,N,1122, ","    728.1"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCHR0122","2021","33.58104","-79.04297","7.0","MURRELLS INLET 1.9 NNE, SC US","       131","N","        81","N","        15","N","  78.0"," ,N,0708, ","   1385.0"," ,N"
+"US1SCHR0122","2022","33.58104","-79.04297","7.0","MURRELLS INLET 1.9 NNE, SC US","       127","N","        75","N","        20","N"," 126.0"," ,N,0705, ","   1604.6"," ,N"
+"US1SCHR0122","2023","33.58104","-79.04297","7.0","MURRELLS INLET 1.9 NNE, SC US","       117","N","        82","N","        17","N"," 151.4"," ,N,1218, ","   1446.5"," ,N"
+"US1SCHR0122","2024","33.58104","-79.04297","7.0","MURRELLS INLET 1.9 NNE, SC US","       104","N","        69","N","        13","N","  81.0"," ,N,0810, ","   1182.5"," ,N"

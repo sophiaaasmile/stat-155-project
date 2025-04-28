@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00261317","1963","39.05","-115.61667","1800.1","BULL CREEK RANCH, NV US","","","","","","","         1"," ","","","",""
+"USC00261317","1964","39.05","-115.61667","1800.1","BULL CREEK RANCH, NV US","        36","0","        21","0","         0","0","         2"," ","  16.8"," ,0,0607, ","    199.9"," ,0"
+"USC00261317","1965","39.05","-115.61667","1800.1","BULL CREEK RANCH, NV US","","","","","","","         7"," ","","","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTV0388","2022","30.444067","-97.7489042","273.7","AUSTIN 9.5 N, TX US","        91","N","        35","N","        10","N","  53.3"," ,N,0203, ","    662.1"," ,N"
+"US1TXTV0388","2023","30.444067","-97.7489042","273.7","AUSTIN 9.5 N, TX US","        92","N","        43","N","        11","N","  88.1"," ,N,0421, ","    844.7"," ,N"
+"US1TXTV0388","2024","30.444067","-97.7489042","273.7","AUSTIN 9.5 N, TX US","        79","N","        38","N","         9","N","  71.9"," ,N,0122, ","    676.6"," ,N"

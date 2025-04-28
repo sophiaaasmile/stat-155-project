@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXDN0077","2021","33.0141869","-97.0537835","184.1","FLOWER MOUND 2.5 ESE, TX US","        89","N","        48","N","         8","N","  73.7"," ,N,0226, ","    788.9"," ,N"
+"US1TXDN0077","2022","33.0141869","-97.0537835","184.1","FLOWER MOUND 2.5 ESE, TX US","        71","N","        37","N","        10","N","  74.9"," ,N,0602, ","    714.7"," ,N"
+"US1TXDN0077","2023","33.0141869","-97.0537835","184.1","FLOWER MOUND 2.5 ESE, TX US","        72","N","        41","N","         7","N"," 138.7"," ,N,1026, ","    691.4"," ,N"
+"US1TXDN0077","2024","33.0141869","-97.0537835","184.1","FLOWER MOUND 2.5 ESE, TX US","        78","N","        55","N","        17","N","  74.7"," ,N,0528, ","   1099.9"," ,N"

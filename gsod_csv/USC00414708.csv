@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00414708","2002","32.61389","-96.13944","153.0","KAUFMAN 13 ENE, TX US","","","","","        12"," ","         4"," ","","","","","",""
+"USC00414708","2003","32.61389","-96.13944","153.0","KAUFMAN 13 ENE, TX US","","","","","        17"," ","        10"," ","","","","","",""
+"USC00414708","2004","32.61389","-96.13944","153.0","KAUFMAN 13 ENE, TX US","        0","","         0","0","        21"," ","        17"," ","     0"," ,0,1231,+","     0"," ,0,1231,+","        0"," ,0"
+"USC00414708","2008","32.61389","-96.13944","153.0","KAUFMAN 13 ENE, TX US","","","","","","","         3"," ","","","","","",""

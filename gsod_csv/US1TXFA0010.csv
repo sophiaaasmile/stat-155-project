@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXFA0010","2018","31.125266","-97.075107","155.1","ROSEBUD 6.9 WNW, TX US","","","","","","","","","    887.5"," ,N"
+"US1TXFA0010","2019","31.125266","-97.075107","155.1","ROSEBUD 6.9 WNW, TX US","        63","N","        41","N","         8","N","  86.9"," ,N,0425, ","    754.3"," ,N"
+"US1TXFA0010","2020","31.125266","-97.075107","155.1","ROSEBUD 6.9 WNW, TX US","        64","N","        52","N","        12","N"," 132.8"," ,N,0902, ","    944.3"," ,N"
+"US1TXFA0010","2022","31.125266","-97.075107","155.1","ROSEBUD 6.9 WNW, TX US","","","","","","","","","    757.3"," ,N"

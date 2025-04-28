@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"USC00459630","1904","46.233333","-117.05","217.9","ZINDEL, WA US","        46","6","        36","6","         5","6","","","","","","","  39.6"," ,6,0702, ","","","    448.7"," ,6","",""
+"USC00459630","1908","46.233333","-117.05","217.9","ZINDEL, WA US","","","","","","","         2","6","       178","6","        79","6","","","   43.9","6,0731,+","","","     21.34","6"
+"USC00459630","1909","46.233333","-117.05","217.9","ZINDEL, WA US","","","","","","","        28","6","       176","6","        51","6","","","   41.7","6,0819,+","","","     19.05","6"

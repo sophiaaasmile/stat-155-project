@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00417168","1941","30.88333","-103.55","1007.1","POPHAM RANCH, TX US","        70","6","        66","6","         9","6","","","  50.8"," ,6,1024, ","    824.1"," ,6"
+"USC00417168","1942","30.88333","-103.55","1007.1","POPHAM RANCH, TX US","        46","6","        30","6","         3","6","         1"," ","  65.0"," ,6,0831, ","    357.0"," ,6"
+"USC00417168","1945","30.88333","-103.55","1007.1","POPHAM RANCH, TX US","        32","6","        26","6","         5","6","","","  66.0"," ,6,0331, ","    434.4"," ,6"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCAN0037","2020","34.563071","-82.753446","208.5","ANDERSON 6.9 WNW, SC US","       118","N","       102","N","        24","N"," 129.5"," ,N,0207, ","   1938.6"," ,N"
+"US1SCAN0037","2021","34.563071","-82.753446","208.5","ANDERSON 6.9 WNW, SC US","       103","N","        88","N","        15","N","  69.9"," ,N,0702, ","   1396.6"," ,N"
+"US1SCAN0037","2022","34.563071","-82.753446","208.5","ANDERSON 6.9 WNW, SC US","       102","N","        76","N","        15","N","  64.0"," ,N,1215, ","   1157.2"," ,N"
+"US1SCAN0037","2023","34.563071","-82.753446","208.5","ANDERSON 6.9 WNW, SC US","       105","N","        84","N","        19","N"," 106.7"," ,N,0620, ","   1415.7"," ,N"

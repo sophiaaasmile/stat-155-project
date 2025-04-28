@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXWM0073","2010","30.556073","-97.534265","207.0","HUTTO 0.8 NNE, TX US","        84","N","        48","N","         3","N"," 118.6"," ,N,0908, ","    725.3"," ,N"
+"US1TXWM0073","2011","30.556073","-97.534265","207.0","HUTTO 0.8 NNE, TX US","        49","N","        26","N","         5","N","  38.1"," ,N,0109, ","    410.9"," ,N"
+"US1TXWM0073","2012","30.556073","-97.534265","207.0","HUTTO 0.8 NNE, TX US","        68","N","        47","N","        11","N","  61.7"," ,N,0320, ","    786.1"," ,N"

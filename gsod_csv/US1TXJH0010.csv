@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXJH0010","2019","26.900345","-98.921266","170.4","HEBBRONVILLE 32.3 SSW, TX US","        39","N","        20","N","         3","N","  50.0"," ,N,1108, ","    297.1"," ,N"
+"US1TXJH0010","2020","26.900345","-98.921266","170.4","HEBBRONVILLE 32.3 SSW, TX US","        55","N","        30","N","         9","N"," 147.3"," ,N,0727, ","    775.3"," ,N"
+"US1TXJH0010","2022","26.900345","-98.921266","170.4","HEBBRONVILLE 32.3 SSW, TX US","        52","N","        25","N","         3","N"," 153.4"," ,N,0524, ","    430.8"," ,N"
+"US1TXJH0010","2023","26.900345","-98.921266","170.4","HEBBRONVILLE 32.3 SSW, TX US","        44","N","        26","N","         3","N","  62.2"," ,N,1113, ","    399.2"," ,N"

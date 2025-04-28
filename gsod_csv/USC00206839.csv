@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00206839","2019","45.91513","-86.98793","185.9","RAPID RIVER 1 SW, MI US","","","","","","","","","","","         1"," ","","","","","","","","","","","",""
+"USC00206839","2020","45.91513","-86.98793","185.9","RAPID RIVER 1 SW, MI US","        92","7","        65","7","         6","7","       81","","        18","7","         5"," ","         2"," ","   508"," ,7,0220,+","   152"," ,7,0119, ","  51.3"," ,7,0719, ","    839.3"," ,7","     1335"," ,7"
+"USC00206839","2021","45.91513","-86.98793","185.9","RAPID RIVER 1 SW, MI US","","","","","","","","","","","         1"," ","","","","","","","","","","","",""

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYHF","DYHF_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USW00000461","2022","31.64117","-96.51445","166.1","MEXIA LIMESTONE CO AIRPORT, TX US","","","","","","","        19"," ","         8"," ","        19"," ","","","",""
+"USW00000461","2023","31.64117","-96.51445","166.1","MEXIA LIMESTONE CO AIRPORT, TX US","        70","W","        45","W","         8","W","        59"," ","        16"," ","        30"," ","  47.5"," ,W,0426, ","    649.8"," ,W"
+"USW00000461","2024","31.64117","-96.51445","166.1","MEXIA LIMESTONE CO AIRPORT, TX US","","","","","","","        77"," ","        14"," ","        14"," ","","","",""
+"USW00000461","2025","31.64117","-96.51445","166.1","MEXIA LIMESTONE CO AIRPORT, TX US","","","","","","","        29"," ","         3"," ","","","","","",""

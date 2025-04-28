@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VAPC0009","2021","37.24284","-77.23284","37.8","PRINCE GEORGE 3.2 ENE, VA US","       120","N","        87","N","        18","N"," 113.3"," ,N,0709, ","   1524.3"," ,N"
+"US1VAPC0009","2022","37.24284","-77.23284","37.8","PRINCE GEORGE 3.2 ENE, VA US","       119","N","        65","N","        12","N","  53.8"," ,N,1001, ","   1036.5"," ,N"
+"US1VAPC0009","2023","37.24284","-77.23284","37.8","PRINCE GEORGE 3.2 ENE, VA US","       112","N","        69","N","        13","N"," 123.4"," ,N,1211, ","   1298.1"," ,N"
+"US1VAPC0009","2024","37.24284","-77.23284","37.8","PRINCE GEORGE 3.2 ENE, VA US","       142","N","        79","N","        17","N","  77.5"," ,N,0515, ","   1448.1"," ,N"

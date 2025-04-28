@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00110305","2009","40.0009","-89.7172","182.9","ATHENS 2 N, IL US","","","","","        17"," ","         1"," ","","","","","","","",""
+"USC00110305","2010","40.0009","-89.7172","182.9","ATHENS 2 N, IL US","       41","","        10","0","        20"," ","","","   178"," ,0,0112,+","   229"," ,0,0314, ","   1181.9"," ,0","      694"," ,0"
+"USC00110305","2011","40.0009","-89.7172","182.9","ATHENS 2 N, IL US","","","","","         7"," ","","","","","","","","","",""
+"USC00110305","2012","40.0009","-89.7172","182.9","ATHENS 2 N, IL US","","","","","         5"," ","","","","","","","","","",""

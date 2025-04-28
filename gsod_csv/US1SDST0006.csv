@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SDST0006","2021","44.357927","-100.372102","435.3","FORT PIERRE 0.5 SE, SD US","        68","N","        33","N","         0","N","  24.6"," ,N,0827, ","    321.2"," ,N"
+"US1SDST0006","2022","44.357927","-100.372102","435.3","FORT PIERRE 0.5 SE, SD US","        68","N","        36","N","         4","N","  67.3"," ,N,0827, ","    526.0"," ,N"
+"US1SDST0006","2024","44.357927","-100.372102","435.3","FORT PIERRE 0.5 SE, SD US","        91","N","        43","N","         4","N","  53.6"," ,N,0820, ","    510.2"," ,N"

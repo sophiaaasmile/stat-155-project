@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00299342","1946","35.36667","-106.35","1647.1","VAN HUSS RANCH, NM US","        25","6","        23","6","         1","6","","","","","  45.7"," ,6,1102, ","    223.3"," ,6"
+"USC00299342","1947","35.36667","-106.35","1647.1","VAN HUSS RANCH, NM US","","","","","","","","","         1"," ","","","",""
+"USC00299342","1950","35.36667","-106.35","1647.1","VAN HUSS RANCH, NM US","","","","","","","         1"," ","         7"," ","","","",""
+"USC00299342","1951","35.36667","-106.35","1647.1","VAN HUSS RANCH, NM US","","","","","","","         2"," ","","","","","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXCML064","2021","29.79429","-98.06831","245.7","NEW BRAUNFELS 6.9 NNE, TX US","        84","N","        52","N","         9","N"," 138.4"," ,N,1014, ","    995.8"," ,N"
+"US1TXCML064","2022","29.79429","-98.06831","245.7","NEW BRAUNFELS 6.9 NNE, TX US","        51","N","        29","N","         4","N","  53.3"," ,N,0203, ","    365.6"," ,N"
+"US1TXCML064","2024","29.79429","-98.06831","245.7","NEW BRAUNFELS 6.9 NNE, TX US","        71","N","        45","N","        16","N","  90.7"," ,N,0122, ","    942.0"," ,N"

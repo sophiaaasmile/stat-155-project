@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXWS0010","2011","33.263","-97.666","248.7","DECATUR 4.8 WNW, TX US","        60","N","        35","N","        10","N","  95.0"," ,N,1009, ","    678.9"," ,N"
+"US1TXWS0010","2012","33.263","-97.666","248.7","DECATUR 4.8 WNW, TX US","        67","N","        47","N","         6","N","  62.5"," ,N,0311, ","    644.2"," ,N"
+"US1TXWS0010","2013","33.263","-97.666","248.7","DECATUR 4.8 WNW, TX US","        79","N","        51","N","        10","N","  54.9"," ,N,1206, ","    776.2"," ,N"
+"US1TXWS0010","2014","33.263","-97.666","248.7","DECATUR 4.8 WNW, TX US","        70","N","        39","N","        12","N","  79.0"," ,N,0717, ","    738.4"," ,N"

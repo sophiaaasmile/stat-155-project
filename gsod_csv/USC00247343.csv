@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00247343","2021","47.3897","-111.0999","1181.7","SAND COULEE 3 ESE, MT US","","","","","","","        19","7","   102"," ,7,1215,+","","","","","     1084"," ,7"
+"USC00247343","2023","47.3897","-111.0999","1181.7","SAND COULEE 3 ESE, MT US","        57","7","        44","7","         3","7","         9","7","   305"," ,7,0419, ","  33.5"," ,7,0419, ","    413.5"," ,7","     1017"," ,7"
+"USC00247343","2024","47.3897","-111.0999","1181.7","SAND COULEE 3 ESE, MT US","        51","7","        39","7","         3","7","        10","7","   152"," ,7,0207,+","  54.6"," ,7,0508, ","    473.5"," ,7","      862"," ,7"

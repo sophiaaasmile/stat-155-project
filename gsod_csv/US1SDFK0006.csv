@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SDFK0006","2022","45.171466","-98.820589","422.5","CHELSEA 3.8 W, SD US","        83","N","        37","N","         4","N","  68.6"," ,N,0806, ","    545.6"," ,N"
+"US1SDFK0006","2023","45.171466","-98.820589","422.5","CHELSEA 3.8 W, SD US","        75","N","        42","N","         5","N"," 106.7"," ,N,0806, ","    655.0"," ,N"
+"US1SDFK0006","2024","45.171466","-98.820589","422.5","CHELSEA 3.8 W, SD US","        92","N","        42","N","         3","N","  37.6"," ,N,0628, ","    419.4"," ,N"

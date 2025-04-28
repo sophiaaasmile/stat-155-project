@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"USC00506831","1938","63.1667","-156.55",,"OPHIR, AK US","","","","","","","         8"," ","","","","","","","",""
+"USC00506831","1939","63.1667","-156.55",,"OPHIR, AK US","","","","","","","         7"," ","","","","","","","",""
+"USC00506831","1940","63.1667","-156.55",,"OPHIR, AK US","       138","6","        66","6","         0","6","         1"," ","   29.4","6,0801, ","","","","","      5.88","6"
+"USC00506831","1941","63.1667","-156.55",,"OPHIR, AK US","","","","","","","","","","","    7698.4","4","    7698.4","6","",""

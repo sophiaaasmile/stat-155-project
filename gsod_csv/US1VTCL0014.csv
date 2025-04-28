@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VTCL0014","2016","44.53582","-72.02867","309.1","LYNDONVILLE 1.1 W, VT US","","","","","","","","","   1146.4"," ,N"
+"US1VTCL0014","2020","44.53582","-72.02867","309.1","LYNDONVILLE 1.1 W, VT US","       170","N","        84","N","         6","N","  42.2"," ,N,0930, ","    935.5"," ,N"
+"US1VTCL0014","2023","44.53582","-72.02867","309.1","LYNDONVILLE 1.1 W, VT US","       175","N","        99","N","         9","N","  54.6"," ,N,0711, ","   1269.0"," ,N"
+"US1VTCL0014","2024","44.53582","-72.02867","309.1","LYNDONVILLE 1.1 W, VT US","       167","N","        96","N","        11","N","  94.7"," ,N,0711, ","   1307.8"," ,N"

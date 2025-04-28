@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1VAFX0001","2006","38.922127","-77.38015","118.9","HERNDON 3.3 S, VA US","       117","N","        65","N","        13","N","         1","N","   305"," ,N,0212, "," 166.9"," ,N,0626, ","   1227.2"," ,N","      328"," ,N"
+"US1VAFX0001","2007","38.922127","-77.38015","118.9","HERNDON 3.3 S, VA US","        96","N","        63","N","         9","N","         7","N","   107"," ,N,0226, ","  42.9"," ,N,1027, ","    783.3"," ,N","      457"," ,N"

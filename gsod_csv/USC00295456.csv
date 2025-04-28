@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00295456","1944","34.85","-107.45","1769.1","MARMON RANCH, NM US","        30","6","        26","6","         0","6","  22.4"," ,6,0925, ","    230.6"," ,6"
+"USC00295456","1945","34.85","-107.45","1769.1","MARMON RANCH, NM US","        13","6","         9","6","         0","6","  20.3"," ,6,0717, ","    103.0"," ,6"
+"USC00295456","1946","34.85","-107.45","1769.1","MARMON RANCH, NM US","        14","6","        10","6","         1","6","  29.0"," ,6,1103, ","    121.2"," ,6"

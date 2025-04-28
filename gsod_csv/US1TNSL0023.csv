@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TNSL0023","2020","36.543894","-82.480755","464.8","KINGSPORT 4.3 ENE, TN US","       160","N","        94","N","        13","N","  82.3"," ,N,0413, ","   1438.8"," ,N"
+"US1TNSL0023","2021","36.543894","-82.480755","464.8","KINGSPORT 4.3 ENE, TN US","       141","N","        79","N","         7","N","  55.1"," ,N,0328, ","    980.5"," ,N"
+"US1TNSL0023","2022","36.543894","-82.480755","464.8","KINGSPORT 4.3 ENE, TN US","       134","N","        81","N","         9","N","  41.9"," ,N,0507, ","   1153.3"," ,N"
+"US1TNSL0023","2023","36.543894","-82.480755","464.8","KINGSPORT 4.3 ENE, TN US","","","","","","","","","   1214.6"," ,N"

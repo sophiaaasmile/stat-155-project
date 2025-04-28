@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00414564","1948","30.91667","-93.96667","67.1","JASPER 2 E, TX US","","","","","","","","","","","         5"," ","","","","","","","","","","","",""
+"USC00414564","1949","30.91667","-93.96667","67.1","JASPER 2 E, TX US","","","","","","","","","","","        17"," ","        15"," ","","","","","","","","","",""
+"USC00414564","1950","30.91667","-93.96667","67.1","JASPER 2 E, TX US","","","","","","","","","","","        10"," ","         1"," ","","","","","","","","","",""
+"USC00414564","1951","30.91667","-93.96667","67.1","JASPER 2 E, TX US","        88","0","        58","0","        10","0","        0","","         0","0","        35"," ","        43"," ","     0"," ,0,1231,+","     0","T,0,0402, ","  95.0"," ,0,0102, ","   1070.6"," ,0","        0","T,0"

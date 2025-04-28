@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBXR320","2021","29.661978","-98.662494","416.1","CROSS MOUNTAIN 1.2 N, TX US","       102","N","        55","N","        13","N"," 124.5"," ,N,0706, ","   1186.0"," ,N"
+"US1TXBXR320","2022","29.661978","-98.662494","416.1","CROSS MOUNTAIN 1.2 N, TX US","        73","N","        33","N","         2","N","  40.4"," ,N,0629, ","    374.3"," ,N"
+"US1TXBXR320","2023","29.661978","-98.662494","416.1","CROSS MOUNTAIN 1.2 N, TX US","        99","N","        47","N","         6","N","  52.8"," ,N,0513, ","    639.2"," ,N"
+"US1TXBXR320","2024","29.661978","-98.662494","416.1","CROSS MOUNTAIN 1.2 N, TX US","        95","N","        43","N","        10","N","  69.6"," ,N,0723, ","    744.7"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WACK0038","2019","45.71841","-122.682709","58.2","VANCOUVER 5.4 N, WA US","       170","N","        84","N","         3","N","  45.5"," ,N,0212, ","    871.8"," ,N"
+"US1WACK0038","2020","45.71841","-122.682709","58.2","VANCOUVER 5.4 N, WA US","       191","N","       119","N","         3","N","  33.0"," ,N,0128, ","   1018.4"," ,N"
+"US1WACK0038","2021","45.71841","-122.682709","58.2","VANCOUVER 5.4 N, WA US","       186","N","       109","N","         9","N","  53.1"," ,N,0919, ","   1115.8"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VAYR0004","2019","37.3575","-76.701167","24.1","WILLIAMSBURG 6.0 N, VA US","","","","","","","","","   1132.9"," ,N"
+"US1VAYR0004","2020","37.3575","-76.701167","24.1","WILLIAMSBURG 6.0 N, VA US","       136","N","        99","N","        24","N"," 156.5"," ,N,0804, ","   1924.3"," ,N"
+"US1VAYR0004","2022","37.3575","-76.701167","24.1","WILLIAMSBURG 6.0 N, VA US","        94","N","        60","N","        17","N","  88.1"," ,N,0628, ","   1232.9"," ,N"
+"US1VAYR0004","2023","37.3575","-76.701167","24.1","WILLIAMSBURG 6.0 N, VA US","        97","N","        67","N","        16","N"," 104.4"," ,N,0911, ","   1371.7"," ,N"

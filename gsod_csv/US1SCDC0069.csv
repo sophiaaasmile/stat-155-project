@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCDC0069","2020","33.07528","-80.3586","21.6","RIDGEVILLE 3.2 WSW, SC US","       145","N","        88","N","        19","N","  83.1"," ,N,0814, ","   1472.8"," ,N"
+"US1SCDC0069","2021","33.07528","-80.3586","21.6","RIDGEVILLE 3.2 WSW, SC US","       129","N","        85","N","        17","N","  94.2"," ,N,0219, ","   1469.6"," ,N"
+"US1SCDC0069","2022","33.07528","-80.3586","21.6","RIDGEVILLE 3.2 WSW, SC US","       108","N","        80","N","        14","N","  66.5"," ,N,0904, ","   1238.9"," ,N"
+"US1SCDC0069","2023","33.07528","-80.3586","21.6","RIDGEVILLE 3.2 WSW, SC US","       120","N","        81","N","        19","N","  93.5"," ,N,0831, ","   1466.9"," ,N"

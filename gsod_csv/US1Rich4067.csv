@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1Rich4067","2019","40.17282169","-95.93977096",,"HUMBOLDT 0.54 NNE, NE US","       111","N","        69","N","        11","N","  61.5"," ,N,0816, ","   1064.3"," ,N"
+"US1Rich4067","2022","40.17282169","-95.93977096",,"HUMBOLDT 0.54 NNE, NE US","        72","N","        37","N","         8","N","  34.8"," ,N,0707, ","    563.8"," ,N"
+"US1Rich4067","2023","40.17282169","-95.93977096",,"HUMBOLDT 0.54 NNE, NE US","        87","N","        58","N","         5","N","  72.4"," ,N,0420, ","    737.2"," ,N"
+"US1Rich4067","2024","40.17282169","-95.93977096",,"HUMBOLDT 0.54 NNE, NE US","        86","N","        57","N","         7","N","  62.5"," ,N,1031, ","    763.6"," ,N"

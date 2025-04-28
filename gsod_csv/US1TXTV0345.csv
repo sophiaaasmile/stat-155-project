@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTV0345","2020","30.4309","-97.8315","274.3","ANDERSON MILL 2.3 SW, TX US","","","","","","","","","    689.3"," ,N"
+"US1TXTV0345","2021","30.4309","-97.8315","274.3","ANDERSON MILL 2.3 SW, TX US","       109","N","        54","N","        11","N"," 112.0"," ,N,0929, ","    995.7"," ,N"
+"US1TXTV0345","2022","30.4309","-97.8315","274.3","ANDERSON MILL 2.3 SW, TX US","        75","N","        33","N","         7","N","  54.1"," ,N,0828, ","    591.8"," ,N"
+"US1TXTV0345","2023","30.4309","-97.8315","274.3","ANDERSON MILL 2.3 SW, TX US","        84","N","        49","N","        11","N","  60.5"," ,N,0421, ","    772.2"," ,N"
+"US1TXTV0345","2024","30.4309","-97.8315","274.3","ANDERSON MILL 2.3 SW, TX US","        83","N","        42","N","         8","N","  58.4"," ,N,1105, ","    674.6"," ,N"

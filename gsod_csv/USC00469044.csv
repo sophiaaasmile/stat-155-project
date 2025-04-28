@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00469044","1947","39.23333","-80.45","326.1","UPPER SYCAMORE CREEK, WV US","       143","6","        93","6","         6","6","","","","","","","","","  61.2"," ,6,0728, ","    940.5"," ,6","",""
+"USC00469044","1949","39.23333","-80.45","326.1","UPPER SYCAMORE CREEK, WV US","       109","0","        78","0","         7","0","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","  79.2"," ,0,0816, ","   1056.0"," ,0","        0"," ,0"

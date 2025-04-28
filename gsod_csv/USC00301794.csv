@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00301794","1986","42.13333","-77.15","317.0","CORNING 5 W, NY US","","","","","","","        19"," ","         6"," ","","","",""
+"USC00301794","1987","42.13333","-77.15","317.0","CORNING 5 W, NY US","       135","0","        77","0","         2","0","        57"," ","        23"," ","  30.5"," ,0,0703, ","    710.5"," ,0"
+"USC00301794","1988","42.13333","-77.15","317.0","CORNING 5 W, NY US","","","","","","","        40"," ","        12"," ","","","",""

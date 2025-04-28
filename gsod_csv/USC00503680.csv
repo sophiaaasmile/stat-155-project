@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00503680","1974","59.7","-151.31667","85.0","HOMER RESEARCH CENTE, AK US","","","","","","","","","         1"," ","","","","","","","",""
+"USC00503680","1976","59.7","-151.31667","85.0","HOMER RESEARCH CENTE, AK US","       137","0","        79","0","         3","0","        21","0","         1"," ","   180"," ,0,0327, ","  29.0"," ,0,1113, ","    715.7"," ,0","     1670"," ,0"
+"USC00503680","1978","59.7","-151.31667","85.0","HOMER RESEARCH CENTE, AK US","","","","","","","","","         1"," ","","","","","","","",""

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXHRS017","2019","32.53113","-94.29744","109.1","MARSHALL 3.1 E, TX US","       100","N","        71","N","        19","N"," 110.7"," ,N,0509, ","   1327.3"," ,N"
+"US1TXHRS017","2020","32.53113","-94.29744","109.1","MARSHALL 3.1 E, TX US","       123","N","        76","N","        24","N","  66.0"," ,N,0903, ","   1463.9"," ,N"
+"US1TXHRS017","2021","32.53113","-94.29744","109.1","MARSHALL 3.1 E, TX US","       103","N","        68","N","        14","N"," 132.3"," ,N,0511, ","   1240.6"," ,N"
+"US1TXHRS017","2022","32.53113","-94.29744","109.1","MARSHALL 3.1 E, TX US","        91","N","        54","N","        13","N","  77.5"," ,N,0823, ","   1079.1"," ,N"

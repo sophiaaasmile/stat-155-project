@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"UY000002164","1990","-33.21","-56.0","124.0","VILLA DEL CARMEN PART, UY","        69","I","        65","I","        19","I"," 127.0"," ,I,0215, ","   1488.0"," ,I"
+"UY000002164","1991","-33.21","-56.0","124.0","VILLA DEL CARMEN PART, UY","        64","I","        61","I","        11","I","  77.0"," ,I,1023, ","    971.0"," ,I"
+"UY000002164","1996","-33.21","-56.0","124.0","VILLA DEL CARMEN PART, UY","         8","I","         7","I","         3","I","  82.0"," ,I,0425, ","    245.0"," ,I"
+"UY000002164","1997","-33.21","-56.0","124.0","VILLA DEL CARMEN PART, UY","         9","I","         9","I","         4","I","  43.0"," ,I,0519, ","    215.0"," ,I"
+"UY000002164","1998","-33.21","-56.0","124.0","VILLA DEL CARMEN PART, UY","         8","I","         8","I","         5","I","  72.0"," ,I,0616, ","    306.0"," ,I"

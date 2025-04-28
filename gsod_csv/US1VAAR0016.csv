@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VAAR0016","2022","38.892","-77.1617","109.7","ARLINGTON 3.3 WNW, VA US","       123","N","        86","N","        13","N","  60.7"," ,N,0623, ","   1235.1"," ,N"
+"US1VAAR0016","2023","38.892","-77.1617","109.7","ARLINGTON 3.3 WNW, VA US","       112","N","        66","N","        10","N","  67.8"," ,N,1218, ","   1105.2"," ,N"
+"US1VAAR0016","2024","38.892","-77.1617","109.7","ARLINGTON 3.3 WNW, VA US","       120","N","        77","N","         5","N","  65.8"," ,N,0110, ","    977.4"," ,N"

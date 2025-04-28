@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBLC047","2022","30.040568","-98.382508","410.3","BLANCO 4.7 SSE, TX US","        68","N","        39","N","         3","N","  40.4"," ,N,0525, ","    445.2"," ,N"
+"US1TXBLC047","2023","30.040568","-98.382508","410.3","BLANCO 4.7 SSE, TX US","        89","N","        44","N","         6","N","  65.0"," ,N,0513, ","    593.5"," ,N"
+"US1TXBLC047","2024","30.040568","-98.382508","410.3","BLANCO 4.7 SSE, TX US","        78","N","        51","N","         9","N"," 115.1"," ,N,1105, ","    933.6"," ,N"

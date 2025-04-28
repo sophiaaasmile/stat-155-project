@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00030118","1946","34.23333","-93.28333","121.9","ALPINE, AR US","        64","6","        63","6","        29","6","","","","","","","","","","","",""," 147.3"," ,6,0429, ","   1872.5"," ,6","",""
+"USC00030118","1948","34.23333","-93.28333","121.9","ALPINE, AR US","","","","","","","","","","","        34"," ","        44"," ","","","","","","","","","",""
+"USC00030118","1949","34.23333","-93.28333","121.9","ALPINE, AR US","","","","","","","        0","","         0","0","        31"," ","        45"," ","     0"," ,0,1231,+","     8"," ,0,0131, ","","","   1557.5"," ,0","        8"," ,0"

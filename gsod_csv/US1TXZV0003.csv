@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXZV0003","2009","28.8853","-99.8555","217.0","PALOMO LODGE, TX US","        19","N","        19","N","         6","N","  53.3"," ,N,0516, ","    383.7"," ,N"
+"US1TXZV0003","2010","28.8853","-99.8555","217.0","PALOMO LODGE, TX US","","","","","","","","","    475.5"," ,N"
+"US1TXZV0003","2014","28.8853","-99.8555","217.0","PALOMO LODGE, TX US","        10","N","        10","N","         1","N","  25.4"," ,N,1122, ","    284.5"," ,N"

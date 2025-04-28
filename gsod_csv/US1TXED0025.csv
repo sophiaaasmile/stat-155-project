@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXED0025","2016","29.92843","-100.20705","697.1","ROCKSPRINGS 6.2 S, TX US","        71","N","        40","N","         8","N"," 163.1"," ,N,0926, ","    791.2"," ,N"
+"US1TXED0025","2018","29.92843","-100.20705","697.1","ROCKSPRINGS 6.2 S, TX US","        70","N","        45","N","        11","N"," 127.0"," ,N,1008, ","   1025.1"," ,N"
+"US1TXED0025","2019","29.92843","-100.20705","697.1","ROCKSPRINGS 6.2 S, TX US","        62","N","        31","N","         6","N","  90.9"," ,N,0604, ","    570.9"," ,N"

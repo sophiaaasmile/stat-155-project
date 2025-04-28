@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXVV0037","2021","29.68617","-101.17183","484.3","COMSTOCK 0.2 NE, TX US","        46","N","        24","N","         1","N","  27.2"," ,N,0529, ","    272.3"," ,N"
+"US1TXVV0037","2023","29.68617","-101.17183","484.3","COMSTOCK 0.2 NE, TX US","        50","N","        25","N","         3","N","  53.1"," ,N,0528, ","    429.6"," ,N"
+"US1TXVV0037","2024","29.68617","-101.17183","484.3","COMSTOCK 0.2 NE, TX US","        35","N","        13","N","         3","N","  56.1"," ,N,0903, ","    209.8"," ,N"

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WYJN0013","2006","43.93943","-106.75267","1541.1","KAYCEE 17 NNW, WY US","        71","N","        39","N","         0","N","        20","N","   132"," ,N,0215, ","  20.8"," ,N,0524, ","    281.6"," ,N","     1358"," ,N"
+"US1WYJN0013","2007","43.93943","-106.75267","1541.1","KAYCEE 17 NNW, WY US","        92","N","        39","N","         1","N","        20","N","   203"," ,N,0329, ","  36.8"," ,N,0607, ","    371.7"," ,N","     1627"," ,N"

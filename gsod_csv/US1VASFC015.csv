@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VASFC015","2018","36.744094","-76.565752","7.3","SUFFOLK 4.9 NE, VA US","       155","N","        87","N","        15","N","  54.1"," ,N,0506, ","   1281.9"," ,N"
+"US1VASFC015","2019","36.744094","-76.565752","7.3","SUFFOLK 4.9 NE, VA US","       131","N","        83","N","        13","N","  48.8"," ,N,0608, ","   1256.0"," ,N"
+"US1VASFC015","2020","36.744094","-76.565752","7.3","SUFFOLK 4.9 NE, VA US","       146","N","        87","N","        18","N"," 106.9"," ,N,0918, ","   1481.9"," ,N"

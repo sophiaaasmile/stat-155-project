@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00417195","2014","27.87652","-97.31643","9.1","PORTLAND, TX US","","","","","","","","","","","         1"," ","         1"," ","","","","","","","","","",""
+"USC00417195","2015","27.87652","-97.31643","9.1","PORTLAND, TX US","       102","7","        54","7","        15","7","        0","","         0","7","         3"," ","         4"," ","     0"," ,7,1231,+","     0"," ,7,1231,+","  65.3"," ,7,0912, ","   1082.3"," ,7","        0"," ,7"
+"USC00417195","2016","27.87652","-97.31643","9.1","PORTLAND, TX US","","","","","","","","","","","         1"," ","         5"," ","","","","","","","","","",""
+"USC00417195","2021","27.87652","-97.31643","9.1","PORTLAND, TX US","","","","","","","","","","","         2"," ","        14"," ","","","","","","","","","",""

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WIDA0013","2020","43.0623","-89.4565","285.0","MADISON 3.7 WSW, WI US","       119","N","        69","N","         9","N","  66.3"," ,N,1023, ","   1008.6"," ,N"
+"US1WIDA0013","2021","43.0623","-89.4565","285.0","MADISON 3.7 WSW, WI US","       111","N","        55","N","         4","N","  42.9"," ,N,0618, ","    728.3"," ,N"
+"US1WIDA0013","2022","43.0623","-89.4565","285.0","MADISON 3.7 WSW, WI US","       129","N","        65","N","        10","N","  54.9"," ,N,0912, ","    959.9"," ,N"
+"US1WIDA0013","2023","43.0623","-89.4565","285.0","MADISON 3.7 WSW, WI US","       136","N","        69","N","         6","N","  70.1"," ,N,0729, ","    842.3"," ,N"

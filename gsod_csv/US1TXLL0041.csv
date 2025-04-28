@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXLL0041","2020","30.585716","-98.703786","380.7","LLANO 11.6 S, TX US","        94","N","        41","N","         7","N","  74.9"," ,N,0516, ","    690.3"," ,N"
+"US1TXLL0041","2023","30.585716","-98.703786","380.7","LLANO 11.6 S, TX US","        88","N","        45","N","         7","N","  64.3"," ,N,0513, ","    679.1"," ,N"
+"US1TXLL0041","2024","30.585716","-98.703786","380.7","LLANO 11.6 S, TX US","        79","N","        39","N","         7","N"," 101.3"," ,N,0904, ","    727.4"," ,N"

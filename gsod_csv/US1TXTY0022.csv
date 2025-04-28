@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTY0022","2018","32.2615","-100.015","666.6","TUSCOLA 13.1 WNW, TX US","        81","N","        51","N","        18","N","  87.4"," ,N,1009, ","   1025.9"," ,N"
+"US1TXTY0022","2019","32.2615","-100.015","666.6","TUSCOLA 13.1 WNW, TX US","        68","N","        43","N","         7","N","  95.5"," ,N,0424, ","    645.5"," ,N"
+"US1TXTY0022","2020","32.2615","-100.015","666.6","TUSCOLA 13.1 WNW, TX US","        57","N","        35","N","         6","N"," 109.2"," ,N,0909, ","    646.0"," ,N"

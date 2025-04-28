@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00518968","1950","20.86667","-156.2","366.1","WAIKAMOI 449, HI US","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","        0"," ,0"
+"USC00518968","1951","20.86667","-156.2","366.1","WAIKAMOI 449, HI US","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","        0"," ,0"
+"USC00518968","1952","20.86667","-156.2","366.1","WAIKAMOI 449, HI US","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","        0"," ,0"

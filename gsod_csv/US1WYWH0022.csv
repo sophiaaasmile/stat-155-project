@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WYWH0022","2022","44.1435","-107.9397","1232.3","WORLAND 9.6 N, WY US","        38","N","        25","N","         1","N","  25.4"," ,N,0429, ","    207.4"," ,N"
+"US1WYWH0022","2023","44.1435","-107.9397","1232.3","WORLAND 9.6 N, WY US","        45","N","        31","N","         2","N","  29.2"," ,N,0611, ","    235.8"," ,N"
+"US1WYWH0022","2024","44.1435","-107.9397","1232.3","WORLAND 9.6 N, WY US","        38","N","        23","N","         0","N","  19.3"," ,N,0407, ","    165.1"," ,N"

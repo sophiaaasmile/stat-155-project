@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00292810","1950","35.28333","-105.26667","1708.1","EL PUEBLO PROJECT, NM US","","","","","","","","","         1"," ","","","","","","","","","",""
+"USC00292810","1951","35.28333","-105.26667","1708.1","EL PUEBLO PROJECT, NM US","        54","0","        22","0","         2","0","         7","0","","","        22"," ","    97"," ,0,1220, ","  49.8"," ,0,0712, ","    254.9"," ,0","      350"," ,0"
+"USC00292810","1952","35.28333","-105.26667","1708.1","EL PUEBLO PROJECT, NM US","","","","","","","","","         1"," ","","","","","","","","","",""

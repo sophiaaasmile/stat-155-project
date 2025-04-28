@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXNU0010","2016","27.661316","-97.303112","5.2","FLOUR BLUFF 1.6 SW, TX US","        72","N","        36","N","         7","N"," 341.4"," ,N,0516, ","    934.9"," ,N"
+"US1TXNU0010","2017","27.661316","-97.303112","5.2","FLOUR BLUFF 1.6 SW, TX US","        77","N","        43","N","         5","N","  76.7"," ,N,0826,+","    606.2"," ,N"
+"US1TXNU0010","2018","27.661316","-97.303112","5.2","FLOUR BLUFF 1.6 SW, TX US","        83","N","        48","N","        15","N"," 157.5"," ,N,0620, ","   1276.1"," ,N"

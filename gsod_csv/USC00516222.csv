@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00516222","2006","21.35083","-157.76667","127.7","MAUNAWILI 787.1, HI US","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","        0"," ,0"
+"USC00516222","2007","21.35083","-157.76667","127.7","MAUNAWILI 787.1, HI US","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","        0"," ,0"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"VQ1VISJ0003","2019","18.3552498","-64.7653387","32.0","WINDSWEPT BEACH, VI VQ","       166","N","        77","N","         9","N","  97.0"," ,N,0828, ","   1010.4"," ,N"
+"VQ1VISJ0003","2020","18.3552498","-64.7653387","32.0","WINDSWEPT BEACH, VI VQ","       201","N","       105","N","         7","N","  67.8"," ,N,1017, ","   1135.6"," ,N"
+"VQ1VISJ0003","2021","18.3552498","-64.7653387","32.0","WINDSWEPT BEACH, VI VQ","       197","N","        76","N","         7","N","  99.8"," ,N,1014, ","    938.0"," ,N"
+"VQ1VISJ0003","2022","18.3552498","-64.7653387","32.0","WINDSWEPT BEACH, VI VQ","       227","N","        95","N","         9","N","  84.8"," ,N,1026, ","   1182.8"," ,N"

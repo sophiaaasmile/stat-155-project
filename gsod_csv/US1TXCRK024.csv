@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXCRK024","2013","30.42483","-101.1596","649.5","OZONA 19.6 S, TX US","        50","N","        27","N","         4","N","  94.2"," ,N,0920, ","    561.1"," ,N"
+"US1TXCRK024","2014","30.42483","-101.1596","649.5","OZONA 19.6 S, TX US","        39","N","        24","N","         5","N","  46.7"," ,N,0525, ","    392.3"," ,N"
+"US1TXCRK024","2015","30.42483","-101.1596","649.5","OZONA 19.6 S, TX US","        65","N","        37","N","         6","N","  56.9"," ,N,1024, ","    595.3"," ,N"

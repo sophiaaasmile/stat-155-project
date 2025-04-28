@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"UY000001869","1996","-32.64","-56.34","49.0","CARDOZO, UY","        48","I","        43","I","        10","I"," 110.0"," ,I,0415, ","    899.0"," ,I"
+"UY000001869","1997","-32.64","-56.34","49.0","CARDOZO, UY","        56","I","        48","I","        12","I"," 103.0"," ,I,1213, ","   1016.0"," ,I"
+"UY000001869","1998","-32.64","-56.34","49.0","CARDOZO, UY","        49","I","        47","I","        17","I"," 104.0"," ,I,0616, ","   1259.0"," ,I"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00116703","2006","40.6915","-89.6668","192.0","PEORIA AIRPORT 3 SW, IL US","       13","","        10"," ","","","   203"," ,0,1203,+","    840.7"," ,0"
+"USC00116703","2007","40.6915","-89.6668","192.0","PEORIA AIRPORT 3 SW, IL US","","","         2"," ","","","","","",""
+"USC00116703","2008","40.6915","-89.6668","192.0","PEORIA AIRPORT 3 SW, IL US","","","         2"," ","","","","","",""
+"USC00116703","2009","40.6915","-89.6668","192.0","PEORIA AIRPORT 3 SW, IL US","","","         1"," ","        14"," ","","","",""

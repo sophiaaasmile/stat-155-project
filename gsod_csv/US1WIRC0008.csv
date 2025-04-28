@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WIRC0008","2018","42.82344","-88.165488","242.6","WIND LAKE 0.4 W, WI US","","","","","","","","","","","","","   1010.2"," ,N","",""
+"US1WIRC0008","2020","42.82344","-88.165488","242.6","WIND LAKE 0.4 W, WI US","        88","N","        62","N","        14","N","","","","","  65.0"," ,N,0710, ","   1014.8"," ,N","",""
+"US1WIRC0008","2022","42.82344","-88.165488","242.6","WIND LAKE 0.4 W, WI US","        91","N","        53","N","         5","N","        14","N","   127"," ,N,0225, ","  85.9"," ,N,0912, ","    756.0"," ,N","      914"," ,N"

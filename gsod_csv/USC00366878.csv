@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00366878","2019","39.96056","-75.14263","4.9","PHILADELPHIA CENTER CITY, PA US","        4","","         5","7","    76"," ,7,0301, ","    76"," ,7,0301, ","      303"," ,7"
+"USC00366878","2020","39.96056","-75.14263","4.9","PHILADELPHIA CENTER CITY, PA US","        4","","         1","7","   152"," ,7,1216, ","   160"," ,7,1216, ","      173"," ,7"
+"USC00366878","2021","39.96056","-75.14263","4.9","PHILADELPHIA CENTER CITY, PA US","       12","","         6","7","   152"," ,7,0201, ","    97"," ,7,0201, ","      439"," ,7"
+"USC00366878","2023","39.96056","-75.14263","4.9","PHILADELPHIA CENTER CITY, PA US","        0","","         0","7","     0","T,7,0201, ","     8"," ,7,0201, ","        8"," ,7"
+"USC00366878","2024","39.96056","-75.14263","4.9","PHILADELPHIA CENTER CITY, PA US","        9","","         4","7","   127"," ,7,0120, ","   117"," ,7,0119, ","      293"," ,7"

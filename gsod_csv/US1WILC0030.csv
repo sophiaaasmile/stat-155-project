@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WILC0030","2022","43.8919","-91.1815","242.3","ONALASKA 1.9 E, WI US","       118","N","        72","N","         7","N","        18","N","   114"," ,N,1215, ","  57.9"," ,N,0520, ","    879.6"," ,N","     1140"," ,N"
+"US1WILC0030","2023","43.8919","-91.1815","242.3","ONALASKA 1.9 E, WI US","       115","N","        67","N","         7","N","        11","N","   356"," ,N,0417, ","  37.6"," ,N,0417, ","    768.5"," ,N","     1423"," ,N"
+"US1WILC0030","2024","43.8919","-91.1815","242.3","ONALASKA 1.9 E, WI US","       103","N","        73","N","        10","N","        14","N","   178"," ,N,0113, ","  71.6"," ,N,0714, ","   1047.1"," ,N","     1092"," ,N"

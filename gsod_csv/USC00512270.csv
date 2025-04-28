@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00512270","1985","20.2","-155.83333","548.9","KAAUHUHU, HI US","","","","","        11"," ","","","","","","","","","",""
+"USC00512270","1986","20.2","-155.83333","548.9","KAAUHUHU, HI US","        0","","         0","0","        12"," ","         2"," ","     0"," ,0,1231,+","     0"," ,0,1231,+","   2558.0"," ,0","        0"," ,0"

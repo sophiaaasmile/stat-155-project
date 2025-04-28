@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00171870","1951","45.23333","-70.2","353.9","DEAD RIVER 26 N, ME US","","","","","","","","","        14"," ","         7"," ","","","","","","","",""
+"USC00171870","1952","45.23333","-70.2","353.9","DEAD RIVER 26 N, ME US","       112","0","        76","0","         9","0","        29","0","        18"," ","         8"," ","   292"," ,0,1224, ","  59.4"," ,0,1213, ","    936.4"," ,0","     2876"," ,0"

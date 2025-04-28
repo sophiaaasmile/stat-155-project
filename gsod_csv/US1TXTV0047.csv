@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTV0047","2011","30.31417","-97.67283","167.0","AUSTIN 4.7 E JORDANPK, TX US","        46","N","        23","N","         7","N","  81.3"," ,N,0513, ","    462.8"," ,N"
+"US1TXTV0047","2015","30.31417","-97.67283","167.0","AUSTIN 4.7 E JORDANPK, TX US","       103","N","        70","N","        16","N"," 135.4"," ,N,0618, ","   1506.4"," ,N"
+"US1TXTV0047","2016","30.31417","-97.67283","167.0","AUSTIN 4.7 E JORDANPK, TX US","        93","N","        58","N","        15","N","  64.8"," ,N,0309, ","   1051.9"," ,N"
+"US1TXTV0047","2017","30.31417","-97.67283","167.0","AUSTIN 4.7 E JORDANPK, TX US","        82","N","        39","N","        14","N"," 113.5"," ,N,0827, ","    975.7"," ,N"
+"US1TXTV0047","2018","30.31417","-97.67283","167.0","AUSTIN 4.7 E JORDANPK, TX US","        92","N","        49","N","         9","N","  97.5"," ,N,0328, ","    976.3"," ,N"

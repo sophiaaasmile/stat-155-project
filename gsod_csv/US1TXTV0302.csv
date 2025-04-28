@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTV0302","2018","30.381451","-97.929518","208.8","LAKEWAY 3.1 ENE, TX US","        85","N","        54","N","        11","N"," 131.6"," ,N,1016, ","   1311.0"," ,N"
+"US1TXTV0302","2020","30.381451","-97.929518","208.8","LAKEWAY 3.1 ENE, TX US","        86","N","        50","N","         8","N","  58.2"," ,N,0910, ","    732.4"," ,N"
+"US1TXTV0302","2021","30.381451","-97.929518","208.8","LAKEWAY 3.1 ENE, TX US","        79","N","        51","N","        13","N"," 130.0"," ,N,0929, ","   1197.3"," ,N"
+"US1TXTV0302","2023","30.381451","-97.929518","208.8","LAKEWAY 3.1 ENE, TX US","        67","N","        37","N","         5","N","  46.7"," ,N,0513, ","    509.9"," ,N"

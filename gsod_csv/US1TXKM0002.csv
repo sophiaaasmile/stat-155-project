@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXKM0002","2014","30.5695","-99.5996","491.0","JUNCTION 11.6 ENE, TX US","        56","N","        29","N","        11","N","  96.0"," ,N,0817, ","    635.0"," ,N"
+"US1TXKM0002","2020","30.5695","-99.5996","491.0","JUNCTION 11.6 ENE, TX US","        69","N","        39","N","         6","N","  43.2"," ,N,0404, ","    586.8"," ,N"
+"US1TXKM0002","2021","30.5695","-99.5996","491.0","JUNCTION 11.6 ENE, TX US","        66","N","        36","N","         7","N","  53.8"," ,N,1001, ","    564.5"," ,N"
+"US1TXKM0002","2023","30.5695","-99.5996","491.0","JUNCTION 11.6 ENE, TX US","        65","N","        34","N","         2","N"," 118.1"," ,N,1026, ","    476.4"," ,N"

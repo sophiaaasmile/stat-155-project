@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1VAAG0008","2017","38.1309","-79.0559","492.9","STAUNTON 2.0 S, VA US","","","","","","","","","         4","N","","","    51"," ,N,1210,+","","","    855.8"," ,N","      197"," ,N"
+"US1VAAG0008","2018","38.1309","-79.0559","492.9","STAUNTON 2.0 S, VA US","       129","N","        86","N","        13","N","       11","","         7","N","   241"," ,N,0322,+","   241"," ,N,0321, ","  65.3"," ,N,0416, ","   1277.8"," ,N","      828"," ,N"

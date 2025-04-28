@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBXR474","2022","29.5363","-98.4318","222.2","SAN ANTONIO 7.0 NE, TX US","        81","N","        33","N","         4","N","  44.5"," ,N,0203, ","    421.6"," ,N"
+"US1TXBXR474","2023","29.5363","-98.4318","222.2","SAN ANTONIO 7.0 NE, TX US","        87","N","        48","N","         3","N","  63.0"," ,N,0513, ","    557.4"," ,N"
+"US1TXBXR474","2024","29.5363","-98.4318","222.2","SAN ANTONIO 7.0 NE, TX US","        76","N","        44","N","         6","N","  76.7"," ,N,0122, ","    622.5"," ,N"

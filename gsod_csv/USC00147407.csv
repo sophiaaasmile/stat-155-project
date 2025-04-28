@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00147407","1993","38.2736","-95.6378","342.0","SHARPE 3 E, KS US","        59","6","        56","6","        13","6","","","","","","","","","  99.6"," ,6,0722, ","   1143.7"," ,6","",""
+"USC00147407","1994","38.2736","-95.6378","342.0","SHARPE 3 E, KS US","        56","6","        54","6","        15","6","","","","","","","","","  83.1"," ,6,0429, ","    939.1"," ,6","",""
+"USC00147407","2017","38.2736","-95.6378","342.0","SHARPE 3 E, KS US","        62","7","        50","7","        12","7","        4","","         2","7","    51"," ,7,0105, ","    38"," ,7,0105, ","  57.4"," ,7,1022, ","    874.6"," ,7","       63"," ,7"

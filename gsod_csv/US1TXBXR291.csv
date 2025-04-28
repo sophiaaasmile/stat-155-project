@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBXR291","2015","29.4873","-98.3157","221.3","CONVERSE 1.8 S, TX US","       103","N","        57","N","        16","N","  78.2"," ,N,0524, ","   1096.2"," ,N"
+"US1TXBXR291","2016","29.4873","-98.3157","221.3","CONVERSE 1.8 S, TX US","        96","N","        54","N","        17","N"," 104.1"," ,N,0602, ","   1264.0"," ,N"
+"US1TXBXR291","2017","29.4873","-98.3157","221.3","CONVERSE 1.8 S, TX US","        74","N","        42","N","        11","N","  74.2"," ,N,0808, ","    706.0"," ,N"
+"US1TXBXR291","2018","29.4873","-98.3157","221.3","CONVERSE 1.8 S, TX US","        97","N","        54","N","         8","N","  59.9"," ,N,0223, ","    828.8"," ,N"

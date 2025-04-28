@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1UTSL0070","2012","40.70699","-112.108288","1316.4","MAGNA 1.2 W, UT US","        56","N","        40","N","         3","N","  34.0"," ,N,0122, ","    422.4"," ,N"
+"US1UTSL0070","2013","40.70699","-112.108288","1316.4","MAGNA 1.2 W, UT US","        69","N","        40","N","         1","N","  36.3"," ,N,0914, ","    405.5"," ,N"
+"US1UTSL0070","2014","40.70699","-112.108288","1316.4","MAGNA 1.2 W, UT US","        90","N","        57","N","         1","N","  30.7"," ,N,0508, ","    524.3"," ,N"

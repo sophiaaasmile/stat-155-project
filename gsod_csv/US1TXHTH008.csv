@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXHTH008","2020","35.6690744","-101.39528","944.9","BORGER 0.7 NNE, TX US","        64","N","        33","N","         1","N","  27.2"," ,N,0620, ","    321.1"," ,N"
+"US1TXHTH008","2021","35.6690744","-101.39528","944.9","BORGER 0.7 NNE, TX US","        58","N","        34","N","         3","N","  46.7"," ,N,0630, ","    396.5"," ,N"
+"US1TXHTH008","2023","35.6690744","-101.39528","944.9","BORGER 0.7 NNE, TX US","        74","N","        40","N","         6","N","  54.4"," ,N,0515, ","    603.1"," ,N"

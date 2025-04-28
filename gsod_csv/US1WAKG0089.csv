@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WAKG0089","2009","47.691382","-122.361881","80.8","SEATTLE 5.0 NNW, WA US","       154","N","        90","N","         9","N","  34.3"," ,N,1117, ","    928.1"," ,N"
+"US1WAKG0089","2011","47.691382","-122.361881","80.8","SEATTLE 5.0 NNW, WA US","       204","N","        91","N","         4","N","  46.5"," ,N,1123, ","    930.4"," ,N"
+"US1WAKG0089","2012","47.691382","-122.361881","80.8","SEATTLE 5.0 NNW, WA US","       211","N","       104","N","         5","N","  55.4"," ,N,1120, ","   1196.2"," ,N"
+"US1WAKG0089","2013","47.691382","-122.361881","80.8","SEATTLE 5.0 NNW, WA US","       209","N","        75","N","         4","N","  36.3"," ,N,0906, ","    692.2"," ,N"

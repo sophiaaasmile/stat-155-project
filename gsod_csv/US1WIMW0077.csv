@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WIMW0077","2022","42.948459","-88.025246","220.7","GREENDALE 1.5 NW, WI US","       115","N","        63","N","         6","N","  97.5"," ,N,0912, ","    806.0"," ,N"
+"US1WIMW0077","2023","42.948459","-88.025246","220.7","GREENDALE 1.5 NW, WI US","       124","N","        67","N","         6","N","  64.5"," ,N,0815, ","    823.1"," ,N"
+"US1WIMW0077","2024","42.948459","-88.025246","220.7","GREENDALE 1.5 NW, WI US","       128","N","        76","N","         9","N","  57.2"," ,N,0802, ","   1033.5"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VACSC017","2020","36.749088","-76.209846","7.3","CHESAPEAKE 7.3 NE, VA US","       124","N","        97","N","        17","N"," 123.2"," ,N,0918, ","   1726.1"," ,N"
+"US1VACSC017","2021","36.749088","-76.209846","7.3","CHESAPEAKE 7.3 NE, VA US","       117","N","        86","N","        16","N","  58.4"," ,N,0728, ","   1334.2"," ,N"
+"US1VACSC017","2022","36.749088","-76.209846","7.3","CHESAPEAKE 7.3 NE, VA US","       108","N","        81","N","         8","N"," 101.6"," ,N,1001, ","   1144.6"," ,N"
+"US1VACSC017","2023","36.749088","-76.209846","7.3","CHESAPEAKE 7.3 NE, VA US","       116","N","        77","N","        15","N","  89.9"," ,N,0923, ","   1375.9"," ,N"

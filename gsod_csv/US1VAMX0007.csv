@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VAMX0007","2022","37.5426","-76.4971","3.7","HARTFIELD 2.9 W, VA US","       117","N","        71","N","        17","N","  81.3"," ,N,0716, ","   1273.8"," ,N"
+"US1VAMX0007","2023","37.5426","-76.4971","3.7","HARTFIELD 2.9 W, VA US","       105","N","        68","N","        15","N","  67.1"," ,N,1218, ","   1212.2"," ,N"
+"US1VAMX0007","2024","37.5426","-76.4971","3.7","HARTFIELD 2.9 W, VA US","       115","N","        71","N","        15","N","  63.2"," ,N,0928, ","   1249.0"," ,N"

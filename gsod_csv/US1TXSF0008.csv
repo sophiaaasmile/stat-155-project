@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXSF0008","2010","32.80463","-99.46789","545.0","ALBANY 11.4 WNW, TX US","        34","N","        31","N","         8","N","  63.5"," ,N,0615, ","    594.2"," ,N"
+"US1TXSF0008","2014","32.80463","-99.46789","545.0","ALBANY 11.4 WNW, TX US","        34","N","        28","N","         6","N","  61.0"," ,N,0918, ","    497.1"," ,N"
+"US1TXSF0008","2015","32.80463","-99.46789","545.0","ALBANY 11.4 WNW, TX US","        55","N","        52","N","        15","N","  81.3"," ,N,1022, ","   1004.6"," ,N"

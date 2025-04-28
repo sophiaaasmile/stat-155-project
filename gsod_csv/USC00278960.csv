@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00278960","1921","43.95","-71.5","458.1","WATERVILLE VALLEY, NH US","       117","6","       100","6","         9","6","","","         1"," ","  41.9"," ,6,0401, ","   1070.1"," ,6"
+"USC00278960","1922","43.95","-71.5","458.1","WATERVILLE VALLEY, NH US","","","","","","","","","         1"," ","","","",""
+"USC00278960","1932","43.95","-71.5","458.1","WATERVILLE VALLEY, NH US","","","","","","","         1"," ","","","","","",""

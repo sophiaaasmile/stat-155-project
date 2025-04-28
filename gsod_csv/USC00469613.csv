@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00469613","1998","37.68778","-82.25611","457.2","WILLIAMSON 2 NE, WV US","","","","","        16"," ","","","","","","","",""
+"USC00469613","1999","37.68778","-82.25611","457.2","WILLIAMSON 2 NE, WV US","        7","","         5","0","        22"," ","         2"," ","    76"," ,0,0304,+","    76"," ,0,0304,+","      279"," ,0"
+"USC00469613","2000","37.68778","-82.25611","457.2","WILLIAMSON 2 NE, WV US","","","         1","0","         4"," ","","","","","    36"," ,0,1220, ","       58"," ,0"

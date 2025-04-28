@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WIMT0004","2021","44.969427","-89.610852","370.3","WAUSAU 1.7 ENE, WI US","       115","N","        71","N","         8","N","  51.3"," ,N,0828, ","    987.1"," ,N"
+"US1WIMT0004","2022","44.969427","-89.610852","370.3","WAUSAU 1.7 ENE, WI US","       119","N","        73","N","         5","N","  52.3"," ,N,0803, ","    837.9"," ,N"
+"US1WIMT0004","2024","44.969427","-89.610852","370.3","WAUSAU 1.7 ENE, WI US","       111","N","        70","N","         8","N","  57.4"," ,N,0622, ","   1009.3"," ,N"

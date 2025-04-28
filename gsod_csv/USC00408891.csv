@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00408891","1950","35.35","-84.23333","335.9","TELLICO RANGER STATION, TN US","","","","","","","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","","","   1420.2"," ,0","        0"," ,0"
+"USC00408891","1951","35.35","-84.23333","335.9","TELLICO RANGER STATION, TN US","       100","0","        86","0","        14","0","","","","","","","","","  56.9"," ,0,0328, ","   1379.2"," ,0","",""
+"USC00408891","1953","35.35","-84.23333","335.9","TELLICO RANGER STATION, TN US","        79","0","        65","0","        12","0","","","","","","","","","  80.8"," ,0,0519, ","   1245.1"," ,0","",""
+"USC00408891","1954","35.35","-84.23333","335.9","TELLICO RANGER STATION, TN US","","","","","","","","","","","","","","","","","   1203.6"," ,0","",""
+"USC00408891","1956","35.35","-84.23333","335.9","TELLICO RANGER STATION, TN US","","","","","","","","","","","","","","","","","   1214.7"," ,0","",""

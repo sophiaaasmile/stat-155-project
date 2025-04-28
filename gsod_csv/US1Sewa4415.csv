@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1Sewa4415","2022","40.8787054","-96.99119261",,"GARLAND 4.56 S, NE US","        81","N","        30","N","         4","N","  34.5"," ,N,0506, ","    456.4"," ,N"
+"US1Sewa4415","2023","40.8787054","-96.99119261",,"GARLAND 4.56 S, NE US","        89","N","        50","N","         3","N","  36.6"," ,N,0705, ","    472.8"," ,N"
+"US1Sewa4415","2024","40.8787054","-96.99119261",,"GARLAND 4.56 S, NE US","        86","N","        48","N","         5","N","  90.4"," ,N,0702, ","    726.7"," ,N"

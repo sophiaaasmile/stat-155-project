@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXMLS004","2019","31.49852","-98.466421","457.5","GOLDTHWAITE 6.9 ENE, TX US","        84","N","        44","N","         5","N","  58.2"," ,N,0313, ","    585.6"," ,N"
+"US1TXMLS004","2020","31.49852","-98.466421","457.5","GOLDTHWAITE 6.9 ENE, TX US","        68","N","        42","N","         8","N","  61.5"," ,N,0516, ","    740.8"," ,N"
+"US1TXMLS004","2021","31.49852","-98.466421","457.5","GOLDTHWAITE 6.9 ENE, TX US","        75","N","        40","N","         8","N","  50.3"," ,N,0325, ","    594.6"," ,N"
+"US1TXMLS004","2022","31.49852","-98.466421","457.5","GOLDTHWAITE 6.9 ENE, TX US","        54","N","        35","N","         8","N","  56.4"," ,N,0628, ","    589.7"," ,N"
+"US1TXMLS004","2023","31.49852","-98.466421","457.5","GOLDTHWAITE 6.9 ENE, TX US","        66","N","        43","N","         7","N","  64.8"," ,N,1026, ","    635.3"," ,N"

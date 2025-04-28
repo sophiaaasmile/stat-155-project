@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXGP0007","2008","29.5435","-98.1573","194.5","MARION 2.2 SSW, TX US","        75","N","        33","N","         3","N"," 104.4"," ,N,0819, ","    461.1"," ,N"
+"US1TXGP0007","2009","29.5435","-98.1573","194.5","MARION 2.2 SSW, TX US","        99","N","        47","N","         9","N"," 133.9"," ,N,1004, ","    813.3"," ,N"
+"US1TXGP0007","2010","29.5435","-98.1573","194.5","MARION 2.2 SSW, TX US","        93","N","        46","N","        11","N"," 126.0"," ,N,0908, ","   1003.3"," ,N"
+"US1TXGP0007","2011","29.5435","-98.1573","194.5","MARION 2.2 SSW, TX US","        56","N","        25","N","         7","N","  41.9"," ,N,1009, ","    439.4"," ,N"

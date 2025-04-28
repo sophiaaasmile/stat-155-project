@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00461806","1948","39.25","-80.43333","328.9","COBURN CREEK, WV US","       116","0","        92","0","        14","0","","","","","","","","","  74.9"," ,0,0412, ","   1295.6"," ,0","",""
+"USC00461806","1949","39.25","-80.43333","328.9","COBURN CREEK, WV US","","","","","","","","","","","         8"," ","","","","","","","",""
+"USC00461806","1950","39.25","-80.43333","328.9","COBURN CREEK, WV US","","","","","","","         7","0","         1"," ","         6"," ","   533"," ,0,1125, ","","","","","     1701"," ,0"
+"USC00461806","1951","39.25","-80.43333","328.9","COBURN CREEK, WV US","","","","","","","         1","0","         1"," ","         5"," ","    25"," ,0,0107, ","","","   1254.1"," ,0","      147"," ,0"

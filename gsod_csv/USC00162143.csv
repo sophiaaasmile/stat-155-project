@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00162143","1893","32.01667","-93.35","43.0","COUSHATTA 2, LA US","        64","6","        61","6","        15","6","        27"," ","  81.3"," ,6,0603, ","   1146.4"," ,6"
+"USC00162143","1894","32.01667","-93.35","43.0","COUSHATTA 2, LA US","        72","6","        70","6","        14","6","         4"," "," 145.5"," ,6,0320, ","   1245.9"," ,6"
+"USC00162143","1895","32.01667","-93.35","43.0","COUSHATTA 2, LA US","","","","","","","         8"," ","","","",""

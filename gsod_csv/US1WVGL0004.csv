@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WVGL0004","2021","38.953261","-80.942139","280.7","GLENVILLE 5.9 W, WV US","       156","N","       107","N","         7","N","  50.8"," ,N,0529, ","   1149.5"," ,N"
+"US1WVGL0004","2022","38.953261","-80.942139","280.7","GLENVILLE 5.9 W, WV US","       150","N","       100","N","         9","N","  42.9"," ,N,0204, ","   1140.5"," ,N"
+"US1WVGL0004","2023","38.953261","-80.942139","280.7","GLENVILLE 5.9 W, WV US","       168","N","       110","N","         4","N","  42.9"," ,N,0217, ","   1112.6"," ,N"
+"US1WVGL0004","2024","38.953261","-80.942139","280.7","GLENVILLE 5.9 W, WV US","       157","N","        93","N","         9","N","  69.9"," ,N,0808, ","   1143.2"," ,N"

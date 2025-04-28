@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00364001","1896","40.43883","-78.41726","301.8","HOLLIDAYSBURG 2 NW, PA US","       119","6","        89","6","         6","6","","","  86.9"," ,6,0929, ","   1082.1"," ,6"
+"USC00364001","1897","40.43883","-78.41726","301.8","HOLLIDAYSBURG 2 NW, PA US","       123","6","        86","6","         6","6","","","  39.6"," ,6,1101, ","    925.6"," ,6"
+"USC00364001","1948","40.43883","-78.41726","301.8","HOLLIDAYSBURG 2 NW, PA US","","","","","","","         1"," ","","","",""
+"USC00364001","1949","40.43883","-78.41726","301.8","HOLLIDAYSBURG 2 NW, PA US","       124","0","        77","0","         2","0","","","  69.3"," ,0,0712, ","    856.4"," ,0"

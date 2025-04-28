@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00253357","1949","42.56667","-101.78333","1068.0","GORDON 27 SE, NE US","","","","","","","","","","","","","","","    382.9"," ,0","",""
+"USC00253357","1958","42.56667","-101.78333","1068.0","GORDON 27 SE, NE US","","","","","","","","","         1"," ","","","","","","","",""
+"USC00253357","1959","42.56667","-101.78333","1068.0","GORDON 27 SE, NE US","        28","0","        21","0","         0","0","         6","0","","","   152"," ,0,1031, ","  25.1"," ,0,0629, ","    261.8"," ,0","      634"," ,0"

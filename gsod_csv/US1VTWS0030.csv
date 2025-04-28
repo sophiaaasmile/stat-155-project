@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VTWS0030","2017","44.488258","-72.432583","495.0","WOODBURY 3.4 NNW, VT US","       202","N","       111","N","         5","N","  48.0"," ,N,0630, ","   1258.5"," ,N"
+"US1VTWS0030","2020","44.488258","-72.432583","495.0","WOODBURY 3.4 NNW, VT US","       184","N","        91","N","         7","N","  78.0"," ,N,0930, ","   1098.9"," ,N"
+"US1VTWS0030","2021","44.488258","-72.432583","495.0","WOODBURY 3.4 NNW, VT US","       180","N","        93","N","         5","N","  34.5"," ,N,0802, ","   1018.5"," ,N"
+"US1VTWS0030","2022","44.488258","-72.432583","495.0","WOODBURY 3.4 NNW, VT US","","","","","","","","","   1151.4"," ,N"

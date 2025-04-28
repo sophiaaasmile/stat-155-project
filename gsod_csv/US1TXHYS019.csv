@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXHYS019","2008","29.902747","-97.970787","228.6","SAN MARCOS 2.9 WNW, TX US","        81","N","        28","N","         4","N","  38.4"," ,N,0725, ","    438.1"," ,N"
+"US1TXHYS019","2011","29.902747","-97.970787","228.6","SAN MARCOS 2.9 WNW, TX US","        65","N","        32","N","         8","N","  59.4"," ,N,0622, ","    577.3"," ,N"
+"US1TXHYS019","2017","29.902747","-97.970787","228.6","SAN MARCOS 2.9 WNW, TX US","        84","N","        45","N","        13","N"," 154.2"," ,N,0827, ","   1013.8"," ,N"
+"US1TXHYS019","2021","29.902747","-97.970787","228.6","SAN MARCOS 2.9 WNW, TX US","        96","N","        55","N","        12","N"," 130.6"," ,N,0929, ","   1152.3"," ,N"

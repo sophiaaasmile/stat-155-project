@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1TXCML025","2008","29.642601","-98.321338","300.8","GARDEN RIDGE 1.8 WNW, TX US","        81","N","        34","N","         3","N","         0","N","     0"," ,N,1231,+","  86.9"," ,N,0819, ","    441.6"," ,N","        0"," ,N"
+"US1TXCML025","2011","29.642601","-98.321338","300.8","GARDEN RIDGE 1.8 WNW, TX US","        56","N","        30","N","         5","N","","","","","  55.6"," ,N,0622, ","    437.0"," ,N","",""

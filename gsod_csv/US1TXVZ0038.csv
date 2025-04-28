@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXVZ0038","2022","32.385072","-95.597713","167.9","EDOM 1.1 NE, TX US","        94","N","        54","N","        12","N","  96.0"," ,N,0831, ","   1060.3"," ,N"
+"US1TXVZ0038","2023","32.385072","-95.597713","167.9","EDOM 1.1 NE, TX US","        92","N","        55","N","        17","N","  57.4"," ,N,1110, ","   1074.0"," ,N"
+"US1TXVZ0038","2024","32.385072","-95.597713","167.9","EDOM 1.1 NE, TX US","       109","N","        64","N","        21","N","  79.0"," ,N,0531, ","   1460.8"," ,N"

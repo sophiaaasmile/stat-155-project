@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1TNWS0022","2022","36.25942","-82.50248","497.4","JONESBOROUGH 2.7 SSW, TN US","       142","N","        86","N","        12","N","         6","N","    76"," ,N,0103, ","  51.8"," ,N,0527, ","   1272.4"," ,N","      340"," ,N"
+"US1TNWS0022","2023","36.25942","-82.50248","497.4","JONESBOROUGH 2.7 SSW, TN US","       141","N","        93","N","        17","N","         0","N","     8"," ,N,0114, "," 102.4"," ,N,0714, ","   1442.1"," ,N","        8"," ,N"
+"US1TNWS0022","2024","36.25942","-82.50248","497.4","JONESBOROUGH 2.7 SSW, TN US","       147","N","        91","N","        13","N","","","","","  67.6"," ,N,0926, ","   1153.9"," ,N","",""

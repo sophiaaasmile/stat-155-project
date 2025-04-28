@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXHYS009","2008","30.1101","-97.9104","253.9","BUDA 4.5 WNW, TX US","        73","N","        33","N","         6","N","  36.1"," ,N,0914, ","    460.2"," ,N"
+"US1TXHYS009","2009","30.1101","-97.9104","253.9","BUDA 4.5 WNW, TX US","       101","N","        60","N","        13","N","  76.7"," ,N,0930, ","    976.8"," ,N"
+"US1TXHYS009","2011","30.1101","-97.9104","253.9","BUDA 4.5 WNW, TX US","        66","N","        27","N","         7","N","  45.2"," ,N,0109, ","    504.9"," ,N"

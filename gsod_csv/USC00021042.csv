@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00021042","1959","36.46667","-111.95","1726.1","BUFFALO RANCH, AZ US","","","","","","","","","","","         1"," ","         2"," ","","","","","","","","","",""
+"USC00021042","1960","36.46667","-111.95","1726.1","BUFFALO RANCH, AZ US","        34","0","        17","0","         0","0","       47","","         6","0","         7"," ","        12"," ","   533"," ,0,1209, ","   254"," ,0,1207, ","  17.0"," ,0,0901, ","    140.5"," ,0","      772"," ,0"
+"USC00021042","1961","36.46667","-111.95","1726.1","BUFFALO RANCH, AZ US","","","","","","","","","","","         5"," ","","","","","","","","","","","",""

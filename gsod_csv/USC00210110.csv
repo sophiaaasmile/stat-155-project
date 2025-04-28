@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00210110","2020","45.87833","-95.38287","431.3","ALEXANDRIA, MN US","        96","7","        45","7","         4","7","        14","7","         5"," ","         9"," ","   208"," ,7,1022, ","  66.0"," ,7,0814, ","    598.9"," ,7","     1110"," ,7"
+"USC00210110","2021","45.87833","-95.38287","431.3","ALEXANDRIA, MN US","","","","","","","","","         7"," ","         5"," ","","","","","","","",""
+"USC00210110","2022","45.87833","-95.38287","431.3","ALEXANDRIA, MN US","","","","","","","","","         2"," ","        11"," ","","","","","","","",""

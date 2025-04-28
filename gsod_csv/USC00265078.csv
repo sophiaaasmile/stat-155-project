@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00265078","1955","41.68333","-115.75","1905.9","MENDIVE RANCH, NV US","","","","","","","","","","","         1"," ","","","","","","","",""
+"USC00265078","1956","41.68333","-115.75","1905.9","MENDIVE RANCH, NV US","        42","0","        39","0","         1","0","         9","0","         1"," ","","","   152"," ,0,1205, ","  30.7"," ,0,1011, ","    302.4"," ,0","      678"," ,0"
+"USC00265078","1957","41.68333","-115.75","1905.9","MENDIVE RANCH, NV US","","","","","","","","","","","         9"," ","","","","","","","",""

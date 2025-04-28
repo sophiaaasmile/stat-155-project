@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TNAN0014","2020","36.02462","-84.17415","269.4","OAK RIDGE 8.1 ENE, TN US","       163","N","       103","N","        16","N"," 119.9"," ,N,0206, ","   1889.6"," ,N"
+"US1TNAN0014","2021","36.02462","-84.17415","269.4","OAK RIDGE 8.1 ENE, TN US","       137","N","        86","N","        17","N","  90.9"," ,N,0901, ","   1459.9"," ,N"
+"US1TNAN0014","2022","36.02462","-84.17415","269.4","OAK RIDGE 8.1 ENE, TN US","       124","N","        86","N","        20","N","  80.0"," ,N,0223, ","   1553.1"," ,N"
+"US1TNAN0014","2023","36.02462","-84.17415","269.4","OAK RIDGE 8.1 ENE, TN US","       130","N","        81","N","        16","N","  54.1"," ,N,0217, ","   1254.7"," ,N"

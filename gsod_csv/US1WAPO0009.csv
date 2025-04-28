@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WAPO0009","2010","48.18105","-117.171164","775.7","NEWPORT 5.5 W, WA US","       155","N","        83","N","         1","N","","","","","  27.2"," ,N,0329, ","    866.4"," ,N","",""
+"US1WAPO0009","2011","48.18105","-117.171164","775.7","NEWPORT 5.5 W, WA US","       142","N","        80","N","         2","N","        28","N","   338"," ,N,0224, ","  33.0"," ,N,1122, ","    795.2"," ,N","     2234"," ,N"
+"US1WAPO0009","2012","48.18105","-117.171164","775.7","NEWPORT 5.5 W, WA US","       156","N","        99","N","         5","N","","","","","  49.3"," ,N,1120, ","   1074.9"," ,N","",""
+"US1WAPO0009","2013","48.18105","-117.171164","775.7","NEWPORT 5.5 W, WA US","       116","N","        62","N","         1","N","","","","","  31.2"," ,N,0929, ","    579.6"," ,N","",""

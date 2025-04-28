@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00413189","1949","30.16667","-104.2","1478.9","FLETCHER RANCH, TX US","        68","0","        39","0","         2","0","","","  64.0"," ,0,0729, ","    477.9"," ,0"
+"USC00413189","1950","30.16667","-104.2","1478.9","FLETCHER RANCH, TX US","        44","0","        27","0","         2","0","","","  40.6"," ,0,0919, ","    324.1"," ,0"
+"USC00413189","1951","30.16667","-104.2","1478.9","FLETCHER RANCH, TX US","","","","","","","         1"," ","","","",""

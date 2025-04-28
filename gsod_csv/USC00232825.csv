@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00232825","2012","39.07237","-92.62145","222.5","FAYETTE 6 SE, MO US","        68","7","        52","7","        10","7","","","","","","","","","","","  88.1"," ,7,0901, ","    818.4"," ,7","",""
+"USC00232825","2017","39.07237","-92.62145","222.5","FAYETTE 6 SE, MO US","        48","7","        42","7","         8","7","        4","","         1","7","","","    51"," ,7,0106,+","    38"," ,7,0105, ","  81.8"," ,7,0430, ","    751.1"," ,7","       38"," ,7"
+"USC00232825","2019","39.07237","-92.62145","222.5","FAYETTE 6 SE, MO US","","","","","","","","","","","         3"," ","","","","","","","","","",""

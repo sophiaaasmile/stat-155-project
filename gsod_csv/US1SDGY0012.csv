@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SDGY0012","2016","43.000323","-99.228689","645.0","HERRICK 8.2 SSW, SD US","","","","","","","","","    636.8"," ,N"
+"US1SDGY0012","2018","43.000323","-99.228689","645.0","HERRICK 8.2 SSW, SD US","","","","","","","","","    880.7"," ,N"
+"US1SDGY0012","2019","43.000323","-99.228689","645.0","HERRICK 8.2 SSW, SD US","        96","N","        70","N","         9","N","  86.4"," ,N,0705, ","    973.4"," ,N"
+"US1SDGY0012","2020","43.000323","-99.228689","645.0","HERRICK 8.2 SSW, SD US","        60","N","        44","N","         5","N","  72.4"," ,N,0609, ","    586.4"," ,N"

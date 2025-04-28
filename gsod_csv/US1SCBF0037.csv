@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCBF0037","2021","32.493898","-80.633409","16.8","BEAUFORT 5.7 NE, SC US","       119","N","        69","N","        12","N"," 138.7"," ,N,0708, ","   1403.0"," ,N"
+"US1SCBF0037","2022","32.493898","-80.633409","16.8","BEAUFORT 5.7 NE, SC US","       115","N","        76","N","        15","N"," 105.7"," ,N,0826, ","   1293.1"," ,N"
+"US1SCBF0037","2023","32.493898","-80.633409","16.8","BEAUFORT 5.7 NE, SC US","       114","N","        80","N","        15","N","  84.3"," ,N,1217, ","   1327.0"," ,N"
+"US1SCBF0037","2024","32.493898","-80.633409","16.8","BEAUFORT 5.7 NE, SC US","       103","N","        69","N","        14","N"," 300.2"," ,N,0806, ","   1556.6"," ,N"

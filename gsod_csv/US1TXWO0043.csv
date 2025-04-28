@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXWO0043","2022","29.26277778","-98.10666667","168.9","LA VERNIA 6.3 S, TX US","        45","N","        29","N","         3","N","  57.7"," ,N,0831, ","    393.3"," ,N"
+"US1TXWO0043","2023","29.26277778","-98.10666667","168.9","LA VERNIA 6.3 S, TX US","        53","N","        38","N","         5","N","  82.3"," ,N,0513, ","    559.5"," ,N"
+"US1TXWO0043","2024","29.26277778","-98.10666667","168.9","LA VERNIA 6.3 S, TX US","        39","N","        25","N","         6","N","  44.7"," ,N,0203, ","    408.3"," ,N"

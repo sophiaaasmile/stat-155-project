@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WILF0006","2021","42.51173","-89.895552","267.0","SOUTH WAYNE 3.9 SSW, WI US","       107","N","        53","N","         6","N","  40.1"," ,N,0715, ","    662.6"," ,N"
+"US1WILF0006","2022","42.51173","-89.895552","267.0","SOUTH WAYNE 3.9 SSW, WI US","       119","N","        68","N","        12","N","  73.7"," ,N,0807, ","   1037.9"," ,N"
+"US1WILF0006","2023","42.51173","-89.895552","267.0","SOUTH WAYNE 3.9 SSW, WI US","       109","N","        67","N","         7","N","  66.5"," ,N,0729, ","    903.0"," ,N"
+"US1WILF0006","2024","42.51173","-89.895552","267.0","SOUTH WAYNE 3.9 SSW, WI US","       107","N","        73","N","         8","N","  56.1"," ,N,0623, ","   1021.1"," ,N"

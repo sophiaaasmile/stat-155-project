@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXWS0014","2019","33.025792","-97.760402","281.3","SPRINGTOWN 6.0 NW, TX US","        84","N","        53","N","        12","N","  65.8"," ,N,1107, ","    932.3"," ,N"
+"US1TXWS0014","2020","33.025792","-97.760402","281.3","SPRINGTOWN 6.0 NW, TX US","        93","N","        53","N","        16","N"," 100.8"," ,N,0111, ","   1283.0"," ,N"
+"US1TXWS0014","2023","33.025792","-97.760402","281.3","SPRINGTOWN 6.0 NW, TX US","        74","N","        46","N","         7","N","  69.6"," ,N,1026, ","    746.1"," ,N"
+"US1TXWS0014","2024","33.025792","-97.760402","281.3","SPRINGTOWN 6.0 NW, TX US","        75","N","        54","N","        12","N","  70.1"," ,N,0308, ","    988.8"," ,N"

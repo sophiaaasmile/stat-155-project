@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXPL0040","2021","30.645353","-94.872201","90.2","LIVINGSTON 5.8 SE, TX US","       129","N","        74","N","        18","N","  96.8"," ,N,0511, ","   1286.5"," ,N"
+"US1TXPL0040","2022","30.645353","-94.872201","90.2","LIVINGSTON 5.8 SE, TX US","        91","N","        59","N","        15","N"," 115.8"," ,N,1211, ","   1129.3"," ,N"
+"US1TXPL0040","2023","30.645353","-94.872201","90.2","LIVINGSTON 5.8 SE, TX US","        84","N","        50","N","        14","N","  80.8"," ,N,0108, ","   1004.7"," ,N"
+"US1TXPL0040","2024","30.645353","-94.872201","90.2","LIVINGSTON 5.8 SE, TX US","       104","N","        73","N","        24","N"," 190.0"," ,N,0410, ","   2260.8"," ,N"

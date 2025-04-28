@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYHF","DYHF_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USW00000357","2022","31.666","-98.149","396.2","HAMILTON MUNICIPAL AIRPORT, TX US","        31","W","        16","W","         2","W","        50"," ","         2"," ","        19"," ","  31.2"," ,W,1028, ","    225.2"," ,W"
+"USW00000357","2023","31.666","-98.149","396.2","HAMILTON MUNICIPAL AIRPORT, TX US","        60","W","        38","W","         3","W","        87"," ","         4"," ","        22"," ","  63.8"," ,W,1025, ","    493.3"," ,W"
+"USW00000357","2024","31.666","-98.149","396.2","HAMILTON MUNICIPAL AIRPORT, TX US","","","","","","","        94"," ","        15"," ","         1"," ","","","",""
+"USW00000357","2025","31.666","-98.149","396.2","HAMILTON MUNICIPAL AIRPORT, TX US","","","","","","","        25"," ","         5"," ","         2"," ","","","",""

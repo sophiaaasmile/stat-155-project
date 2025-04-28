@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WYFM0001","2005","42.8573","-108.7244","1613.0","LANDER 1.7 N, WY US","        62","N","        28","N","         1","N","        19","N","   127"," ,N,1214,+","  46.7"," ,N,0511, ","    287.5"," ,N","     1321"," ,N"
+"US1WYFM0001","2007","42.8573","-108.7244","1613.0","LANDER 1.7 N, WY US","        57","N","        21","N","         2","N","        16","N","   356"," ,N,0329, ","  45.0"," ,N,0506, ","    273.1"," ,N","     1804"," ,N"
+"US1WYFM0001","2009","42.8573","-108.7244","1613.0","LANDER 1.7 N, WY US","        78","N","        48","N","         2","N","","","","","  38.4"," ,N,1005, ","    438.7"," ,N","",""
+"US1WYFM0001","2011","42.8573","-108.7244","1613.0","LANDER 1.7 N, WY US","","","","","","","","","","","","","    385.9"," ,N","",""

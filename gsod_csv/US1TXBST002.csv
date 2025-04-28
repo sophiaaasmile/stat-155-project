@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBST002","2008","30.301944","-97.325833","160.9","ELGIN 4.3 SE, TX US","        68","N","        31","N","         4","N","  56.1"," ,N,0311, ","    438.3"," ,N"
+"US1TXBST002","2017","30.301944","-97.325833","160.9","ELGIN 4.3 SE, TX US","        71","N","        44","N","        12","N"," 155.2"," ,N,0827, ","   1057.6"," ,N"
+"US1TXBST002","2020","30.301944","-97.325833","160.9","ELGIN 4.3 SE, TX US","        84","N","        47","N","         8","N","  73.2"," ,N,0513, ","    770.2"," ,N"

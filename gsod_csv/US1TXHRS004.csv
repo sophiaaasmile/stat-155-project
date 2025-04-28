@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXHRS004","2018","32.41465","-94.078767","100.9","WASKOM 4.4 S, TX US","        88","N","        62","N","        19","N","  99.3"," ,N,1208, ","   1275.5"," ,N"
+"US1TXHRS004","2020","32.41465","-94.078767","100.9","WASKOM 4.4 S, TX US","       113","N","        83","N","        20","N","  68.3"," ,N,0828, ","   1626.9"," ,N"
+"US1TXHRS004","2021","32.41465","-94.078767","100.9","WASKOM 4.4 S, TX US","        97","N","        66","N","        14","N","  75.2"," ,N,0511, ","   1175.3"," ,N"

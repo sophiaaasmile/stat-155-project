@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXCLR013","2021","29.71327","-96.69594","96.9","WEIMAR 5.0 E, TX US","        89","N","        58","N","        15","N"," 101.6"," ,N,0430, ","   1148.5"," ,N"
+"US1TXCLR013","2022","29.71327","-96.69594","96.9","WEIMAR 5.0 E, TX US","        72","N","        46","N","         6","N","  66.8"," ,N,1211, ","    757.2"," ,N"
+"US1TXCLR013","2023","29.71327","-96.69594","96.9","WEIMAR 5.0 E, TX US","        82","N","        57","N","        11","N","  69.3"," ,N,1005, ","    934.5"," ,N"
+"US1TXCLR013","2024","29.71327","-96.69594","96.9","WEIMAR 5.0 E, TX US","        87","N","        53","N","        15","N","  80.8"," ,N,0124, ","   1039.6"," ,N"

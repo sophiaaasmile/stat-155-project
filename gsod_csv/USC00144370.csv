@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00144370","2020","39.04789","-95.1929","332.2","KU FIELD STATION, KS US","","","","","","","         4"," ","         1"," ","","","",""
+"USC00144370","2021","39.04789","-95.1929","332.2","KU FIELD STATION, KS US","        99","7","        60","7","        12","7","         1"," ","",""," 104.6"," ,7,0813, ","   1059.3"," ,7"
+"USC00144370","2023","39.04789","-95.1929","332.2","KU FIELD STATION, KS US","","","","","","","         1"," ","         1"," ","","","",""

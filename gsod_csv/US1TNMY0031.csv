@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TNMY0031","2021","35.5708","-87.3285","309.7","HAMPSHIRE 2.7 SW, TN US","        92","N","        92","N","        22","N","  94.0"," ,N,0921, ","   1844.5"," ,N"
+"US1TNMY0031","2022","35.5708","-87.3285","309.7","HAMPSHIRE 2.7 SW, TN US","        70","N","        70","N","        18","N","  50.8"," ,N,1130, ","   1089.9"," ,N"
+"US1TNMY0031","2023","35.5708","-87.3285","309.7","HAMPSHIRE 2.7 SW, TN US","        66","N","        66","N","        16","N","  88.9"," ,N,0513, ","   1204.8"," ,N"

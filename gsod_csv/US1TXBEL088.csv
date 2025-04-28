@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBEL088","2022","31.055409","-97.391642","178.3","TEMPLE 3.4 SSW, TX US","        66","N","        33","N","         7","N","  79.0"," ,N,0831, ","    619.5"," ,N"
+"US1TXBEL088","2023","31.055409","-97.391642","178.3","TEMPLE 3.4 SSW, TX US","        77","N","        45","N","        11","N","  44.5"," ,N,0427, ","    827.9"," ,N"
+"US1TXBEL088","2024","31.055409","-97.391642","178.3","TEMPLE 3.4 SSW, TX US","        82","N","        52","N","         9","N"," 134.1"," ,N,0410, ","    951.3"," ,N"

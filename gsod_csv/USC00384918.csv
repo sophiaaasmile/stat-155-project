@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00384918","1949","34.7356","-80.7884","167.0","LANCASTER 3 SW, SC US","       109","0","        70","0","        10","0","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","  93.7"," ,0,0821, ","   1057.1"," ,0","        0"," ,0"
+"USC00384918","1950","34.7356","-80.7884","167.0","LANCASTER 3 SW, SC US","        97","0","        62","0","         8","0","","","","","","","","","  36.8"," ,0,0614, ","    782.1"," ,0","",""

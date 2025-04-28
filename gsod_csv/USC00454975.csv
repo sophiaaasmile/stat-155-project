@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00454975","1980","47.81667","-119.8","762.9","MANSFIELD 7 W, WA US","        69","0","        48","0","         0","0","        17","0","   165"," ,0,0215,+","  22.9"," ,0,0513, ","    393.9"," ,0","     1283"," ,0"
+"USC00454975","1981","47.81667","-119.8","762.9","MANSFIELD 7 W, WA US","        57","0","        42","0","         0","0","         7","0","   102"," ,0,1215,+","  24.6"," ,0,0519, ","    326.5"," ,0","      535"," ,0"
+"USC00454975","1983","47.81667","-119.8","762.9","MANSFIELD 7 W, WA US","        70","0","        59","0","         3","0","","","","","  30.2"," ,0,1111, ","    516.1"," ,0","",""

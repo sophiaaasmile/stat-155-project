@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WASN0058","2020","47.875573","-122.176131","137.2","MILL CREEK 1.8 NE, WA US","","","","","","","","","","","","","   1351.0"," ,N","",""
+"US1WASN0058","2021","47.875573","-122.176131","137.2","MILL CREEK 1.8 NE, WA US","       195","N","       118","N","         9","N","         7","N","   127"," ,N,0213, ","  42.2"," ,N,1029, ","   1300.6"," ,N","      561"," ,N"
+"US1WASN0058","2023","47.875573","-122.176131","137.2","MILL CREEK 1.8 NE, WA US","","","","","","","","","","","","","   1031.1"," ,N","",""
+"US1WASN0058","2024","47.875573","-122.176131","137.2","MILL CREEK 1.8 NE, WA US","","","","","","","","","","","","","   1188.5"," ,N","",""

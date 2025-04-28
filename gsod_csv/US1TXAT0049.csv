@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXAT0049","2021","28.770948","-98.30787","75.3","CAMPBELLTON 1.6 N, TX US","        73","N","        47","N","        15","N"," 104.6"," ,N,0604, ","   1041.1"," ,N"
+"US1TXAT0049","2022","28.770948","-98.30787","75.3","CAMPBELLTON 1.6 N, TX US","        47","N","        30","N","         4","N","  44.7"," ,N,0522, ","    371.2"," ,N"
+"US1TXAT0049","2023","28.770948","-98.30787","75.3","CAMPBELLTON 1.6 N, TX US","        55","N","        42","N","         8","N"," 130.0"," ,N,0406, ","    771.3"," ,N"
+"US1TXAT0049","2024","28.770948","-98.30787","75.3","CAMPBELLTON 1.6 N, TX US","        47","N","        33","N","         7","N","  76.2"," ,N,0727, ","    640.9"," ,N"

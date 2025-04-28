@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00300028","1986","42.11667","-77.21667","373.4","ADDISON 1 NNE, NY US","         7","0","        80"," ","        17"," ","   102"," ,0,0217,+","      423"," ,0"
+"USC00300028","1987","42.11667","-77.21667","373.4","ADDISON 1 NNE, NY US","","","        78"," ","        12"," ","","","",""
+"USC00300028","1988","42.11667","-77.21667","373.4","ADDISON 1 NNE, NY US","","","        44"," ","         7"," ","","","",""

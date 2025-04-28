@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00163324","1954","30.78333","-90.21667","73.2","FRANKLINTON 5 SW, LA US","","","","","","","         6"," ","","","","","",""
+"USC00163324","1955","30.78333","-90.21667","73.2","FRANKLINTON 5 SW, LA US","        0","","         0","0","         5"," ","         1"," ","     0"," ,0,1231,+","     0","T,0,0123, ","        0","T,0"
+"USC00163324","1956","30.78333","-90.21667","73.2","FRANKLINTON 5 SW, LA US","","","","","         4"," ","         9"," ","","","","","",""

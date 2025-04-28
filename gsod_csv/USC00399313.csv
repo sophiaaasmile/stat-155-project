@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00399313","1950","45.85","-103.96667",,"WILLETT, SD US","","","","","","","","","         1"," ","         2"," ","","","","","","","",""
+"USC00399313","1951","45.85","-103.96667",,"WILLETT, SD US","        60","0","        30","0","         2","0","        10","0","         1"," ","         1"," ","    76"," ,0,1206, ","  63.5"," ,0,0517, ","    384.4"," ,0","      317"," ,0"
+"USC00399313","1952","45.85","-103.96667",,"WILLETT, SD US","","","","","","","","","         1"," ","","","","","","","","","",""

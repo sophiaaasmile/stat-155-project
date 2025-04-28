@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WYCK0016","2009","44.35728","-104.676","1347.2","MOORCROFT 15.0 ENE, WY US","       109","N","        39","N","         3","N","  38.4"," ,N,0806, ","    421.2"," ,N"
+"US1WYCK0016","2010","44.35728","-104.676","1347.2","MOORCROFT 15.0 ENE, WY US","","","","","","","","","    404.9"," ,N"
+"US1WYCK0016","2011","44.35728","-104.676","1347.2","MOORCROFT 15.0 ENE, WY US","       119","N","        52","N","         3","N","  40.6"," ,N,0522, ","    514.4"," ,N"
+"US1WYCK0016","2012","44.35728","-104.676","1347.2","MOORCROFT 15.0 ENE, WY US","        82","N","        28","N","         2","N","  33.3"," ,N,0725, ","    284.0"," ,N"

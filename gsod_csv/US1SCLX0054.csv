@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCLX0054","2014","33.951217","-81.175398","95.4","WEST COLUMBIA 6.5 WSW, SC US","        94","N","        66","N","        17","N","  68.6"," ,N,0809, ","   1176.1"," ,N"
+"US1SCLX0054","2015","33.951217","-81.175398","95.4","WEST COLUMBIA 6.5 WSW, SC US","       115","N","        82","N","        23","N"," 182.9"," ,N,1004, ","   1846.5"," ,N"
+"US1SCLX0054","2016","33.951217","-81.175398","95.4","WEST COLUMBIA 6.5 WSW, SC US","        87","N","        62","N","        13","N"," 104.9"," ,N,0903, ","   1084.4"," ,N"
+"US1SCLX0054","2018","33.951217","-81.175398","95.4","WEST COLUMBIA 6.5 WSW, SC US","       109","N","        84","N","        14","N","  92.7"," ,N,1011, ","   1348.6"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WAYK0030","2021","46.610955","-120.564632","372.2","FRUITVALE 1.2 WSW, WA US","        77","N","        20","N","         0","N","  16.5"," ,N,1112, ","    177.6"," ,N"
+"US1WAYK0030","2022","46.610955","-120.564632","372.2","FRUITVALE 1.2 WSW, WA US","        60","N","        23","N","         0","N","  18.0"," ,N,0106, ","    202.5"," ,N"
+"US1WAYK0030","2023","46.610955","-120.564632","372.2","FRUITVALE 1.2 WSW, WA US","       107","N","        29","N","         0","N","  17.3"," ,N,0411, ","    224.4"," ,N"
+"US1WAYK0030","2024","46.610955","-120.564632","372.2","FRUITVALE 1.2 WSW, WA US","        86","N","        28","N","         0","N","  18.0"," ,N,1120, ","    239.6"," ,N"

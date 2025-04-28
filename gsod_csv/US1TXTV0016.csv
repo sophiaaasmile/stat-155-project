@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1TXTV0016","2007","30.4131","-97.7422","265.5","JOLLYVILLE 2.6 SSE, TX US","        71","N","        56","N","        18","N","         0","N","     0"," ,N,1231,+","  78.5"," ,N,0113, ","   1155.7"," ,N","        0"," ,N"
+"US1TXTV0016","2009","30.4131","-97.7422","265.5","JOLLYVILLE 2.6 SSE, TX US","        56","N","        45","N","         8","N","","","","","  49.8"," ,N,0524, ","    826.8"," ,N","",""
+"US1TXTV0016","2010","30.4131","-97.7422","265.5","JOLLYVILLE 2.6 SSE, TX US","        51","N","        47","N","         8","N","","","",""," 225.0"," ,N,0908, ","    933.5"," ,N","",""

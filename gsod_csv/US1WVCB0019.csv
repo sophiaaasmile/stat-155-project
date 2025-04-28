@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WVCB0019","2021","38.4141","-82.076","210.9","CULLODEN 0.5 WSW, WV US","       167","N","        89","N","        13","N","  74.9"," ,N,0301, ","   1296.9"," ,N"
+"US1WVCB0019","2023","38.4141","-82.076","210.9","CULLODEN 0.5 WSW, WV US","       164","N","        80","N","         5","N","  88.4"," ,N,0217, ","    996.6"," ,N"
+"US1WVCB0019","2024","38.4141","-82.076","210.9","CULLODEN 0.5 WSW, WV US","       162","N","        96","N","         5","N","  42.7"," ,N,0412, ","   1027.5"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00416436","2022","35.05915","-101.75249","1075.9","RANDALL 10 SE, TX US","        3","","         3","7","    25"," ,7,0322,+","    43"," ,7,0126, ","","","      109"," ,7"
+"USC00416436","2023","35.05915","-101.75249","1075.9","RANDALL 10 SE, TX US","        0","","         0","7","     0"," ,7,1231,+","     0"," ,7,1231,+","    471.8"," ,7","        0"," ,7"
+"USC00416436","2024","35.05915","-101.75249","1075.9","RANDALL 10 SE, TX US","        2","","         3","7","    25"," ,7,0308,+","    33"," ,7,0212, ","","","       86"," ,7"

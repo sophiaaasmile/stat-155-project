@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WYLM0129","2014","41.042074","-104.191168","1605.7","CARPENTER 8.3 E, WY US","       110","N","        45","N","         1","N","  30.7"," ,N,0508, ","    449.4"," ,N"
+"US1WYLM0129","2015","41.042074","-104.191168","1605.7","CARPENTER 8.3 E, WY US","       106","N","        44","N","         4","N","  75.4"," ,N,0510, ","    554.9"," ,N"
+"US1WYLM0129","2016","41.042074","-104.191168","1605.7","CARPENTER 8.3 E, WY US","        93","N","        41","N","         1","N","  36.8"," ,N,0613, ","    361.6"," ,N"

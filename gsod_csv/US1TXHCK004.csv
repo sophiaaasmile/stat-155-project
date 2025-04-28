@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXHCK004","2013","33.743","-102.1193833","1026.9","ANTON 5.3 SSE, TX US","        22","N","        19","N","         1","N","  57.9"," ,N,0717, ","    251.0"," ,N"
+"US1TXHCK004","2014","33.743","-102.1193833","1026.9","ANTON 5.3 SSE, TX US","        33","N","        31","N","         7","N","  47.0"," ,N,0527, ","    507.6"," ,N"
+"US1TXHCK004","2015","33.743","-102.1193833","1026.9","ANTON 5.3 SSE, TX US","        45","N","        40","N","         8","N","  61.5"," ,N,1022, ","    673.8"," ,N"

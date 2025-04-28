@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00362320","1976","41.53333","-76.36667","542.8","DUSHORE 2 E, PA US","","","","","","","","","","","         1"," ","","","","","","","","","","","",""
+"USC00362320","1977","41.53333","-76.36667","542.8","DUSHORE 2 E, PA US","","","","","","","","","","","         6"," ","        19"," ","","","","","","","","","",""
+"USC00362320","1978","41.53333","-76.36667","542.8","DUSHORE 2 E, PA US","","","","","","","","","","","","","         8"," ","","","","","","","","","",""
+"USC00362320","1979","41.53333","-76.36667","542.8","DUSHORE 2 E, PA US","       108","0","        80","0","        12","0","       63","","        16","0","","","","","   229"," ,0,0219, ","   114"," ,0,0208, ","  48.0"," ,0,0906, ","   1025.5"," ,0","      971"," ,0"

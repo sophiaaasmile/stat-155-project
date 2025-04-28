@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00291278","1921","36.5","-106.13333","2316.5","BURRACHE RANGER STATION, NM US","        78","6","        48","6","         3","6","","","","","  40.6"," ,6,0721, ","    537.0"," ,6","",""
+"USC00291278","1924","36.5","-106.13333","2316.5","BURRACHE RANGER STATION, NM US","","","","","","","        20","6","   356"," ,6,1223, ","","","","","     1816"," ,6"
+"USC00291278","1925","36.5","-106.13333","2316.5","BURRACHE RANGER STATION, NM US","        50","6","        23","6","         4","6","","","","","  38.9"," ,6,0720, ","    300.9"," ,6","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXWM0034","2008","30.67307","-97.65698","223.1","GEORGETOWN 2.5 NE, TX US","        65","N","        37","N","         4","N","  64.3"," ,N,0515, ","    437.5"," ,N"
+"US1TXWM0034","2009","30.67307","-97.65698","223.1","GEORGETOWN 2.5 NE, TX US","        86","N","        51","N","        16","N","  75.7"," ,N,0912, ","   1017.6"," ,N"
+"US1TXWM0034","2010","30.67307","-97.65698","223.1","GEORGETOWN 2.5 NE, TX US","        67","N","        43","N","         5","N"," 320.0"," ,N,0908, ","    926.4"," ,N"

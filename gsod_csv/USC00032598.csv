@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00032598","1947","33.35","-91.83333","54.9","FOUNTAIN HILL, AR US","","","","","","","","","","","","","        16"," ","","","","","","","","","",""
+"USC00032598","1948","33.35","-91.83333","54.9","FOUNTAIN HILL, AR US","","","","","","","","","","","         1"," ","        46"," ","","","","","","","","","",""
+"USC00032598","1949","33.35","-91.83333","54.9","FOUNTAIN HILL, AR US","","","","","","","","","","","","","        24"," ","","","","","","","","","",""
+"USC00032598","1950","33.35","-91.83333","54.9","FOUNTAIN HILL, AR US","","","","","","","","","","","","","         2"," ","","","","","","","","","",""
+"USC00032598","1952","33.35","-91.83333","54.9","FOUNTAIN HILL, AR US","        41","0","        41","0","        18","0","        0","","         0","0","","","","","     0"," ,0,1231,+","     0"," ,0,1231,+","  67.3"," ,0,0918, ","    894.5"," ,0","        0"," ,0"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TNRB0047","2021","36.4277","-86.7358","262.4","GREENBRIER 3.6 E, TN US","       144","N","        92","N","        13","N","  80.0"," ,N,0831, ","   1413.3"," ,N"
+"US1TNRB0047","2022","36.4277","-86.7358","262.4","GREENBRIER 3.6 E, TN US","       120","N","        84","N","        15","N","  99.1"," ,N,0904, ","   1438.8"," ,N"
+"US1TNRB0047","2023","36.4277","-86.7358","262.4","GREENBRIER 3.6 E, TN US","       118","N","        85","N","        14","N","  71.6"," ,N,0929, ","   1218.1"," ,N"
+"US1TNRB0047","2024","36.4277","-86.7358","262.4","GREENBRIER 3.6 E, TN US","       119","N","        84","N","        17","N"," 190.0"," ,N,0509, ","   1545.3"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXMDL047","2022","32.0046","-102.161","872.0","MIDLAND 3.9 WSW, TX US","        34","N","        17","N","         2","N","  50.3"," ,N,0821, ","    274.7"," ,N"
+"US1TXMDL047","2023","32.0046","-102.161","872.0","MIDLAND 3.9 WSW, TX US","        44","N","        22","N","         2","N","  59.7"," ,N,1024, ","    260.1"," ,N"
+"US1TXMDL047","2024","32.0046","-102.161","872.0","MIDLAND 3.9 WSW, TX US","        27","N","        17","N","         4","N","  43.9"," ,N,0517, ","    283.3"," ,N"

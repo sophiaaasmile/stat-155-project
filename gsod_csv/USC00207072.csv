@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00207072","2011","43.08333","-85.59083","190.5","ROCKFORD 3 SW, MI US","       150","7","        79","7","        11","7","        24"," ","        34"," "," 138.2"," ,7,0728, ","   1207.6"," ,7"
+"USC00207072","2012","43.08333","-85.59083","190.5","ROCKFORD 3 SW, MI US","","","","","","","        11"," ","        33"," ","","","",""
+"USC00207072","2013","43.08333","-85.59083","190.5","ROCKFORD 3 SW, MI US","","","","","","","        24"," ","        39"," ","","","",""
+"USC00207072","2014","43.08333","-85.59083","190.5","ROCKFORD 3 SW, MI US","","","","","","","         5"," ","         9"," ","","","",""

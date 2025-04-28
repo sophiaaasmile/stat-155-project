@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00257347","1992","42.33333","-98.11667","570.0","ROYAL, NE US","","","","","","","         4"," ","","","",""
+"USC00257347","1993","42.33333","-98.11667","570.0","ROYAL, NE US","        85","0","        74","0","        10","0","        12"," ","  41.1"," ,0,0624, ","    970.8"," ,0"
+"USC00257347","1994","42.33333","-98.11667","570.0","ROYAL, NE US","","","","","","","         2"," ","","","",""

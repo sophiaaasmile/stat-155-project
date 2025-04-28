@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00429560","1960","40.33333","-112.71667","1412.1","WILLIAMS RANCH, UT US","","","","","","","","","","","        14"," ","","","","","","","","","","","",""
+"USC00429560","1961","40.33333","-112.71667","1412.1","WILLIAMS RANCH, UT US","","","","","","","","","","","","","","","","","    3695.1","1","    3695.1","0","","","",""
+"USC00429560","1962","40.33333","-112.71667","1412.1","WILLIAMS RANCH, UT US","        62","0","        31","0","         1","0","        13","0","        14"," ","","","   203"," ,0,0120, ","  31.8"," ,0,1005, ","","","","","    250.5"," ,0","      848"," ,0"

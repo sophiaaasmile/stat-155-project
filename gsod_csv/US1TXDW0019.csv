@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXDW0019","2020","28.9722","-97.2788","62.8","CUERO 8.4 S, TX US","       107","N","        54","N","         5","N","  86.1"," ,N,0513, ","    729.2"," ,N"
+"US1TXDW0019","2021","28.9722","-97.2788","62.8","CUERO 8.4 S, TX US","       107","N","        57","N","        16","N"," 133.4"," ,N,0604, ","   1299.0"," ,N"
+"US1TXDW0019","2023","28.9722","-97.2788","62.8","CUERO 8.4 S, TX US","        89","N","        53","N","         9","N"," 109.0"," ,N,0508, ","    883.5"," ,N"

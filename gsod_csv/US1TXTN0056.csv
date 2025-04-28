@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTN0056","2011","32.6784","-97.4516","207.3","BENBROOK 0.6 E, TX US","","","","","","","","","    603.9"," ,N"
+"US1TXTN0056","2013","32.6784","-97.4516","207.3","BENBROOK 0.6 E, TX US","        62","N","        41","N","         9","N","  97.8"," ,N,0109, ","    828.7"," ,N"
+"US1TXTN0056","2014","32.6784","-97.4516","207.3","BENBROOK 0.6 E, TX US","        60","N","        31","N","         8","N","  48.8"," ,N,0907, ","    539.3"," ,N"
+"US1TXTN0056","2015","32.6784","-97.4516","207.3","BENBROOK 0.6 E, TX US","        67","N","        52","N","        21","N"," 111.8"," ,N,1127, ","   1578.7"," ,N"

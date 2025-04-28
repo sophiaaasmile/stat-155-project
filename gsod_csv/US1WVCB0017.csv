@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WVCB0017","2019","38.4056","-82.4036","205.7","HUNTINGTON 1.7 ESE, WV US","       130","N","        86","N","        12","N","  43.2"," ,N,1217, ","   1316.1"," ,N"
+"US1WVCB0017","2020","38.4056","-82.4036","205.7","HUNTINGTON 1.7 ESE, WV US","       149","N","        94","N","         9","N","  83.6"," ,N,0731, ","   1238.9"," ,N"
+"US1WVCB0017","2021","38.4056","-82.4036","205.7","HUNTINGTON 1.7 ESE, WV US","       137","N","        85","N","        10","N","  51.8"," ,N,0701, ","   1129.1"," ,N"
+"US1WVCB0017","2024","38.4056","-82.4036","205.7","HUNTINGTON 1.7 ESE, WV US","       141","N","        82","N","         7","N","  45.0"," ,N,0606, ","    993.3"," ,N"

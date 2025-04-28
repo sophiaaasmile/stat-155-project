@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WASN0004","2016","47.9916","-122.2067","33.5","EVERETT 2.0 N, WA US","","","","","","","","","","","","","   1036.7"," ,N","",""
+"US1WASN0004","2021","47.9916","-122.2067","33.5","EVERETT 2.0 N, WA US","","","","","","","","","","","","","   1030.9"," ,N","",""
+"US1WASN0004","2022","47.9916","-122.2067","33.5","EVERETT 2.0 N, WA US","       179","N","        88","N","         4","N","         2","N","    64"," ,N,1220,+","  29.5"," ,N,1228, ","    914.5"," ,N","      167"," ,N"

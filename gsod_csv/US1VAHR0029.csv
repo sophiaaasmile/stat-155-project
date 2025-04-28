@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VAHR0029","2021","37.50642","-77.2108","38.4","SANDSTON 5.9 ESE, VA US","       144","N","        71","N","         9","N","  52.6"," ,N,0610, ","    988.1"," ,N"
+"US1VAHR0029","2022","37.50642","-77.2108","38.4","SANDSTON 5.9 ESE, VA US","       134","N","        66","N","         5","N","  39.1"," ,N,0623, ","    839.6"," ,N"
+"US1VAHR0029","2023","37.50642","-77.2108","38.4","SANDSTON 5.9 ESE, VA US","       133","N","        73","N","        12","N","  91.4"," ,N,1211, ","   1193.9"," ,N"

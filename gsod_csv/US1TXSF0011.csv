@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXSF0011","2010","32.65982","-99.21031","392.9","ALBANY 6.8 SE, TX US","        40","N","        31","N","        13","N","  91.4"," ,N,0128, ","    837.2"," ,N"
+"US1TXSF0011","2014","32.65982","-99.21031","392.9","ALBANY 6.8 SE, TX US","        31","N","        27","N","         6","N","  78.7"," ,N,0716, ","    489.4"," ,N"
+"US1TXSF0011","2015","32.65982","-99.21031","392.9","ALBANY 6.8 SE, TX US","        55","N","        48","N","        14","N"," 119.4"," ,N,1022, ","   1158.9"," ,N"

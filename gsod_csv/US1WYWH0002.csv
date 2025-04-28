@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WYWH0002","2006","44.0168","-107.9651","1235.0","WORLAND 0.5 W, WY US","        24","N","        10","N","         0","N","         0","N","     0"," ,N,1231,+","  24.6"," ,N,0922, ","    112.3"," ,N","        0"," ,N"
+"US1WYWH0002","2007","44.0168","-107.9651","1235.0","WORLAND 0.5 W, WY US","        29","N","        16","N","         0","N","         0","N","     0"," ,N,1231,+","  12.4"," ,N,1021, ","    119.6"," ,N","        0"," ,N"
+"US1WYWH0002","2023","44.0168","-107.9651","1235.0","WORLAND 0.5 W, WY US","","","","","","","","","","","","","    309.5"," ,N","",""

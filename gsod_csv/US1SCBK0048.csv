@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCBK0048","2017","32.847297","-79.903164","4.3","DANIEL ISLAND 1.0 SE, SC US","       107","N","        70","N","        13","N"," 180.6"," ,N,0912, ","   1477.9"," ,N"
+"US1SCBK0048","2020","32.847297","-79.903164","4.3","DANIEL ISLAND 1.0 SE, SC US","       136","N","        87","N","        19","N"," 104.1"," ,N,0424, ","   1627.9"," ,N"
+"US1SCBK0048","2021","32.847297","-79.903164","4.3","DANIEL ISLAND 1.0 SE, SC US","       115","N","        81","N","        16","N","  98.0"," ,N,0708, ","   1310.4"," ,N"
+"US1SCBK0048","2022","32.847297","-79.903164","4.3","DANIEL ISLAND 1.0 SE, SC US","       116","N","        78","N","        14","N"," 160.0"," ,N,0711, ","   1369.3"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1TXCLB001","2016","31.71235","-104.5901833","1331.4","VAN HORN 48.6 NNE, TX US","        46","N","        26","N","         3","N","","","","","  28.2"," ,N,0814, ","    337.3"," ,N","",""
+"US1TXCLB001","2017","31.71235","-104.5901833","1331.4","VAN HORN 48.6 NNE, TX US","        53","N","        38","N","         4","N","","","","","  58.4"," ,N,0815, ","    445.6"," ,N","",""
+"US1TXCLB001","2018","31.71235","-104.5901833","1331.4","VAN HORN 48.6 NNE, TX US","        50","N","        28","N","         1","N","","","","","  48.0"," ,N,1024, ","    291.6"," ,N","",""
+"US1TXCLB001","2019","31.71235","-104.5901833","1331.4","VAN HORN 48.6 NNE, TX US","        39","N","        25","N","         1","N","         0","N","     0"," ,N,1231,+","  46.5"," ,N,0707, ","    231.1"," ,N","        0"," ,N"

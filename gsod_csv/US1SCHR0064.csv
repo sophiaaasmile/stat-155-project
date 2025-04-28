@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCHR0064","2015","33.715721","-78.855623","9.4","MYRTLE BEACH 2.4 ENE, SC US","       148","N","        92","N","        18","N"," 237.5"," ,N,1005, ","   1759.1"," ,N"
+"US1SCHR0064","2017","33.715721","-78.855623","9.4","MYRTLE BEACH 2.4 ENE, SC US","       117","N","        68","N","        10","N","  70.1"," ,N,0623, ","   1160.0"," ,N"
+"US1SCHR0064","2021","33.715721","-78.855623","9.4","MYRTLE BEACH 2.4 ENE, SC US","       134","N","        76","N","        12","N"," 103.4"," ,N,0804, ","   1169.2"," ,N"
+"US1SCHR0064","2022","33.715721","-78.855623","9.4","MYRTLE BEACH 2.4 ENE, SC US","       129","N","        66","N","        15","N"," 143.0"," ,N,0820, ","   1203.8"," ,N"

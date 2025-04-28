@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WIMW0082","2022","43.079917","-88.009359","233.2","MILWAUKEE 2.4 WNW, WI US","       124","N","        65","N","         6","N","","","",""," 108.7"," ,N,0912, ","    915.2"," ,N","",""
+"US1WIMW0082","2023","43.079917","-88.009359","233.2","MILWAUKEE 2.4 WNW, WI US","       128","N","        69","N","         8","N","        12","N","   254"," ,N,0310, ","  58.9"," ,N,0815, ","    865.3"," ,N","     1124"," ,N"
+"US1WIMW0082","2024","43.079917","-88.009359","233.2","MILWAUKEE 2.4 WNW, WI US","       135","N","        75","N","        10","N","","","","","  38.6"," ,N,0923, ","    949.8"," ,N","",""

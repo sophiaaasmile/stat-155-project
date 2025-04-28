@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1UTGR0009","2017","38.6331","-109.4104","1458.8","CASTLE VALLEY 0.6 W, UT US","        63","N","        29","N","         1","N","  26.7"," ,N,0915, ","    239.5"," ,N"
+"US1UTGR0009","2020","38.6331","-109.4104","1458.8","CASTLE VALLEY 0.6 W, UT US","        44","N","        18","N","         1","N","  29.7"," ,N,1026, ","    166.1"," ,N"
+"US1UTGR0009","2022","38.6331","-109.4104","1458.8","CASTLE VALLEY 0.6 W, UT US","        57","N","        34","N","         2","N","  27.9"," ,N,1024, ","    308.9"," ,N"
+"US1UTGR0009","2023","38.6331","-109.4104","1458.8","CASTLE VALLEY 0.6 W, UT US","        64","N","        31","N","         0","N","  19.1"," ,N,0515, ","    245.6"," ,N"
+"US1UTGR0009","2024","38.6331","-109.4104","1458.8","CASTLE VALLEY 0.6 W, UT US","        65","N","        34","N","         0","N","  23.9"," ,N,0622, ","    322.7"," ,N"

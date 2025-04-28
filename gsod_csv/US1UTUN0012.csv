@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1UTUN0012","2018","40.3685","-109.3525","1453.3","JENSEN 0.4 WSW, UT US","        55","N","        20","N","         0","N","         7","N","    61"," ,N,0220, ","  14.0"," ,N,0823, ","    139.5"," ,N","      317"," ,N"
+"US1UTUN0012","2021","40.3685","-109.3525","1453.3","JENSEN 0.4 WSW, UT US","        58","N","        25","N","         0","N","         3","N","   140"," ,N,0123, ","  18.5"," ,N,0730, ","    230.0"," ,N","      326"," ,N"
+"US1UTUN0012","2023","40.3685","-109.3525","1453.3","JENSEN 0.4 WSW, UT US","","","","","","","","","","","","","    180.2"," ,N","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCRC0040","2021","34.109165","-81.2060599","111.3","IRMO 1.5 NW, SC US","       122","N","        79","N","        14","N","  46.0"," ,N,1219, ","   1190.6"," ,N"
+"US1SCRC0040","2022","34.109165","-81.2060599","111.3","IRMO 1.5 NW, SC US","       117","N","        76","N","        13","N","  66.5"," ,N,0911, ","   1161.8"," ,N"
+"US1SCRC0040","2023","34.109165","-81.2060599","111.3","IRMO 1.5 NW, SC US","       113","N","        73","N","        16","N","  66.3"," ,N,0519, ","   1365.7"," ,N"

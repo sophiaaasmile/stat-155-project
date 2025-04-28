@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXLK0059","2014","33.441379","-102.017686","1007.7","WOLFFORTH 4.6 S, TX US","        55","N","        35","N","        10","N","  52.3"," ,N,0921, ","    632.3"," ,N"
+"US1TXLK0059","2015","33.441379","-102.017686","1007.7","WOLFFORTH 4.6 S, TX US","        95","N","        54","N","        10","N","  85.9"," ,N,0707, ","    865.7"," ,N"
+"US1TXLK0059","2016","33.441379","-102.017686","1007.7","WOLFFORTH 4.6 S, TX US","        66","N","        40","N","         4","N","  35.8"," ,N,0514, ","    532.0"," ,N"
+"US1TXLK0059","2018","33.441379","-102.017686","1007.7","WOLFFORTH 4.6 S, TX US","        68","N","        32","N","         5","N","  69.6"," ,N,1009, ","    534.6"," ,N"

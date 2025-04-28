@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00417411","1943","30.01667","-103.76667","1464.0","RANCHO ESCONDIDO, TX US","","","","","","","","","","","         4"," ","","","","","","","","","",""
+"USC00417411","1944","30.01667","-103.76667","1464.0","RANCHO ESCONDIDO, TX US","","","","","","","","","","","         3"," ","","","","","","","","","",""
+"USC00417411","1948","30.01667","-103.76667","1464.0","RANCHO ESCONDIDO, TX US","        21","0","        21","0","         2","0","        1","","         1","0","","","    76"," ,0,0119, ","    76"," ,0,0119, ","  38.4"," ,0,0716, ","    262.9"," ,0","       76"," ,0"

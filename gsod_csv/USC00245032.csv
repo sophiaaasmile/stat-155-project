@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00245032","1952","44.66667","-112.36667","2044.0","LIMA DAM, MT US","","","","","","","","","","","    336.7"," ,0"
+"USC00245032","1953","44.66667","-112.36667","2044.0","LIMA DAM, MT US","","","","","","","         1"," ","","","",""
+"USC00245032","1954","44.66667","-112.36667","2044.0","LIMA DAM, MT US","        75","0","        45","0","         0","0","","","  18.0"," ,0,0821, ","    328.8"," ,0"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1TNPM0014","2008","36.204806","-85.524404","337.1","COOKEVILLE 3.5 NNW, TN US","       127","N","        80","N","         9","N","         2","N","    28"," ,N,0308, ","  73.7"," ,N,1210, ","   1151.9"," ,N","       66"," ,N"
+"US1TNPM0014","2009","36.204806","-85.524404","337.1","COOKEVILLE 3.5 NNW, TN US","       174","N","        99","N","        20","N","","","",""," 169.4"," ,N,0917, ","   1837.2"," ,N","",""
+"US1TNPM0014","2010","36.204806","-85.524404","337.1","COOKEVILLE 3.5 NNW, TN US","       130","N","        70","N","        18","N","","","",""," 196.9"," ,N,0819, ","   1625.6"," ,N","",""

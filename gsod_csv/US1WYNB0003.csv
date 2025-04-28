@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WYNB0003","2006","43.2328","-104.6295","1256.1","LANCE CREEK 13.8 N, WY US","        51","N","        31","N","         0","N","        14","N","   152"," ,N,0216, ","  17.5"," ,N,0622, ","    253.4"," ,N","      913"," ,N"
+"US1WYNB0003","2007","43.2328","-104.6295","1256.1","LANCE CREEK 13.8 N, WY US","        42","N","        24","N","         3","N","         7","N","   178"," ,N,0330, ","  39.4"," ,N,0506, ","    388.6"," ,N","      556"," ,N"

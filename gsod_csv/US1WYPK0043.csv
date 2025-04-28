@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WYPK0043","2021","44.1368","-108.8402","1850.4","MEETEETSE 2.0 SE, WY US","        90","N","        33","N","         0","N","","","","","  14.7"," ,N,0503, ","    257.4"," ,N","",""
+"US1WYPK0043","2022","44.1368","-108.8402","1850.4","MEETEETSE 2.0 SE, WY US","        93","N","        43","N","         3","N","","","","","  50.0"," ,N,0531, ","    366.1"," ,N","",""
+"US1WYPK0043","2023","44.1368","-108.8402","1850.4","MEETEETSE 2.0 SE, WY US","       116","N","        56","N","         1","N","","","","","  53.3"," ,N,1012, ","    503.4"," ,N","",""
+"US1WYPK0043","2024","44.1368","-108.8402","1850.4","MEETEETSE 2.0 SE, WY US","        84","N","        40","N","         0","N","        18","N","   130"," ,N,0302, ","  17.8"," ,N,0427, ","    265.1"," ,N","     1141"," ,N"

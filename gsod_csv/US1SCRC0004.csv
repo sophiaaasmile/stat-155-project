@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCRC0004","2012","34.1701","-81.2745","131.7","CHAPIN 4.3 E, SC US","        84","N","        67","N","        11","N","  46.2"," ,N,0820, ","    995.8"," ,N"
+"US1SCRC0004","2016","34.1701","-81.2745","131.7","CHAPIN 4.3 E, SC US","        76","N","        46","N","        10","N","  90.9"," ,N,0903, ","    959.0"," ,N"
+"US1SCRC0004","2017","34.1701","-81.2745","131.7","CHAPIN 4.3 E, SC US","","","","","","","","","   1071.9"," ,N"
+"US1SCRC0004","2020","34.1701","-81.2745","131.7","CHAPIN 4.3 E, SC US","       113","N","        84","N","        10","N","  89.7"," ,N,0519, ","   1290.7"," ,N"

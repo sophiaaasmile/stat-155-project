@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00411972","1943","29.58333","-103.13333","885.1","COOPERS STORE, TX US","","","","","","","         1"," ","","","","","",""
+"USC00411972","1945","29.58333","-103.13333","885.1","COOPERS STORE, TX US","        31","6","        20","6","         1","6","","","","","  34.8"," ,6,0401, ","    243.7"," ,6"
+"USC00411972","1948","29.58333","-103.13333","885.1","COOPERS STORE, TX US","","","","","","","         6"," ","        31"," ","","","",""
+"USC00411972","1949","29.58333","-103.13333","885.1","COOPERS STORE, TX US","","","","","","","         2"," ","        39"," ","","","",""

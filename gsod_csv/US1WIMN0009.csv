@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WIMN0009","2021","44.103869","-90.588847","337.4","WARRENS 4.7 WSW, WI US","       104","N","        59","N","        11","N","  85.9"," ,N,0808, ","   1044.6"," ,N"
+"US1WIMN0009","2022","44.103869","-90.588847","337.4","WARRENS 4.7 WSW, WI US","       130","N","        83","N","        13","N","  68.8"," ,N,0807, ","    999.4"," ,N"
+"US1WIMN0009","2023","44.103869","-90.588847","337.4","WARRENS 4.7 WSW, WI US","       113","N","        69","N","         6","N","  53.1"," ,N,0926, ","    905.9"," ,N"
+"US1WIMN0009","2024","44.103869","-90.588847","337.4","WARRENS 4.7 WSW, WI US","       113","N","        69","N","        10","N","  55.9"," ,N,0622, ","   1078.1"," ,N"

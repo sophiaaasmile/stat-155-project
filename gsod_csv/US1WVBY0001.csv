@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WVBY0001","2009","39.336815","-78.067999","196.9","BUNKER HILL 0.8 WNW, WV US","       136","N","        72","N","         8","N","  43.4"," ,N,0517, ","    993.0"," ,N"
+"US1WVBY0001","2010","39.336815","-78.067999","196.9","BUNKER HILL 0.8 WNW, WV US","       106","N","        62","N","        11","N","  66.8"," ,N,0313, ","    952.4"," ,N"
+"US1WVBY0001","2011","39.336815","-78.067999","196.9","BUNKER HILL 0.8 WNW, WV US","       144","N","        88","N","        13","N","  51.1"," ,N,0417, ","   1195.7"," ,N"
+"US1WVBY0001","2012","39.336815","-78.067999","196.9","BUNKER HILL 0.8 WNW, WV US","       126","N","        73","N","         9","N","  65.3"," ,N,1030, ","   1024.7"," ,N"

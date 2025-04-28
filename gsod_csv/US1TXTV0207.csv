@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTV0207","2009","30.34195","-98.132239","258.8","DRIPPING SPRINGS 10.9 NNW, TX US","       110","N","        57","N","        14","N","  83.3"," ,N,1022, ","   1048.8"," ,N"
+"US1TXTV0207","2010","30.34195","-98.132239","258.8","DRIPPING SPRINGS 10.9 NNW, TX US","        94","N","        50","N","         7","N","  79.5"," ,N,0908, ","    827.1"," ,N"
+"US1TXTV0207","2011","30.34195","-98.132239","258.8","DRIPPING SPRINGS 10.9 NNW, TX US","        64","N","        32","N","         4","N","  88.9"," ,N,1009, ","    490.2"," ,N"
+"US1TXTV0207","2012","30.34195","-98.132239","258.8","DRIPPING SPRINGS 10.9 NNW, TX US","        73","N","        33","N","         7","N"," 118.1"," ,N,0914, ","    714.6"," ,N"
+"US1TXTV0207","2013","30.34195","-98.132239","258.8","DRIPPING SPRINGS 10.9 NNW, TX US","        91","N","        46","N","        14","N"," 195.3"," ,N,1013, ","   1118.4"," ,N"

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"USC00251280","1905","42.783333","-100.766667",,"BURGE, NE US","       105","6","        56","6","         7","6","","","","","","","  47.5"," ,6,0702, ","","","    772.4"," ,6","",""
+"USC00251280","1910","42.783333","-100.766667",,"BURGE, NE US","        27","6","        26","6","         3","6","        30","6","       172","6","        39","6","  76.2"," ,6,0701, ","   37.8","6,0716, ","    384.7"," ,6","     17.75","6"

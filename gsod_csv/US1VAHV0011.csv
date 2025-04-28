@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VAHV0011","2021","37.72113","-77.77046","114.6","ROCKVILLE 5.1 W, VA US","       119","N","        68","N","         8","N","  62.7"," ,N,0702, ","   1008.5"," ,N"
+"US1VAHV0011","2022","37.72113","-77.77046","114.6","ROCKVILLE 5.1 W, VA US","       127","N","        74","N","        14","N","  58.2"," ,N,0727, ","   1157.2"," ,N"
+"US1VAHV0011","2023","37.72113","-77.77046","114.6","ROCKVILLE 5.1 W, VA US","       115","N","        68","N","        10","N","  94.7"," ,N,0924, ","   1051.4"," ,N"
+"US1VAHV0011","2024","37.72113","-77.77046","114.6","ROCKVILLE 5.1 W, VA US","       119","N","        64","N","        12","N","  79.2"," ,N,0110, ","   1041.5"," ,N"

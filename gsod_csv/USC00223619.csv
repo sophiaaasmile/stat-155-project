@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00223619","2017","33.52223","-90.1759","40.8","GREENWOOD 2, MS US","        0","","         0","7","     0"," ,7,1231,+","     0"," ,7,1231,+","","","        0"," ,7"
+"USC00223619","2023","33.52223","-90.1759","40.8","GREENWOOD 2, MS US","        0","","         0","7","     0"," ,7,1231,+","     0"," ,7,1231,+","    986.2"," ,7","        0"," ,7"

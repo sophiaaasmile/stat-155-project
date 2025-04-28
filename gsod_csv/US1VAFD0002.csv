@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VAFD0002","2008","39.0271","-78.2765","220.1","MIDDLETOWN 0.1 SE, VA US","       124","N","        65","N","         3","N","  45.0"," ,N,0615, ","    897.0"," ,N"
+"US1VAFD0002","2009","39.0271","-78.2765","220.1","MIDDLETOWN 0.1 SE, VA US","       137","N","        77","N","         4","N","  32.8"," ,N,1209, ","    920.5"," ,N"
+"US1VAFD0002","2012","39.0271","-78.2765","220.1","MIDDLETOWN 0.1 SE, VA US","       108","N","        65","N","         7","N","  94.2"," ,N,1030, ","    910.2"," ,N"
+"US1VAFD0002","2013","39.0271","-78.2765","220.1","MIDDLETOWN 0.1 SE, VA US","       117","N","        71","N","        11","N","  69.9"," ,N,0131, ","   1072.0"," ,N"

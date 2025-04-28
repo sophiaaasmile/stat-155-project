@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WIGL0001","2011","43.9757","-88.9476","235.6","BERLIN 0.4 NNE, WI US","       142","N","        66","N","        10","N","","","","","","","","","  74.4"," ,N,0724, ","   1003.2"," ,N","",""
+"US1WIGL0001","2012","43.9757","-88.9476","235.6","BERLIN 0.4 NNE, WI US","       140","N","        64","N","         8","N","       77","","        11","N","   305"," ,N,1230,+","   152"," ,N,1221,+","  77.0"," ,N,0503, ","    879.6"," ,N","     1089"," ,N"

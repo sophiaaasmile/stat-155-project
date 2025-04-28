@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00187410","2022","38.94466","-76.16233","3.7","QUEENSTOWN 3 S, MD US","","","","","         4"," ","         9"," ","","","","","","","",""
+"USC00187410","2023","38.94466","-76.16233","3.7","QUEENSTOWN 3 S, MD US","        0","","         0","7","","","","","     0"," ,7,1231,+","     0","T,7,0226, ","    988.7"," ,7","        0","T,7"
+"USC00187410","2024","38.94466","-76.16233","3.7","QUEENSTOWN 3 S, MD US","","","","","         2"," ","","","","","","","","","",""

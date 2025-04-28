@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBRT013","2011","30.599532","-98.397607","253.9","HIGHLAND HAVEN 1.3 SW, TX US","","","","","","","","","    342.3"," ,N"
+"US1TXBRT013","2017","30.599532","-98.397607","253.9","HIGHLAND HAVEN 1.3 SW, TX US","        67","N","        49","N","         6","N","  55.4"," ,N,0807, ","    710.6"," ,N"
+"US1TXBRT013","2019","30.599532","-98.397607","253.9","HIGHLAND HAVEN 1.3 SW, TX US","        69","N","        40","N","         6","N","  39.6"," ,N,0509, ","    518.9"," ,N"
+"US1TXBRT013","2020","30.599532","-98.397607","253.9","HIGHLAND HAVEN 1.3 SW, TX US","        71","N","        51","N","        10","N","  61.7"," ,N,0516, ","    780.6"," ,N"
+"US1TXBRT013","2021","30.599532","-98.397607","253.9","HIGHLAND HAVEN 1.3 SW, TX US","        78","N","        56","N","         6","N","  56.9"," ,N,0502, ","    763.3"," ,N"

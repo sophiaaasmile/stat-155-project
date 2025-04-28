@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00094623","1949","33.32","-83.8436","131.1","JACKSON DAM, GA US","       100","0","        72","0","         9","0","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","  98.3"," ,0,0906, ","   1157.0"," ,0","        0"," ,0"
+"USC00094623","2002","33.32","-83.8436","131.1","JACKSON DAM, GA US","","","","","","","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","","","","","        0"," ,0"
+"USC00094623","2003","33.32","-83.8436","131.1","JACKSON DAM, GA US","","","","","","","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","","","","","        0"," ,0"

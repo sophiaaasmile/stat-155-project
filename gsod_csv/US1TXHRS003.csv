@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXHRS003","2008","32.38212","-94.16385","106.1","MARSHALL 15.2 SE, TX US","       101","N","        70","N","        18","N"," 156.2"," ,N,0514, ","   1562.8"," ,N"
+"US1TXHRS003","2009","32.38212","-94.16385","106.1","MARSHALL 15.2 SE, TX US","       109","N","        76","N","        24","N","  91.2"," ,N,1224, ","   1751.0"," ,N"
+"US1TXHRS003","2010","32.38212","-94.16385","106.1","MARSHALL 15.2 SE, TX US","        86","N","        59","N","         9","N","  51.8"," ,N,0624, ","    790.5"," ,N"

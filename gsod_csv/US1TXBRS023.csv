@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBRS023","2015","29.70378","-103.33648","975.4","ALPINE 49.6 SSE, TX US","        65","N","        32","N","         2","N","  51.1"," ,N,0707, ","    317.5"," ,N"
+"US1TXBRS023","2016","29.70378","-103.33648","975.4","ALPINE 49.6 SSE, TX US","        53","N","        26","N","         3","N","  29.5"," ,N,0819, ","    256.7"," ,N"
+"US1TXBRS023","2017","29.70378","-103.33648","975.4","ALPINE 49.6 SSE, TX US","        46","N","        23","N","         0","N","  22.6"," ,N,1207, ","    227.1"," ,N"

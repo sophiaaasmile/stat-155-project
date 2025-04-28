@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCYR0073","2021","35.03149","-80.9024","177.1","FORT MILL 2.9 NE, SC US","       113","N","        80","N","         5","N","  38.6"," ,N,1230, ","    917.6"," ,N"
+"US1SCYR0073","2022","35.03149","-80.9024","177.1","FORT MILL 2.9 NE, SC US","       110","N","        72","N","        14","N","  66.5"," ,N,1001, ","   1165.6"," ,N"
+"US1SCYR0073","2023","35.03149","-80.9024","177.1","FORT MILL 2.9 NE, SC US","       109","N","        76","N","        16","N","  84.8"," ,N,0724, ","   1330.1"," ,N"
+"US1SCYR0073","2024","35.03149","-80.9024","177.1","FORT MILL 2.9 NE, SC US","       114","N","        82","N","        14","N"," 108.0"," ,N,0927, ","   1423.9"," ,N"

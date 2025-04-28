@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00225321","1950","30.88333","-89.4","78.9","LUMBERTON 1O SE, MS US","","","","","","","","","","","         1"," ","         6"," ","","","","","","","","","",""
+"USC00225321","1951","30.88333","-89.4","78.9","LUMBERTON 1O SE, MS US","","","","","","","","","","","         1"," ","         7"," ","","","","","","","","","",""
+"USC00225321","1952","30.88333","-89.4","78.9","LUMBERTON 1O SE, MS US","        95","0","        77","0","        19","0","        0","","         0","0","","","","","     0"," ,0,1231,+","     0"," ,0,1231,+","  64.8"," ,0,0519, ","   1411.7"," ,0","        0"," ,0"

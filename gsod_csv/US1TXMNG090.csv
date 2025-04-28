@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXMNG090","2022","30.14592","-95.41304","40.8","CONROE 12.7 SSE, TX US","        97","N","        57","N","         8","N","  51.1"," ,N,0109, ","    894.8"," ,N"
+"US1TXMNG090","2023","30.14592","-95.41304","40.8","CONROE 12.7 SSE, TX US","        88","N","        63","N","        17","N"," 124.7"," ,N,0130, ","   1303.6"," ,N"
+"US1TXMNG090","2024","30.14592","-95.41304","40.8","CONROE 12.7 SSE, TX US","        92","N","        62","N","        24","N"," 234.7"," ,N,0503, ","   1746.6"," ,N"

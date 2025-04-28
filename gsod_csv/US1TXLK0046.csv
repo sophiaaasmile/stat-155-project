@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXLK0046","2012","33.67375","-101.98634","1014.1","SHALLOWATER 1.2 SSE, TX US","        50","N","        29","N","         0","N","  22.1"," ,N,0913, ","    282.0"," ,N"
+"US1TXLK0046","2019","33.67375","-101.98634","1014.1","SHALLOWATER 1.2 SSE, TX US","        39","N","        29","N","         4","N","  74.4"," ,N,0523, ","    559.8"," ,N"
+"US1TXLK0046","2020","33.67375","-101.98634","1014.1","SHALLOWATER 1.2 SSE, TX US","        39","N","        25","N","         0","N","  22.4"," ,N,0722, ","    244.3"," ,N"
+"US1TXLK0046","2021","33.67375","-101.98634","1014.1","SHALLOWATER 1.2 SSE, TX US","        37","N","        25","N","         6","N","  86.9"," ,N,0531, ","    496.0"," ,N"

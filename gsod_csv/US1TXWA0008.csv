@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXWA0008","2010","30.245277","-96.553178","116.7","BURTON 5.3 NNE, TX US","","","","","","","","","    755.2"," ,N"
+"US1TXWA0008","2011","30.245277","-96.553178","116.7","BURTON 5.3 NNE, TX US","        47","N","        25","N","         4","N","  47.8"," ,N,0513, ","    417.7"," ,N"
+"US1TXWA0008","2012","30.245277","-96.553178","116.7","BURTON 5.3 NNE, TX US","        72","N","        50","N","        12","N","  73.7"," ,N,0710, ","    915.6"," ,N"
+"US1TXWA0008","2013","30.245277","-96.553178","116.7","BURTON 5.3 NNE, TX US","        94","N","        50","N","        11","N","  65.5"," ,N,1013, ","    882.4"," ,N"

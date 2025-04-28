@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00048075","1959","40.66667","-120.25","1421.0","SECRET VALLEY M S, CA US","","","","","","","","","","","         1"," ","","","","","","","","","",""
+"USC00048075","1960","40.66667","-120.25","1421.0","SECRET VALLEY M S, CA US","","","","","","","","","","","         6"," ","","","","","","","","","",""
+"USC00048075","1961","40.66667","-120.25","1421.0","SECRET VALLEY M S, CA US","        38","0","        20","0","         0","0","        0","","         0","0","","","     0"," ,0,1231,+","     0"," ,0,1231,+","  19.1"," ,0,0807, ","    164.6"," ,0","        0"," ,0"
+"USC00048075","1963","40.66667","-120.25","1421.0","SECRET VALLEY M S, CA US","","","","","","","","","","","         3"," ","","","","","","","","","",""

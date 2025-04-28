@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WACH0019","2009","47.404324","-120.328773","276.1","WENATCHEE 1.5 S, WA US","        65","N","        27","N","         0","N","  21.3"," ,N,0304, ","    218.9"," ,N"
+"US1WACH0019","2010","47.404324","-120.328773","276.1","WENATCHEE 1.5 S, WA US","       110","N","        42","N","         1","N","  29.7"," ,N,1212, ","    382.9"," ,N"
+"US1WACH0019","2011","47.404324","-120.328773","276.1","WENATCHEE 1.5 S, WA US","        73","N","        32","N","         0","N","  23.1"," ,N,0516, ","    253.6"," ,N"

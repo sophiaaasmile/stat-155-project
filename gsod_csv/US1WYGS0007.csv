@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WYGS0007","2012","42.0614","-104.2006","1250.0","TORRINGTON 1.0 WSW, WY US","        40","N","        14","N","         0","N","  24.1"," ,N,0620, ","    128.9"," ,N"
+"US1WYGS0007","2013","42.0614","-104.2006","1250.0","TORRINGTON 1.0 WSW, WY US","        61","N","        34","N","         1","N","  60.7"," ,N,1011, ","    355.4"," ,N"
+"US1WYGS0007","2014","42.0614","-104.2006","1250.0","TORRINGTON 1.0 WSW, WY US","        79","N","        41","N","         4","N","  48.3"," ,N,0521, ","    505.3"," ,N"
+"US1WYGS0007","2015","42.0614","-104.2006","1250.0","TORRINGTON 1.0 WSW, WY US","        67","N","        38","N","         5","N","  42.7"," ,N,0510, ","    504.4"," ,N"

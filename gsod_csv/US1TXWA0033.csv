@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXWA0033","2022","30.1933","-96.4198","94.5","BRENHAM 2.7 NNW, TX US","        78","N","        44","N","         9","N","  58.4"," ,N,1211, ","    681.3"," ,N"
+"US1TXWA0033","2023","30.1933","-96.4198","94.5","BRENHAM 2.7 NNW, TX US","        97","N","        47","N","         7","N","  40.9"," ,N,0407, ","    681.4"," ,N"
+"US1TXWA0033","2024","30.1933","-96.4198","94.5","BRENHAM 2.7 NNW, TX US","        92","N","        52","N","        18","N"," 171.2"," ,N,0124, ","   1385.2"," ,N"

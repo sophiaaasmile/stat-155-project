@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00337207","1982","40.78333","-80.63333","329.2","ROGERS, OH US","","","","","","","        25"," ","         6"," ","","","",""
+"USC00337207","1983","40.78333","-80.63333","329.2","ROGERS, OH US","       168","6","       114","6","        13","6","        29"," ","        18"," "," 106.7"," ,6,1203, ","   1421.0"," ,6"
+"USC00337207","1984","40.78333","-80.63333","329.2","ROGERS, OH US","","","","","","","        48"," ","        41"," ","","","",""

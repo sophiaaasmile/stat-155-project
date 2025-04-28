@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTV0014","2008","30.339555","-97.722753","220.1","AUSTIN 2.9 NE LAMAR AND ARPT, TX US","        73","N","        33","N","         4","N","  34.3"," ,N,0428, ","    446.4"," ,N"
+"US1TXTV0014","2009","30.339555","-97.722753","220.1","AUSTIN 2.9 NE LAMAR AND ARPT, TX US","        90","N","        56","N","         9","N","  83.3"," ,N,0905, ","    897.7"," ,N"
+"US1TXTV0014","2022","30.339555","-97.722753","220.1","AUSTIN 2.9 NE LAMAR AND ARPT, TX US","        77","N","        35","N","        11","N"," 102.1"," ,N,0823, ","    768.5"," ,N"
+"US1TXTV0014","2023","30.339555","-97.722753","220.1","AUSTIN 2.9 NE LAMAR AND ARPT, TX US","        79","N","        52","N","         8","N","  73.2"," ,N,1027, ","    831.2"," ,N"
+"US1TXTV0014","2024","30.339555","-97.722753","220.1","AUSTIN 2.9 NE LAMAR AND ARPT, TX US","        84","N","        43","N","        10","N","  66.5"," ,N,0122, ","    757.4"," ,N"

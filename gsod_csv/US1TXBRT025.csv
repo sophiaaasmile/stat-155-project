@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBRT025","2010","30.449718","-98.154644","288.3","SPICEWOOD 2.5 SW, TX US","        79","N","        48","N","         7","N"," 105.4"," ,N,0909, ","    801.7"," ,N"
+"US1TXBRT025","2011","30.449718","-98.154644","288.3","SPICEWOOD 2.5 SW, TX US","        56","N","        24","N","         3","N","  78.5"," ,N,1009, ","    377.4"," ,N"
+"US1TXBRT025","2022","30.449718","-98.154644","288.3","SPICEWOOD 2.5 SW, TX US","        50","N","        30","N","         2","N","  43.2"," ,N,0525, ","    354.5"," ,N"

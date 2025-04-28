@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1York4303","2021","40.88130611","-97.57563256",,"YORK 1.22 ENE, NE US","        90","N","        54","N","         9","N"," 108.5"," ,N,0314, ","    695.0"," ,N"
+"US1York4303","2022","40.88130611","-97.57563256",,"YORK 1.22 ENE, NE US","        71","N","        41","N","         8","N","  51.1"," ,N,0615, ","    589.7"," ,N"
+"US1York4303","2023","40.88130611","-97.57563256",,"YORK 1.22 ENE, NE US","        83","N","        42","N","         3","N","  45.7"," ,N,0730, ","    535.2"," ,N"

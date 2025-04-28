@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"USC00226790","1905","30.43333","-88.43333","0.0","PECAN, MS US","","","","","","","         0","6","       267","6","       107","6","","","   37.2","6,0731, ","","","","","","","     25.52","6"
+"USC00226790","1907","30.43333","-88.43333","0.0","PECAN, MS US","        75","6","        74","6","        29","6","","","","","",""," 101.6"," ,6,0422, ","","","","","","","   1761.7"," ,6","",""
+"USC00226790","1908","30.43333","-88.43333","0.0","PECAN, MS US","","","","","","","","","","","","","","","","","     877.3","3","     877.3"," ","","","",""

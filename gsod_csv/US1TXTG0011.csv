@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1TXTG0011","2013","31.447632","-100.516642","596.2","SAN ANGELO 3.8 W, TX US","        59","N","        35","N","         4","N","         1","N","   114"," ,N,0104, ","  55.1"," ,N,0920, ","    469.6"," ,N","      134"," ,N"
+"US1TXTG0011","2014","31.447632","-100.516642","596.2","SAN ANGELO 3.8 W, TX US","        59","N","        28","N","         6","N","","","","","  71.1"," ,N,1105, ","    422.7"," ,N","",""
+"US1TXTG0011","2015","31.447632","-100.516642","596.2","SAN ANGELO 3.8 W, TX US","        76","N","        42","N","         5","N","","","","","  90.9"," ,N,0519, ","    674.1"," ,N","",""

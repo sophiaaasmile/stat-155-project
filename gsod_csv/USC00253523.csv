@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00253523","1957","40.53333","-96.85","427.0","HALLAM 3 W, NE US","","","         3"," ","         3"," ","","","","","",""
+"USC00253523","1958","40.53333","-96.85","427.0","HALLAM 3 W, NE US","","","         1"," ","","","","","","","",""
+"USC00253523","1959","40.53333","-96.85","427.0","HALLAM 3 W, NE US","         5","0","","","","","   203"," ,0,0315,+","    848.4"," ,0","      770"," ,0"
+"USC00253523","1960","40.53333","-96.85","427.0","HALLAM 3 W, NE US","","","        11"," ","","","","","    689.2"," ,0","      874"," ,0"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TNPM0045","2021","36.0519","-85.25","561.4","MONTEREY 5.6 S, TN US","       129","N","        96","N","        22","N"," 182.4"," ,N,1007, ","   1882.6"," ,N"
+"US1TNPM0045","2022","36.0519","-85.25","561.4","MONTEREY 5.6 S, TN US","       118","N","        93","N","        21","N","  79.5"," ,N,0223, ","   1654.6"," ,N"
+"US1TNPM0045","2023","36.0519","-85.25","561.4","MONTEREY 5.6 S, TN US","       146","N","       103","N","        16","N","  69.9"," ,N,0217, ","   1457.7"," ,N"
+"US1TNPM0045","2024","36.0519","-85.25","561.4","MONTEREY 5.6 S, TN US","       138","N","        96","N","        15","N","  95.5"," ,N,0509, ","   1531.7"," ,N"

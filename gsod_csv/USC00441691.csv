@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00441691","1894","37.183333","-80.3","658.4","CHRISTIANSBURG, VA US","        82","6","        55","6","         3","6","","","  52.8"," ,6,1212, ","    564.9"," ,6"
+"USC00441691","1896","37.183333","-80.3","658.4","CHRISTIANSBURG, VA US","","","","","","","         1"," ","","","",""
+"USC00441691","1899","37.183333","-80.3","658.4","CHRISTIANSBURG, VA US","       101","6","        76","6","         9","6","","","  53.6"," ,6,0920, ","   1081.3"," ,6"

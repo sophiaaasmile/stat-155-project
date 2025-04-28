@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00294003","1943","34.11667","-106.45","1769.1","HILL E G RANCH, NM US","","","","","","","         4"," ","","","",""
+"USC00294003","1944","34.11667","-106.45","1769.1","HILL E G RANCH, NM US","","","","","","","         1"," ","","","",""
+"USC00294003","1945","34.11667","-106.45","1769.1","HILL E G RANCH, NM US","","","","","","","         2"," ","","","",""
+"USC00294003","1947","34.11667","-106.45","1769.1","HILL E G RANCH, NM US","        19","6","        19","6","         0","6","         1"," ","  17.8"," ,6,0816, ","    133.0"," ,6"

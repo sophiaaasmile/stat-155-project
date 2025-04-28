@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00135150","2011","41.79215","-92.08113","226.2","MARENGO, IA US","","","","","","","","","","","         5"," ","         9"," ","","","","","","","","","",""
+"USC00135150","2017","41.79215","-92.08113","226.2","MARENGO, IA US","","","","","","","        8","","         2","7","","","","","   102"," ,7,1231,+","   119"," ,7,1229, ","","","","","      192"," ,7"
+"USC00135150","2022","41.79215","-92.08113","226.2","MARENGO, IA US","        87","7","        58","7","         8","7","","","         8","7","","","","","","","   152"," ,7,0102, ","  74.2"," ,7,0625, ","    732.4"," ,7","      624"," ,7"

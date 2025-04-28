@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTN0079","2014","32.874584","-97.44327","208.8","FORT WORTH 12.5 NW, TX US","        79","N","        31","N","         9","N","  60.5"," ,N,0513, ","    622.4"," ,N"
+"US1TXTN0079","2018","32.874584","-97.44327","208.8","FORT WORTH 12.5 NW, TX US","        88","N","        56","N","        15","N","  88.9"," ,N,0221, ","   1135.5"," ,N"
+"US1TXTN0079","2020","32.874584","-97.44327","208.8","FORT WORTH 12.5 NW, TX US","        87","N","        48","N","        10","N","  81.3"," ,N,0902, ","    873.8"," ,N"

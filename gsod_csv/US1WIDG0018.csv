@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1WIDG0018","2022","46.7087","-92.1368","195.4","SUPERIOR 3.7 WNW, WI US","       150","N","        59","N","         3","N","","","","","  49.5"," ,N,0818, ","    644.8"," ,N","",""
+"US1WIDG0018","2023","46.7087","-92.1368","195.4","SUPERIOR 3.7 WNW, WI US","       140","N","        59","N","         1","N","","","","","  56.6"," ,N,0924, ","    682.4"," ,N","",""
+"US1WIDG0018","2024","46.7087","-92.1368","195.4","SUPERIOR 3.7 WNW, WI US","       131","N","        60","N","         5","N","         8","N","   203"," ,N,0325, ","  47.0"," ,N,0522, ","    706.0"," ,N","      692"," ,N"

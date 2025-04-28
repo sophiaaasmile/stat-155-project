@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXHDL021","2013","26.2431","-98.2161","34.7","MCALLEN 2.4 NE, TX US","        76","N","        40","N","         5","N","  54.4"," ,N,1231, ","    541.0"," ,N"
+"US1TXHDL021","2021","26.2431","-98.2161","34.7","MCALLEN 2.4 NE, TX US","        68","N","        45","N","        15","N"," 123.2"," ,N,0708, ","    946.5"," ,N"
+"US1TXHDL021","2023","26.2431","-98.2161","34.7","MCALLEN 2.4 NE, TX US","        65","N","        30","N","         5","N","  68.8"," ,N,0514, ","    588.6"," ,N"

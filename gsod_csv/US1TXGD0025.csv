@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXGD0025","2016","28.864142","-97.33107","65.8","GOLIAD 14.3 NNE, TX US","       112","N","        47","N","        11","N","  85.9"," ,N,0310, ","    900.0"," ,N"
+"US1TXGD0025","2018","28.864142","-97.33107","65.8","GOLIAD 14.3 NNE, TX US","       114","N","        58","N","        10","N"," 115.6"," ,N,0915, ","   1032.2"," ,N"
+"US1TXGD0025","2020","28.864142","-97.33107","65.8","GOLIAD 14.3 NNE, TX US","       102","N","        49","N","         9","N","  40.6"," ,N,0525, ","    645.8"," ,N"

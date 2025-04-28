@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00262849","1949","39.61667","-119.26667","1268.9","FERNLEY MNTC STATION, NV US","        40","0","        17","0","         0","0","","","","","   8.1"," ,0,0302, ","     91.8"," ,0"
+"USC00262849","1950","39.61667","-119.26667","1268.9","FERNLEY MNTC STATION, NV US","        28","0","         7","0","         0","0","","","","","  15.0"," ,0,1118, ","    127.1"," ,0"
+"USC00262849","1952","39.61667","-119.26667","1268.9","FERNLEY MNTC STATION, NV US","","","","","","","         1"," ","         2"," ","","","",""
+"USC00262849","1953","39.61667","-119.26667","1268.9","FERNLEY MNTC STATION, NV US","","","","","","","         3"," ","         1"," ","","","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXAR0005","2010","28.049727","-97.053149","4.9","ROCKPORT 0.6 N, TX US","        87","N","        48","N","        13","N"," 139.4"," ,N,0920, ","   1077.9"," ,N"
+"US1TXAR0005","2014","28.049727","-97.053149","4.9","ROCKPORT 0.6 N, TX US","        79","N","        44","N","         4","N","  60.2"," ,N,0627, ","    593.4"," ,N"
+"US1TXAR0005","2016","28.049727","-97.053149","4.9","ROCKPORT 0.6 N, TX US","        80","N","        44","N","        11","N"," 202.4"," ,N,0516, ","   1006.3"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00158397","1900","37.85","-82.41667","178.9","WARFIELD, KY US","","","","","","","        25"," ","","","",""
+"USC00158397","1901","37.85","-82.41667","178.9","WARFIELD, KY US","       107","6","        84","6","         8","6","        53"," ","  63.5"," ,6,0422, ","   1151.7"," ,6"
+"USC00158397","1902","37.85","-82.41667","178.9","WARFIELD, KY US","","","","","","","        50"," ","","","",""
+"USC00158397","1903","37.85","-82.41667","178.9","WARFIELD, KY US","","","","","","","         2"," ","","","",""

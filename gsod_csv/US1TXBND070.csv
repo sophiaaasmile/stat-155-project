@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBND070","2020","29.692531","-98.978916","343.8","BANDERA 6.1 ESE, TX US","       108","N","        40","N","         8","N","  70.1"," ,N,0117, ","    667.3"," ,N"
+"US1TXBND070","2021","29.692531","-98.978916","343.8","BANDERA 6.1 ESE, TX US","       113","N","        49","N","        11","N","  54.1"," ,N,0929, ","    818.3"," ,N"
+"US1TXBND070","2022","29.692531","-98.978916","343.8","BANDERA 6.1 ESE, TX US","        90","N","        28","N","         1","N","  34.5"," ,N,0426, ","    346.9"," ,N"

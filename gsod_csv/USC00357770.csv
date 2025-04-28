@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00357770","1910","43.8","-120.033333","1287.8","SHERMAN, OR US","","","","","","","         1"," ","","","",""
+"USC00357770","1912","43.8","-120.033333","1287.8","SHERMAN, OR US","        99","6","        45","6","         0","6","","","  23.9"," ,6,0630, ","    321.4"," ,6"
+"USC00357770","1913","43.8","-120.033333","1287.8","SHERMAN, OR US","        93","6","        34","6","         1","6","         1"," ","  31.2"," ,6,1225, ","    306.6"," ,6"

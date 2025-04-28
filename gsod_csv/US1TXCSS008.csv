@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXCSS008","2019","33.17885","-94.3302","124.7","DOUGLASSVILLE 1.5 SE, TX US","       114","N","        72","N","        17","N","  77.5"," ,N,0509, ","   1450.2"," ,N"
+"US1TXCSS008","2022","33.17885","-94.3302","124.7","DOUGLASSVILLE 1.5 SE, TX US","       101","N","        59","N","        15","N","  78.2"," ,N,0322, ","   1285.5"," ,N"
+"US1TXCSS008","2023","33.17885","-94.3302","124.7","DOUGLASSVILLE 1.5 SE, TX US","        94","N","        63","N","        18","N"," 159.5"," ,N,1005, ","   1478.4"," ,N"
+"US1TXCSS008","2024","33.17885","-94.3302","124.7","DOUGLASSVILLE 1.5 SE, TX US","       105","N","        75","N","        23","N"," 152.4"," ,N,0709, ","   1667.7"," ,N"

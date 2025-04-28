@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00227683","1944","33.06667","-89.28333",,"RURAL HILL, MS US","        79","6","        78","6","        17","6","","","","","","","","","","","",""," 103.6"," ,6,0319, ","   1483.3"," ,6","",""
+"USC00227683","1948","33.06667","-89.28333",,"RURAL HILL, MS US","        98","0","        86","0","        23","0","","","","","","","","","","","","","  80.5"," ,0,1119, ","   1505.3"," ,0","",""
+"USC00227683","1949","33.06667","-89.28333",,"RURAL HILL, MS US","       127","0","       107","0","        19","0","        0","","         0","0","","","","","     0","T,0,0131, ","    20"," ,0,0131, ","  87.9"," ,0,0105, ","   1635.0"," ,0","       20"," ,0"
+"USC00227683","1950","33.06667","-89.28333",,"RURAL HILL, MS US","","","","","","","","","","","         2"," ","         2"," ","","","","","","","","","",""

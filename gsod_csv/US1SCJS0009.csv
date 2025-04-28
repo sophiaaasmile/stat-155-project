@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1SCJS0009","2018","32.308333","-80.950444","5.2","BLUFFTON 7.2 NW, SC US","       133","N","        81","N","        17","N","  69.6"," ,N,0727, ","   1530.8"," ,N"
+"US1SCJS0009","2019","32.308333","-80.950444","5.2","BLUFFTON 7.2 NW, SC US","       130","N","        68","N","        17","N","  94.5"," ,N,1223, ","   1356.0"," ,N"
+"US1SCJS0009","2020","32.308333","-80.950444","5.2","BLUFFTON 7.2 NW, SC US","       135","N","        84","N","        17","N","  91.9"," ,N,0420, ","   1402.4"," ,N"
+"US1SCJS0009","2021","32.308333","-80.950444","5.2","BLUFFTON 7.2 NW, SC US","       125","N","        77","N","        17","N"," 134.9"," ,N,0708, ","   1609.7"," ,N"

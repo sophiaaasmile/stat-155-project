@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBXR148","2010","29.5422","-98.566","292.6","SHAVANO PARK 3.0 SSW, TX US","        90","N","        50","N","         8","N"," 166.6"," ,N,0908, ","    963.5"," ,N"
+"US1TXBXR148","2011","29.5422","-98.566","292.6","SHAVANO PARK 3.0 SSW, TX US","        65","N","        26","N","         6","N","  92.5"," ,N,1009, ","    483.7"," ,N"
+"US1TXBXR148","2012","29.5422","-98.566","292.6","SHAVANO PARK 3.0 SSW, TX US","        89","N","        40","N","        12","N","  69.3"," ,N,0914, ","    928.7"," ,N"

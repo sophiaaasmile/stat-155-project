@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXVC0062","2022","28.8120523","-97.0753463","36.9","VICTORIA 5.7 W, TX US","        80","N","        40","N","         9","N"," 120.1"," ,N,0716, ","    742.9"," ,N"
+"US1TXVC0062","2023","28.8120523","-97.0753463","36.9","VICTORIA 5.7 W, TX US","        87","N","        44","N","         9","N"," 106.2"," ,N,0108, ","    737.8"," ,N"
+"US1TXVC0062","2024","28.8120523","-97.0753463","36.9","VICTORIA 5.7 W, TX US","        99","N","        50","N","        11","N","  75.7"," ,N,0122, ","    883.7"," ,N"

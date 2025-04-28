@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXMNG051","2018","30.170301","-95.755222","69.2","MAGNOLIA 2.8 S, TX US","       111","N","        62","N","        15","N"," 199.4"," ,N,0521, ","   1466.6"," ,N"
+"US1TXMNG051","2020","30.170301","-95.755222","69.2","MAGNOLIA 2.8 S, TX US","        98","N","        62","N","         9","N","  88.9"," ,N,1231, ","    925.6"," ,N"
+"US1TXMNG051","2021","30.170301","-95.755222","69.2","MAGNOLIA 2.8 S, TX US","        91","N","        63","N","        10","N","  84.8"," ,N,0501, ","   1090.7"," ,N"

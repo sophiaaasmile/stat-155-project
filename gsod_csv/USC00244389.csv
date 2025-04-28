@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00244389","1950","46.81667","-107.03333","1022.0","INGOMAR 21 NE, MT US","","","","","","","","","         1"," ","         2"," ","","","","","","","",""
+"USC00244389","1951","46.81667","-107.03333","1022.0","INGOMAR 21 NE, MT US","","","","","","","","","         4"," ","         2"," ","","","","","","","",""
+"USC00244389","1952","46.81667","-107.03333","1022.0","INGOMAR 21 NE, MT US","        32","0","        23","0","         0","0","         0","0","         2"," ","        14"," ","     0","T,0,1213,+","  24.9"," ,0,0521, ","    144.7"," ,0","        0","T,0"
+"USC00244389","1953","46.81667","-107.03333","1022.0","INGOMAR 21 NE, MT US","","","","","","","","","         4"," ","         5"," ","","","","","","","",""

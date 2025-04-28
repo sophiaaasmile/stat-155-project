@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1VTCH0047","2020","44.422105","-73.191145","111.9","SOUTH BURLINGTON 2.6 SSW, VT US","       151","N","        66","N","         3","N","  55.4"," ,N,0930, ","    760.2"," ,N"
+"US1VTCH0047","2021","44.422105","-73.191145","111.9","SOUTH BURLINGTON 2.6 SSW, VT US","       163","N","        81","N","         6","N","  42.2"," ,N,0718, ","    957.2"," ,N"
+"US1VTCH0047","2022","44.422105","-73.191145","111.9","SOUTH BURLINGTON 2.6 SSW, VT US","       148","N","        81","N","        10","N","  60.5"," ,N,0914, ","   1082.1"," ,N"
+"US1VTCH0047","2023","44.422105","-73.191145","111.9","SOUTH BURLINGTON 2.6 SSW, VT US","       166","N","        93","N","        13","N","  77.5"," ,N,1008, ","   1333.2"," ,N"
+"US1VTCH0047","2024","44.422105","-73.191145","111.9","SOUTH BURLINGTON 2.6 SSW, VT US","       164","N","        90","N","         8","N","  64.3"," ,N,0711, ","   1108.3"," ,N"

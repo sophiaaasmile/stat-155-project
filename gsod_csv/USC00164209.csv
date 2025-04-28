@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00164209","1949","31.43333","-92.23333","21.0","HICKORY GROVE, LA US","        99","0","        82","0","        24","0","","","","","  74.9"," ,0,0326, ","   1662.8"," ,0"
+"USC00164209","1957","31.43333","-92.23333","21.0","HICKORY GROVE, LA US","","","","","","","         2"," ","         9"," ","","","",""
+"USC00164209","1958","31.43333","-92.23333","21.0","HICKORY GROVE, LA US","","","","","","","         5"," ","         8"," ","","","",""

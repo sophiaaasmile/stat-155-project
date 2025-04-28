@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"USC00298061","1940","36.0","-106.28333","2257.0","SANTA CLARA RANGER STATION, NM US","        61","6","        47","6","         6","6","","","  69.1"," ,6,0508, ","","","","","    649.2"," ,6"
+"USC00298061","1943","36.0","-106.28333","2257.0","SANTA CLARA RANGER STATION, NM US","        66","6","        50","6","         2","6","","","  32.0"," ,6,0507, ","","","","","    499.4"," ,6"
+"USC00298061","1946","36.0","-106.28333","2257.0","SANTA CLARA RANGER STATION, NM US","","","","","","","","","","","    3453.5","5","    3453.5","6","",""
+"USC00298061","1947","36.0","-106.28333","2257.0","SANTA CLARA RANGER STATION, NM US","","","","","","","         2"," ","","","","","","","",""

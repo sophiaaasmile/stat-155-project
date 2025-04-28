@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES"
+"USW00014948","1945","41.1","-92.43333","257.9","OTTUMWA NAS, IA US","       156"," ","        50"," ","","","",""
+"USW00014948","1946","41.1","-92.43333","257.9","OTTUMWA NAS, IA US","        53"," ","        17"," ","","","",""
+"USW00014948","1947","41.1","-92.43333","257.9","OTTUMWA NAS, IA US","        36"," ","        12"," ","    3176.9","9","    3176.9","X"

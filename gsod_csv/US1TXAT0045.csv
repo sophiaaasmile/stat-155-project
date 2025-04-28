@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXAT0045","2019","29.029385","-98.499645","130.1","PLEASANTON 4.5 N, TX US","       128","N","        38","N","         8","N","  47.0"," ,N,0630, ","    618.1"," ,N"
+"US1TXAT0045","2020","29.029385","-98.499645","130.1","PLEASANTON 4.5 N, TX US","       115","N","        35","N","         8","N"," 147.1"," ,N,0910, ","    776.0"," ,N"
+"US1TXAT0045","2021","29.029385","-98.499645","130.1","PLEASANTON 4.5 N, TX US","       110","N","        45","N","         7","N","  95.3"," ,N,0501, ","    767.7"," ,N"
+"US1TXAT0045","2024","29.029385","-98.499645","130.1","PLEASANTON 4.5 N, TX US","        56","N","        27","N","         9","N","  55.1"," ,N,0514, ","    595.6"," ,N"

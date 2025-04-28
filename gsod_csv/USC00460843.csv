@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00460843","2003","38.45694","-80.79306","655.3","BIRCH RIVER 4 SW, WV US","","","         6"," ","        17"," ","","","",""
+"USC00460843","2004","38.45694","-80.79306","655.3","BIRCH RIVER 4 SW, WV US","        13","0","         9"," ","        23"," ","   127"," ,0,0402, ","      843"," ,0"
+"USC00460843","2005","38.45694","-80.79306","655.3","BIRCH RIVER 4 SW, WV US","","","         1"," ","        18"," ","","","",""

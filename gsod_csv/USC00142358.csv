@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00142358","2022","37.06402","-95.36137","295.7","EDNA, KS US","","","","","         9"," ","        31"," ","","","","","",""
+"USC00142358","2023","37.06402","-95.36137","295.7","EDNA, KS US","        0","","         0","7","         6"," ","        36"," ","     0"," ,7,1231,+","    13"," ,7,0112, ","       18"," ,7"

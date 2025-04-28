@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBLC004","2012","30.258882","-98.527359","410.9","JOHNSON CITY 7.3 W, TX US","","","","","","","","","    723.9"," ,N"
+"US1TXBLC004","2016","30.258882","-98.527359","410.9","JOHNSON CITY 7.3 W, TX US","","","","","","","","","    983.9"," ,N"
+"US1TXBLC004","2022","30.258882","-98.527359","410.9","JOHNSON CITY 7.3 W, TX US","","","","","","","","","    290.2"," ,N"
+"US1TXBLC004","2023","30.258882","-98.527359","410.9","JOHNSON CITY 7.3 W, TX US","        63","N","        36","N","         5","N","  58.9"," ,N,1005, ","    570.0"," ,N"
+"US1TXBLC004","2024","30.258882","-98.527359","410.9","JOHNSON CITY 7.3 W, TX US","        55","N","        32","N","         7","N","  84.3"," ,N,0723, ","    671.1"," ,N"

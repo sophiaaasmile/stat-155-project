@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1WAWM0015","2022","46.7259","-117.1771","753.5","PULLMAN 0.4 SE, WA US","       124","N","        67","N","         1","N","  44.5"," ,N,1105, ","    704.7"," ,N"
+"US1WAWM0015","2023","46.7259","-117.1771","753.5","PULLMAN 0.4 SE, WA US","       132","N","        48","N","         1","N","  31.0"," ,N,1210, ","    397.7"," ,N"
+"US1WAWM0015","2024","46.7259","-117.1771","753.5","PULLMAN 0.4 SE, WA US","       125","N","        62","N","         1","N","  26.4"," ,N,0603, ","    525.8"," ,N"

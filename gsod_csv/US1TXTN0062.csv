@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXTN0062","2012","32.876844","-97.193835","196.0","NORTH RICHLAND HILLS 1.9 NE, TX US","        44","N","        30","N","        12","N","  99.1"," ,N,0125, ","    820.0"," ,N"
+"US1TXTN0062","2013","32.876844","-97.193835","196.0","NORTH RICHLAND HILLS 1.9 NE, TX US","        74","N","        52","N","         8","N","  83.8"," ,N,0109, ","    833.0"," ,N"
+"US1TXTN0062","2015","32.876844","-97.193835","196.0","NORTH RICHLAND HILLS 1.9 NE, TX US","        94","N","        70","N","        21","N"," 122.4"," ,N,1127, ","   1744.8"," ,N"
+"US1TXTN0062","2016","32.876844","-97.193835","196.0","NORTH RICHLAND HILLS 1.9 NE, TX US","        75","N","        56","N","        13","N","  71.9"," ,N,0820, ","    944.7"," ,N"
+"US1TXTN0062","2018","32.876844","-97.193835","196.0","NORTH RICHLAND HILLS 1.9 NE, TX US","        83","N","        68","N","        21","N","  87.6"," ,N,0922,+","   1493.5"," ,N"
+"US1TXTN0062","2020","32.876844","-97.193835","196.0","NORTH RICHLAND HILLS 1.9 NE, TX US","        93","N","        62","N","        12","N","  92.7"," ,N,0517, ","    995.0"," ,N"

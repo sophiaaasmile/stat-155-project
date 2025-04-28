@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"USC00503165","2011","66.56639","-145.26556","133.5","FORT YUKON NUMBER 2, AK US","        96","7","        31","7","         1","7","      192","","        15","7","         1"," ","   610"," ,7,0228,+","   140"," ,7,1212, ","  25.4"," ,7,0704, ","    244.9"," ,7","     1067"," ,7"
+"USC00503165","2012","66.56639","-145.26556","133.5","FORT YUKON NUMBER 2, AK US","","","","","","","","","","","         5"," ","","","","","","","","","",""
+"USC00503165","2013","66.56639","-145.26556","133.5","FORT YUKON NUMBER 2, AK US","","","","","","","","","","","         2"," ","","","","","","","","","",""
