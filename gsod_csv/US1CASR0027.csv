@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASR0027","2021","34.48491667","-117.64425","1065.3","PINON HILLS 3.5 N, CA US","        19","N","        10","N","         0","N","  15.2"," ,N,0129, ","     74.8"," ,N"
+"US1CASR0027","2023","34.48491667","-117.64425","1065.3","PINON HILLS 3.5 N, CA US","        33","N","        17","N","         2","N"," 127.0"," ,N,0821, ","    270.7"," ,N"
+"US1CASR0027","2024","34.48491667","-117.64425","1065.3","PINON HILLS 3.5 N, CA US","        18","N","        12","N","         2","N","  32.0"," ,N,0205, ","    181.7"," ,N"

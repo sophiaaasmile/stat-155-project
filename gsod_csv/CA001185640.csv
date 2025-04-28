@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001185640","1955","56.4333","-120.7833","710.0","NORTH PINE CDA EPF, BC CA","        73","C","        47","C","         1","C","        24","C","   203"," ,C,0424, ","  25.4"," ,C,0530, ","    364.2"," ,C","     2024"," ,C"
+"CA001185640","1959","56.4333","-120.7833","710.0","NORTH PINE CDA EPF, BC CA","        66","C","        38","C","         1","C","        20","C","   102"," ,C,1116, ","  27.2"," ,C,0816, ","    324.5"," ,C","     1407"," ,C"
+"CA001185640","1960","56.4333","-120.7833","710.0","NORTH PINE CDA EPF, BC CA","        61","C","        37","C","         2","C","        16","C","    89"," ,C,1201,+","  28.4"," ,C,0617, ","    387.2"," ,C","     1283"," ,C"

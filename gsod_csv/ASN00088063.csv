@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00088063","1943","-37.3","144.5",,"WOODEND MEADOWBROK, AS","       115","a","        84","a","         3","a","  43.2"," ,a,0728, ","    764.3"," ,a"
+"ASN00088063","1944","-37.3","144.5",,"WOODEND MEADOWBROK, AS","       107","a","        69","a","         1","a","  38.6"," ,a,0705, ","    575.7"," ,a"
+"ASN00088063","1945","-37.3","144.5",,"WOODEND MEADOWBROK, AS","       101","a","        63","a","         7","a","  69.6"," ,a,0621, ","    745.2"," ,a"

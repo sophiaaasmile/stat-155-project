@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KYHY0010","2020","38.4104","-85.2203","273.4","EMINENCE 4.0 NW, KY US","       121","N","        88","N","        18","N"," 110.5"," ,N,0731, ","   1381.4"," ,N"
+"US1KYHY0010","2021","38.4104","-85.2203","273.4","EMINENCE 4.0 NW, KY US","        94","N","        69","N","        15","N","  55.1"," ,N,0228, ","   1286.9"," ,N"
+"US1KYHY0010","2022","38.4104","-85.2203","273.4","EMINENCE 4.0 NW, KY US","        94","N","        74","N","        17","N","  55.1"," ,N,0218, ","   1206.9"," ,N"

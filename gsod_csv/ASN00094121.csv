@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00094121","1923","-42.6667","147.6","182.9","RUNNYMEDE, AS","       140","a","        76","a","         8","a","  75.4"," ,a,1109, ","    912.8"," ,a"
+"ASN00094121","1924","-42.6667","147.6","182.9","RUNNYMEDE, AS","       136","a","        70","a","         7","a","  61.0"," ,a,0128, ","    820.6"," ,a"
+"ASN00094121","1925","-42.6667","147.6","182.9","RUNNYMEDE, AS","       139","a","        65","a","         3","a","  33.0"," ,a,0323, ","    611.9"," ,a"

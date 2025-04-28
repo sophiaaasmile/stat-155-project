@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NDCS0045","2020","46.925995","-96.793217","272.8","FARGO 3.6 NNE, ND US","        84","N","        51","N","         4","N","  38.6"," ,N,0815, ","    539.8"," ,N"
+"US1NDCS0045","2021","46.925995","-96.793217","272.8","FARGO 3.6 NNE, ND US","        70","N","        69","N","         3","N","  38.1"," ,N,0902, ","    543.1"," ,N"
+"US1NDCS0045","2023","46.925995","-96.793217","272.8","FARGO 3.6 NNE, ND US","        69","N","        65","N","         6","N","  73.7"," ,N,0806, ","    659.5"," ,N"

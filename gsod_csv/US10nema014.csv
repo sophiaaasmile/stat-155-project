@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10nema014","2020","40.37855","-95.84938",,"AUBURN 1.1 SW, NE US","        81","N","        55","N","         9","N","  55.1"," ,N,0627, ","    779.4"," ,N"
+"US10nema014","2021","40.37855","-95.84938",,"AUBURN 1.1 SW, NE US","        76","N","        53","N","         9","N","  62.2"," ,N,0314, ","    850.4"," ,N"
+"US10nema014","2023","40.37855","-95.84938",,"AUBURN 1.1 SW, NE US","        72","N","        51","N","         6","N","  83.8"," ,N,0513, ","    828.2"," ,N"

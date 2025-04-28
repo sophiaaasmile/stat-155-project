@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00066114","2006","-33.7179","151.147","155.0","NORTH TURRAMURRA DRYDEN RD, AS","       126","a","        69","a","         7","a","  62.6"," ,a,0227, ","    830.8"," ,a"
+"ASN00066114","2007","-33.7179","151.147","155.0","NORTH TURRAMURRA DRYDEN RD, AS","       130","a","        81","a","        19","a"," 126.6"," ,a,0609, ","   1543.0"," ,a"
+"ASN00066114","2008","-33.7179","151.147","155.0","NORTH TURRAMURRA DRYDEN RD, AS","       141","a","        82","a","        11","a","  85.2"," ,a,0605, ","   1278.6"," ,a"

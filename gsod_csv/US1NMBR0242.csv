@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMBR0242","2019","35.185024","-106.631813","1523.7","NORTH VALLEY 1.0 NNW, NM US","        66","N","        34","N","         1","N","  29.7"," ,N,0915, ","    262.0"," ,N"
+"US1NMBR0242","2020","35.185024","-106.631813","1523.7","NORTH VALLEY 1.0 NNW, NM US","        55","N","        20","N","         0","N","  14.5"," ,N,0602, ","    152.3"," ,N"
+"US1NMBR0242","2021","35.185024","-106.631813","1523.7","NORTH VALLEY 1.0 NNW, NM US","        55","N","        17","N","         1","N","  30.7"," ,N,0601, ","    173.4"," ,N"
+"US1NMBR0242","2022","35.185024","-106.631813","1523.7","NORTH VALLEY 1.0 NNW, NM US","        64","N","        28","N","         0","N","  19.3"," ,N,0812, ","    243.4"," ,N"

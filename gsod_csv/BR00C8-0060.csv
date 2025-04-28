@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00C8-0060","1938","-21.85","-51.6","400.0","RIBEIRAO DOS INDIOS, BR","       106","I","        75","I","        16","I","  90.6"," ,I,0324, ","   1309.1"," ,I"
+"BR00C8-0060","1939","-21.85","-51.6","400.0","RIBEIRAO DOS INDIOS, BR","       113","I","        85","I","        23","I","  75.1"," ,I,1123, ","   1547.6"," ,I"
+"BR00C8-0060","1940","-21.85","-51.6","400.0","RIBEIRAO DOS INDIOS, BR","        81","I","        62","I","        15","I","  43.2"," ,I,1126, ","   1034.7"," ,I"
+"BR00C8-0060","1941","-21.85","-51.6","400.0","RIBEIRAO DOS INDIOS, BR","        94","I","        81","I","        13","I","  61.7"," ,I,0322, ","   1212.2"," ,I"
+"BR00C8-0060","1942","-21.85","-51.6","400.0","RIBEIRAO DOS INDIOS, BR","        94","I","        73","I","        17","I"," 101.2"," ,I,1126, ","   1364.1"," ,I"

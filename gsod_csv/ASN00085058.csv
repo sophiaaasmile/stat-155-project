@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00085058","2006","-37.5277","146.5458","380.0","GLENCAIRN BARKLY RIVER GLENV, AS","        93","a","        54","a","         0","a","  14.6"," ,a,0903, ","    470.0"," ,a"
+"ASN00085058","2007","-37.5277","146.5458","380.0","GLENCAIRN BARKLY RIVER GLENV, AS","       124","a","        70","a","         6","a","  92.6"," ,a,0628, ","    900.8"," ,a"
+"ASN00085058","2009","-37.5277","146.5458","380.0","GLENCAIRN BARKLY RIVER GLENV, AS","       116","a","        60","a","         1","a","  43.6"," ,a,0926, ","    651.8"," ,a"
+"ASN00085058","2010","-37.5277","146.5458","380.0","GLENCAIRN BARKLY RIVER GLENV, AS","       121","a","        64","a","         5","a","  61.0"," ,a,1128, ","    887.0"," ,a"
+"ASN00085058","2011","-37.5277","146.5458","380.0","GLENCAIRN BARKLY RIVER GLENV, AS","       130","a","        82","a","         6","a","  57.4"," ,a,0811, ","    894.4"," ,a"
+"ASN00085058","2012","-37.5277","146.5458","380.0","GLENCAIRN BARKLY RIVER GLENV, AS","       129","a","        75","a","         5","a"," 120.4"," ,a,0605, ","    922.2"," ,a"
+"ASN00085058","2013","-37.5277","146.5458","380.0","GLENCAIRN BARKLY RIVER GLENV, AS","       125","a","        75","a","         5","a","  43.4"," ,a,0228, ","    802.6"," ,a"

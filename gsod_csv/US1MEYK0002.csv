@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MEYK0002","2010","43.0810088","-70.7137736","7.0","KITTERY POINT 0.8 WSW, ME US","       112","N","        67","N","        16","N","  75.2"," ,N,0315, ","   1249.8"," ,N"
+"US1MEYK0002","2014","43.0810088","-70.7137736","7.0","KITTERY POINT 0.8 WSW, ME US","       142","N","        84","N","         7","N","  84.8"," ,N,1210, ","   1128.3"," ,N"
+"US1MEYK0002","2015","43.0810088","-70.7137736","7.0","KITTERY POINT 0.8 WSW, ME US","       117","N","        61","N","         9","N","  56.1"," ,N,0128, ","   1023.3"," ,N"
+"US1MEYK0002","2016","43.0810088","-70.7137736","7.0","KITTERY POINT 0.8 WSW, ME US","       117","N","        71","N","         9","N","  75.7"," ,N,1022, ","    903.8"," ,N"

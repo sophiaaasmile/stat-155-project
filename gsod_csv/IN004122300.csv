@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN004122300","1951","23.57","85.13","604.0","BARMU HYDRO, IN","        48","I","        42","I","        11","I","  94.0"," ,I,0910, ","    828.8"," ,I"
+"IN004122300","1952","23.57","85.13","604.0","BARMU HYDRO, IN","        64","I","        56","I","        12","I","  64.0"," ,I,0911, ","    965.9"," ,I"
+"IN004122300","1953","23.57","85.13","604.0","BARMU HYDRO, IN","        86","I","        72","I","        26","I"," 115.6"," ,I,0908, ","   1708.1"," ,I"

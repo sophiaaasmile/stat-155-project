@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZCH0008","2011","31.502346","-110.239556","1386.5","SIERRA VISTA 4.8 SE, AZ US","","","","","","","","","    203.6"," ,N"
+"US1AZCH0008","2022","31.502346","-110.239556","1386.5","SIERRA VISTA 4.8 SE, AZ US","        87","N","        47","N","         0","N","  22.9"," ,N,0821, ","    417.4"," ,N"
+"US1AZCH0008","2023","31.502346","-110.239556","1386.5","SIERRA VISTA 4.8 SE, AZ US","        57","N","        22","N","         0","N","  22.9"," ,N,1223, ","    188.7"," ,N"
+"US1AZCH0008","2024","31.502346","-110.239556","1386.5","SIERRA VISTA 4.8 SE, AZ US","        49","N","        23","N","         1","N","  67.8"," ,N,0716, ","    281.3"," ,N"

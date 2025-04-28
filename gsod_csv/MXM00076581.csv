@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXM00076581","2017","21.933","-99.983","983.0","RIO VERDE S.L.P., MX","        58","S","        36","S","         3","S","  42.2"," ,S,1011, ","    427.1"," ,S"
+"MXM00076581","2018","21.933","-99.983","983.0","RIO VERDE S.L.P., MX","        60","S","        35","S","         3","S","  50.8"," ,S,0504, ","    370.6"," ,S"
+"MXM00076581","2019","21.933","-99.983","983.0","RIO VERDE S.L.P., MX","        40","S","        22","S","         4","S","  48.0"," ,S,1023, ","    331.1"," ,S"

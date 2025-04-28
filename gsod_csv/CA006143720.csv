@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006143720","1952","43.1167","-81.3833","284.0","ILDERTON, ON CA","       100","C","        76","C","         5","C","        22","C","   175"," ,C,0207, ","  37.8"," ,C,0524, ","    808.5"," ,C","     1423"," ,C"
+"CA006143720","1954","43.1167","-81.3833","284.0","ILDERTON, ON CA","","","","","","","        32","C","   254"," ,C,0329, ","","","   1001.2"," ,C","     2268"," ,C"
+"CA006143720","1955","43.1167","-81.3833","284.0","ILDERTON, ON CA","       115","C","        83","C","         4","C","        31","C","   203"," ,C,1219, ","  62.2"," ,C,1005, ","    851.6"," ,C","     2023"," ,C"

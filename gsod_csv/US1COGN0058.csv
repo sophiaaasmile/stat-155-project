@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COGN0058","2018","38.3401","-107.0943","2763.0","POWDERHORN 4.4 NNE, CO US","       110","N","        44","N","         0","N","","","","","  24.6"," ,N,0408, ","    360.9"," ,N","",""
+"US1COGN0058","2020","38.3401","-107.0943","2763.0","POWDERHORN 4.4 NNE, CO US","        99","N","        42","N","         0","N","        31","N","   180"," ,N,1212, ","  19.3"," ,N,0422, ","    308.5"," ,N","     2290"," ,N"
+"US1COGN0058","2021","38.3401","-107.0943","2763.0","POWDERHORN 4.4 NNE, CO US","       116","N","        52","N","         0","N","","","","","  18.3"," ,N,1210, ","    380.1"," ,N","",""
+"US1COGN0058","2022","38.3401","-107.0943","2763.0","POWDERHORN 4.4 NNE, CO US","       101","N","        50","N","         0","N","","","","","  17.8"," ,N,1228, ","    373.2"," ,N","",""

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IAPK0088","2019","41.61721","-93.70573","294.4","DES MOINES 5.4 WNW, IA US","","","","","","","","","   1159.3"," ,N"
+"US1IAPK0088","2020","41.61721","-93.70573","294.4","DES MOINES 5.4 WNW, IA US","       100","N","        50","N","         8","N","  41.7"," ,N,0413, ","    855.1"," ,N"
+"US1IAPK0088","2021","41.61721","-93.70573","294.4","DES MOINES 5.4 WNW, IA US","        87","N","        54","N","         9","N","  68.8"," ,N,1025, ","    747.9"," ,N"
+"US1IAPK0088","2022","41.61721","-93.70573","294.4","DES MOINES 5.4 WNW, IA US","        79","N","        47","N","         6","N","  57.2"," ,N,1105, ","    694.5"," ,N"

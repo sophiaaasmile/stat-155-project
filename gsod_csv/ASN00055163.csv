@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00055163","1961","-31.1833","151.2167","570.0","KOOTINGAL LECONFIELD, AS","        71","a","        59","a","         7","a","  50.8"," ,a,1118, ","    739.4"," ,a"
+"ASN00055163","1963","-31.1833","151.2167","570.0","KOOTINGAL LECONFIELD, AS","        68","a","        61","a","         7","a","  61.0"," ,a,0519, ","    856.1"," ,a"
+"ASN00055163","1966","-31.1833","151.2167","570.0","KOOTINGAL LECONFIELD, AS","        67","a","        54","a","         6","a","  54.6"," ,a,0311, ","    711.0"," ,a"
+"ASN00055163","1970","-31.1833","151.2167","570.0","KOOTINGAL LECONFIELD, AS","        61","a","        60","a","         9","a"," 119.4"," ,a,0127, ","   1002.4"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYCL0012","2021","44.639802","-73.738484","253.0","SARANAC 0.8 SSE, NY US","       127","N","        82","N","         2","N","  58.7"," ,N,0924, ","    851.2"," ,N"
+"US1NYCL0012","2022","44.639802","-73.738484","253.0","SARANAC 0.8 SSE, NY US","       121","N","        85","N","         9","N","  41.9"," ,N,1217, ","   1006.2"," ,N"
+"US1NYCL0012","2023","44.639802","-73.738484","253.0","SARANAC 0.8 SSE, NY US","       135","N","        94","N","         8","N"," 115.3"," ,N,1008, ","   1239.9"," ,N"
+"US1NYCL0012","2024","44.639802","-73.738484","253.0","SARANAC 0.8 SSE, NY US","       131","N","        88","N","         6","N","  54.9"," ,N,0711, ","    957.0"," ,N"

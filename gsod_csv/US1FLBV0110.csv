@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLBV0110","2020","28.02342","-80.617358","5.5","PALM BAY 3.7 NE, FL US","       145","N","        83","N","        14","N","  49.0"," ,N,0921, ","   1268.2"," ,N"
+"US1FLBV0110","2021","28.02342","-80.617358","5.5","PALM BAY 3.7 NE, FL US","       139","N","        72","N","        15","N","  58.9"," ,N,0729, ","   1096.6"," ,N"
+"US1FLBV0110","2024","28.02342","-80.617358","5.5","PALM BAY 3.7 NE, FL US","       152","N","        77","N","        13","N","  71.1"," ,N,1010, ","   1341.8"," ,N"

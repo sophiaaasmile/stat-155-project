@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCCM0098","2021","35.004098","-78.687735","36.0","STEDMAN 0.7 SE, NC US","        91","N","        70","N","         9","N","  81.3"," ,N,0603, ","   1146.1"," ,N"
+"US1NCCM0098","2022","35.004098","-78.687735","36.0","STEDMAN 0.7 SE, NC US","        76","N","        55","N","        11","N","  66.3"," ,N,1001, ","    904.6"," ,N"
+"US1NCCM0098","2024","35.004098","-78.687735","36.0","STEDMAN 0.7 SE, NC US","        94","N","        71","N","        12","N"," 135.9"," ,N,0808, ","   1326.0"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COWE0516","2018","40.23653","-105.00308","1536.2","MEAD 0.8 W, CO US","        70","N","        30","N","         1","N","  31.2"," ,N,0514, ","    298.2"," ,N"
+"US1COWE0516","2019","40.23653","-105.00308","1536.2","MEAD 0.8 W, CO US","        79","N","        42","N","         1","N","  27.2"," ,N,0622, ","    385.8"," ,N"
+"US1COWE0516","2020","40.23653","-105.00308","1536.2","MEAD 0.8 W, CO US","        53","N","        30","N","         1","N","  33.0"," ,N,0320, ","    276.7"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00048002","2000","-31.217","144.6672","100.0","TILPA INNESOWEN, AS","        62","a","        35","a","         6","a"," 119.4"," ,a,0222, ","    580.2"," ,a"
+"ASN00048002","2001","-31.217","144.6672","100.0","TILPA INNESOWEN, AS","        35","a","        19","a","         1","a","  26.6"," ,a,1024, ","    178.2"," ,a"
+"ASN00048002","2002","-31.217","144.6672","100.0","TILPA INNESOWEN, AS","        31","a","        19","a","         2","a","  36.8"," ,a,0226, ","    227.2"," ,a"

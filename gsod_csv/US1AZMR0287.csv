@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZMR0287","2018","33.7375","-112.19035","458.1","SURPRISE 10.9 NE, AZ US","        27","N","        16","N","         1","N","  39.1"," ,N,1003, ","    195.8"," ,N"
+"US1AZMR0287","2020","33.7375","-112.19035","458.1","SURPRISE 10.9 NE, AZ US","        20","N","        12","N","         1","N","  39.6"," ,N,0313, ","    187.1"," ,N"
+"US1AZMR0287","2021","33.7375","-112.19035","458.1","SURPRISE 10.9 NE, AZ US","        39","N","        20","N","         2","N","  34.8"," ,N,1225, ","    233.5"," ,N"

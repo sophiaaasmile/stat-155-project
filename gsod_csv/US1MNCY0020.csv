@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNCY0020","2021","46.91652","-96.41147","340.5","HAWLEY 5.2 WNW, MN US","        87","N","        47","N","         3","N","  43.4"," ,N,0903, ","    521.4"," ,N"
+"US1MNCY0020","2022","46.91652","-96.41147","340.5","HAWLEY 5.2 WNW, MN US","       127","N","        58","N","         6","N","  63.2"," ,N,0806, ","    687.3"," ,N"
+"US1MNCY0020","2023","46.91652","-96.41147","340.5","HAWLEY 5.2 WNW, MN US","       104","N","        45","N","         1","N","  35.3"," ,N,0924, ","    489.3"," ,N"
+"US1MNCY0020","2024","46.91652","-96.41147","340.5","HAWLEY 5.2 WNW, MN US","        97","N","        48","N","         6","N","  53.3"," ,N,0815, ","    621.8"," ,N"

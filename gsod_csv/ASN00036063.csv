@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00036063","1965","-22.8333","143.7333","223.0","RIMBANDA RAIL SIDING, AS","        14","a","        13","a","         3","a","  42.7"," ,a,0425, ","    212.1"," ,a"
+"ASN00036063","1966","-22.8333","143.7333","223.0","RIMBANDA RAIL SIDING, AS","        13","a","        12","a","         4","a","  76.2"," ,a,0122, ","    322.0"," ,a"
+"ASN00036063","1967","-22.8333","143.7333","223.0","RIMBANDA RAIL SIDING, AS","        18","a","        17","a","         5","a","  81.3"," ,a,0606, ","    324.9"," ,a"

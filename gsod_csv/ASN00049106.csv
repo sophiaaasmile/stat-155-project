@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00049106","1971","-32.4167","145.9833","378.0","NYMAGEE MOUNT VIEW, AS","        55","a","        37","a","         3","a","  31.0"," ,a,0201, ","    418.4"," ,a"
+"ASN00049106","1972","-32.4167","145.9833","378.0","NYMAGEE MOUNT VIEW, AS","        36","a","        28","a","         1","a","  38.1"," ,a,0215, ","    255.5"," ,a"
+"ASN00049106","1973","-32.4167","145.9833","378.0","NYMAGEE MOUNT VIEW, AS","        48","a","        38","a","         4","a","  59.2"," ,a,1010, ","    526.5"," ,a"

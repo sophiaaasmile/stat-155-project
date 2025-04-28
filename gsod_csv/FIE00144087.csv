@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FIE00144087","1965","62.0331","28.2831","120.0","RANTASALMI OSIKONMAKI, FI","       162","E","        62","E","         0","E","  21.9"," ,E,0803, ","    486.8"," ,E"
+"FIE00144087","1968","62.0331","28.2831","120.0","RANTASALMI OSIKONMAKI, FI","       173","E","        85","E","         1","E","  56.1"," ,E,0912, ","    600.8"," ,E"
+"FIE00144087","1969","62.0331","28.2831","120.0","RANTASALMI OSIKONMAKI, FI","       119","E","        55","E","         1","E","  35.8"," ,E,0822, ","    486.6"," ,E"
+"FIE00144087","1970","62.0331","28.2831","120.0","RANTASALMI OSIKONMAKI, FI","       148","E","        60","E","         0","E","  18.2"," ,E,1026, ","    488.4"," ,E"
+"FIE00144087","1971","62.0331","28.2831","120.0","RANTASALMI OSIKONMAKI, FI","       109","E","        57","E","         1","E","  36.8"," ,E,0811, ","    446.6"," ,E"

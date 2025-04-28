@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMBR0103","2010","35.167593","-106.313564","2037.9","TIJERAS 6.5 NNE, NM US","        42","N","        28","N","         2","N","  25.4"," ,N,1217,+","    342.0"," ,N"
+"US1NMBR0103","2011","35.167593","-106.313564","2037.9","TIJERAS 6.5 NNE, NM US","        44","N","        26","N","         0","N","  19.1"," ,N,1220, ","    201.4"," ,N"
+"US1NMBR0103","2013","35.167593","-106.313564","2037.9","TIJERAS 6.5 NNE, NM US","        61","N","        33","N","         2","N","  34.3"," ,N,0911, ","    363.9"," ,N"
+"US1NMBR0103","2014","35.167593","-106.313564","2037.9","TIJERAS 6.5 NNE, NM US","        41","N","        32","N","         1","N","  28.7"," ,N,0802, ","    311.7"," ,N"

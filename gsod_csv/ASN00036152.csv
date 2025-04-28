@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00036152","1889","-24.95","144.4333","305.0","HIGHLANDS, AS","        32","a","        25","a","         2","a","  59.7"," ,a,1115, ","    348.5"," ,a"
+"ASN00036152","1891","-24.95","144.4333","305.0","HIGHLANDS, AS","        62","a","        53","a","        11","a","  85.6"," ,a,0114, ","    950.1"," ,a"
+"ASN00036152","1893","-24.95","144.4333","305.0","HIGHLANDS, AS","        38","a","        24","a","         3","a","  32.8"," ,a,0317, ","    284.5"," ,a"

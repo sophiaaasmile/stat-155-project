@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN017070501","1955","19.47","82.82","250.0","JAIPATNA, IN","        93","I","        91","I","        17","I","  97.8"," ,I,0702, ","   1560.9"," ,I"
+"IN017070501","1956","19.47","82.82","250.0","JAIPATNA, IN","        85","I","        84","I","        32","I"," 254.0"," ,I,0703, ","   2265.4"," ,I"
+"IN017070501","1957","19.47","82.82","250.0","JAIPATNA, IN","        76","I","        74","I","        26","I"," 203.2"," ,I,0718, ","   1888.0"," ,I"

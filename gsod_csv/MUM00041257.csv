@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"MUM00041257","2005","23.317","57.95","417.0","SAMAIL, MU","","","","","         0","S","       353","S","       235","S","","","   47.5","S,0625, ","     35.48","S","",""
+"MUM00041257","2010","23.317","57.95","417.0","SAMAIL, MU","","","","","         0","S","       352","S","       233","S","","","   46.3","S,0701, ","     35.61","S","",""
+"MUM00041257","2018","23.317","57.95","417.0","SAMAIL, MU","         0","S","         0","S","","","","","","","   11.1","S,0123,+","","","","","     24.30","S"

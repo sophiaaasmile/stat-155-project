@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00070109","1954","-35.1667","149.25","594.4","SUTTON, AS","        52","a","        41","a","         4","a","  32.0"," ,a,0129, ","    434.2"," ,a"
+"ASN00070109","1955","-35.1667","149.25","594.4","SUTTON, AS","        75","a","        60","a","         2","a","  39.1"," ,a,0225, ","    682.5"," ,a"
+"ASN00070109","1956","-35.1667","149.25","594.4","SUTTON, AS","        74","a","        71","a","         7","a","  57.2"," ,a,0312, ","    847.0"," ,a"

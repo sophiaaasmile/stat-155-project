@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00046121","1883","-31.4667","143.4","125.0","WILCANNIA ARDMORE, AS","        24","a","        17","a","         1","a","  31.0"," ,a,1005, ","    178.2"," ,a"
+"ASN00046121","1884","-31.4667","143.4","125.0","WILCANNIA ARDMORE, AS","        36","a","        19","a","         0","a","  23.1"," ,a,1116, ","    188.9"," ,a"
+"ASN00046121","1885","-31.4667","143.4","125.0","WILCANNIA ARDMORE, AS","        44","a","        28","a","         6","a","  85.3"," ,a,0124, ","    510.3"," ,a"

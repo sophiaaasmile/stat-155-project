@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILSP0028","2022","42.28884","-89.719033","258.5","FREEPORT 4.3 W, IL US","       121","N","        67","N","        13","N"," 124.7"," ,N,0808, ","   1189.4"," ,N"
+"US1ILSP0028","2023","42.28884","-89.719033","258.5","FREEPORT 4.3 W, IL US","       123","N","        68","N","         7","N","  42.7"," ,N,0926, ","    850.1"," ,N"
+"US1ILSP0028","2024","42.28884","-89.719033","258.5","FREEPORT 4.3 W, IL US","       120","N","        73","N","         5","N","  60.7"," ,N,0403, ","    908.1"," ,N"

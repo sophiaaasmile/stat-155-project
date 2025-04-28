@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00087129","1884","-37.55","144.3",,"GREENDALE, AS","       102","a","        63","a","         2","a","  43.7"," ,a,0123, ","    629.9"," ,a"
+"ASN00087129","1885","-37.55","144.3",,"GREENDALE, AS","       135","a","        76","a","         7","a","  52.3"," ,a,1224, ","    836.9"," ,a"
+"ASN00087129","1927","-37.55","144.3",,"GREENDALE, AS","       122","a","        65","a","         0","a","  21.8"," ,a,1104, ","    488.3"," ,a"
+"ASN00087129","1928","-37.55","144.3",,"GREENDALE, AS","       121","a","        55","a","         7","a","  61.0"," ,a,0320, ","    709.0"," ,a"

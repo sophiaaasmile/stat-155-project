@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10york018","2005","40.8431","-97.5786","502.0","YORK 1.9 SSE, NE US","        93","N","        43","N","         6","N"," 121.7"," ,N,0512, ","    684.9"," ,N"
+"US10york018","2006","40.8431","-97.5786","502.0","YORK 1.9 SSE, NE US","       106","N","        48","N","         6","N","  78.2"," ,N,0817, ","    667.4"," ,N"
+"US10york018","2007","40.8431","-97.5786","502.0","YORK 1.9 SSE, NE US","        94","N","        57","N","         8","N","  75.9"," ,N,0425, ","    902.3"," ,N"

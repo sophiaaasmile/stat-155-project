@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00032130","2002","-19.1617","146.5836","10.0","BLUEWATER DRIVE, AS","        47","a","        30","a","         6","a"," 127.0"," ,a,0216, ","    662.1"," ,a"
+"ASN00032130","2003","-19.1617","146.5836","10.0","BLUEWATER DRIVE, AS","        58","a","        38","a","         6","a","  84.3"," ,a,0302, ","    682.5"," ,a"
+"ASN00032130","2004","-19.1617","146.5836","10.0","BLUEWATER DRIVE, AS","        66","a","        45","a","        11","a"," 183.0"," ,a,0113, ","    987.2"," ,a"

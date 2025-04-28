@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00055159","1959","-31.1333","150.95","487.7","CALALA LYINKA, AS","       103","a","        60","a","         5","a","  46.5"," ,a,1218, ","    681.6"," ,a"
+"ASN00055159","1961","-31.1333","150.95","487.7","CALALA LYINKA, AS","        68","a","        48","a","         5","a","  45.2"," ,a,1017, ","    592.3"," ,a"
+"ASN00055159","1963","-31.1333","150.95","487.7","CALALA LYINKA, AS","        97","a","        56","a","         7","a","  54.6"," ,a,0104, ","    762.2"," ,a"

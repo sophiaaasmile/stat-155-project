@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLBV0063","2017","28.1712","-80.6816","10.1","MELBOURNE 4.6 NNW, FL US","       110","N","        74","N","        17","N"," 227.1"," ,N,0911, ","   1539.2"," ,N"
+"US1FLBV0063","2018","28.1712","-80.6816","10.1","MELBOURNE 4.6 NNW, FL US","       109","N","        76","N","        13","N","  63.0"," ,N,0515, ","   1167.8"," ,N"
+"US1FLBV0063","2021","28.1712","-80.6816","10.1","MELBOURNE 4.6 NNW, FL US","       100","N","        74","N","        17","N","  70.9"," ,N,0727, ","   1275.9"," ,N"

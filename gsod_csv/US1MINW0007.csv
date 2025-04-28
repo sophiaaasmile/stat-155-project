@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MINW0007","2010","43.591","-85.798","294.7","WHITE CLOUD 2.9 NW, MI US","       132","N","        71","N","         6","N","  46.7"," ,N,0627, ","    812.0"," ,N"
+"US1MINW0007","2012","43.591","-85.798","294.7","WHITE CLOUD 2.9 NW, MI US","       147","N","        79","N","         8","N","  47.8"," ,N,1202, ","   1019.8"," ,N"
+"US1MINW0007","2013","43.591","-85.798","294.7","WHITE CLOUD 2.9 NW, MI US","       184","N","        91","N","        10","N","  46.2"," ,N,1117, ","   1141.4"," ,N"
+"US1MINW0007","2020","43.591","-85.798","294.7","WHITE CLOUD 2.9 NW, MI US","","","","","","","","","    974.8"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00032060","1962","-18.2","145.75","610.0","KIRRAMA FORESTRY, AS","       113","a","        90","a","        15","a","  71.9"," ,a,0221, ","   1430.4"," ,a"
+"ASN00032060","1963","-18.2","145.75","610.0","KIRRAMA FORESTRY, AS","       136","a","        96","a","        22","a"," 104.1"," ,a,0518, ","   1763.7"," ,a"
+"ASN00032060","1967","-18.2","145.75","610.0","KIRRAMA FORESTRY, AS","        77","a","        58","a","        11","a"," 197.4"," ,a,0314, ","   1471.7"," ,a"
+"ASN00032060","1968","-18.2","145.75","610.0","KIRRAMA FORESTRY, AS","","","","","","","","","   1332.5"," ,a"

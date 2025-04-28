@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00046111","1971","-30.5833","143.35","121.9","WHITE CLIFFS CAWNALMURTEE, AS","        34","a","        24","a","         5","a"," 101.6"," ,a,0308, ","    427.9"," ,a"
+"ASN00046111","1972","-30.5833","143.35","121.9","WHITE CLIFFS CAWNALMURTEE, AS","        12","a","         7","a","         2","a","  38.1"," ,a,0112, ","     92.3"," ,a"
+"ASN00046111","1973","-30.5833","143.35","121.9","WHITE CLIFFS CAWNALMURTEE, AS","        28","a","        25","a","         4","a","  54.4"," ,a,0427, ","    338.1"," ,a"

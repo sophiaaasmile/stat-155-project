@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CODN0109","2011","39.667897","-104.943975","1649.9","CHERRY HILLS VILLAGE 2.1 N, CO US","        78","N","        42","N","         2","N","  36.8"," ,N,0512, ","    471.5"," ,N"
+"US1CODN0109","2012","39.667897","-104.943975","1649.9","CHERRY HILLS VILLAGE 2.1 N, CO US","        61","N","        27","N","         1","N","  35.6"," ,N,0607, ","    320.2"," ,N"
+"US1CODN0109","2013","39.667897","-104.943975","1649.9","CHERRY HILLS VILLAGE 2.1 N, CO US","        91","N","        48","N","         5","N","  40.1"," ,N,0923, ","    531.7"," ,N"
+"US1CODN0109","2015","39.667897","-104.943975","1649.9","CHERRY HILLS VILLAGE 2.1 N, CO US","","","","","","","","","    785.8"," ,N"
+"US1CODN0109","2016","39.667897","-104.943975","1649.9","CHERRY HILLS VILLAGE 2.1 N, CO US","        78","N","        40","N","         1","N","  34.3"," ,N,0417, ","    409.0"," ,N"

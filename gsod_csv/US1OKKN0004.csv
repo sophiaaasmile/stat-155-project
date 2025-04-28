@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKKN0004","2018","36.011964","-97.96201","336.2","DOVER 3.6 NW, OK US","        60","N","        38","N","        12","N","  58.7"," ,N,1008, ","    724.9"," ,N"
+"US1OKKN0004","2022","36.011964","-97.96201","336.2","DOVER 3.6 NW, OK US","        52","N","        34","N","         8","N","  95.3"," ,N,0524, ","    580.1"," ,N"
+"US1OKKN0004","2024","36.011964","-97.96201","336.2","DOVER 3.6 NW, OK US","","","","","","","","","    680.6"," ,N"

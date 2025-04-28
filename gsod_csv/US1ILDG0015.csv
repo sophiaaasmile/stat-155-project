@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILDG0015","2022","39.794232","-87.983201","196.9","NEWMAN 0.3 SE, IL US","       111","N","        73","N","        10","N","  65.0"," ,N,0331, ","    925.5"," ,N"
+"US1ILDG0015","2023","39.794232","-87.983201","196.9","NEWMAN 0.3 SE, IL US","       108","N","        67","N","         9","N","  81.0"," ,N,0810, ","   1038.8"," ,N"
+"US1ILDG0015","2024","39.794232","-87.983201","196.9","NEWMAN 0.3 SE, IL US","       121","N","        81","N","         5","N","  80.3"," ,N,0710, ","   1056.2"," ,N"

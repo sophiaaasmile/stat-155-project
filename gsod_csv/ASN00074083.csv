@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00074083","1965","-34.75","146.5667","161.5","NARRANDERA STATE FOREST, AS","        57","a","        30","a","         2","a","  32.0"," ,a,1130, ","    346.7"," ,a"
+"ASN00074083","1966","-34.75","146.5667","161.5","NARRANDERA STATE FOREST, AS","        63","a","        37","a","         2","a","  46.7"," ,a,0316, ","    441.1"," ,a"
+"ASN00074083","1967","-34.75","146.5667","161.5","NARRANDERA STATE FOREST, AS","        34","a","        18","a","         0","a","  23.9"," ,a,0614, ","    167.8"," ,a"
+"ASN00074083","1969","-34.75","146.5667","161.5","NARRANDERA STATE FOREST, AS","        53","a","        41","a","         4","a","  59.4"," ,a,0210, ","    558.6"," ,a"

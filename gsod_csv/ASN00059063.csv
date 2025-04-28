@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00059063","1963","-30.15","152.9","480.0","MOLETON MOLEW ROAD, AS","       117","a","        90","a","        23","a"," 266.7"," ,a,0428, ","   2268.3"," ,a"
+"ASN00059063","1965","-30.15","152.9","480.0","MOLETON MOLEW ROAD, AS","        94","a","        66","a","        12","a"," 119.9"," ,a,0721, ","   1114.6"," ,a"
+"ASN00059063","1966","-30.15","152.9","480.0","MOLETON MOLEW ROAD, AS","        93","a","        64","a","        10","a"," 117.3"," ,a,1108, ","    995.7"," ,a"
+"ASN00059063","1972","-30.15","152.9","480.0","MOLETON MOLEW ROAD, AS","","","","","","","","","   1777.7"," ,a"
+"ASN00059063","1973","-30.15","152.9","480.0","MOLETON MOLEW ROAD, AS","       107","a","        91","a","        20","a"," 152.4"," ,a,0706, ","   1636.7"," ,a"

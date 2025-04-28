@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZMR0064","2011","33.575246","-112.1833852","361.5","GLENDALE 1.2 ESE, AZ US","        23","N","        12","N","         0","N","  13.5"," ,N,0801, ","     99.5"," ,N"
+"US1AZMR0064","2012","33.575246","-112.1833852","361.5","GLENDALE 1.2 ESE, AZ US","        25","N","        12","N","         0","N","  23.1"," ,N,0822, ","    109.8"," ,N"
+"US1AZMR0064","2013","33.575246","-112.1833852","361.5","GLENDALE 1.2 ESE, AZ US","        27","N","        13","N","         1","N","  31.0"," ,N,1123, ","    163.0"," ,N"

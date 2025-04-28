@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR008260002","1990","2.41","-60.67","0.0","BOA ESPERANCA, BR","       121","I","        91","I","        30","I"," 128.7"," ,I,0509, ","   2209.2"," ,I"
+"BR008260002","1997","2.41","-60.67","0.0","BOA ESPERANCA, BR","       127","I","        95","I","        15","I","  83.7"," ,I,0409, ","   1531.6"," ,I"
+"BR008260002","1998","2.41","-60.67","0.0","BOA ESPERANCA, BR","       138","I","       110","I","        25","I","  83.7"," ,I,0529, ","   2034.7"," ,I"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001125765","1964","49.1833","-119.5333","335.0","OLIVER EAST, BC CA","        78","C","        33","C","         0","C","        10","C","   114"," ,C,1219, ","  21.3"," ,C,0730, ","    261.2"," ,C","      701"," ,C"
+"CA001125765","1965","49.1833","-119.5333","335.0","OLIVER EAST, BC CA","        80","C","        32","C","         0","C","        12","C","   157"," ,C,1227, ","  21.6"," ,C,0611, ","    283.6"," ,C","      872"," ,C"
+"CA001125765","1966","49.1833","-119.5333","335.0","OLIVER EAST, BC CA","        98","C","        46","C","         0","C","         7","C","    91"," ,C,0101, ","  14.0"," ,C,0827, ","    278.6"," ,C","      571"," ,C"

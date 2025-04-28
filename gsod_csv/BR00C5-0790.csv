@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00C5-0790","1944","-21.92","-48.87","400.0","BAIRRO PEDREGULHO, BR","        65","I","        52","I","         9","I","  53.2"," ,I,0130, ","    833.4"," ,I"
+"BR00C5-0790","1945","-21.92","-48.87","400.0","BAIRRO PEDREGULHO, BR","        70","I","        57","I","        18","I","  81.7"," ,I,0201, ","   1229.4"," ,I"
+"BR00C5-0790","1946","-21.92","-48.87","400.0","BAIRRO PEDREGULHO, BR","        61","I","        50","I","         9","I","  75.5"," ,I,0208, ","    872.2"," ,I"
+"BR00C5-0790","1947","-21.92","-48.87","400.0","BAIRRO PEDREGULHO, BR","        67","I","        43","I","         4","I","  31.0"," ,I,1125, ","    568.6"," ,I"

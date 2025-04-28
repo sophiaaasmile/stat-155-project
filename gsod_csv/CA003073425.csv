@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003073425","1963","55.3","-119.5833","735.0","HYTHE, AB CA","       109","C","        54","C","         1","C","        33","C","   145"," ,C,0406, ","  29.2"," ,C,0901, ","    403.2"," ,C","     2215"," ,C"
+"CA003073425","1965","55.3","-119.5833","735.0","HYTHE, AB CA","       116","C","        56","C","         5","C","","","","","  63.5"," ,C,0822, ","    660.3"," ,C","",""
+"CA003073425","1966","55.3","-119.5833","735.0","HYTHE, AB CA","       127","C","        60","C","         2","C","        39","C","   254"," ,C,0216, ","  47.5"," ,C,0827, ","    525.8"," ,C","     3064"," ,C"

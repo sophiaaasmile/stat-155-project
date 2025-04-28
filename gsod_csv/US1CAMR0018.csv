@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CAMR0018","2014","37.98098","-122.590744","44.5","FAIRFAX 0.6 SSE, CA US","        67","N","        48","N","        15","N","  97.0"," ,N,0209, ","   1167.6"," ,N"
+"US1CAMR0018","2015","37.98098","-122.590744","44.5","FAIRFAX 0.6 SSE, CA US","        41","N","        26","N","         5","N","  45.5"," ,N,1222, ","    416.1"," ,N"
+"US1CAMR0018","2016","37.98098","-122.590744","44.5","FAIRFAX 0.6 SSE, CA US","        74","N","        56","N","        11","N","  82.3"," ,N,1216, ","   1222.2"," ,N"

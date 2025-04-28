@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FIE00144807","1966","62.6331","28.9831","110.0","LIPERI AHONKYLA LEPPILAMPI, FI","       156","E","        78","E","         4","E","  49.5"," ,E,0807, ","    684.1"," ,E"
+"FIE00144807","1968","62.6331","28.9831","110.0","LIPERI AHONKYLA LEPPILAMPI, FI","       152","E","        72","E","         0","E","  20.8"," ,E,0912, ","    601.3"," ,E"
+"FIE00144807","1969","62.6331","28.9831","110.0","LIPERI AHONKYLA LEPPILAMPI, FI","       144","E","        72","E","         0","E","  22.0"," ,E,0705, ","    560.8"," ,E"
+"FIE00144807","1970","62.6331","28.9831","110.0","LIPERI AHONKYLA LEPPILAMPI, FI","       152","E","        77","E","         4","E","  40.6"," ,E,0717, ","    695.6"," ,E"
+"FIE00144807","1971","62.6331","28.9831","110.0","LIPERI AHONKYLA LEPPILAMPI, FI","       154","E","        69","E","         1","E","  25.4"," ,E,0722, ","    611.1"," ,E"
+"FIE00144807","1972","62.6331","28.9831","110.0","LIPERI AHONKYLA LEPPILAMPI, FI","       104","E","        49","E","         0","E","  18.0"," ,E,0418, ","    368.1"," ,E"

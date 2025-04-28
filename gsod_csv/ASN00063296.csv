@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00063296","2001","-33.9561","149.3233","430.0","ABERCROMBIE ABERCROMBIE RIVER, AS","        98","a","        53","a","         3","a","  39.4"," ,a,0206, ","    660.4"," ,a"
+"ASN00063296","2004","-33.9561","149.3233","430.0","ABERCROMBIE ABERCROMBIE RIVER, AS","        30","a","        15","a","         1","a","  40.8"," ,a,0114, ","    165.4"," ,a"
+"ASN00063296","2007","-33.9561","149.3233","430.0","ABERCROMBIE ABERCROMBIE RIVER, AS","        92","a","        52","a","         2","a","  27.2"," ,a,0626, ","    544.4"," ,a"
+"ASN00063296","2008","-33.9561","149.3233","430.0","ABERCROMBIE ABERCROMBIE RIVER, AS","        87","a","        57","a","         3","a","  48.8"," ,a,0205, ","    681.6"," ,a"

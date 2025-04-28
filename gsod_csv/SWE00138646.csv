@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"SWE00138646","2012","58.82","17.3297","32.0","TYSTBERGA D, SW","       180","E","        95","E","         5","E","       70","","   380"," ,E,0217, ","  53.4"," ,E,1127, ","    936.9"," ,E"
+"SWE00138646","2013","58.82","17.3297","32.0","TYSTBERGA D, SW","       144","E","        71","E","         1","E","      103","","   420"," ,E,0214,+","  37.6"," ,E,0808, ","    577.9"," ,E"
+"SWE00138646","2014","58.82","17.3297","32.0","TYSTBERGA D, SW","       156","E","        69","E","         2","E","       24","","   240"," ,E,0201, ","  27.1"," ,E,1007, ","    667.0"," ,E"

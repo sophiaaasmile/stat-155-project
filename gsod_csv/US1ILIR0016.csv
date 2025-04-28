@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1ILIR0016","2017","40.557962","-87.891011","201.8","CISSNA PARK 0.6 S, IL US","       136","N","        73","N","        12","N","","","","","  85.9"," ,N,1118, ","   1127.0"," ,N","",""
+"US1ILIR0016","2020","40.557962","-87.891011","201.8","CISSNA PARK 0.6 S, IL US","       117","N","        64","N","         4","N","","","","","  62.7"," ,N,0731, ","    761.6"," ,N","",""
+"US1ILIR0016","2022","40.557962","-87.891011","201.8","CISSNA PARK 0.6 S, IL US","        70","N","        43","N","         4","N","         3","N","   140"," ,N,0203, ","  63.2"," ,N,0821, ","    615.6"," ,N","      295"," ,N"
+"US1ILIR0016","2023","40.557962","-87.891011","201.8","CISSNA PARK 0.6 S, IL US","        75","N","        53","N","         5","N","         0","N","     0","T,N,0130,+","  75.2"," ,N,0223, ","    632.8"," ,N","        0","T,N"

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004075180","1983","54.6","-104.2167","424.0","MILE 97, SK CA","        89","C","        43","C","         4","C","        12","C","   280"," ,C,0510, ","  28.0"," ,C,0510, ","    467.5"," ,C","     1335"," ,C"
+"CA004075180","1984","54.6","-104.2167","424.0","MILE 97, SK CA","       106","C","        53","C","         3","C","        24","C","   100"," ,C,0306,+","  50.0"," ,C,0907, ","    545.6"," ,C","     1685"," ,C"

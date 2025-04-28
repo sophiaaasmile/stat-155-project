@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"NHM00091551","1990","-13.85","167.55","18.0","SOLA VANUA LAVA ISL, NH","       229","S","       162","S","        62","S"," 259.1"," ,S,1113, ","   4930.1"," ,S"
+"NHM00091551","1991","-13.85","167.55","18.0","SOLA VANUA LAVA ISL, NH","       188","S","       141","S","        44","S"," 243.1"," ,S,0817, ","   3733.8"," ,S"
+"NHM00091551","1992","-13.85","167.55","18.0","SOLA VANUA LAVA ISL, NH","       162","S","       120","S","        28","S"," 253.0"," ,S,0109, ","   2955.9"," ,S"
+"NHM00091551","1995","-13.85","167.55","18.0","SOLA VANUA LAVA ISL, NH","       206","S","       153","S","        32","S"," 272.0"," ,S,0318, ","   2961.1"," ,S"

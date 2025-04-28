@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALMN0007","2022","31.5012","-87.3872","128.3","MEXIA 0.4 S, AL US","       100","N","        77","N","        18","N"," 205.7"," ,N,0204, ","   1749.6"," ,N"
+"US1ALMN0007","2023","31.5012","-87.3872","128.3","MEXIA 0.4 S, AL US","       103","N","        73","N","        18","N","  77.7"," ,N,0104, ","   1427.2"," ,N"
+"US1ALMN0007","2024","31.5012","-87.3872","128.3","MEXIA 0.4 S, AL US","       103","N","        71","N","        16","N","  98.3"," ,N,0309, ","   1448.7"," ,N"

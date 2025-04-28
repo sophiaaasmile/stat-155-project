@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKPT0020","2020","35.25857","-97.00356","332.2","TECUMSEH 4.0 W, OK US","        96","N","        70","N","        13","N","  78.5"," ,N,0901, ","   1029.1"," ,N"
+"US1OKPT0020","2021","35.25857","-97.00356","332.2","TECUMSEH 4.0 W, OK US","        72","N","        53","N","        10","N","  58.2"," ,N,0323, ","    811.7"," ,N"
+"US1OKPT0020","2022","35.25857","-97.00356","332.2","TECUMSEH 4.0 W, OK US","        88","N","        56","N","        12","N"," 108.0"," ,N,0505, ","    932.4"," ,N"
+"US1OKPT0020","2023","35.25857","-97.00356","332.2","TECUMSEH 4.0 W, OK US","       104","N","        65","N","         9","N","  66.0"," ,N,0711, ","    966.7"," ,N"

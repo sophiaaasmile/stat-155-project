@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MOCM0020","2018","38.1907","-92.8539","277.7","GRAVOIS MILLS 8.4 S, MO US","        99","N","        64","N","        16","N","  68.6"," ,N,1231, ","   1132.0"," ,N"
+"US1MOCM0020","2020","38.1907","-92.8539","277.7","GRAVOIS MILLS 8.4 S, MO US","       116","N","        80","N","         8","N","  76.7"," ,N,0111, ","   1105.6"," ,N"
+"US1MOCM0020","2023","38.1907","-92.8539","277.7","GRAVOIS MILLS 8.4 S, MO US","       106","N","        66","N","         6","N","  77.2"," ,N,0801, ","    843.1"," ,N"

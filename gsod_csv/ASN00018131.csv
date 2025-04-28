@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00018131","1925","-32.1658","134.0083",,"MUDAMUCKLA, AS","        76","a","        37","a","         2","a","  28.7"," ,a,0830, ","    339.6"," ,a"
+"ASN00018131","1926","-32.1658","134.0083",,"MUDAMUCKLA, AS","        54","a","        25","a","         0","a","  17.8"," ,a,0606, ","    288.3"," ,a"
+"ASN00018131","1927","-32.1658","134.0083",,"MUDAMUCKLA, AS","        53","a","        26","a","         1","a","  27.9"," ,a,0609, ","    226.9"," ,a"
+"ASN00018131","1928","-32.1658","134.0083",,"MUDAMUCKLA, AS","        47","a","        19","a","         1","a","  25.7"," ,a,1014, ","    175.8"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00020046","1892","-32.25","140.9333","240.0","MUTOOROO MINE, AS","        33","a","        19","a","         2","a","  53.8"," ,a,0528, ","    247.3"," ,a"
+"ASN00020046","1893","-32.25","140.9333","240.0","MUTOOROO MINE, AS","        30","a","        15","a","         1","a","  36.1"," ,a,0529, ","    194.5"," ,a"
+"ASN00020046","1894","-32.25","140.9333","240.0","MUTOOROO MINE, AS","        43","a","        23","a","         2","a","  57.2"," ,a,1006, ","    256.2"," ,a"
+"ASN00020046","1895","-32.25","140.9333","240.0","MUTOOROO MINE, AS","        31","a","        17","a","         1","a","  42.4"," ,a,1129, ","    205.9"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INDL0032","2013","40.187831","-85.371891","293.2","MUNCIE 1.2 SE, IN US","       105","N","        64","N","        12","N","  70.6"," ,N,1222, ","    955.9"," ,N"
+"US1INDL0032","2021","40.187831","-85.371891","293.2","MUNCIE 1.2 SE, IN US","       107","N","        74","N","        12","N"," 111.8"," ,N,0830, ","   1178.2"," ,N"
+"US1INDL0032","2022","40.187831","-85.371891","293.2","MUNCIE 1.2 SE, IN US","        93","N","        67","N","         6","N"," 152.4"," ,N,0718, ","    881.9"," ,N"

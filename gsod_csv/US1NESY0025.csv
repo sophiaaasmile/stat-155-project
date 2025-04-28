@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NESY0025","2021","41.178315","-96.219844","370.9","GRETNA 2.9 NNE, NE US","        67","N","        45","N","        11","N"," 100.6"," ,N,0831, ","    894.5"," ,N"
+"US1NESY0025","2022","41.178315","-96.219844","370.9","GRETNA 2.9 NNE, NE US","        61","N","        40","N","         2","N","  51.1"," ,N,06  ,5","    475.6"," ,N"
+"US1NESY0025","2023","41.178315","-96.219844","370.9","GRETNA 2.9 NNE, NE US","        77","N","        48","N","         4","N","  38.1"," ,N,1004, ","    534.3"," ,N"

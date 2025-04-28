@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MTYS0027","2022","45.835948","-108.522053","1037.2","BILLINGS 3.2 NNE, MT US","        87","N","        38","N","         2","N","  32.0"," ,N,0620, ","    413.0"," ,N"
+"US1MTYS0027","2023","45.835948","-108.522053","1037.2","BILLINGS 3.2 NNE, MT US","        89","N","        47","N","         3","N","  58.7"," ,N,0603, ","    455.2"," ,N"
+"US1MTYS0027","2024","45.835948","-108.522053","1037.2","BILLINGS 3.2 NNE, MT US","        82","N","        36","N","         1","N","  34.3"," ,N,0524, ","    335.9"," ,N"

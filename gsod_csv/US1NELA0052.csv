@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NELA0052","2021","40.824113","-96.6678","367.9","LINCOLN 1.2 ENE, NE US","        79","N","        44","N","         7","N","  81.0"," ,N,1025, ","    753.3"," ,N"
+"US1NELA0052","2022","40.824113","-96.6678","367.9","LINCOLN 1.2 ENE, NE US","        76","N","        36","N","         7","N","  45.2"," ,N,0617, ","    547.8"," ,N"
+"US1NELA0052","2023","40.824113","-96.6678","367.9","LINCOLN 1.2 ENE, NE US","        95","N","        60","N","         5","N","  52.3"," ,N,0826, ","    627.3"," ,N"
+"US1NELA0052","2024","40.824113","-96.6678","367.9","LINCOLN 1.2 ENE, NE US","        91","N","        57","N","         3","N"," 113.0"," ,N,0702, ","    783.3"," ,N"

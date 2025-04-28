@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ARSB0012","2021","35.199235","-94.235253","192.6","GREENWOOD 0.9 S, AR US","        94","N","        62","N","        14","N","  84.8"," ,N,0429, ","   1118.1"," ,N"
+"US1ARSB0012","2022","35.199235","-94.235253","192.6","GREENWOOD 0.9 S, AR US","        86","N","        59","N","        20","N","  92.7"," ,N,1016, ","   1265.3"," ,N"
+"US1ARSB0012","2023","35.199235","-94.235253","192.6","GREENWOOD 0.9 S, AR US","       100","N","        72","N","        12","N","  90.4"," ,N,0325, ","   1096.0"," ,N"
+"US1ARSB0012","2024","35.199235","-94.235253","192.6","GREENWOOD 0.9 S, AR US","        85","N","        64","N","        18","N"," 135.9"," ,N,1104, ","   1396.1"," ,N"

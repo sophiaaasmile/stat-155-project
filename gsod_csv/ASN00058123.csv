@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00058123","1966","-28.2833","153.3167","61.0","UPPER CRYSTAL CREEK, AS","        96","a","        70","a","        14","a","  92.7"," ,a,1108, ","   1199.1"," ,a"
+"ASN00058123","1967","-28.2833","153.3167","61.0","UPPER CRYSTAL CREEK, AS","       141","a","       107","a","        36","a"," 339.1"," ,a,0612, ","   2957.0"," ,a"
+"ASN00058123","1969","-28.2833","153.3167","61.0","UPPER CRYSTAL CREEK, AS","       145","a","       100","a","        23","a"," 115.6"," ,a,0513, ","   1773.1"," ,a"

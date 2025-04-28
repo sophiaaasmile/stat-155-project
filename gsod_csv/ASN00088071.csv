@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00088071","2006","-37.4181","144.2133","790.0","BULLARTO SOUTH, AS","       113","a","        57","a","         0","a","  20.8"," ,a,0313, ","    494.8"," ,a"
+"ASN00088071","2007","-37.4181","144.2133","790.0","BULLARTO SOUTH, AS","       146","a","        84","a","         5","a","  47.6"," ,a,1222, ","    791.6"," ,a"
+"ASN00088071","2022","-37.4181","144.2133","790.0","BULLARTO SOUTH, AS","       173","a","       103","a","        11","a","  59.6"," ,a,1014, ","   1339.4"," ,a"

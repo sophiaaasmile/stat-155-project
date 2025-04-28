@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NVCK0076","2019","36.22638","-115.20485","677.9","NORTH LAS VEGAS 4.4 SW, NV US","        39","N","        21","N","         1","N","  31.5"," ,N,0215, ","    214.1"," ,N"
+"US1NVCK0076","2020","36.22638","-115.20485","677.9","NORTH LAS VEGAS 4.4 SW, NV US","        15","N","         5","N","         1","N","  42.4"," ,N,0313, ","     83.9"," ,N"
+"US1NVCK0076","2021","36.22638","-115.20485","677.9","NORTH LAS VEGAS 4.4 SW, NV US","        24","N","         6","N","         0","N","   7.9"," ,N,0126, ","     45.6"," ,N"

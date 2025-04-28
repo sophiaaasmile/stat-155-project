@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CTNH0075","2021","41.525841","-72.846985","74.7","MERIDEN 2.8 WSW, CT US","       156","N","        84","N","        15","N"," 126.2"," ,N,0902, ","   1355.5"," ,N"
+"US1CTNH0075","2022","41.525841","-72.846985","74.7","MERIDEN 2.8 WSW, CT US","       146","N","        93","N","        11","N","  84.3"," ,N,0906, ","   1238.2"," ,N"
+"US1CTNH0075","2023","41.525841","-72.846985","74.7","MERIDEN 2.8 WSW, CT US","       140","N","        94","N","        25","N","  89.2"," ,N,1211, ","   1640.3"," ,N"
+"US1CTNH0075","2024","41.525841","-72.846985","74.7","MERIDEN 2.8 WSW, CT US","       139","N","        90","N","        17","N"," 112.5"," ,N,0819, ","   1564.0"," ,N"

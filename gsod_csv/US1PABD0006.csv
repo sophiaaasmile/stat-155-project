@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1PABD0006","2007","39.975654","-78.408737","402.3","EVERETT 3.4 SW, PA US","       149","N","        73","N","         5","N","         8","N","   152"," ,N,0317, ","  48.3"," ,N,0821, ","    968.5"," ,N","      834"," ,N"
+"US1PABD0006","2018","39.975654","-78.408737","402.3","EVERETT 3.4 SW, PA US","","","","","","","","","","","","","   1750.5"," ,N","",""
+"US1PABD0006","2020","39.975654","-78.408737","402.3","EVERETT 3.4 SW, PA US","       174","N","        97","N","        14","N","","","","","  47.5"," ,N,1030, ","   1210.6"," ,N","",""

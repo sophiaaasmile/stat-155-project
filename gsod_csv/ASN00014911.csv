@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00014911","1969","-14.3483","131.5767","61.0","CLARAVALE, AS","        50","a","        43","a","        20","a"," 114.6"," ,a,0227, ","   1186.2"," ,a"
+"ASN00014911","1970","-14.3483","131.5767","61.0","CLARAVALE, AS","        41","a","        32","a","         6","a","  71.1"," ,a,0210, ","    568.0"," ,a"
+"ASN00014911","1971","-14.3483","131.5767","61.0","CLARAVALE, AS","        74","a","        57","a","        14","a","  62.2"," ,a,0131, ","   1187.5"," ,a"

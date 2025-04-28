@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NDRL0007","2019","48.9188","-100.0703","663.5","DUNSEITH 7.4 N, ND US","        67","N","        47","N","         3","N","  66.0"," ,N,0710, ","    576.8"," ,N"
+"US1NDRL0007","2020","48.9188","-100.0703","663.5","DUNSEITH 7.4 N, ND US","        60","N","        32","N","         2","N","  30.2"," ,N,0701, ","    321.2"," ,N"
+"US1NDRL0007","2021","48.9188","-100.0703","663.5","DUNSEITH 7.4 N, ND US","        68","N","        32","N","         4","N","  84.3"," ,N,0821, ","    435.8"," ,N"
+"US1NDRL0007","2023","48.9188","-100.0703","663.5","DUNSEITH 7.4 N, ND US","        73","N","        41","N","         1","N","  50.8"," ,N,0629, ","    433.0"," ,N"

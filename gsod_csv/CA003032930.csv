@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003032930","1959","49.7167","-111.7","830.0","GRASSY LAKE RIVERS DEV, AB CA","        51","C","        30","C","         1","C","         9","C","   127"," ,C,0124,+","  48.8"," ,C,0626, ","    294.3"," ,C","      727"," ,C"
+"CA003032930","1960","49.7167","-111.7","830.0","GRASSY LAKE RIVERS DEV, AB CA","        40","C","        30","C","         0","C","        12","C","   127"," ,C,0423, ","  24.1"," ,C,0822, ","    214.0"," ,C","      644"," ,C"
+"CA003032930","1962","49.7167","-111.7","830.0","GRASSY LAKE RIVERS DEV, AB CA","        43","C","        28","C","         1","C","","","","","  41.1"," ,C,0713, ","    272.9"," ,C","",""

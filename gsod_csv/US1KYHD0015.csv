@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KYHD0015","2019","37.80886","-85.93203","236.5","RADCLIFF 1.2 SSE, KY US","       122","N","        82","N","        23","N","  83.8"," ,N,1007, ","   1577.7"," ,N"
+"US1KYHD0015","2020","37.80886","-85.93203","236.5","RADCLIFF 1.2 SSE, KY US","       138","N","        87","N","        18","N","  74.7"," ,N,1020, ","   1392.6"," ,N"
+"US1KYHD0015","2022","37.80886","-85.93203","236.5","RADCLIFF 1.2 SSE, KY US","        99","N","        65","N","        15","N","  68.1"," ,N,0307, ","   1186.4"," ,N"
+"US1KYHD0015","2023","37.80886","-85.93203","236.5","RADCLIFF 1.2 SSE, KY US","       110","N","        69","N","        16","N"," 106.2"," ,N,0626, ","   1364.9"," ,N"

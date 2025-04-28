@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MNIT0001","2012","47.222665","-93.496041","384.0","GRAND RAPIDS 2.0 E, MN US","       135","N","        59","N","         7","N","","","",""," 129.3"," ,N,0620, ","    855.3"," ,N","",""
+"US1MNIT0001","2014","47.222665","-93.496041","384.0","GRAND RAPIDS 2.0 E, MN US","       135","N","        67","N","         3","N","        17","N","   178"," ,N,0221, ","  55.6"," ,N,0602, ","    748.9"," ,N","     1375"," ,N"
+"US1MNIT0001","2015","47.222665","-93.496041","384.0","GRAND RAPIDS 2.0 E, MN US","       125","N","        52","N","         4","N","","","","","  34.8"," ,N,0511, ","    695.2"," ,N","",""
+"US1MNIT0001","2020","47.222665","-93.496041","384.0","GRAND RAPIDS 2.0 E, MN US","","","","","","","","","","","","","    893.3"," ,N","",""

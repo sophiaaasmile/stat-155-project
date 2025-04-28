@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INLK0111","2021","41.51636","-87.26671",,"HOBART 1.1 S, IN US","       130","N","        77","N","         4","N","  76.7"," ,N,1025, ","    907.1"," ,N"
+"US1INLK0111","2022","41.51636","-87.26671",,"HOBART 1.1 S, IN US","       119","N","        74","N","         5","N","  58.9"," ,N,1026, ","    787.8"," ,N"
+"US1INLK0111","2023","41.51636","-87.26671",,"HOBART 1.1 S, IN US","       142","N","        85","N","         2","N","  45.0"," ,N,0806, ","    910.6"," ,N"
+"US1INLK0111","2024","41.51636","-87.26671",,"HOBART 1.1 S, IN US","       133","N","        85","N","        11","N","  56.6"," ,N,0309, ","   1082.9"," ,N"

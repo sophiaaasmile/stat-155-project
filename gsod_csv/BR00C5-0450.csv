@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00C5-0450","1959","-21.38","-48.5","600.0","FAZENDA CONTENDAS, BR","        86","I","        73","I","        13","I"," 132.0"," ,I,0119, ","   1386.7"," ,I"
+"BR00C5-0450","1966","-21.38","-48.5","600.0","FAZENDA CONTENDAS, BR","        55","I","        55","I","        18","I","  80.1"," ,I,1222, ","   1246.8"," ,I"
+"BR00C5-0450","1967","-21.38","-48.5","600.0","FAZENDA CONTENDAS, BR","        70","I","        65","I","        17","I"," 112.1"," ,I,0326, ","   1419.9"," ,I"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CAMR0003","2009","37.99706","-122.580474","112.8","SAN ANSELMO 1.2 NNW, CA US","        60","N","        48","N","        11","N","  87.6"," ,N,0216, ","    930.9"," ,N"
+"US1CAMR0003","2011","37.99706","-122.580474","112.8","SAN ANSELMO 1.2 NNW, CA US","        70","N","        50","N","        10","N","  74.4"," ,N,0320, ","    914.5"," ,N"
+"US1CAMR0003","2013","37.99706","-122.580474","112.8","SAN ANSELMO 1.2 NNW, CA US","        24","N","        15","N","         0","N","  22.1"," ,N,1120, ","    173.0"," ,N"

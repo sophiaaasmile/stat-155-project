@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00087170","1992","-37.6539","143.8856","500.0","BUNINYONG, AS","       188","a","       103","a","         1","a","  25.6"," ,a,1018, ","    931.6"," ,a"
+"ASN00087170","1993","-37.6539","143.8856","500.0","BUNINYONG, AS","       162","a","        86","a","         6","a","  40.0"," ,a,1102, ","    902.8"," ,a"
+"ASN00087170","1994","-37.6539","143.8856","500.0","BUNINYONG, AS","       131","a","        64","a","         1","a","  55.0"," ,a,0211, ","    580.6"," ,a"

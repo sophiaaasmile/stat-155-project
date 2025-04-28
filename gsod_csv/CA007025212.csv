@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA007025212","1980","45.45","-71.15","1111.0","MONT MEGANTIC, QC CA","       196","C","       148","C","         2","C","        69","C","   240"," ,C,0311, ","  38.0"," ,C,0603, ","   1456.3"," ,C","     6012"," ,C"
+"CA007025212","1982","45.45","-71.15","1111.0","MONT MEGANTIC, QC CA","       204","C","       132","C","        10","C","        59","C","   400"," ,C,0123, ","  62.2"," ,C,0825, ","   1719.7"," ,C","     6787"," ,C"
+"CA007025212","1987","45.45","-71.15","1111.0","MONT MEGANTIC, QC CA","       188","C","       138","C","         9","C","        61","C","   540"," ,C,1125, ","  54.0"," ,C,1125, ","   1513.2"," ,C","     7240"," ,C"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00015366","1983","18.8","-99.55","1934.0","ZUMPAHUACAN, MX","        78","m","        59","m","        11","m","  82.8"," ,m,0624, ","    889.3"," ,m"
+"MXN00015366","1999","18.8","-99.55","1934.0","ZUMPAHUACAN, MX","       103","m","        84","m","        14","m","  79.8"," ,m,0828, ","   1332.3"," ,m"
+"MXN00015366","2002","18.8","-99.55","1934.0","ZUMPAHUACAN, MX","        90","m","        75","m","        19","m","  48.3"," ,m,1103, ","   1375.6"," ,m"
+"MXN00015366","2005","18.8","-99.55","1934.0","ZUMPAHUACAN, MX","        52","m","        49","m","         7","m","  67.8"," ,m,1005, ","    868.8"," ,m"

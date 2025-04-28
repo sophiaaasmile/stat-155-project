@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA1NS000184","2022","44.572364","-65.630124","56.7","BEAR RIVER 0.6 SE, NS CA","       178","N","       114","N","        14","N","","","","","","","","","  80.0"," ,N,0205, ","   1457.2"," ,N","",""
+"CA1NS000184","2023","44.572364","-65.630124","56.7","BEAR RIVER 0.6 SE, NS CA","       168","N","       108","N","        16","N","","","","","","","","","  83.8"," ,N,0814, ","   1607.8"," ,N","",""
+"CA1NS000184","2024","44.572364","-65.630124","56.7","BEAR RIVER 0.6 SE, NS CA","       149","N","        92","N","        16","N","       62","","        28","N","   340"," ,N,0206, ","   150"," ,N,0205, "," 101.3"," ,N,0229, ","   1407.8"," ,N","     2150"," ,N"

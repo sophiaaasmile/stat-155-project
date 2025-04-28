@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1INOW0018","2021","39.225","-86.69805","209.1","SPENCER 5.7 SE, IN US","       143","N","        88","N","        14","N","         8","N","   178"," ,N,0216, "," 168.7"," ,N,0619, ","   1570.0"," ,N","      588"," ,N"
+"US1INOW0018","2022","39.225","-86.69805","209.1","SPENCER 5.7 SE, IN US","       135","N","        78","N","         9","N","         4","N","   114"," ,N,0204, ","  51.3"," ,N,0323, ","   1075.5"," ,N","      297"," ,N"
+"US1INOW0018","2023","39.225","-86.69805","209.1","SPENCER 5.7 SE, IN US","       121","N","        74","N","        13","N","         3","N","    28"," ,N,1219,+","  60.5"," ,N,0324, ","   1161.6"," ,N","      110"," ,N"
+"US1INOW0018","2024","39.225","-86.69805","209.1","SPENCER 5.7 SE, IN US","       126","N","        80","N","        13","N","         4","N","   130"," ,N,0217, ","  67.6"," ,N,0527, ","   1259.8"," ,N","      290"," ,N"

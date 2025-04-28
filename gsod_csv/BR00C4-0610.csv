@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00C4-0610","1945","-21.17","-47.78","520.0","RIBEIRAO PRETO C4 061, BR","        91","I","        89","I","        24","I","  83.0"," ,I,0326, ","   1813.5"," ,I"
+"BR00C4-0610","1946","-21.17","-47.78","520.0","RIBEIRAO PRETO C4 061, BR","        70","I","        69","I","         9","I","  76.0"," ,I,0128, ","   1095.2"," ,I"
+"BR00C4-0610","1952","-21.17","-47.78","520.0","RIBEIRAO PRETO C4 061, BR","       116","I","        98","I","        15","I","  71.4"," ,I,0314, ","   1518.6"," ,I"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1PE000047","2020","46.1742","-63.2732","8.8","LONG CREEK 0.3 NNW, PE CA","       132","N","        76","N","         4","N","  52.3"," ,N,0923, ","    789.9"," ,N"
+"CA1PE000047","2021","46.1742","-63.2732","8.8","LONG CREEK 0.3 NNW, PE CA","       153","N","        85","N","         7","N"," 105.9"," ,N,0903, ","   1242.6"," ,N"
+"CA1PE000047","2022","46.1742","-63.2732","8.8","LONG CREEK 0.3 NNW, PE CA","","","","","","","","","   1139.3"," ,N"

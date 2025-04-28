@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"ASN00061379","1997","-32.8081","151.8419","4.9","WILLIAMTOWN COMPARISON AWS, AS","       104","a","        77","a","         8","a","         0","a","         0","a","    1.0","a,0816,+","  58.0"," ,a,0616, ","   1032.2"," ,a","     12.40","a"
+"ASN00061379","1998","-32.8081","151.8419","4.9","WILLIAMTOWN COMPARISON AWS, AS","       120","a","        79","a","        16","a","","","","","","","  96.0"," ,a,1119, ","   1333.8"," ,a","",""

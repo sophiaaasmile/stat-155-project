@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IDCW0004","2010","46.505864","-116.320334","311.5","AHSAHKA 0.4 NNE, ID US","       158","N","        87","N","         3","N","  38.1"," ,N,0603, ","    739.7"," ,N"
+"US1IDCW0004","2011","46.505864","-116.320334","311.5","AHSAHKA 0.4 NNE, ID US","       155","N","        87","N","         0","N","  24.1"," ,N,0516, ","    667.0"," ,N"
+"US1IDCW0004","2012","46.505864","-116.320334","311.5","AHSAHKA 0.4 NNE, ID US","       150","N","        94","N","         1","N","  34.3"," ,N,0120, ","    820.9"," ,N"

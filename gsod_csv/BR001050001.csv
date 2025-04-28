@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001050001","1983","-10.28","-50.42","0.0","JUSANTE CRISOSTOMO, BR","        89","I","        88","I","        19","I","  93.4"," ,I,1017, ","   1672.9"," ,I"
+"BR001050001","1984","-10.28","-50.42","0.0","JUSANTE CRISOSTOMO, BR","       104","I","        96","I","        19","I","  98.3"," ,I,0322, ","   1649.6"," ,I"
+"BR001050001","1985","-10.28","-50.42","0.0","JUSANTE CRISOSTOMO, BR","       125","I","       122","I","        29","I"," 150.2"," ,I,0119, ","   2170.9"," ,I"
+"BR001050001","1987","-10.28","-50.42","0.0","JUSANTE CRISOSTOMO, BR","        96","I","        79","I","        20","I","  67.0"," ,I,0925, ","   1514.0"," ,I"
+"BR001050001","1988","-10.28","-50.42","0.0","JUSANTE CRISOSTOMO, BR","        90","I","        85","I","        22","I","  75.0"," ,I,0324, ","   1834.5"," ,I"

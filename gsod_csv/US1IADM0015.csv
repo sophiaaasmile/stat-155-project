@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IADM0015","2022","41.0108653","-91.3526997","229.2","YARMOUTH 1.9 SW, IA US","        98","N","        58","N","         4","N","  41.9"," ,N,1105, ","    675.3"," ,N"
+"US1IADM0015","2023","41.0108653","-91.3526997","229.2","YARMOUTH 1.9 SW, IA US","        94","N","        58","N","         3","N","  39.9"," ,N,0508, ","    619.9"," ,N"
+"US1IADM0015","2024","41.0108653","-91.3526997","229.2","YARMOUTH 1.9 SW, IA US","       117","N","        69","N","        11","N","  45.7"," ,N,0729, ","    922.9"," ,N"

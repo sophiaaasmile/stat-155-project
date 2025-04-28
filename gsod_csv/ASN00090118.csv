@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00090118","1913","-38.0","142.7",,"HEXHAM STATE SCHOOL, AS","       166","a","        59","a","         3","a","  49.3"," ,a,0919, ","    593.5"," ,a"
+"ASN00090118","1916","-38.0","142.7",,"HEXHAM STATE SCHOOL, AS","","","","","","","","","    633.2"," ,a"
+"ASN00090118","1918","-38.0","142.7",,"HEXHAM STATE SCHOOL, AS","       108","a","        64","a","         0","a","  21.6"," ,a,0903, ","    556.0"," ,a"

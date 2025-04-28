@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00031148","1934","-17.2167","145.6667",,"GILLIES HIGHWAY TOP GATE, AS","       164","a","       144","a","        34","a"," 345.9"," ,a,0312, ","   3155.3"," ,a"
+"ASN00031148","1935","-17.2167","145.6667",,"GILLIES HIGHWAY TOP GATE, AS","        99","a","        88","a","        14","a"," 258.6"," ,a,0301, ","   1833.1"," ,a"
+"ASN00031148","1942","-17.2167","145.6667",,"GILLIES HIGHWAY TOP GATE, AS","       144","a","       112","a","        14","a"," 174.8"," ,a,1218, ","   1573.0"," ,a"

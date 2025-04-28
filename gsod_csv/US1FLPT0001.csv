@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLPT0001","2012","29.75871","-81.83854","39.0","INTERLACHEN 10.4 NNE, FL US","","","","","","","","","   1594.5"," ,N"
+"US1FLPT0001","2014","29.75871","-81.83854","39.0","INTERLACHEN 10.4 NNE, FL US","       105","N","        76","N","        15","N","  56.4"," ,N,0804, ","   1347.5"," ,N"
+"US1FLPT0001","2015","29.75871","-81.83854","39.0","INTERLACHEN 10.4 NNE, FL US","       102","N","        72","N","        19","N","  87.4"," ,N,0831, ","   1416.1"," ,N"
+"US1FLPT0001","2016","29.75871","-81.83854","39.0","INTERLACHEN 10.4 NNE, FL US","        81","N","        54","N","        12","N"," 165.1"," ,N,0607, ","   1260.7"," ,N"
+"US1FLPT0001","2018","29.75871","-81.83854","39.0","INTERLACHEN 10.4 NNE, FL US","","","","","","","","","   1672.2"," ,N"

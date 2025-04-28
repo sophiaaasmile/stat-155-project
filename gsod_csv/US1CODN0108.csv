@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CODN0108","2006","39.6792","-104.976","1627.9","ENGLEWOOD 2.4 NNE, CO US","        77","N","        33","N","         1","N","        12","N","   419"," ,N,1221, ","  36.6"," ,N,0814, ","    371.9"," ,N","     1337"," ,N"
+"US1CODN0108","2007","39.6792","-104.976","1627.9","ENGLEWOOD 2.4 NNE, CO US","       105","N","        46","N","         3","N","        19","N","   165"," ,N,0329, ","  39.1"," ,N,0728, ","    440.5"," ,N","     1593"," ,N"

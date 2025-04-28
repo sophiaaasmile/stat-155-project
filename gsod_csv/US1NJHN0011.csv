@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NJHN0011","2009","40.594","-74.749","64.0","READINGTON TWP 1.8 ENE, NJ US","       137","N","        84","N","        13","N","  43.4"," ,N,1227, ","   1228.3"," ,N"
+"US1NJHN0011","2010","40.594","-74.749","64.0","READINGTON TWP 1.8 ENE, NJ US","       111","N","        76","N","        11","N"," 104.1"," ,N,0314, ","   1213.3"," ,N"
+"US1NJHN0011","2012","40.594","-74.749","64.0","READINGTON TWP 1.8 ENE, NJ US","","","","","","","","","   1053.4"," ,N"
+"US1NJHN0011","2013","40.594","-74.749","64.0","READINGTON TWP 1.8 ENE, NJ US","","","","","","","","","   1274.9"," ,N"
+"US1NJHN0011","2023","40.594","-74.749","64.0","READINGTON TWP 1.8 ENE, NJ US","       124","N","        71","N","        18","N","  82.6"," ,N,1218, ","   1409.6"," ,N"
+"US1NJHN0011","2024","40.594","-74.749","64.0","READINGTON TWP 1.8 ENE, NJ US","       120","N","        86","N","        15","N","  90.9"," ,N,0807, ","   1367.8"," ,N"

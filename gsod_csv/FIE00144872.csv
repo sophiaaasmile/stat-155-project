@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FIE00144872","1997","63.4","28.4167","166.0","RAUTAVAARA PUUMALA, FI","       198","E","        83","E","         0","E","  17.7"," ,E,0708, ","    656.3"," ,E"
+"FIE00144872","1998","63.4","28.4167","166.0","RAUTAVAARA PUUMALA, FI","       209","E","       100","E","         0","E","  23.2"," ,E,0620, ","    839.9"," ,E"
+"FIE00144872","1999","63.4","28.4167","166.0","RAUTAVAARA PUUMALA, FI","       194","E","        95","E","         0","E","  22.6"," ,E,0811, ","    659.8"," ,E"
+"FIE00144872","2000","63.4","28.4167","166.0","RAUTAVAARA PUUMALA, FI","       220","E","       100","E","         1","E","  25.8"," ,E,0627, ","    781.7"," ,E"

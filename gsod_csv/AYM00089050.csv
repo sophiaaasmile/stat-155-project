@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"AYM00089050","2015","-62.183","-58.883","14.0","BELLINGSHAUSEN AWS, AY","       248","S","        89","S","         0","S","  17.5"," ,S,0314, ","    649.3"," ,S"
+"AYM00089050","2016","-62.183","-58.883","14.0","BELLINGSHAUSEN AWS, AY","       215","S","        64","S","         0","S","  23.1"," ,S,0330, ","    519.1"," ,S"
+"AYM00089050","2017","-62.183","-58.883","14.0","BELLINGSHAUSEN AWS, AY","       253","S","        87","S","         2","S","  41.9"," ,S,0823, ","    718.7"," ,S"
+"AYM00089050","2019","-62.183","-58.883","14.0","BELLINGSHAUSEN AWS, AY","       227","S","        83","S","         0","S","  23.1"," ,S,0929, ","    650.4"," ,S"
+"AYM00089050","2022","-62.183","-58.883","14.0","BELLINGSHAUSEN AWS, AY","       245","S","       103","S","         0","S","  20.1"," ,S,0131, ","    738.6"," ,S"

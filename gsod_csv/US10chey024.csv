@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10chey024","2006","41.4188","-102.9737","1296.9","DALTON 0.6 S, NE US","        69","N","        35","N","         0","N","","","","","  24.4"," ,N,1221, ","    317.8"," ,N","",""
+"US10chey024","2007","41.4188","-102.9737","1296.9","DALTON 0.6 S, NE US","        72","N","        34","N","         4","N","        12","N","   102"," ,N,0121, ","  90.4"," ,N,0728, ","    429.6"," ,N","      593"," ,N"
+"US10chey024","2008","41.4188","-102.9737","1296.9","DALTON 0.6 S, NE US","        69","N","        39","N","         2","N","        13","N","   102"," ,N,0411, ","  50.8"," ,N,0410, ","    457.2"," ,N","      641"," ,N"

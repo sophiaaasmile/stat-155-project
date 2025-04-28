@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASA0076","2022","38.670258","-121.3765","30.2","NORTH HIGHLANDS 0.3 NE, CA US","        37","N","        26","N","         3","N","  48.3"," ,N,1204, ","    311.9"," ,N"
+"US1CASA0076","2023","38.670258","-121.3765","30.2","NORTH HIGHLANDS 0.3 NE, CA US","        68","N","        47","N","         5","N","  38.1"," ,N,0101, ","    607.8"," ,N"
+"US1CASA0076","2024","38.670258","-121.3765","30.2","NORTH HIGHLANDS 0.3 NE, CA US","        70","N","        53","N","         3","N","  55.9"," ,N,1123, ","    583.3"," ,N"

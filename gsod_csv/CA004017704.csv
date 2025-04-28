@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004017704","1995","52.3667","-104.3667","578.0","SPALDING, SK CA","        71","C","        48","C","         5","C","        27","C","   200"," ,C,0403, ","  47.0"," ,C,0829, ","    610.2"," ,C","     2722"," ,C"
+"CA004017704","1996","52.3667","-104.3667","578.0","SPALDING, SK CA","        81","C","        51","C","         2","C","        27","C","   150"," ,C,1202, ","  40.2"," ,C,0617, ","    487.9"," ,C","     2055"," ,C"

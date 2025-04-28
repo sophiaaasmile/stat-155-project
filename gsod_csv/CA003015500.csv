@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003015500","1962","52.9667","-110.0167","625.0","RIVERCOURSE, AB CA","       111","C","        51","C","         1","C","        20","C","   112"," ,C,0203, ","  25.7"," ,C,0714, ","    441.5"," ,C","     1232"," ,C"
+"CA003015500","1963","52.9667","-110.0167","625.0","RIVERCOURSE, AB CA","       100","C","        43","C","         3","C","        14","C","    97"," ,C,0223,+","  35.8"," ,C,0708, ","    469.9"," ,C","     1248"," ,C"
+"CA003015500","1964","52.9667","-110.0167","625.0","RIVERCOURSE, AB CA","       116","C","        55","C","         2","C","        19","C","   122"," ,C,1026, ","  27.9"," ,C,0917, ","    488.7"," ,C","     1205"," ,C"

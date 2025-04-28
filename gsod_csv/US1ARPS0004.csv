@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ARPS0004","2012","34.702501","-92.32851","90.5","LITTLE ROCK 2.0 SE, AR US","       104","N","        68","N","        15","N"," 125.0"," ,N,0321, ","   1168.4"," ,N"
+"US1ARPS0004","2013","34.702501","-92.32851","90.5","LITTLE ROCK 2.0 SE, AR US","       124","N","        76","N","        21","N","  91.4"," ,N,0531, ","   1550.1"," ,N"
+"US1ARPS0004","2014","34.702501","-92.32851","90.5","LITTLE ROCK 2.0 SE, AR US","       123","N","        76","N","        13","N","  72.4"," ,N,0414, ","   1239.4"," ,N"
+"US1ARPS0004","2015","34.702501","-92.32851","90.5","LITTLE ROCK 2.0 SE, AR US","       134","N","        86","N","        23","N","  99.6"," ,N,0704, ","   1733.3"," ,N"

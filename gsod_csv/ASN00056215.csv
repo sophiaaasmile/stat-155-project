@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056215","1969","-28.8833","152.1","944.9","BOONOO BOONOO POST OFFICE, AS","        94","a","        74","a","         7","a","  52.8"," ,a,1223, ","    844.7"," ,a"
+"ASN00056215","1970","-28.8833","152.1","944.9","BOONOO BOONOO POST OFFICE, AS","        92","a","        70","a","        12","a","  54.6"," ,a,0331, ","    974.2"," ,a"
+"ASN00056215","1971","-28.8833","152.1","944.9","BOONOO BOONOO POST OFFICE, AS","        93","a","        77","a","         7","a"," 165.1"," ,a,0218, ","   1066.5"," ,a"
+"ASN00056215","1972","-28.8833","152.1","944.9","BOONOO BOONOO POST OFFICE, AS","       103","a","        91","a","         8","a","  86.4"," ,a,0214, ","   1162.2"," ,a"

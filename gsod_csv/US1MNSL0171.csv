@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MNSL0171","2021","48.429544","-93.034827","369.7","KABETOGAMA 0.7 SSW, MN US","       136","N","        50","N","         1","N","","","","","  33.5"," ,N,0408, ","    512.5"," ,N","",""
+"US1MNSL0171","2022","48.429544","-93.034827","369.7","KABETOGAMA 0.7 SSW, MN US","       180","N","        82","N","         5","N","        39","N","   213"," ,N,1215, ","  55.4"," ,N,0423, ","    901.8"," ,N","     2651"," ,N"
+"US1MNSL0171","2023","48.429544","-93.034827","369.7","KABETOGAMA 0.7 SSW, MN US","       148","N","        63","N","         2","N","        14","N","   196"," ,N,0421, ","  41.9"," ,N,0508, ","    652.6"," ,N","     1663"," ,N"
+"US1MNSL0171","2024","48.429544","-93.034827","369.7","KABETOGAMA 0.7 SSW, MN US","       155","N","        68","N","         5","N","        17","N","   193"," ,N,1209, ","  63.8"," ,N,0917, ","    783.1"," ,N","     1446"," ,N"

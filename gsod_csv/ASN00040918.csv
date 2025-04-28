@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040918","2001","-27.3058","153.0592","10.0","BRIGHTON BOWLS CLUB, AS","        88","a","        48","a","         9","a","  97.4"," ,a,0202, ","    932.1"," ,a"
+"ASN00040918","2002","-27.3058","153.0592","10.0","BRIGHTON BOWLS CLUB, AS","        85","a","        44","a","        10","a","  46.6"," ,a,1028, ","    807.4"," ,a"
+"ASN00040918","2003","-27.3058","153.0592","10.0","BRIGHTON BOWLS CLUB, AS","       102","a","        58","a","        12","a","  48.4"," ,a,0204, ","    864.7"," ,a"
+"ASN00040918","2004","-27.3058","153.0592","10.0","BRIGHTON BOWLS CLUB, AS","        95","a","        59","a","        14","a"," 143.6"," ,a,0224, ","   1330.3"," ,a"

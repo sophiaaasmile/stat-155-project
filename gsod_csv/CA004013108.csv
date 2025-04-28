@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004013108","1960","49.3333","-104.75","713.0","HARDY, SK CA","        56","C","        26","C","         2","C","        11","C","   102"," ,C,0101, ","  49.0"," ,C,0621, ","    304.2"," ,C","      677"," ,C"
+"CA004013108","1961","49.3333","-104.75","713.0","HARDY, SK CA","        50","C","        27","C","         1","C","         9","C","   127"," ,C,1022, ","  29.2"," ,C,0530, ","    270.9"," ,C","      616"," ,C"

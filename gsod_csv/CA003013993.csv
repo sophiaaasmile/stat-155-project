@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003013993","1983","52.7167","-111.55","701.0","LOUGHEED SOUTH, AB CA","        67","C","        35","C","         0","C","         9","C","   100"," ,C,0122, ","  23.4"," ,C,0630, ","    298.2"," ,C","      680"," ,C"
+"CA003013993","1984","52.7167","-111.55","701.0","LOUGHEED SOUTH, AB CA","        70","C","        42","C","         1","C","        17","C","   123"," ,C,0214, ","  36.4"," ,C,0921, ","    407.6"," ,C","     1052"," ,C"
+"CA003013993","1985","52.7167","-111.55","701.0","LOUGHEED SOUTH, AB CA","        56","C","        38","C","         2","C","         7","C","   200"," ,C,1216, ","  50.0"," ,C,0821, ","    392.2"," ,C","      786"," ,C"

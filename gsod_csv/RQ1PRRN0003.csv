@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"RQ1PRRN0003","2020","18.362668","-67.249747","64.3","RINCON 1.5 N, PR RQ","       210","N","        98","N","        16","N"," 127.0"," ,N,0731, ","   1608.8"," ,N"
+"RQ1PRRN0003","2021","18.362668","-67.249747","64.3","RINCON 1.5 N, PR RQ","       202","N","        97","N","        16","N","  68.3"," ,N,0716, ","   1478.4"," ,N"
+"RQ1PRRN0003","2022","18.362668","-67.249747","64.3","RINCON 1.5 N, PR RQ","       228","N","       112","N","        16","N"," 281.9"," ,N,0919, ","   2120.7"," ,N"

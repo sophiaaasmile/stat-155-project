@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003033980","1956","50.35","-112.6833","871.0","LOMOND EXPERIMENTAL ST, AB CA","        48","C","        43","C","         3","C","        19","C","   279"," ,C,0108, ","  30.5"," ,C,0803, ","    394.7"," ,C","     1383"," ,C"
+"CA003033980","1957","50.35","-112.6833","871.0","LOMOND EXPERIMENTAL ST, AB CA","        54","C","        45","C","         0","C","        19","C","   229"," ,C,1021, ","  22.9"," ,C,1021, ","    339.9"," ,C","     1420"," ,C"
+"CA003033980","1959","50.35","-112.6833","871.0","LOMOND EXPERIMENTAL ST, AB CA","        46","C","        40","C","         2","C","        16","C","   127"," ,C,1111, ","  33.5"," ,C,0627, ","    360.7"," ,C","     1130"," ,C"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00072149","1975","-35.25","148.3","518.0","TUMUT WYANGLE, AS","        84","a","        67","a","         4","a","  40.2"," ,a,1230, ","    801.4"," ,a"
+"ASN00072149","1976","-35.25","148.3","518.0","TUMUT WYANGLE, AS","        72","a","        51","a","         2","a","  33.0"," ,a,0405, ","    558.1"," ,a"
+"ASN00072149","1977","-35.25","148.3","518.0","TUMUT WYANGLE, AS","        68","a","        43","a","         4","a","  46.4"," ,a,0316, ","    532.2"," ,a"

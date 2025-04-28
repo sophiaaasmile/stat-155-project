@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00039112","1930","-24.6","150.7",,"GREVILLEA, AS","        79","a","        35","a","         6","a","  81.3"," ,a,0509, ","    641.4"," ,a"
+"ASN00039112","1931","-24.6","150.7",,"GREVILLEA, AS","        81","a","        37","a","         4","a","  53.6"," ,a,0204, ","    494.6"," ,a"
+"ASN00039112","1932","-24.6","150.7",,"GREVILLEA, AS","        61","a","        33","a","         4","a","  67.6"," ,a,0115, ","    475.7"," ,a"

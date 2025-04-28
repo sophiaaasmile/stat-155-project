@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COSG0032","2019","40.992754","-102.265878","1063.1","JULESBURG 0.4 N, CO US","","","","","","","","","    587.5"," ,N"
+"US1COSG0032","2020","40.992754","-102.265878","1063.1","JULESBURG 0.4 N, CO US","        55","N","        32","N","         2","N","  34.3"," ,N,0504, ","    254.2"," ,N"
+"US1COSG0032","2021","40.992754","-102.265878","1063.1","JULESBURG 0.4 N, CO US","        43","N","        28","N","         2","N","  52.1"," ,N,0314, ","    351.4"," ,N"
+"US1COSG0032","2022","40.992754","-102.265878","1063.1","JULESBURG 0.4 N, CO US","        43","N","        26","N","         2","N","  42.4"," ,N,0917, ","    238.7"," ,N"

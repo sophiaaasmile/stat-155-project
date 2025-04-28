@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001104554","1989","49.0833","-122.6167","59.0","LANGLEY CENTRE, BC CA","       145","C","       111","C","        11","C","         1","C","    32"," ,C,0216, ","  58.7"," ,C,1109, ","   1300.1"," ,C","       68"," ,C"
+"CA001104554","1990","49.0833","-122.6167","59.0","LANGLEY CENTRE, BC CA","","","","","","","         8","C","   280"," ,C,1229, ","","","","","      954"," ,C"
+"CA001104554","1991","49.0833","-122.6167","59.0","LANGLEY CENTRE, BC CA","","","","","","","         4","C","   190"," ,C,0107, ","","","","","      566"," ,C"
+"CA001104554","1993","49.0833","-122.6167","59.0","LANGLEY CENTRE, BC CA","","","","","","","         2","C","   250"," ,C,0103, ","","","","","      430"," ,C"

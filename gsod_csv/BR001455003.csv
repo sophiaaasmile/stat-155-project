@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001455003","1969","-14.45","-55.68","0.0","CUIABAZINHO, BR","       128","I","        93","I","        15","I","  65.0"," ,I,0101, ","   1315.0"," ,I"
+"BR001455003","1972","-14.45","-55.68","0.0","CUIABAZINHO, BR","       164","I","        96","I","        26","I"," 125.5"," ,I,1220, ","   1888.7"," ,I"
+"BR001455003","1979","-14.45","-55.68","0.0","CUIABAZINHO, BR","        94","I","        81","I","        18","I"," 134.4"," ,I,1102, ","   1612.4"," ,I"

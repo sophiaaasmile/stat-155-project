@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00059041","1953","-30.05","152.9833",,"GLENREAGH FORESTRY STATION, AS","        74","a","        53","a","         8","a","  86.9"," ,a,0324, ","    837.7"," ,a"
+"ASN00059041","1954","-30.05","152.9833",,"GLENREAGH FORESTRY STATION, AS","       125","a","        85","a","        19","a"," 127.0"," ,a,0922, ","   1639.1"," ,a"
+"ASN00059041","1955","-30.05","152.9833",,"GLENREAGH FORESTRY STATION, AS","       114","a","        81","a","        14","a"," 131.6"," ,a,0501, ","   1460.9"," ,a"
+"ASN00059041","1956","-30.05","152.9833",,"GLENREAGH FORESTRY STATION, AS","       118","a","        87","a","        19","a"," 128.3"," ,a,0502, ","   1685.6"," ,a"
+"ASN00059041","1961","-30.05","152.9833",,"GLENREAGH FORESTRY STATION, AS","       123","a","        90","a","        15","a","  71.1"," ,a,0908,+","   1385.8"," ,a"

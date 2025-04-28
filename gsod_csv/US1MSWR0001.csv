@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MSWR0001","2009","32.3488","-90.8412","79.6","VICKSBURG 2.2 NE, MS US","","","","","","","","","   1544.6"," ,N"
+"US1MSWR0001","2011","32.3488","-90.8412","79.6","VICKSBURG 2.2 NE, MS US","        79","N","        58","N","        15","N","  89.9"," ,N,0905, ","   1253.6"," ,N"
+"US1MSWR0001","2014","32.3488","-90.8412","79.6","VICKSBURG 2.2 NE, MS US","        98","N","        72","N","        21","N"," 106.9"," ,N,0407, ","   1471.8"," ,N"
+"US1MSWR0001","2018","32.3488","-90.8412","79.6","VICKSBURG 2.2 NE, MS US","       122","N","        83","N","        20","N","  71.4"," ,N,0211, ","   1556.7"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00041299","1959","-27.7833","151.4667","394.7","CRANBROOK, AS","        74","a","        55","a","         7","a","  54.6"," ,a,0218, ","    684.5"," ,a"
+"ASN00041299","1961","-27.7833","151.4667","394.7","CRANBROOK, AS","        55","a","        42","a","         9","a","  67.1"," ,a,1128, ","    720.3"," ,a"
+"ASN00041299","1962","-27.7833","151.4667","394.7","CRANBROOK, AS","        62","a","        54","a","         7","a","  61.5"," ,a,0101, ","    694.1"," ,a"

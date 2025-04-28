@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLMN0039","2020","24.85058","-80.73566","1.8","ISLAMORADA 7.8 SW, FL US","","","","","","","","","   1478.5"," ,N"
+"US1FLMN0039","2021","24.85058","-80.73566","1.8","ISLAMORADA 7.8 SW, FL US","       115","N","        62","N","         6","N","  87.9"," ,N,0725, ","    782.8"," ,N"
+"US1FLMN0039","2022","24.85058","-80.73566","1.8","ISLAMORADA 7.8 SW, FL US","       106","N","        52","N","        10","N"," 129.5"," ,N,0927, ","   1112.1"," ,N"
+"US1FLMN0039","2023","24.85058","-80.73566","1.8","ISLAMORADA 7.8 SW, FL US","       114","N","        60","N","        14","N"," 114.8"," ,N,1116, ","   1174.5"," ,N"

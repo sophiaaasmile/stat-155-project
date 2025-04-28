@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MIBN0024","2022","42.059672","-86.471057","194.5","ST. JOSEPH 2.8 SSE, MI US","       150","N","        88","N","         8","N","  47.2"," ,N,1026, ","    996.2"," ,N"
+"US1MIBN0024","2023","42.059672","-86.471057","194.5","ST. JOSEPH 2.8 SSE, MI US","       156","N","        94","N","        13","N","  75.4"," ,N,0729, ","   1116.0"," ,N"
+"US1MIBN0024","2024","42.059672","-86.471057","194.5","ST. JOSEPH 2.8 SSE, MI US","       152","N","        96","N","         7","N","  64.8"," ,N,0716, ","   1078.3"," ,N"

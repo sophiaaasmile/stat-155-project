@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA0030245KL","1973","51.6","-112.6","838.0","MICHICHI CREEK, AB CA","        78","C","        40","C","         3","C","        10","C","   124"," ,C,0413, ","  44.2"," ,C,0614, ","    395.2"," ,C","      692"," ,C"
+"CA0030245KL","1974","51.6","-112.6","838.0","MICHICHI CREEK, AB CA","        96","C","        46","C","         1","C","        16","C","    94"," ,C,1221, ","  38.9"," ,C,0426, ","    367.6"," ,C","      912"," ,C"

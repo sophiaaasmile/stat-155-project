@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00033316","2006","-20.4114","148.5878","6.0","PROSERPINE FULLER ST, AS","       133","a","        70","a","        10","a","  52.0"," ,a,0126, ","    952.4"," ,a"
+"ASN00033316","2007","-20.4114","148.5878","6.0","PROSERPINE FULLER ST, AS","       140","a","        98","a","        23","a","  92.4"," ,a,0615, ","   1663.6"," ,a"
+"ASN00033316","2008","-20.4114","148.5878","6.0","PROSERPINE FULLER ST, AS","       122","a","        75","a","        25","a"," 270.4"," ,a,0114, ","   2807.2"," ,a"
+"ASN00033316","2009","-20.4114","148.5878","6.0","PROSERPINE FULLER ST, AS","       116","a","        82","a","        28","a"," 122.0"," ,a,0202, ","   2100.2"," ,a"
+"ASN00033316","2012","-20.4114","148.5878","6.0","PROSERPINE FULLER ST, AS","       113","a","        71","a","        18","a"," 173.4"," ,a,0320, ","   1792.5"," ,a"

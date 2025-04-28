@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1ILKN0078","2020","41.864417","-88.32317","217.3","GENEVA 1.3 SSW, IL US","       111","N","        75","N","        11","N","        10","N","   104"," ,N,0213, ","  94.2"," ,N,0515, ","   1067.9"," ,N","      712"," ,N"
+"US1ILKN0078","2022","41.864417","-88.32317","217.3","GENEVA 1.3 SSW, IL US","","","","","","","","","","","","","    972.0"," ,N","",""
+"US1ILKN0078","2023","41.864417","-88.32317","217.3","GENEVA 1.3 SSW, IL US","       126","N","        79","N","         7","N","         9","N","    64"," ,N,0125, ","  62.5"," ,N,0729, ","    978.6"," ,N","      486"," ,N"

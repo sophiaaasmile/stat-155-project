@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES"
+"LAW00041051","1967","17.98333","102.56667","170.1","VIENTIANE, LA","        0","","","","","","     0"," ,X,1231,+","","","",""
+"LAW00041051","1968","17.98333","102.56667","170.1","VIENTIANE, LA","        0","","","","","","     0"," ,X,1231,+","","","",""
+"LAW00041051","1969","17.98333","102.56667","170.1","VIENTIANE, LA","        0","","        66"," ","        38"," ","     0"," ,X,1231,+","","","",""
+"LAW00041051","1970","17.98333","102.56667","170.1","VIENTIANE, LA","","","       162"," ","        51"," ","","","       2.2","2","       2.2","X"

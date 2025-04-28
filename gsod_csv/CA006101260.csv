@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006101260","1962","45.3","-75.9833","114.0","CARP, ON CA","        28","C","   284"," ,C,0312, ","    4762.2","2","    4762.2","C","     2062"," ,C"
+"CA006101260","1964","45.3","-75.9833","114.0","CARP, ON CA","        23","C","   122"," ,C,0308, ","","","","","     1245"," ,C"
+"CA006101260","1968","45.3","-75.9833","114.0","CARP, ON CA","        33","C","   279"," ,C,0114, ","","","","","     2510"," ,C"

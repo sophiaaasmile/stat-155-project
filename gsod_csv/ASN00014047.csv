@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00014047","1997","-12.8001","131.4309","20.0","MARRAKAI SPRINGS, AS","","","","","","","","","   1851.9"," ,a"
+"ASN00014047","1998","-12.8001","131.4309","20.0","MARRAKAI SPRINGS, AS","        99","a","        91","a","        23","a","  81.6"," ,a,1209, ","   1944.9"," ,a"
+"ASN00014047","1999","-12.8001","131.4309","20.0","MARRAKAI SPRINGS, AS","        97","a","        93","a","        19","a","  65.8"," ,a,0302, ","   1652.7"," ,a"

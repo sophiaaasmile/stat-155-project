@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNAA0093","2021","45.3151","-93.170328","278.3","EAST BETHEL 1.6 ESE, MN US","       110","N","        54","N","         6","N","  36.6"," ,N,0914, ","    686.4"," ,N"
+"US1MNAA0093","2022","45.3151","-93.170328","278.3","EAST BETHEL 1.6 ESE, MN US","       141","N","        68","N","         3","N","  33.3"," ,N,0621, ","    719.4"," ,N"
+"US1MNAA0093","2023","45.3151","-93.170328","278.3","EAST BETHEL 1.6 ESE, MN US","       112","N","        61","N","         9","N","  60.5"," ,N,0728, ","    777.0"," ,N"
+"US1MNAA0093","2024","45.3151","-93.170328","278.3","EAST BETHEL 1.6 ESE, MN US","       107","N","        66","N","        11","N","  46.0"," ,N,0616, ","    991.2"," ,N"

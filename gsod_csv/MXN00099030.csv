@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00099030","2003","28.4167","-109.1667","688.5","SAN NICOLAS, MX","        69","m","        43","m","         2","m","  28.7"," ,m,0823, ","    478.4"," ,m"
+"MXN00099030","2004","28.4167","-109.1667","688.5","SAN NICOLAS, MX","        80","m","        53","m","        11","m","  69.6"," ,m,1025, ","   1013.1"," ,m"

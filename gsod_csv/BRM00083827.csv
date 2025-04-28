@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BRM00083827","1991","-25.596","-54.487","239.9","CATARATAS INTERNATIONAL, BR","        78","S","        53","S","        16","S"," 115.1"," ,S,0606, ","   1330.4"," ,S"
+"BRM00083827","1993","-25.596","-54.487","239.9","CATARATAS INTERNATIONAL, BR","       106","S","        67","S","        19","S"," 130.0"," ,S,0207, ","   1505.3"," ,S"
+"BRM00083827","2018","-25.596","-54.487","239.9","CATARATAS INTERNATIONAL, BR","       107","S","        80","S","        27","S"," 142.0"," ,S,0119, ","   1818.7"," ,S"
+"BRM00083827","2019","-25.596","-54.487","239.9","CATARATAS INTERNATIONAL, BR","        95","S","        73","S","        24","S","  87.9"," ,S,0203, ","   1535.4"," ,S"
+"BRM00083827","2020","-25.596","-54.487","239.9","CATARATAS INTERNATIONAL, BR","        75","S","        59","S","        17","S"," 101.1"," ,S,0130, ","   1238.6"," ,S"
+"BRM00083827","2023","-25.596","-54.487","239.9","CATARATAS INTERNATIONAL, BR","       121","S","        86","S","        30","S"," 118.1"," ,S,1029, ","   2089.8"," ,S"

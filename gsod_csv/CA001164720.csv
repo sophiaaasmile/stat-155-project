@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001164720","1970","51.0333","-120.0333","625.0","LOUIS CRK MEL BAR RANCH, BC CA","       102","C","        53","C","         0","C","        23","C","   107"," ,C,1119, ","  14.7"," ,C,1004, ","    342.3"," ,C","     1374"," ,C"
+"CA001164720","1971","51.0333","-120.0333","625.0","LOUIS CRK MEL BAR RANCH, BC CA","       111","C","        63","C","         1","C","        30"," ","   330"," , ,1216, ","  33.0"," ,C,1216, ","    514.3"," ,C","     2396"," , "
+"CA001164720","1972","51.0333","-120.0333","625.0","LOUIS CRK MEL BAR RANCH, BC CA","        89","C","        54","C","         2","C","        17","C","    91"," ,C,0116, ","  27.4"," ,C,0610, ","    421.9"," ,C","     1048"," ,C"

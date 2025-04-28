@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"RSM00032623","1967","54.783","167.6","4.0","PRE OBRAZHENSKOYE, RS","       260","I","       134","I","         3","I","  47.0"," ,I,0915, ","   1161.3"," ,I"
+"RSM00032623","1968","54.783","167.6","4.0","PRE OBRAZHENSKOYE, RS","       232","I","       109","I","         7","I","  45.7"," ,I,1011, ","   1081.0"," ,I"
+"RSM00032623","1969","54.783","167.6","4.0","PRE OBRAZHENSKOYE, RS","       276","I","       150","I","         3","I","  33.4"," ,I,0824, ","   1359.0"," ,I"
+"RSM00032623","1970","54.783","167.6","4.0","PRE OBRAZHENSKOYE, RS","       253","I","       126","I","        10","I","  58.5"," ,I,0912, ","   1381.4"," ,I"
+"RSM00032623","1971","54.783","167.6","4.0","PRE OBRAZHENSKOYE, RS","       220","I","       116","I","         3","I","  42.2"," ,I,0915, ","   1126.4"," ,I"

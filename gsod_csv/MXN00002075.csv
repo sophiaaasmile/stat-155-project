@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00002075","2007","28.05","-113.3833","412.7","SANTA GERTRUDIS MISION, MX","        13","m","        11","m","         2","m","  63.0"," ,m,1128, ","    210.8"," ,m"
+"MXN00002075","2010","28.05","-113.3833","412.7","SANTA GERTRUDIS MISION, MX","        16","m","        11","m","         1","m","  54.9"," ,m,0121, ","    151.8"," ,m"
+"MXN00002075","2011","28.05","-113.3833","412.7","SANTA GERTRUDIS MISION, MX","        11","m","         6","m","         1","m","  25.9"," ,m,0905, ","     89.7"," ,m"
+"MXN00002075","2012","28.05","-113.3833","412.7","SANTA GERTRUDIS MISION, MX","        25","m","        21","m","         9","m","  68.8"," ,m,0827, ","    461.2"," ,m"

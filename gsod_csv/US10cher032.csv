@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10cher032","2017","42.663835","-100.665075",,"VALENTINE 15.6 SSW, NE US","        79","N","        47","N","         6","N","  51.6"," ,N,0816, ","    606.3"," ,N"
+"US10cher032","2019","42.663835","-100.665075",,"VALENTINE 15.6 SSW, NE US","       117","N","        74","N","        10","N","  52.3"," ,N,0521, ","    952.4"," ,N"
+"US10cher032","2020","42.663835","-100.665075",,"VALENTINE 15.6 SSW, NE US","        76","N","        42","N","         4","N","  54.6"," ,N,0617, ","    511.8"," ,N"

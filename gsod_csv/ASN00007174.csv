@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00007174","1908","-28.7","116.9333",,"GOLDEN GROVE, AS","        45","a","        29","a","         2","a","  53.1"," ,a,0519, ","    303.3"," ,a"
+"ASN00007174","1909","-28.7","116.9333",,"GOLDEN GROVE, AS","        54","a","        37","a","         3","a","  37.3"," ,a,0803, ","    417.2"," ,a"
+"ASN00007174","1910","-28.7","116.9333",,"GOLDEN GROVE, AS","        39","a","        23","a","         1","a","  32.5"," ,a,0505, ","    192.5"," ,a"

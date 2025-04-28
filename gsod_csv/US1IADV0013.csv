@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IADV0013","2021","40.8897","-92.553133","268.5","DRAKESVILLE 7.4 NNW, IA US","        83","N","        73","N","        14","N"," 121.9"," ,N,0625, ","   1330.1"," ,N"
+"US1IADV0013","2022","40.8897","-92.553133","268.5","DRAKESVILLE 7.4 NNW, IA US","        72","N","        49","N","         6","N","  73.4"," ,N,0918, ","    713.7"," ,N"
+"US1IADV0013","2023","40.8897","-92.553133","268.5","DRAKESVILLE 7.4 NNW, IA US","","","","","","","","","    566.8"," ,N"
+"US1IADV0013","2024","40.8897","-92.553133","268.5","DRAKESVILLE 7.4 NNW, IA US","        85","N","        65","N","         7","N","  77.5"," ,N,0731, ","   1004.0"," ,N"

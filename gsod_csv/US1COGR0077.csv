@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COGR0077","2021","40.10674","-106.53432","2640.2","KREMMLING 9.1 WNW, CO US","       110","N","        52","N","         0","N","  22.9"," ,N,0503, ","    428.3"," ,N"
+"US1COGR0077","2022","40.10674","-106.53432","2640.2","KREMMLING 9.1 WNW, CO US","       105","N","        56","N","         1","N","  27.9"," ,N,0106, ","    427.7"," ,N"
+"US1COGR0077","2023","40.10674","-106.53432","2640.2","KREMMLING 9.1 WNW, CO US","       133","N","        67","N","         0","N","  20.6"," ,N,0607, ","    555.6"," ,N"
+"US1COGR0077","2024","40.10674","-106.53432","2640.2","KREMMLING 9.1 WNW, CO US","       138","N","        66","N","         1","N","  26.7"," ,N,1021, ","    526.4"," ,N"

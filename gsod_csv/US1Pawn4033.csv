@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1Pawn4033","2019","40.23701885","-96.18378374",,"STEINAUER 3.31 ENE, NE US","       114","N","        74","N","        11","N","  72.1"," ,N,0524, ","   1138.5"," ,N"
+"US1Pawn4033","2020","40.23701885","-96.18378374",,"STEINAUER 3.31 ENE, NE US","        79","N","        51","N","         7","N","  61.5"," ,N,0720, ","    757.3"," ,N"
+"US1Pawn4033","2021","40.23701885","-96.18378374",,"STEINAUER 3.31 ENE, NE US","        82","N","        46","N","         9","N","  71.6"," ,N,0517, ","    711.1"," ,N"
+"US1Pawn4033","2022","40.23701885","-96.18378374",,"STEINAUER 3.31 ENE, NE US","        83","N","        40","N","         5","N","  41.9"," ,N,0526, ","    551.7"," ,N"

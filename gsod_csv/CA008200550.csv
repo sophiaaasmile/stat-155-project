@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA008200550","1872","44.9","-63.7167","183.0","BEAVERBANK, NS CA","       106","C","        88","C","        11","C","        12","C","   254"," ,C,1118, ","  58.7"," ,C,1002, ","   1165.8"," ,C","     1212"," ,C"
+"CA008200550","1957","44.9","-63.7167","183.0","BEAVERBANK, NS CA","       126","C","        98","C","         8","C","        25","C","   229"," ,C,0116, ","  38.4"," ,C,0123, ","   1221.3"," ,C","     2226"," ,C"
+"CA008200550","1958","44.9","-63.7167","183.0","BEAVERBANK, NS CA","       133","C","       108","C","        19","C","        18","C","   229"," ,C,0315, ","  79.5"," ,C,0117, ","   1728.8"," ,C","     1474"," ,C"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMGD0010","2021","34.76584","-104.48034","1357.6","SANTA ROSA 16.6 SE, NM US","","","","","","","","","    328.1"," ,N"
+"US1NMGD0010","2022","34.76584","-104.48034","1357.6","SANTA ROSA 16.6 SE, NM US","        40","N","        28","N","         2","N","  70.4"," ,N,0809, ","    313.7"," ,N"
+"US1NMGD0010","2023","34.76584","-104.48034","1357.6","SANTA ROSA 16.6 SE, NM US","        47","N","        32","N","         1","N","  30.5"," ,N,0602, ","    315.2"," ,N"
+"US1NMGD0010","2024","34.76584","-104.48034","1357.6","SANTA ROSA 16.6 SE, NM US","        42","N","        31","N","         5","N","  38.1"," ,N,1020, ","    323.4"," ,N"

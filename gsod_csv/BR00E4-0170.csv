@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00E4-0170","1937","-23.42","-47.65","700.0","MINA NOVA DE APATITA E4 017, BR","        87","I","        74","I","        19","I","  54.6"," ,I,0416, ","   1366.8"," ,I"
+"BR00E4-0170","1938","-23.42","-47.65","700.0","MINA NOVA DE APATITA E4 017, BR","        82","I","        69","I","        13","I","  66.6"," ,I,0115, ","   1209.6"," ,I"
+"BR00E4-0170","1939","-23.42","-47.65","700.0","MINA NOVA DE APATITA E4 017, BR","        55","I","        54","I","        14","I","  97.3"," ,I,1127, ","   1063.0"," ,I"
+"BR00E4-0170","1940","-23.42","-47.65","700.0","MINA NOVA DE APATITA E4 017, BR","        56","I","        54","I","        20","I","  90.0"," ,I,1027, ","   1245.6"," ,I"
+"BR00E4-0170","1941","-23.42","-47.65","700.0","MINA NOVA DE APATITA E4 017, BR","        59","I","        58","I","        19","I","  91.0"," ,I,0325, ","   1492.1"," ,I"

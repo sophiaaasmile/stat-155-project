@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00030131","1972","-19.8167","146.0333",,"GAINSFORD STATION, AS","        39","a","        27","a","         5","a","  50.8"," ,a,1128, ","    501.7"," ,a"
+"ASN00030131","1973","-19.8167","146.0333",,"GAINSFORD STATION, AS","        59","a","        46","a","         7","a","  64.3"," ,a,0114, ","    699.3"," ,a"
+"ASN00030131","1974","-19.8167","146.0333",,"GAINSFORD STATION, AS","        71","a","        62","a","        19","a","  98.8"," ,a,0103, ","   1464.7"," ,a"
+"ASN00030131","1975","-19.8167","146.0333",,"GAINSFORD STATION, AS","        47","a","        40","a","        10","a","  67.4"," ,a,0329, ","    716.1"," ,a"
+"ASN00030131","1976","-19.8167","146.0333",,"GAINSFORD STATION, AS","        48","a","        41","a","         6","a","  45.0"," ,a,1226, ","    605.7"," ,a"

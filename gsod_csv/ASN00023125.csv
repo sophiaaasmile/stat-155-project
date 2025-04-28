@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00023125","2006","-34.5715","139.079","355.0","MOUNT MCKENZIE MT MCKENZIE, AS","        72","a","        36","a","         2","a","  41.8"," ,a,0327, ","    382.8"," ,a"
+"ASN00023125","2007","-34.5715","139.079","355.0","MOUNT MCKENZIE MT MCKENZIE, AS","        91","a","        45","a","         3","a","  51.8"," ,a,0427, ","    577.4"," ,a"
+"ASN00023125","2008","-34.5715","139.079","355.0","MOUNT MCKENZIE MT MCKENZIE, AS","        99","a","        46","a","         2","a","  40.8"," ,a,0517, ","    487.0"," ,a"
+"ASN00023125","2009","-34.5715","139.079","355.0","MOUNT MCKENZIE MT MCKENZIE, AS","        97","a","        60","a","         2","a","  36.6"," ,a,0609, ","    665.8"," ,a"
+"ASN00023125","2010","-34.5715","139.079","355.0","MOUNT MCKENZIE MT MCKENZIE, AS","       106","a","        58","a","         4","a","  69.0"," ,a,1208, ","    710.0"," ,a"
+"ASN00023125","2011","-34.5715","139.079","355.0","MOUNT MCKENZIE MT MCKENZIE, AS","       105","a","        47","a","         4","a","  62.4"," ,a,1218, ","    606.4"," ,a"
+"ASN00023125","2012","-34.5715","139.079","355.0","MOUNT MCKENZIE MT MCKENZIE, AS","        91","a","        43","a","         4","a","  41.8"," ,a,0713, ","    488.4"," ,a"

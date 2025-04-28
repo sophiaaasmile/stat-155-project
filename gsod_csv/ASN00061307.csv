@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00061307","1966","-32.7667","151.3167","91.4","ROTHBURY BROOKLANDS, AS","        80","a","        37","a","         3","a","  46.5"," ,a,0218, ","    460.0"," ,a"
+"ASN00061307","1967","-32.7667","151.3167","91.4","ROTHBURY BROOKLANDS, AS","       113","a","        66","a","         5","a","  66.5"," ,a,0309, ","    804.8"," ,a"
+"ASN00061307","1968","-32.7667","151.3167","91.4","ROTHBURY BROOKLANDS, AS","        78","a","        54","a","         9","a","  71.6"," ,a,0326, ","    758.4"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COPH0044","2011","40.5799684","-102.3089531","1141.2","HOLYOKE 0.4 SW, CO US","        92","N","        48","N","         4","N","  65.3"," ,N,0525, ","    588.0"," ,N"
+"US1COPH0044","2012","40.5799684","-102.3089531","1141.2","HOLYOKE 0.4 SW, CO US","        57","N","        31","N","         0","N","  24.6"," ,N,0708, ","    289.1"," ,N"
+"US1COPH0044","2013","40.5799684","-102.3089531","1141.2","HOLYOKE 0.4 SW, CO US","        92","N","        44","N","         1","N","  27.4"," ,N,0725, ","    433.9"," ,N"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZPN0081","2020","33.432928","-111.578452","514.2","APACHE JUNCTION 2.7 NW, AZ US","        17","N","         9","N","         0","N","  20.6"," ,N,0223, ","    106.3"," ,N"
+"US1AZPN0081","2021","33.432928","-111.578452","514.2","APACHE JUNCTION 2.7 NW, AZ US","        56","N","        24","N","         4","N","  40.6"," ,N,0812, ","    334.7"," ,N"
+"US1AZPN0081","2022","33.432928","-111.578452","514.2","APACHE JUNCTION 2.7 NW, AZ US","        43","N","        23","N","         0","N","  19.1"," ,N,0101, ","    267.5"," ,N"
+"US1AZPN0081","2023","33.432928","-111.578452","514.2","APACHE JUNCTION 2.7 NW, AZ US","        44","N","        16","N","         1","N","  25.9"," ,N,0102, ","    207.8"," ,N"
+"US1AZPN0081","2024","33.432928","-111.578452","514.2","APACHE JUNCTION 2.7 NW, AZ US","        39","N","        16","N","         1","N","  39.4"," ,N,0202, ","    201.1"," ,N"

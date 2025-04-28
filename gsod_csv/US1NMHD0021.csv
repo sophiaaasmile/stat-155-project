@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMHD0021","2018","32.113647","-108.894685","1288.7","COTTON CITY 1.9 NNW, NM US","        48","N","        22","N","         0","N","  20.1"," ,N,0903, ","    248.1"," ,N"
+"US1NMHD0021","2019","32.113647","-108.894685","1288.7","COTTON CITY 1.9 NNW, NM US","        54","N","        21","N","         1","N","  55.9"," ,N,1128, ","    285.4"," ,N"
+"US1NMHD0021","2020","32.113647","-108.894685","1288.7","COTTON CITY 1.9 NNW, NM US","        27","N","        12","N","         2","N","  36.8"," ,N,0910, ","    145.7"," ,N"
+"US1NMHD0021","2021","32.113647","-108.894685","1288.7","COTTON CITY 1.9 NNW, NM US","        51","N","        29","N","         0","N","  20.1"," ,N,0703, ","    238.7"," ,N"

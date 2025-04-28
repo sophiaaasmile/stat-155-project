@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00039302","1980","-24.0","151.2833","25.0","BENARABY, AS","        66","a","        41","a","         9","a","  72.0"," ,a,0225, ","    701.6"," ,a"
+"ASN00039302","1981","-24.0","151.2833","25.0","BENARABY, AS","        92","a","        53","a","         9","a","  97.8"," ,a,0102, ","   1061.6"," ,a"
+"ASN00039302","1982","-24.0","151.2833","25.0","BENARABY, AS","        70","a","        35","a","         5","a"," 102.8"," ,a,0225, ","    635.1"," ,a"

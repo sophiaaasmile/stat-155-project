@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"SWE00140444","2007","65.01","21.25","30.0","BYSKE VITSJON D, SW","       142","E","        78","E","         4","E","  38.0"," ,E,0917,+","    667.6"," ,E"
+"SWE00140444","2008","65.01","21.25","30.0","BYSKE VITSJON D, SW","       135","E","        72","E","         3","E","  71.5"," ,E,0818, ","    669.4"," ,E"
+"SWE00140444","2009","65.01","21.25","30.0","BYSKE VITSJON D, SW","       123","E","        68","E","         1","E","  26.9"," ,E,1122, ","    566.6"," ,E"
+"SWE00140444","2010","65.01","21.25","30.0","BYSKE VITSJON D, SW","       124","E","        58","E","         1","E","  30.0"," ,E,0127, ","    469.2"," ,E"

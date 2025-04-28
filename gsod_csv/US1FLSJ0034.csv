@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLSJ0034","2021","29.91976","-81.39013","10.4","ST. AUGUSTINE 5.1 WNW, FL US","       120","N","        88","N","        17","N","  54.9"," ,N,0615, ","   1368.0"," ,N"
+"US1FLSJ0034","2022","29.91976","-81.39013","10.4","ST. AUGUSTINE 5.1 WNW, FL US","       113","N","        86","N","        22","N"," 127.5"," ,N,0929, ","   1695.6"," ,N"
+"US1FLSJ0034","2023","29.91976","-81.39013","10.4","ST. AUGUSTINE 5.1 WNW, FL US","       113","N","        87","N","        25","N"," 138.4"," ,N,1217, ","   2085.5"," ,N"
+"US1FLSJ0034","2024","29.91976","-81.39013","10.4","ST. AUGUSTINE 5.1 WNW, FL US","       101","N","        83","N","        20","N"," 135.9"," ,N,1010, ","   1559.6"," ,N"

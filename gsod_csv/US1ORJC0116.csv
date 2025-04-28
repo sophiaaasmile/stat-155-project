@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ORJC0116","2022","42.27739","-122.82264","459.3","PHOENIX 0.4 WNW, OR US","        95","N","        52","N","         2","N","  46.5"," ,N,1227, ","    414.4"," ,N"
+"US1ORJC0116","2023","42.27739","-122.82264","459.3","PHOENIX 0.4 WNW, OR US","       118","N","        41","N","         0","N","  19.1"," ,N,0926, ","    361.6"," ,N"
+"US1ORJC0116","2024","42.27739","-122.82264","459.3","PHOENIX 0.4 WNW, OR US","       118","N","        56","N","         2","N","  37.6"," ,N,1229, ","    524.8"," ,N"

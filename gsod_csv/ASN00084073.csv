@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00084073","1963","-37.5667","149.75","12.2","MALLACOOTA POST OFFICE, AS","       131","a","        81","a","        14","a","  57.7"," ,a,0703, ","   1218.9"," ,a"
+"ASN00084073","1964","-37.5667","149.75","12.2","MALLACOOTA POST OFFICE, AS","       116","a","        74","a","         4","a","  55.9"," ,a,0825, ","    828.3"," ,a"
+"ASN00084073","1965","-37.5667","149.75","12.2","MALLACOOTA POST OFFICE, AS","        96","a","        58","a","         5","a"," 155.7"," ,a,1124, ","    816.9"," ,a"

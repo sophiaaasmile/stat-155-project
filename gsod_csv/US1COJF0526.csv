@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COJF0526","2021","39.5701","-105.0923","1726.1","LITTLETON 4.5 WSW, CO US","        64","N","        38","N","         3","N","  45.0"," ,N,0626, ","    426.4"," ,N"
+"US1COJF0526","2022","39.5701","-105.0923","1726.1","LITTLETON 4.5 WSW, CO US","        69","N","        47","N","         4","N","  48.3"," ,N,0521, ","    476.3"," ,N"
+"US1COJF0526","2023","39.5701","-105.0923","1726.1","LITTLETON 4.5 WSW, CO US","        73","N","        51","N","         3","N","  75.7"," ,N,0512, ","    622.4"," ,N"
+"US1COJF0526","2024","39.5701","-105.0923","1726.1","LITTLETON 4.5 WSW, CO US","        68","N","        35","N","         2","N","  38.9"," ,N,0314, ","    406.0"," ,N"

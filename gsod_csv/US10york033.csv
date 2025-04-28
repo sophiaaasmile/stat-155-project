@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10york033","2012","40.9234","-97.6173",,"YORK 4.0 NNW, NE US","        42","N","        34","N","         4","N","  33.3"," ,N,0528, ","    375.7"," ,N"
+"US10york033","2013","40.9234","-97.6173",,"YORK 4.0 NNW, NE US","        44","N","        40","N","         6","N","  47.0"," ,N,1014, ","    578.0"," ,N"

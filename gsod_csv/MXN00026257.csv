@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00026257","2003","30.0667","-109.0833","1449.9","COLONIA ARIBABI, MX","        49","m","        34","m","         3","m","  62.2"," ,m,0726, ","    386.3"," ,m"
+"MXN00026257","2007","30.0667","-109.0833","1449.9","COLONIA ARIBABI, MX","        57","m","        45","m","         5","m","  87.4"," ,m,0905, ","    768.0"," ,m"
+"MXN00026257","2009","30.0667","-109.0833","1449.9","COLONIA ARIBABI, MX","        64","m","        45","m","         4","m","  70.1"," ,m,1003, ","    620.8"," ,m"
+"MXN00026257","2010","30.0667","-109.0833","1449.9","COLONIA ARIBABI, MX","        50","m","        35","m","         6","m","  44.2"," ,m,0711, ","    584.8"," ,m"

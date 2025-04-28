@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCBC0129","2018","35.67764","-82.62631","629.4","WOODFIN 3.7 NW, NC US","       144","N","        95","N","        12","N","  59.2"," ,N,0716, ","   1246.8"," ,N"
+"US1NCBC0129","2021","35.67764","-82.62631","629.4","WOODFIN 3.7 NW, NC US","       119","N","        73","N","         6","N"," 106.7"," ,N,0818, ","   1056.1"," ,N"
+"US1NCBC0129","2023","35.67764","-82.62631","629.4","WOODFIN 3.7 NW, NC US","       117","N","        70","N","         2","N","  43.7"," ,N,0408, ","    836.6"," ,N"

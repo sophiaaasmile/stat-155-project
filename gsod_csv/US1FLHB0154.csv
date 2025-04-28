@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLHB0154","2021","27.9942","-82.269","15.5","SEFFNER 0.4 ESE, FL US","       112","N","        72","N","        16","N"," 106.2"," ,N,0707, ","   1271.4"," ,N"
+"US1FLHB0154","2022","27.9942","-82.269","15.5","SEFFNER 0.4 ESE, FL US","       115","N","        82","N","        21","N","  86.9"," ,N,0903, ","   1574.7"," ,N"
+"US1FLHB0154","2023","27.9942","-82.269","15.5","SEFFNER 0.4 ESE, FL US","       104","N","        69","N","        18","N","  72.4"," ,N,0819, ","   1313.6"," ,N"
+"US1FLHB0154","2024","27.9942","-82.269","15.5","SEFFNER 0.4 ESE, FL US","       118","N","        78","N","        17","N"," 238.0"," ,N,1010, ","   1712.4"," ,N"

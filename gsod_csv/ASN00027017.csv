@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00027017","1948","-10.25","142.4833",,"NAGHIR ISLAND, AS","       116","a","       115","a","        18","a"," 101.6"," ,a,0105, ","   1360.8"," ,a"
+"ASN00027017","1949","-10.25","142.4833",,"NAGHIR ISLAND, AS","        79","a","        79","a","         9","a"," 101.6"," ,a,0108, ","    969.1"," ,a"
+"ASN00027017","1955","-10.25","142.4833",,"NAGHIR ISLAND, AS","       124","a","        86","a","        36","a"," 111.5"," ,a,0322, ","   2305.0"," ,a"
+"ASN00027017","1956","-10.25","142.4833",,"NAGHIR ISLAND, AS","       128","a","       116","a","        44","a"," 135.9"," ,a,0208, ","   2825.4"," ,a"

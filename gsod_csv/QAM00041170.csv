@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"QAM00041170","1984","25.261","51.565","10.7","DOHA INTERNATIONAL, QA","         0","S","       331","S","       189","S","   46.7","S,0705, ","     32.77","S"
+"QAM00041170","1985","25.261","51.565","10.7","DOHA INTERNATIONAL, QA","         0","S","       338","S","       198","S","   46.6","S,0714, ","     33.30","S"
+"QAM00041170","1986","25.261","51.565","10.7","DOHA INTERNATIONAL, QA","         0","S","       326","S","       190","S","   47.7","S,0527, ","     32.79","S"
+"QAM00041170","1995","25.261","51.565","10.7","DOHA INTERNATIONAL, QA","         0","S","       331","S","       192","S","   47.1","S,0814, ","     32.32","S"
+"QAM00041170","1996","25.261","51.565","10.7","DOHA INTERNATIONAL, QA","         0","S","       321","S","       185","S","   48.0","S,0713, ","     32.91","S"

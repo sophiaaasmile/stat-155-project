@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCBR0012","2012","34.107263","-78.055882","10.1","WINNABOW 3.6 SE, NC US","","","","","","","","","   1346.1"," ,N"
+"US1NCBR0012","2013","34.107263","-78.055882","10.1","WINNABOW 3.6 SE, NC US","       117","N","        83","N","        16","N"," 132.1"," ,N,0607, ","   1413.1"," ,N"
+"US1NCBR0012","2014","34.107263","-78.055882","10.1","WINNABOW 3.6 SE, NC US","       124","N","        87","N","        21","N"," 128.3"," ,N,0810, ","   1841.6"," ,N"
+"US1NCBR0012","2015","34.107263","-78.055882","10.1","WINNABOW 3.6 SE, NC US","       129","N","        88","N","        20","N"," 125.2"," ,N,1005, ","   1657.2"," ,N"

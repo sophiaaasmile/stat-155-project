@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00002140","1983","32.6","-115.5167","7.9","COLONIA ZARAGOZA, MX","         2","m","         2","m","         0","m","  21.8"," ,m,0302, ","     28.7"," ,m"
+"MXN00002140","1984","32.6","-115.5167","7.9","COLONIA ZARAGOZA, MX","        10","m","         7","m","         0","m","  13.0"," ,m,1124, ","     51.4"," ,m"
+"MXN00002140","1985","32.6","-115.5167","7.9","COLONIA ZARAGOZA, MX","        13","m","         6","m","         0","m","  11.9"," ,m,1211, ","     47.2"," ,m"
+"MXN00002140","1986","32.6","-115.5167","7.9","COLONIA ZARAGOZA, MX","         1","m","         0","m","         0","m","   0.8"," ,m,0922, ","      0.8"," ,m"
+"MXN00002140","2001","32.6","-115.5167","7.9","COLONIA ZARAGOZA, MX","        29","m","        23","m","         0","m","  23.9"," ,m,0111, ","    261.8"," ,m"

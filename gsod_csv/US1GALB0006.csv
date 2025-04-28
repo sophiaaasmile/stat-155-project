@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GALB0006","2018","31.834687","-81.374854","2.7","MIDWAY 3.8 NE, GA US","       176","N","        84","N","        13","N","  81.5"," ,N,0708, ","   1370.3"," ,N"
+"US1GALB0006","2022","31.834687","-81.374854","2.7","MIDWAY 3.8 NE, GA US","       135","N","        77","N","        13","N","  74.4"," ,N,0822, ","   1225.8"," ,N"
+"US1GALB0006","2024","31.834687","-81.374854","2.7","MIDWAY 3.8 NE, GA US","       134","N","        69","N","        20","N"," 131.3"," ,N,0806, ","   1530.0"," ,N"

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00026213","1980","28.15","-109.9","109.7","CUMURIPA, MX","        23","m","        18","m","         4","m","  64.3"," ,m,0811, ","    376.9"," ,m"
+"MXN00026213","1983","28.15","-109.9","109.7","CUMURIPA, MX","        34","m","        32","m","        12","m","  67.3"," ,m,0906, ","    683.5"," ,m"

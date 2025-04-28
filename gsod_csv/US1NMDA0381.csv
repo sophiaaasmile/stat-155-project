@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMDA0381","2021","31.8823","-106.6561","1167.4","SUNLAND PARK 7.4 NW, NM US","        48","N","        24","N","         3","N","  68.3"," ,N,0814, ","    405.6"," ,N"
+"US1NMDA0381","2022","31.8823","-106.6561","1167.4","SUNLAND PARK 7.4 NW, NM US","        57","N","        31","N","         0","N","  19.8"," ,N,0622, ","    277.1"," ,N"
+"US1NMDA0381","2024","31.8823","-106.6561","1167.4","SUNLAND PARK 7.4 NW, NM US","        29","N","         9","N","         0","N","  24.1"," ,N,0903, ","    105.2"," ,N"

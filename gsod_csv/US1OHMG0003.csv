@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OHMG0003","2021","39.55292","-82.00011","289.0","GLOUSTER 5.7 NE, OH US","       156","N","        86","N","         9","N","  86.6"," ,N,0818, ","   1094.4"," ,N"
+"US1OHMG0003","2022","39.55292","-82.00011","289.0","GLOUSTER 5.7 NE, OH US","       156","N","        86","N","        11","N","  52.1"," ,N,0614, ","   1161.3"," ,N"
+"US1OHMG0003","2024","39.55292","-82.00011","289.0","GLOUSTER 5.7 NE, OH US","       156","N","        84","N","         5","N","  43.2"," ,N,0403, ","    946.8"," ,N"

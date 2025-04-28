@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00020057","1992","-32.5409","140.0344","450.0","MANNA HILL BENDA, AS","        56","a","        42","a","         4","a","  45.0"," ,a,0924, ","    439.4"," ,a"
+"ASN00020057","1993","-32.5409","140.0344","450.0","MANNA HILL BENDA, AS","        46","a","        32","a","         5","a","  33.4"," ,a,0930, ","    380.1"," ,a"
+"ASN00020057","1998","-32.5409","140.0344","450.0","MANNA HILL BENDA, AS","        58","a","        28","a","         0","a","  20.0"," ,a,0630, ","    264.2"," ,a"

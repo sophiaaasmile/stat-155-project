@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003026484","1982","51.7167","-113.2333","853.0","THREE HILLS EAST, AB CA","       101","C","        45","C","         1","C","        17","C","    90"," ,C,0301, ","  25.6"," ,C,0702, ","    396.6"," ,C","     1084"," ,C"
+"CA003026484","1983","51.7167","-113.2333","853.0","THREE HILLS EAST, AB CA","        95","C","        34","C","         0","C","         7","C","    50"," ,C,0320, ","  24.0"," ,C,0424, ","    302.1"," ,C","      575"," ,C"
+"CA003026484","1984","51.7167","-113.2333","853.0","THREE HILLS EAST, AB CA","","","","","","","        14","C","   100"," ,C,0107, ","","","","","      941"," ,C"
+"CA003026484","1987","51.7167","-113.2333","853.0","THREE HILLS EAST, AB CA","","","","","","","         6","C","   120"," ,C,0306, ","","","","","      656"," ,C"

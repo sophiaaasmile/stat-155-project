@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COWA0080","2019","40.156383","-103.068424","1352.7","OTIS 5.7 W, CO US","        78","N","        34","N","         1","N","         9","N","   178"," ,N,1126, ","  26.9"," ,N,0802, ","    310.9"," ,N","      800"," ,N"
+"US1COWA0080","2021","40.156383","-103.068424","1352.7","OTIS 5.7 W, CO US","        64","N","        27","N","         3","N","         5","N","   155"," ,N,0416, ","  95.5"," ,N,0428, ","    409.2"," ,N","      449"," ,N"
+"US1COWA0080","2022","40.156383","-103.068424","1352.7","OTIS 5.7 W, CO US","        66","N","        27","N","         2","N","        14","N","   582"," ,N,1214, ","  36.3"," ,N,0728, ","    279.5"," ,N","     1306"," ,N"

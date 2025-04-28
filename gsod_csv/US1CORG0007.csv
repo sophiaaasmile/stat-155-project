@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CORG0007","2006","37.5216","-106.1613","2347.0","MONTE VISTA 4.1 S, CO US","        72","N","        33","N","         0","N","         8","N","   114"," ,N,1229, ","  22.9"," ,N,0429, ","    273.3"," ,N","      728"," ,N"
+"US1CORG0007","2007","37.5216","-106.1613","2347.0","MONTE VISTA 4.1 S, CO US","        91","N","        34","N","         1","N","        12","N","   140"," ,N,0201, ","  39.9"," ,N,0807, ","    293.3"," ,N","      841"," ,N"
+"US1CORG0007","2008","37.5216","-106.1613","2347.0","MONTE VISTA 4.1 S, CO US","        78","N","        24","N","         0","N","        14","N","   152"," ,N,0303,+","  23.4"," ,N,0825, ","    240.1"," ,N","     1064"," ,N"

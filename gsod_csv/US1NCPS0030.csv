@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCPS0030","2020","36.3032","-76.2334","1.8","ELIZABETH CITY 0.8 NW, NC US","       118","N","        92","N","        21","N"," 118.4"," ,N,0207, ","   1570.1"," ,N"
+"US1NCPS0030","2021","36.3032","-76.2334","1.8","ELIZABETH CITY 0.8 NW, NC US","","","","","","","","","   1393.0"," ,N"
+"US1NCPS0030","2022","36.3032","-76.2334","1.8","ELIZABETH CITY 0.8 NW, NC US","        95","N","        63","N","        11","N","  87.9"," ,N,1001, ","   1093.5"," ,N"
+"US1NCPS0030","2024","36.3032","-76.2334","1.8","ELIZABETH CITY 0.8 NW, NC US","        95","N","        65","N","        14","N"," 100.6"," ,N,0701, ","   1118.6"," ,N"

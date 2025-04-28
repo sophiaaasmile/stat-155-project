@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN005091300","1966","22.45","70.083","20.0","JAMNAGAR, IN","        22","I","        12","I","         2","I","  50.4"," ,I,0907, ","    236.7"," ,I"
+"IN005091300","1967","22.45","70.083","20.0","JAMNAGAR, IN","        49","I","        33","I","        10","I"," 102.2"," ,I,0703, ","    690.6"," ,I"
+"IN005091300","1968","22.45","70.083","20.0","JAMNAGAR, IN","        22","I","        13","I","         4","I"," 146.0"," ,I,0807, ","    382.5"," ,I"

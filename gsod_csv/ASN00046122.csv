@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00046122","1891","-31.05","143.2833","88.0","WILCANNIA BEEFWOOD WELL, AS","        42","a","        33","a","         3","a","  35.6"," ,a,0531, ","    347.2"," ,a"
+"ASN00046122","1895","-31.05","143.2833","88.0","WILCANNIA BEEFWOOD WELL, AS","        22","a","        19","a","         4","a","  76.2"," ,a,0217, ","    343.6"," ,a"
+"ASN00046122","1896","-31.05","143.2833","88.0","WILCANNIA BEEFWOOD WELL, AS","        21","a","        16","a","         2","a","  53.3"," ,a,1015, ","    209.6"," ,a"
+"ASN00046122","1897","-31.05","143.2833","88.0","WILCANNIA BEEFWOOD WELL, AS","        22","a","        16","a","         1","a","  25.4"," ,a,0624, ","    181.3"," ,a"
+"ASN00046122","1899","-31.05","143.2833","88.0","WILCANNIA BEEFWOOD WELL, AS","        16","a","        14","a","         1","a","  25.4"," ,a,0118, ","    132.9"," ,a"

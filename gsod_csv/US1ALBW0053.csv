@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALBW0053","2009","30.3718","-87.6195","2.1","ELBERTA 3.1 SSW, AL US","","","","","","","","","   1971.6"," ,N"
+"US1ALBW0053","2013","30.3718","-87.6195","2.1","ELBERTA 3.1 SSW, AL US","","","","","","","","","   1902.1"," ,N"
+"US1ALBW0053","2016","30.3718","-87.6195","2.1","ELBERTA 3.1 SSW, AL US","       124","N","        79","N","        17","N"," 146.3"," ,N,0917, ","   1693.7"," ,N"
+"US1ALBW0053","2019","30.3718","-87.6195","2.1","ELBERTA 3.1 SSW, AL US","       140","N","        77","N","        19","N","  70.4"," ,N,0606, ","   1341.7"," ,N"

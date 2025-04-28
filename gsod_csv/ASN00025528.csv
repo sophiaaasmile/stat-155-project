@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00025528","1958","-36.0833","140.85",,"BORDERTOWN KOOROON, AS","       126","a","        55","a","         0","a","  16.8"," ,a,0911, ","    418.6"," ,a"
+"ASN00025528","1959","-36.0833","140.85",,"BORDERTOWN KOOROON, AS","        82","a","        35","a","         1","a","  35.6"," ,a,0331, ","    294.6"," ,a"
+"ASN00025528","1960","-36.0833","140.85",,"BORDERTOWN KOOROON, AS","       103","a","        57","a","         3","a","  27.4"," ,a,0214, ","    537.7"," ,a"
+"ASN00025528","1962","-36.0833","140.85",,"BORDERTOWN KOOROON, AS","       110","a","        56","a","         1","a","  32.0"," ,a,0915, ","    444.7"," ,a"
+"ASN00025528","1963","-36.0833","140.85",,"BORDERTOWN KOOROON, AS","       107","a","        55","a","         2","a","  42.7"," ,a,0113, ","    413.1"," ,a"

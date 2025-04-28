@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FIE00142701","1970","61.4667","23.8","100.0","TAMPERE KOIVISTONKYLA, FI","       161","E","        77","E","         0","E","  21.4"," ,E,0917, ","    532.6"," ,E"
+"FIE00142701","1971","61.4667","23.8","100.0","TAMPERE KOIVISTONKYLA, FI","       148","E","        56","E","         0","E","  14.0"," ,E,1221, ","    408.3"," ,E"
+"FIE00142701","1972","61.4667","23.8","100.0","TAMPERE KOIVISTONKYLA, FI","       139","E","        60","E","         2","E","  39.2"," ,E,0822, ","    547.4"," ,E"
+"FIE00142701","1973","61.4667","23.8","100.0","TAMPERE KOIVISTONKYLA, FI","       153","E","        63","E","         0","E","  25.3"," ,E,0723, ","    479.4"," ,E"

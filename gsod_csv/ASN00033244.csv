@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00033244","1935","-19.4","146.5",,"HERVEYS RANGE, AS","        68","a","        36","a","         6","a","  77.2"," ,a,0630, ","    549.3"," ,a"
+"ASN00033244","1936","-19.4","146.5",,"HERVEYS RANGE, AS","       109","a","        70","a","        15","a"," 151.1"," ,a,0312, ","   1704.2"," ,a"
+"ASN00033244","1937","-19.4","146.5",,"HERVEYS RANGE, AS","        52","a","        38","a","        11","a"," 174.8"," ,a,0313, ","    969.1"," ,a"
+"ASN00033244","1938","-19.4","146.5",,"HERVEYS RANGE, AS","        71","a","        55","a","        14","a"," 109.2"," ,a,0125, ","   1124.2"," ,a"

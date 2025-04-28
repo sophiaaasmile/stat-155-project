@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006088271","1967","47.0833","-79.85","351.0","TIMAGAMI, ON CA","","","","","","","        27","C","   305"," ,C,0127, ","","","    915.5"," ,C","     2523"," ,C"
+"CA006088271","1969","47.0833","-79.85","351.0","TIMAGAMI, ON CA","","","","","","","","","","","","","    804.2"," ,C","     1514"," ,C"
+"CA006088271","1970","47.0833","-79.85","351.0","TIMAGAMI, ON CA","       109","C","        81","C","         6","C","        28","C","   211"," ,C,0326, ","  87.6"," ,C,0531, ","    915.3"," ,C","     1866"," ,C"

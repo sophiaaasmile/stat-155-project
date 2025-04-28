@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN001011400","1963","19.08","78.9","200.0","INDANAPALLI, IN","        74","I","        65","I","        13","I"," 124.0"," ,I,0816, ","   1115.8"," ,I"
+"IN001011400","1964","19.08","78.9","200.0","INDANAPALLI, IN","        83","I","        67","I","        11","I","  66.0"," ,I,0820, ","    908.7"," ,I"
+"IN001011400","1969","19.08","78.9","200.0","INDANAPALLI, IN","        71","I","        63","I","        12","I"," 142.2"," ,I,1109, ","   1317.6"," ,I"

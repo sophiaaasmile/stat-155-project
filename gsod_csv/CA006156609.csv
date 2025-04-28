@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006156609","1883","43.5667","-79.6167","99.0","PORT CREDIT, ON CA","        65","C","        58","C","         5","C","        17","C","   203"," ,C,0203,+","  52.1"," ,C,0818, ","    742.6"," ,C","     1714"," ,C"
+"CA006156609","1952","43.5667","-79.6167","99.0","PORT CREDIT, ON CA","        87","C","        51","C","         5","C","         7","C","   152"," ,C,0208, ","  37.8"," ,C,1121, ","    656.9"," ,C","      726"," ,C"
+"CA006156609","1953","43.5667","-79.6167","99.0","PORT CREDIT, ON CA","","","","","","","         7","C","   152"," ,C,1107, ","","","    722.8"," ,C","      701"," ,C"
+"CA006156609","1955","43.5667","-79.6167","99.0","PORT CREDIT, ON CA","","","","","","","        16","C","   203"," ,C,1222, ","","","","","     1174"," ,C"

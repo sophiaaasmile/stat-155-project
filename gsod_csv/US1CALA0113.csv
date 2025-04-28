@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CALA0113","2022","34.18622","-118.55766","234.7","HIDDEN HILLS 6.0 ENE, CA US","        23","N","        13","N","         1","N","  27.7"," ,N,1211, ","    130.8"," ,N"
+"US1CALA0113","2023","34.18622","-118.55766","234.7","HIDDEN HILLS 6.0 ENE, CA US","        54","N","        34","N","        11","N"," 178.3"," ,N,0225, ","    916.5"," ,N"
+"US1CALA0113","2024","34.18622","-118.55766","234.7","HIDDEN HILLS 6.0 ENE, CA US","        35","N","        24","N","         3","N","  39.4"," ,N,0206, ","    319.0"," ,N"

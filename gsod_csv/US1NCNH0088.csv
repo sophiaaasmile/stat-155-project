@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCNH0088","2021","34.303739","-77.87955","11.3","WRIGHTSBORO 2.9 ENE, NC US","       136","N","        86","N","        23","N"," 100.3"," ,N,0922, ","   1741.2"," ,N"
+"US1NCNH0088","2022","34.303739","-77.87955","11.3","WRIGHTSBORO 2.9 ENE, NC US","       112","N","        74","N","        16","N","  73.2"," ,N,0820, ","   1227.4"," ,N"
+"US1NCNH0088","2023","34.303739","-77.87955","11.3","WRIGHTSBORO 2.9 ENE, NC US","       119","N","        81","N","        16","N"," 154.9"," ,N,0831, ","   1577.0"," ,N"
+"US1NCNH0088","2024","34.303739","-77.87955","11.3","WRIGHTSBORO 2.9 ENE, NC US","       118","N","        72","N","        16","N"," 141.5"," ,N,0808, ","   1540.7"," ,N"

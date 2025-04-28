@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA005022504","1965","49.9833","-97.25","236.0","ROSSER, MB CA","        81","C","        55","C","         1","C","        17","C","   127"," ,C,1115, ","  27.9"," ,C,0701, ","    504.9"," ,C","     1359"," ,C"
+"CA005022504","1966","49.9833","-97.25","236.0","ROSSER, MB CA","        52","C","        34","C","         1","C","         8","C","   178"," ,C,0427, ","  30.7"," ,C,0830, ","    375.9"," ,C","     1179"," ,C"
+"CA005022504","1967","49.9833","-97.25","236.0","ROSSER, MB CA","        72","C","        45","C","         3","C","        17","C","   152"," ,C,0501, ","  53.3"," ,C,0707, ","    457.3"," ,C","     1188"," ,C"

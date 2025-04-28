@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"SWE00138426","1979","58.27","16.0797","80.0","BATVIK, SW","       155","E","        61","E","         1","E","  32.3"," ,E,0730, ","    545.0"," ,E"
+"SWE00138426","1980","58.27","16.0797","80.0","BATVIK, SW","       164","E","        68","E","         1","E","  33.7"," ,E,0716, ","    568.5"," ,E"
+"SWE00138426","1981","58.27","16.0797","80.0","BATVIK, SW","       144","E","        68","E","         1","E","  26.0"," ,E,0630, ","    587.1"," ,E"

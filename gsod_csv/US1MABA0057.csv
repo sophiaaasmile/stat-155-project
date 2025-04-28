@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MABA0057","2018","41.628365","-70.623234","4.6","FALMOUTH 5.7 N, MA US","","","","","","","","","","","","","   1454.2"," ,N","",""
+"US1MABA0057","2020","41.628365","-70.623234","4.6","FALMOUTH 5.7 N, MA US","","","","","","","","","","","","","   1002.5"," ,N","",""
+"US1MABA0057","2023","41.628365","-70.623234","4.6","FALMOUTH 5.7 N, MA US","       148","N","        89","N","        12","N","         2","N","    74"," ,N,0228, ","  95.5"," ,N,0809, ","   1332.7"," ,N","      196"," ,N"

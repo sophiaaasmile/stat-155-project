@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00091178","1966","-40.9","145.0167",,"CHRISTMAS HILLS, AS","       187","a","       118","a","         7","a","  50.0"," ,a,1020, ","   1207.6"," ,a"
+"ASN00091178","1967","-40.9","145.0167",,"CHRISTMAS HILLS, AS","       193","a","        96","a","         2","a","  35.6"," ,a,0113, ","    977.0"," ,a"
+"ASN00091178","1968","-40.9","145.0167",,"CHRISTMAS HILLS, AS","       254","a","       168","a","         4","a","  47.8"," ,a,0518, ","   1588.7"," ,a"
+"ASN00091178","1969","-40.9","145.0167",,"CHRISTMAS HILLS, AS","       212","a","       124","a","         7","a","  99.3"," ,a,0222, ","   1344.7"," ,a"

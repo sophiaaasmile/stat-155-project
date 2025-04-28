@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMOT0072","2014","33.00536","-105.8532","1850.1","BURRO FLATS 1.0 ENE, NM US","        73","N","        41","N","         3","N","  36.6"," ,N,0905, ","    471.5"," ,N"
+"US1NMOT0072","2015","33.00536","-105.8532","1850.1","BURRO FLATS 1.0 ENE, NM US","       107","N","        50","N","         2","N","  34.0"," ,N,0627, ","    511.7"," ,N"
+"US1NMOT0072","2016","33.00536","-105.8532","1850.1","BURRO FLATS 1.0 ENE, NM US","        81","N","        37","N","         2","N","  35.6"," ,N,0907, ","    408.1"," ,N"
+"US1NMOT0072","2017","33.00536","-105.8532","1850.1","BURRO FLATS 1.0 ENE, NM US","        75","N","        38","N","         5","N","  42.7"," ,N,0626, ","    513.7"," ,N"

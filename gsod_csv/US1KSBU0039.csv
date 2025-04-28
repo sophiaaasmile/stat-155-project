@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSBU0039","2022","37.486506","-96.881203","391.4","DOUGLASS 7.5 ESE, KS US","        75","N","        42","N","         6","N","  74.9"," ,N,0505, ","    667.4"," ,N"
+"US1KSBU0039","2023","37.486506","-96.881203","391.4","DOUGLASS 7.5 ESE, KS US","        82","N","        49","N","         4","N","  49.0"," ,N,1025, ","    658.9"," ,N"
+"US1KSBU0039","2024","37.486506","-96.881203","391.4","DOUGLASS 7.5 ESE, KS US","        91","N","        57","N","         7","N","  72.4"," ,N,0428, ","    754.3"," ,N"

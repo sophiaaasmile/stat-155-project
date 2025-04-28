@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLPS0072","2021","28.228266","-82.387575","23.2","LAND O LAKES 4.1 E, FL US","       133","N","        86","N","        23","N","  93.7"," ,N,1106, ","   1633.3"," ,N"
+"US1FLPS0072","2022","28.228266","-82.387575","23.2","LAND O LAKES 4.1 E, FL US","       130","N","        73","N","        19","N","  52.8"," ,N,0709, ","   1470.0"," ,N"
+"US1FLPS0072","2023","28.228266","-82.387575","23.2","LAND O LAKES 4.1 E, FL US","       124","N","        70","N","        15","N","  61.0"," ,N,1217, ","   1177.0"," ,N"

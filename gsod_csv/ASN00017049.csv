@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00017049","2008","-30.4291","138.9808","780.0","GAMMON RANGES ARCOONA BLUFF, AS","        44","a","        14","a","         2","a","  39.0"," ,a,1119, ","    194.0"," ,a"
+"ASN00017049","2009","-30.4291","138.9808","780.0","GAMMON RANGES ARCOONA BLUFF, AS","        39","a","        16","a","         3","a","  41.8"," ,a,0424, ","    245.4"," ,a"
+"ASN00017049","2010","-30.4291","138.9808","780.0","GAMMON RANGES ARCOONA BLUFF, AS","        57","a","        34","a","         4","a","  58.2"," ,a,1113, ","    519.0"," ,a"

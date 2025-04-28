@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CAMD0022","2017","39.814","-123.5343","633.4","LAYTONVILLE 9.8 NNW, CA US","","","","","","","","","   1969.9"," ,N"
+"US1CAMD0022","2019","39.814","-123.5343","633.4","LAYTONVILLE 9.8 NNW, CA US","        92","N","        79","N","        25","N","  94.2"," ,N,0227, ","   1843.1"," ,N"
+"US1CAMD0022","2020","39.814","-123.5343","633.4","LAYTONVILLE 9.8 NNW, CA US","        75","N","        60","N","         9","N","  50.8"," ,N,1217, ","    786.6"," ,N"
+"US1CAMD0022","2021","39.814","-123.5343","633.4","LAYTONVILLE 9.8 NNW, CA US","        71","N","        58","N","        12","N"," 114.8"," ,N,1024, ","   1296.7"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COWE0528","2019","40.593783","-104.911479","1579.5","FORT COLLINS 8.7 ENE, CO US","        63","N","        32","N","         1","N","  45.2"," ,N,1126, ","    278.8"," ,N"
+"US1COWE0528","2020","40.593783","-104.911479","1579.5","FORT COLLINS 8.7 ENE, CO US","        58","N","        22","N","         0","N","  24.9"," ,N,0609, ","    179.0"," ,N"
+"US1COWE0528","2022","40.593783","-104.911479","1579.5","FORT COLLINS 8.7 ENE, CO US","        61","N","        27","N","         1","N","  29.5"," ,N,0728, ","    234.1"," ,N"
+"US1COWE0528","2023","40.593783","-104.911479","1579.5","FORT COLLINS 8.7 ENE, CO US","        79","N","        36","N","         2","N","  32.8"," ,N,0612, ","    404.1"," ,N"

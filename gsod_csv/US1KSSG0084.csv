@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSSG0084","2022","37.825741","-97.311867","416.4","PARK CITY 2.1 NNE, KS US","        68","N","        41","N","         9","N","  82.8"," ,N,0505, ","    763.7"," ,N"
+"US1KSSG0084","2023","37.825741","-97.311867","416.4","PARK CITY 2.1 NNE, KS US","        74","N","        43","N","         4","N","  42.4"," ,N,0912, ","    527.0"," ,N"
+"US1KSSG0084","2024","37.825741","-97.311867","416.4","PARK CITY 2.1 NNE, KS US","        77","N","        45","N","         6","N","  56.6"," ,N,1102, ","    673.7"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00036122","2004","-21.9583","146.0917","260.0","CARMICHAEL, AS","        32","a","        22","a","         8","a"," 115.4"," ,a,0115, ","    556.2"," ,a"
+"ASN00036122","2005","-21.9583","146.0917","260.0","CARMICHAEL, AS","        24","a","        20","a","         5","a","  67.0"," ,a,0210, ","    369.2"," ,a"
+"ASN00036122","2006","-21.9583","146.0917","260.0","CARMICHAEL, AS","        40","a","        31","a","         5","a","  91.0"," ,a,0308, ","    462.4"," ,a"

@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FIE00144932","1965","62.6667","29.1","95.0","LIPERI AHONKYLA KULMALA, FI","       178","E","        74","E","         1","E","  27.7"," ,E,0911, ","    566.5"," ,E"
+"FIE00144932","1966","62.6667","29.1","95.0","LIPERI AHONKYLA KULMALA, FI","       185","E","        81","E","         3","E","  53.1"," ,E,0808, ","    746.8"," ,E"
+"FIE00144932","1967","62.6667","29.1","95.0","LIPERI AHONKYLA KULMALA, FI","       189","E","        85","E","         0","E","  23.0"," ,E,0623, ","    661.1"," ,E"
+"FIE00144932","1969","62.6667","29.1","95.0","LIPERI AHONKYLA KULMALA, FI","       175","E","        70","E","         2","E","  30.8"," ,E,0822, ","    613.1"," ,E"
+"FIE00144932","1970","62.6667","29.1","95.0","LIPERI AHONKYLA KULMALA, FI","       177","E","        78","E","         2","E","  34.9"," ,E,0808, ","    654.5"," ,E"
+"FIE00144932","1971","62.6667","29.1","95.0","LIPERI AHONKYLA KULMALA, FI","       178","E","        71","E","         1","E","  26.1"," ,E,1116, ","    576.6"," ,E"
+"FIE00144932","1972","62.6667","29.1","95.0","LIPERI AHONKYLA KULMALA, FI","       149","E","        59","E","         1","E","  30.6"," ,E,0812, ","    464.2"," ,E"

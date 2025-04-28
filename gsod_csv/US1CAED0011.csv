@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CAED0011","2014","38.75704","-120.57751","1187.2","POLLOCK PINES 0.5 NW, CA US","        76","N","        58","N","        18","N"," 164.3"," ,N,0209, ","   1315.1"," ,N"
+"US1CAED0011","2015","38.75704","-120.57751","1187.2","POLLOCK PINES 0.5 NW, CA US","        56","N","        35","N","        10","N"," 142.0"," ,N,1222, ","    890.2"," ,N"
+"US1CAED0011","2017","38.75704","-120.57751","1187.2","POLLOCK PINES 0.5 NW, CA US","        92","N","        72","N","        24","N"," 120.9"," ,N,0210, ","   2079.1"," ,N"
+"US1CAED0011","2018","38.75704","-120.57751","1187.2","POLLOCK PINES 0.5 NW, CA US","        67","N","        40","N","        13","N","  82.6"," ,N,0322, ","    909.1"," ,N"

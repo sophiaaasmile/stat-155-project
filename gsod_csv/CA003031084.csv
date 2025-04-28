@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003031084","1962","51.1","-114.15","1113.0","CALGARY BELLEVIEW, AB CA","        80","C","        43","C","         1","C","        13","C","    64"," ,C,0406, ","  25.4"," ,C,0519, ","    309.9"," ,C","      691"," ,C"
+"CA003031084","1963","51.1","-114.15","1113.0","CALGARY BELLEVIEW, AB CA","        73","C","        41","C","         5","C","        18","C","   178"," ,C,0502, ","  44.5"," ,C,0621, ","    431.9"," ,C","     1222"," ,C"
+"CA003031084","1964","51.1","-114.15","1113.0","CALGARY BELLEVIEW, AB CA","        84","C","        49","C","         1","C","        19","C","    76"," ,C,1102,+","  25.7"," ,C,0620, ","    361.8"," ,C","      958"," ,C"
+"CA003031084","1965","51.1","-114.15","1113.0","CALGARY BELLEVIEW, AB CA","       100","C","        58","C","         5","C","        17","C","   147"," ,C,0925, ","  40.9"," ,C,0625, ","    581.7"," ,C","     1276"," ,C"

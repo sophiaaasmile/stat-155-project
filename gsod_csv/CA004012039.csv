@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004012039","1966","51.65","-104.4667","564.0","DAFOE, SK CA","        62","C","        39","C","         2","C","        16","C","   152"," ,C,1116,+","  30.5"," ,C,0624,+","    357.2"," ,C","      906"," ,C"
+"CA004012039","1967","51.65","-104.4667","564.0","DAFOE, SK CA","        70","C","        50","C","         0","C","        28","C","   229"," ,C,0330, ","  22.9"," ,C,0330, ","    330.1"," ,C","     1623"," ,C"
+"CA004012039","1968","51.65","-104.4667","564.0","DAFOE, SK CA","        67","C","        46","C","         1","C","        11","C","   102"," ,C,0329, ","  26.4"," ,C,0720, ","    350.7"," ,C","      623"," ,C"

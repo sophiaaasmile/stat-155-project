@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"IV000065585","1986","5.3","-3.3","39.0","ADIAKE, IV","         0","I","       320","I","        79","I","   34.5","I,0122, ","     30.17","I"
+"IV000065585","2013","5.3","-3.3","39.0","ADIAKE, IV","         0","S","       333","S","       137","S","   36.2","S,0607, ","     30.94","S"

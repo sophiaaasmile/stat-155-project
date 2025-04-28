@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00094123","1967","-42.8333","147.25","52.0","ROSETTA, AS","       111","a","        47","a","         2","a","  61.0"," ,a,0711, ","    512.3"," ,a"
+"ASN00094123","1968","-42.8333","147.25","52.0","ROSETTA, AS","       161","a","        74","a","         2","a","  33.5"," ,a,0322, ","    668.3"," ,a"
+"ASN00094123","1969","-42.8333","147.25","52.0","ROSETTA, AS","       131","a","        68","a","         5","a","  56.9"," ,a,0222, ","    733.4"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INMD0029","2021","40.120178","-85.666977","266.1","ANDERSON 2.2 NNE, IN US","       143","N","        85","N","        13","N","  66.5"," ,N,0830, ","   1171.2"," ,N"
+"US1INMD0029","2022","40.120178","-85.666977","266.1","ANDERSON 2.2 NNE, IN US","       133","N","        65","N","         7","N"," 147.6"," ,N,0718, ","    983.0"," ,N"
+"US1INMD0029","2023","40.120178","-85.666977","266.1","ANDERSON 2.2 NNE, IN US","       131","N","        74","N","         4","N","  49.5"," ,N,0810, ","    823.7"," ,N"
+"US1INMD0029","2024","40.120178","-85.666977","266.1","ANDERSON 2.2 NNE, IN US","       146","N","        86","N","         9","N","  51.1"," ,N,0402, ","   1110.9"," ,N"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056216","1955","-28.9667","151.55","390.0","MOLE RIVER DARTHULA, AS","        54","a","        45","a","         5","a","  57.4"," ,a,0106, ","    555.1"," ,a"
+"ASN00056216","1956","-28.9667","151.55","390.0","MOLE RIVER DARTHULA, AS","        59","a","        58","a","         8","a"," 229.9"," ,a,0121, ","   1050.4"," ,a"
+"ASN00056216","1957","-28.9667","151.55","390.0","MOLE RIVER DARTHULA, AS","        37","a","        33","a","         3","a","  56.6"," ,a,0107, ","    416.0"," ,a"
+"ASN00056216","1958","-28.9667","151.55","390.0","MOLE RIVER DARTHULA, AS","        62","a","        57","a","        10","a","  52.1"," ,a,0221, ","    785.3"," ,a"
+"ASN00056216","1960","-28.9667","151.55","390.0","MOLE RIVER DARTHULA, AS","        48","a","        42","a","         2","a","  49.8"," ,a,0513, ","    464.5"," ,a"

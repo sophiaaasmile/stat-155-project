@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10cher026","2009","42.4186","-101.557","1075.0","WHITMAN 26.0 N, NE US","        81","N","        60","N","         4","N","  68.6"," ,N,0405, ","    645.7"," ,N"
+"US10cher026","2010","42.4186","-101.557","1075.0","WHITMAN 26.0 N, NE US","        70","N","        54","N","         3","N","  82.6"," ,N,0610, ","    578.1"," ,N"
+"US10cher026","2011","42.4186","-101.557","1075.0","WHITMAN 26.0 N, NE US","        62","N","        48","N","         6","N","  90.2"," ,N,0712, ","    617.0"," ,N"
+"US10cher026","2014","42.4186","-101.557","1075.0","WHITMAN 26.0 N, NE US","        31","N","        31","N","         5","N","  82.6"," ,N,0609, ","    526.9"," ,N"

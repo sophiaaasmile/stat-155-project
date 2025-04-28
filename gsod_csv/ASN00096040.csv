@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00096040","1925","-42.0","146.7",,"MIENA STONE HUT, AS","        76","a","        46","a","         1","a","  35.6"," ,a,0221, ","    459.5"," ,a"
+"ASN00096040","1926","-42.0","146.7",,"MIENA STONE HUT, AS","       104","a","        73","a","         2","a","  31.8"," ,a,1013, ","    670.5"," ,a"
+"ASN00096040","1930","-42.0","146.7",,"MIENA STONE HUT, AS","        82","a","        70","a","         2","a","  31.2"," ,a,1207, ","    650.0"," ,a"
+"ASN00096040","1931","-42.0","146.7",,"MIENA STONE HUT, AS","","","","","","","","","    922.0"," ,a"

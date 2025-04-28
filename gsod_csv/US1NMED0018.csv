@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NMED0018","2008","32.19081","-104.747659","1784.0","CARLSBAD 33.3 WSW, NM US","        48","N","        47","N","         5","N","         3","N","    76"," ,N,0303, ","  50.8"," ,N,0908,+","    533.5"," ,N","      139"," ,N"
+"US1NMED0018","2009","32.19081","-104.747659","1784.0","CARLSBAD 33.3 WSW, NM US","        53","N","        47","N","         2","N","         7","N","   203"," ,N,1201, ","  48.3"," ,N,0523, ","    478.1"," ,N","      581"," ,N"
+"US1NMED0018","2010","32.19081","-104.747659","1784.0","CARLSBAD 33.3 WSW, NM US","        65","N","        62","N","         8","N","         7","N","   165"," ,N,0129, ","  66.0"," ,N,0923, ","    814.9"," ,N","      680"," ,N"

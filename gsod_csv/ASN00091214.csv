@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00091214","1904","-40.9667","145.7",,"FLOWERDALE, AS","       173","a","       112","a","         8","a","  68.6"," ,a,0430, ","   1388.3"," ,a"
+"ASN00091214","1908","-40.9667","145.7",,"FLOWERDALE, AS","       173","a","        80","a","         5","a","  47.0"," ,a,0618, ","    882.1"," ,a"
+"ASN00091214","1909","-40.9667","145.7",,"FLOWERDALE, AS","       211","a","       113","a","         6","a","  76.7"," ,a,0217, ","   1290.2"," ,a"
+"ASN00091214","1910","-40.9667","145.7",,"FLOWERDALE, AS","       185","a","       108","a","        12","a","  50.8"," ,a,0904, ","   1408.2"," ,a"

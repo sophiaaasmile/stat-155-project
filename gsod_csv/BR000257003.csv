@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000257003","1992","-2.46","-57.28","0.0","MOCAMBO, BR","       117","I","        99","I","        14","I","  95.7"," ,I,0324, ","   1609.6"," ,I"
+"BR000257003","1997","-2.46","-57.28","0.0","MOCAMBO, BR","       101","I","        90","I","        20","I","  73.0"," ,I,0219, ","   1679.7"," ,I"
+"BR000257003","1999","-2.46","-57.28","0.0","MOCAMBO, BR","       142","I","       133","I","        37","I","  66.6"," ,I,1005, ","   2705.5"," ,I"

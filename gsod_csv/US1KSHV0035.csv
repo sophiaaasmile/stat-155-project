@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSHV0035","2017","37.975079","-97.309994","441.7","NEWTON 5.1 SSE, KS US","        75","N","        46","N","         7","N","  62.2"," ,N,0329, ","    723.0"," ,N"
+"US1KSHV0035","2022","37.975079","-97.309994","441.7","NEWTON 5.1 SSE, KS US","        64","N","        35","N","         9","N","  59.7"," ,N,0702, ","    731.7"," ,N"
+"US1KSHV0035","2023","37.975079","-97.309994","441.7","NEWTON 5.1 SSE, KS US","        85","N","        54","N","         6","N","  81.3"," ,N,0618, ","    712.2"," ,N"
+"US1KSHV0035","2024","37.975079","-97.309994","441.7","NEWTON 5.1 SSE, KS US","        85","N","        52","N","         7","N"," 129.0"," ,N,1103, ","    839.3"," ,N"

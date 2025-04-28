@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZPM0338","2021","32.167593","-110.788003","840.9","TUCSON 8.5 ESE, AZ US","        53","N","        33","N","         6","N","  64.3"," ,N,0725, ","    511.7"," ,N"
+"US1AZPM0338","2022","32.167593","-110.788003","840.9","TUCSON 8.5 ESE, AZ US","        51","N","        29","N","         1","N","  27.4"," ,N,0801, ","    290.6"," ,N"
+"US1AZPM0338","2023","32.167593","-110.788003","840.9","TUCSON 8.5 ESE, AZ US","        49","N","        28","N","         2","N","  37.3"," ,N,1223, ","    266.8"," ,N"

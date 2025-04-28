@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00094099","1941","-43.0","147.0333",,"HUONVILLE WEST, AS","       128","a","        66","a","         2","a"," 109.2"," ,a,1205, ","    811.4"," ,a"
+"ASN00094099","1942","-43.0","147.0333",,"HUONVILLE WEST, AS","       134","a","        67","a","         2","a","  29.7"," ,a,0614, ","    620.2"," ,a"
+"ASN00094099","1943","-43.0","147.0333",,"HUONVILLE WEST, AS","       134","a","        70","a","         3","a","  46.7"," ,a,1204, ","    696.1"," ,a"
+"ASN00094099","1944","-43.0","147.0333",,"HUONVILLE WEST, AS","","","","","","","","","    861.0"," ,a"
+"ASN00094099","1945","-43.0","147.0333",,"HUONVILLE WEST, AS","       146","a","        55","a","         2","a","  33.5"," ,a,0131, ","    541.9"," ,a"

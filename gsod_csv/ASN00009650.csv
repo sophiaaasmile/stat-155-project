@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009650","1999","-33.1517","115.6917",,"BINNINGUP, AS","       101","a","        66","a","         6","a","  66.4"," ,a,0506, ","    871.3"," ,a"
+"ASN00009650","2000","-33.1517","115.6917",,"BINNINGUP, AS","        99","a","        66","a","         6","a","  34.8"," ,a,0906, ","    738.0"," ,a"
+"ASN00009650","2001","-33.1517","115.6917",,"BINNINGUP, AS","        90","a","        59","a","         3","a","  70.8"," ,a,0506, ","    622.8"," ,a"

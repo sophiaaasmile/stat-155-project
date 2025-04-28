@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056191","1968","-30.45","151.6833","980.0","ARMIDALE TILBUSTER, AS","       102","a","        66","a","         7","a","  62.2"," ,a,0113, ","    741.8"," ,a"
+"ASN00056191","1969","-30.45","151.6833","980.0","ARMIDALE TILBUSTER, AS","        99","a","        58","a","         6","a","  67.3"," ,a,1223, ","    753.6"," ,a"
+"ASN00056191","1971","-30.45","151.6833","980.0","ARMIDALE TILBUSTER, AS","        94","a","        70","a","        10","a","  69.9"," ,a,0129, ","    954.1"," ,a"
+"ASN00056191","1972","-30.45","151.6833","980.0","ARMIDALE TILBUSTER, AS","        97","a","        60","a","         8","a","  53.3"," ,a,0104, ","    841.7"," ,a"

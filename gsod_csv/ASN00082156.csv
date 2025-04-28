@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00082156","2001","-36.7903","146.28",,"MYRHEE HANDCOCKS, AS","       115","a","        66","a","        12","a","  61.6"," ,a,0613, ","   1087.0"," ,a"
+"ASN00082156","2007","-36.7903","146.28",,"MYRHEE HANDCOCKS, AS","       132","a","        79","a","        12","a","  68.8"," ,a,1222, ","   1145.6"," ,a"
+"ASN00082156","2022","-36.7903","146.28",,"MYRHEE HANDCOCKS, AS","       155","a","       111","a","        25","a"," 104.2"," ,a,1013, ","   1951.4"," ,a"
+"ASN00082156","2023","-36.7903","146.28",,"MYRHEE HANDCOCKS, AS","       130","a","        82","a","        13","a"," 140.0"," ,a,0608, ","   1455.0"," ,a"

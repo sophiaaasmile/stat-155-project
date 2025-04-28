@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COEL0099","2022","39.5135418","-103.9919118","1630.1","AGATE 3.7 NW, CO US","        54","N","        24","N","         0","N","  22.4"," ,N,0725, ","    238.5"," ,N"
+"US1COEL0099","2023","39.5135418","-103.9919118","1630.1","AGATE 3.7 NW, CO US","        68","N","        49","N","         2","N","  69.1"," ,N,0512, ","    475.2"," ,N"
+"US1COEL0099","2024","39.5135418","-103.9919118","1630.1","AGATE 3.7 NW, CO US","        53","N","        42","N","         2","N","  33.0"," ,N,0428, ","    401.6"," ,N"

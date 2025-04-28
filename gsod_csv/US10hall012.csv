@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10hall012","2005","40.8745","-98.5746","595.9","WOOD RIVER 4.0 NNE, NE US","        76","N","        48","N","         6","N"," 222.5"," ,N,0512, ","    811.7"," ,N"
+"US10hall012","2006","40.8745","-98.5746","595.9","WOOD RIVER 4.0 NNE, NE US","        71","N","        46","N","         7","N","  43.2"," ,N,0910, ","    694.0"," ,N"

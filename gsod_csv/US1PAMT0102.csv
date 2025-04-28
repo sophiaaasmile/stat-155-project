@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1PAMT0102","2018","40.19694","-75.32585","88.7","LANSDALE 3.9 SW, PA US","       164","N","        98","N","        20","N","  58.4"," ,N,0628, ","   1676.7"," ,N"
+"US1PAMT0102","2019","40.19694","-75.32585","88.7","LANSDALE 3.9 SW, PA US","       140","N","        98","N","        14","N","  43.9"," ,N,0712, ","   1343.4"," ,N"
+"US1PAMT0102","2020","40.19694","-75.32585","88.7","LANSDALE 3.9 SW, PA US","       144","N","        85","N","        13","N"," 141.7"," ,N,0805, ","   1387.3"," ,N"

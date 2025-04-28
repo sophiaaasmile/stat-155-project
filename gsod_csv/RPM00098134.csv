@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"RPM00098134","2019","20.433","121.967","167.0","BASCO RADAR, RP","","","","","         0","S","       340","S","         0","S","","","   32.0","S,0610,+","     27.80","S","",""
+"RPM00098134","2020","20.433","121.967","167.0","BASCO RADAR, RP","         0","S","         0","S","","","","","","","   14.0","S,0218, ","","","","","     22.67","S"
+"RPM00098134","2023","20.433","121.967","167.0","BASCO RADAR, RP","","","","","         0","S","       334","S","         0","S","","","   32.0","S,0724,+","     27.74","S","",""

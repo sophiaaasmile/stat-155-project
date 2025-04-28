@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1LAWC0002","2022","32.8626","-91.358","33.5","OAK GROVE 1.9 E, LA US","       106","N","        70","N","        21","N","  79.0"," ,N,0824, ","   1438.4"," ,N"
+"US1LAWC0002","2023","32.8626","-91.358","33.5","OAK GROVE 1.9 E, LA US","       105","N","        61","N","        15","N","  70.4"," ,N,0712, ","   1131.2"," ,N"
+"US1LAWC0002","2024","32.8626","-91.358","33.5","OAK GROVE 1.9 E, LA US","       102","N","        70","N","        22","N"," 150.4"," ,N,0410, ","   1689.8"," ,N"

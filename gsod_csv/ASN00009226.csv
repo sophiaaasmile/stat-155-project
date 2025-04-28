@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009226","1977","-32.2667","116.0833",,"GOORALONG ORCHARD, AS","        88","a","        67","a","         5","a","  55.0"," ,a,0516, ","    760.9"," ,a"
+"ASN00009226","1978","-32.2667","116.0833",,"GOORALONG ORCHARD, AS","        84","a","        71","a","        13","a","  90.0"," ,a,0715, ","   1137.6"," ,a"
+"ASN00009226","1979","-32.2667","116.0833",,"GOORALONG ORCHARD, AS","        83","a","        73","a","         7","a","  38.0"," ,a,0819, ","    890.2"," ,a"
+"ASN00009226","1980","-32.2667","116.0833",,"GOORALONG ORCHARD, AS","       100","a","        83","a","        16","a","  67.0"," ,a,0622, ","   1340.7"," ,a"

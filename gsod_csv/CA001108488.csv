@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001108488","1963","49.2667","-123.2167","61.0","VANCOUVER WEST PT GREY, BC CA","       147","C","       105","C","         7","C","         1","C","    51"," ,C,0131, ","  48.0"," ,C,0225, ","   1244.4"," ,C","       64"," ,C"
+"CA001108488","1964","49.2667","-123.2167","61.0","VANCOUVER WEST PT GREY, BC CA","       178","C","       122","C","         6","C","        12","C","   152"," ,C,1230, ","  63.2"," ,C,1129, ","   1307.4"," ,C","      991"," ,C"
+"CA001108488","1965","49.2667","-123.2167","61.0","VANCOUVER WEST PT GREY, BC CA","       154","C","       107","C","         7","C","        14","C","   254"," ,C,1227, ","  37.1"," ,C,0215, ","   1224.0"," ,C","      954"," ,C"
+"CA001108488","1966","49.2667","-123.2167","61.0","VANCOUVER WEST PT GREY, BC CA","       173","C","       123","C","        11","C","         8","C","   127"," ,C,0103,+","  45.7"," ,C,0112, ","   1480.5"," ,C","      571"," ,C"

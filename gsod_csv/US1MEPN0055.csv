@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MEPN0055","2020","44.87005","-68.694467","81.4","ORONO 1.1 SSW, ME US","       130","N","        77","N","         9","N","  52.3"," ,N,1206, ","   1054.5"," ,N"
+"US1MEPN0055","2022","44.87005","-68.694467","81.4","ORONO 1.1 SSW, ME US","       129","N","        80","N","        17","N"," 109.0"," ,N,1015, ","   1359.2"," ,N"
+"US1MEPN0055","2024","44.87005","-68.694467","81.4","ORONO 1.1 SSW, ME US","       141","N","        81","N","        11","N","  71.9"," ,N,0810, ","   1219.8"," ,N"

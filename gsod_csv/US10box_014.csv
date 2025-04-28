@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10box_014","2013","42.298151","-102.859583",,"ALLIANCE 13.6 N, NE US","        75","N","        43","N","         1","N","  50.8"," ,N,0924, ","    424.4"," ,N"
+"US10box_014","2014","42.298151","-102.859583",,"ALLIANCE 13.6 N, NE US","        92","N","        51","N","         5","N","  78.7"," ,N,0930, ","    589.2"," ,N"

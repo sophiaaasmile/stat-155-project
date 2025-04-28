@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MAHD0029","2020","42.100952","-72.664164","63.4","WEST SPRINGFIELD 1.6 SSW, MA US","       132","N","        77","N","         9","N","  56.6"," ,N,1201, ","   1026.8"," ,N"
+"US1MAHD0029","2021","42.100952","-72.664164","63.4","WEST SPRINGFIELD 1.6 SSW, MA US","       134","N","        92","N","        20","N"," 119.1"," ,N,0902, ","   1559.1"," ,N"
+"US1MAHD0029","2022","42.100952","-72.664164","63.4","WEST SPRINGFIELD 1.6 SSW, MA US","       135","N","        82","N","        12","N","  56.1"," ,N,0408, ","   1132.7"," ,N"
+"US1MAHD0029","2023","42.100952","-72.664164","63.4","WEST SPRINGFIELD 1.6 SSW, MA US","       149","N","        99","N","        19","N","  96.5"," ,N,0930, ","   1707.3"," ,N"
+"US1MAHD0029","2024","42.100952","-72.664164","63.4","WEST SPRINGFIELD 1.6 SSW, MA US","       130","N","        78","N","        12","N","  87.4"," ,N,0110, ","   1218.4"," ,N"

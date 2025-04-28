@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1AB000214","2022","51.147475","-114.229801","1275.0","CALGARY 16.5 NW, AB CA","        96","N","        42","N","         2","N","  54.4"," ,N,0614, ","    417.4"," ,N"
+"CA1AB000214","2023","51.147475","-114.229801","1275.0","CALGARY 16.5 NW, AB CA","        85","N","        44","N","         2","N","  29.0"," ,N,0615, ","    396.3"," ,N"
+"CA1AB000214","2024","51.147475","-114.229801","1275.0","CALGARY 16.5 NW, AB CA","        98","N","        55","N","         3","N","  36.3"," ,N,0628, ","    469.0"," ,N"

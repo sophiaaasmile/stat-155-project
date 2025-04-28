@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000566000","1984","-5.13","-66.3","0.0","FAZENDA BOA ESPERANCA, BR","       220","I","       155","I","        35","I"," 120.2"," ,I,0123, ","   3014.4"," ,I"
+"BR000566000","1985","-5.13","-66.3","0.0","FAZENDA BOA ESPERANCA, BR","       216","I","       163","I","        27","I","  85.1"," ,I,1009, ","   2612.3"," ,I"
+"BR000566000","1987","-5.13","-66.3","0.0","FAZENDA BOA ESPERANCA, BR","       210","I","       143","I","        21","I","  90.0"," ,I,0322, ","   2317.1"," ,I"
+"BR000566000","1988","-5.13","-66.3","0.0","FAZENDA BOA ESPERANCA, BR","       199","I","       149","I","        42","I"," 102.3"," ,I,0210, ","   3215.9"," ,I"
+"BR000566000","1993","-5.13","-66.3","0.0","FAZENDA BOA ESPERANCA, BR","       231","I","       172","I","        41","I","  83.2"," ,I,0326, ","   3054.1"," ,I"

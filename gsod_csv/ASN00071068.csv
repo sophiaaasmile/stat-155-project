@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00071068","2005","-36.4829","148.784","765.0","DALGETY GOLDFIELDS, AS","        80","a","        40","a","         6","a","  68.0"," ,a,0128, ","    631.6"," ,a"
+"ASN00071068","2006","-36.4829","148.784","765.0","DALGETY GOLDFIELDS, AS","        71","a","        33","a","         3","a","  39.0"," ,a,0117, ","    350.8"," ,a"
+"ASN00071068","2007","-36.4829","148.784","765.0","DALGETY GOLDFIELDS, AS","       103","a","        54","a","         3","a","  39.0"," ,a,0211, ","    552.5"," ,a"
+"ASN00071068","2008","-36.4829","148.784","765.0","DALGETY GOLDFIELDS, AS","        88","a","        42","a","         3","a","  75.8"," ,a,0204, ","    465.0"," ,a"
+"ASN00071068","2009","-36.4829","148.784","765.0","DALGETY GOLDFIELDS, AS","        85","a","        40","a","         1","a","  49.2"," ,a,1008, ","    368.4"," ,a"

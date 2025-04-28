@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009175","1975","-30.8872","116.0294","180.0","SUMMER VALLEY, AS","","","","","","","","","    461.5"," ,a"
+"ASN00009175","1976","-30.8872","116.0294","180.0","SUMMER VALLEY, AS","        42","a","        35","a","         5","a","  32.0"," ,a,0531, ","    385.2"," ,a"
+"ASN00009175","1977","-30.8872","116.0294","180.0","SUMMER VALLEY, AS","        55","a","        35","a","         0","a","  20.2"," ,a,1016, ","    315.5"," ,a"
+"ASN00009175","1983","-30.8872","116.0294","180.0","SUMMER VALLEY, AS","        34","a","        34","a","         6","a","  61.0"," ,a,0618, ","    497.3"," ,a"

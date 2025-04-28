@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NDGF0013","2018","47.864983","-97.050839","255.1","GRAND FORKS 3.7 SSE, ND US","        95","N","        49","N","         3","N","  37.8"," ,N,0921, ","    579.0"," ,N"
+"US1NDGF0013","2019","47.864983","-97.050839","255.1","GRAND FORKS 3.7 SSE, ND US","       128","N","        68","N","        10","N"," 103.4"," ,N,0921, ","   1009.9"," ,N"
+"US1NDGF0013","2020","47.864983","-97.050839","255.1","GRAND FORKS 3.7 SSE, ND US","        85","N","        36","N","         4","N","  76.5"," ,N,0701, ","    466.8"," ,N"
+"US1NDGF0013","2021","47.864983","-97.050839","255.1","GRAND FORKS 3.7 SSE, ND US","        78","N","        42","N","         2","N","  37.6"," ,N,0821, ","    433.4"," ,N"

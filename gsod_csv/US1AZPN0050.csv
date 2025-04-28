@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZPN0050","2020","32.5187","-110.90229","982.4","SADDLEBROOKE 1.5 SW, AZ US","        32","N","        16","N","         1","N","  36.1"," ,N,0817, ","    158.1"," ,N"
+"US1AZPN0050","2021","32.5187","-110.90229","982.4","SADDLEBROOKE 1.5 SW, AZ US","        65","N","        38","N","         8","N","  62.5"," ,N,0901, ","    535.4"," ,N"
+"US1AZPN0050","2022","32.5187","-110.90229","982.4","SADDLEBROOKE 1.5 SW, AZ US","        64","N","        41","N","         2","N","  39.9"," ,N,0627, ","    419.1"," ,N"

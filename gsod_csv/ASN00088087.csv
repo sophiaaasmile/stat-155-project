@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00088087","1905","-37.3","144.15",,"MOUNT FRANKLIN DRY DIGGING, AS","       108","a","        67","a","         3","a","  61.5"," ,a,0408, ","    694.2"," ,a"
+"ASN00088087","1912","-37.3","144.15",,"MOUNT FRANKLIN DRY DIGGING, AS","       152","a","        67","a","         2","a","  31.5"," ,a,0915, ","    698.9"," ,a"
+"ASN00088087","1913","-37.3","144.15",,"MOUNT FRANKLIN DRY DIGGING, AS","       145","a","        63","a","         6","a","  44.5"," ,a,0919, ","    678.0"," ,a"
+"ASN00088087","1914","-37.3","144.15",,"MOUNT FRANKLIN DRY DIGGING, AS","        91","a","        48","a","         0","a","  23.4"," ,a,0328, ","    424.1"," ,a"
+"ASN00088087","1925","-37.3","144.15",,"MOUNT FRANKLIN DRY DIGGING, AS","       116","a","        67","a","         2","a","  25.4"," ,a,0122,+","    591.1"," ,a"

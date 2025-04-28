@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ORCC0116","2022","45.267886","-122.677481","43.9","CANBY 0.7 E, OR US","       178","N","        98","N","         8","N","  46.5"," ,N,0611, ","   1115.6"," ,N"
+"US1ORCC0116","2023","45.267886","-122.677481","43.9","CANBY 0.7 E, OR US","       182","N","        97","N","         4","N","  39.6"," ,N,1210, ","   1028.1"," ,N"
+"US1ORCC0116","2024","45.267886","-122.677481","43.9","CANBY 0.7 E, OR US","       185","N","       111","N","         5","N","  33.5"," ,N,0127, ","   1124.1"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00085218","1972","-38.5833","146.2","259.0","ALTENHOF EAST TARWIN NO 1, AS","       152","a","        82","a","         7","a","  61.2"," ,a,0213, ","    975.1"," ,a"
+"ASN00085218","1973","-38.5833","146.2","259.0","ALTENHOF EAST TARWIN NO 1, AS","       184","a","       115","a","         9","a","  70.1"," ,a,0206, ","   1330.4"," ,a"
+"ASN00085218","1974","-38.5833","146.2","259.0","ALTENHOF EAST TARWIN NO 1, AS","       186","a","       113","a","        10","a","  65.0"," ,a,0516, ","   1385.7"," ,a"
+"ASN00085218","1975","-38.5833","146.2","259.0","ALTENHOF EAST TARWIN NO 1, AS","       159","a","       120","a","         9","a","  46.0"," ,a,0812, ","   1329.0"," ,a"

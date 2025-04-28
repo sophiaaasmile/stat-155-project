@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COME0170","2021","39.108223","-108.355","1442.3","PALISADE 0.2 ENE, CO US","        73","N","        33","N","         1","N","  35.1"," ,N,0731, ","    301.5"," ,N"
+"US1COME0170","2022","39.108223","-108.355","1442.3","PALISADE 0.2 ENE, CO US","        71","N","        34","N","         0","N","  20.8"," ,N,1001, ","    319.2"," ,N"
+"US1COME0170","2023","39.108223","-108.355","1442.3","PALISADE 0.2 ENE, CO US","        72","N","        36","N","         1","N","  28.4"," ,N,0916, ","    301.6"," ,N"

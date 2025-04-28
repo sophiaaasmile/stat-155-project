@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00061145","1961","-32.2","151.4","289.6","CARRABOLLA, AS","       145","a","        99","a","        12","a","  80.5"," ,a,1201, ","   1266.1"," ,a"
+"ASN00061145","1962","-32.2","151.4","289.6","CARRABOLLA, AS","       135","a","        92","a","        18","a"," 116.3"," ,a,1226, ","   1563.4"," ,a"
+"ASN00061145","1963","-32.2","151.4","289.6","CARRABOLLA, AS","       175","a","       112","a","        24","a"," 212.6"," ,a,0318, ","   2090.0"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00083058","2002","-36.8547","146.8581","500.0","HALLS BUCKLAND RIVER AT TWELV, AS","       108","a","        73","a","         8","a","  64.0"," ,a,0917, ","    872.0"," ,a"
+"ASN00083058","2022","-36.8547","146.8581","500.0","HALLS BUCKLAND RIVER AT TWELV, AS","       153","a","       108","a","        20","a","  81.2"," ,a,1014, ","   1827.9"," ,a"
+"ASN00083058","2023","-36.8547","146.8581","500.0","HALLS BUCKLAND RIVER AT TWELV, AS","       134","a","        98","a","         9","a"," 167.0"," ,a,1004, ","   1412.2"," ,a"
+"ASN00083058","2024","-36.8547","146.8581","500.0","HALLS BUCKLAND RIVER AT TWELV, AS","        97","a","        67","a","        13","a","  92.8"," ,a,0531, ","   1174.0"," ,a"

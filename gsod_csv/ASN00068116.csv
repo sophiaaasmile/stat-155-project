@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00068116","1963","-34.6","150.65","563.9","PHEASANTS GROUND, AS","       134","a","        99","a","        26","a"," 234.2"," ,a,0320, ","   2895.7"," ,a"
+"ASN00068116","1964","-34.6","150.65","563.9","PHEASANTS GROUND, AS","        74","a","        62","a","        15","a"," 241.3"," ,a,0612, ","   1703.6"," ,a"
+"ASN00068116","1965","-34.6","150.65","563.9","PHEASANTS GROUND, AS","        75","a","        55","a","        14","a"," 106.7"," ,a,1018, ","   1151.2"," ,a"
+"ASN00068116","1966","-34.6","150.65","563.9","PHEASANTS GROUND, AS","        83","a","        65","a","        16","a"," 291.1"," ,a,1109, ","   1673.3"," ,a"

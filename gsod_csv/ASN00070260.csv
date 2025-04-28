@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00070260","1972","-35.3","148.9167","625.0","URIARRA FOREST 2, AS","       112","a","        52","a","         2","a","  59.4"," ,a,0303, ","    591.6"," ,a"
+"ASN00070260","1973","-35.3","148.9167","625.0","URIARRA FOREST 2, AS","       155","a","        75","a","        12","a","  41.9"," ,a,0128, ","   1022.0"," ,a"
+"ASN00070260","1974","-35.3","148.9167","625.0","URIARRA FOREST 2, AS","       130","a","        76","a","        14","a"," 111.4"," ,a,0111, ","   1281.6"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1KSFO0017","2009","37.728451","-100.06966","780.0","DODGE CITY 3.4 SW, KS US","        88","N","        46","N","         4","N","","","","","","","","","  58.9"," ,N,0908, ","    587.5"," ,N","",""
+"US1KSFO0017","2010","37.728451","-100.06966","780.0","DODGE CITY 3.4 SW, KS US","        62","N","        35","N","         4","N","","","","","","","","","  88.4"," ,N,0705, ","    583.8"," ,N","",""
+"US1KSFO0017","2012","37.728451","-100.06966","780.0","DODGE CITY 3.4 SW, KS US","        59","N","        30","N","         5","N","        2","","         1","N","    64"," ,N,1231, ","    64"," ,N,1231, ","  46.2"," ,N,0709, ","    421.7"," ,N","      126"," ,N"

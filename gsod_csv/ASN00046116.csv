@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00046116","1974","-29.6167","143.0667","98.0","WHITE CLIFFS URELLA DOWNS, AS","        31","a","        26","a","         3","a","  53.4"," ,a,0110, ","    356.4"," ,a"
+"ASN00046116","1976","-29.6167","143.0667","98.0","WHITE CLIFFS URELLA DOWNS, AS","        20","a","        16","a","         3","a","  58.8"," ,a,0113, ","    541.5"," ,a"
+"ASN00046116","1977","-29.6167","143.0667","98.0","WHITE CLIFFS URELLA DOWNS, AS","        10","a","         8","a","         2","a","  66.0"," ,a,0315, ","    204.0"," ,a"

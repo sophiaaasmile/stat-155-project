@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"BRM00083566","2018","-19.833","-43.917","0.0","BELO HORIZONTE CONFINS, BR","        85","S","        67","S","         8","S","","","","","","","  47.0"," ,S,1109, ","    906.7"," ,S","",""
+"BRM00083566","2019","-19.833","-43.917","0.0","BELO HORIZONTE CONFINS, BR","        78","S","        60","S","        11","S","","","","","","","  61.0"," ,S,0321, ","    910.7"," ,S","",""
+"BRM00083566","2020","-19.833","-43.917","0.0","BELO HORIZONTE CONFINS, BR","        81","S","        61","S","        12","S","         0","S","         0","S","    8.5","S,0826, ","  75.9"," ,S,0321, ","   1151.7"," ,S","     16.93","S"
+"BRM00083566","2021","-19.833","-43.917","0.0","BELO HORIZONTE CONFINS, BR","        83","S","        59","S","        12","S","","","","","","","  48.0"," ,S,0207, ","    966.2"," ,S","",""
+"BRM00083566","2023","-19.833","-43.917","0.0","BELO HORIZONTE CONFINS, BR","        85","S","        63","S","         9","S","","","","","",""," 147.1"," ,S,1104, ","    959.5"," ,S","",""

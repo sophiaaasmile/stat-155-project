@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001954007","1984","-19.41","-54.49","0.0","SAO GABRIEL DO OESTE, BR","        73","I","        51","I","         4","I","  55.3"," ,I,0109, ","    739.8"," ,I"
+"BR001954007","1985","-19.41","-54.49","0.0","SAO GABRIEL DO OESTE, BR","        79","I","        58","I","        17","I"," 133.0"," ,I,0211, ","   1502.9"," ,I"
+"BR001954007","1994","-19.41","-54.49","0.0","SAO GABRIEL DO OESTE, BR","        51","I","        51","I","        24","I"," 123.0"," ,I,0131, ","   1730.6"," ,I"
+"BR001954007","1997","-19.41","-54.49","0.0","SAO GABRIEL DO OESTE, BR","       122","I","        93","I","        26","I"," 122.3"," ,I,0102, ","   2132.7"," ,I"
+"BR001954007","1998","-19.41","-54.49","0.0","SAO GABRIEL DO OESTE, BR","        92","I","        80","I","        16","I","  70.7"," ,I,1110, ","   1287.2"," ,I"

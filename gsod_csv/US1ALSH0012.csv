@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALSH0012","2008","33.2666","-86.821","143.9","ALABASTER 2.8 N, AL US","       112","N","        76","N","        15","N","  81.5"," ,N,0824, ","   1399.0"," ,N"
+"US1ALSH0012","2009","33.2666","-86.821","143.9","ALABASTER 2.8 N, AL US","       144","N","       107","N","        31","N"," 108.0"," ,N,0228, ","   2122.8"," ,N"
+"US1ALSH0012","2010","33.2666","-86.821","143.9","ALABASTER 2.8 N, AL US","       121","N","        81","N","        20","N","  95.3"," ,N,0311, ","   1549.4"," ,N"

@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FIE00145697","2000","65.3906","26.99","114.0","PUDASJARVI MAATALOUSOPPILAITOS, FI","       193","E","        88","E","         0","E","  21.4"," ,E,0704, ","    699.2"," ,E"
+"FIE00145697","2001","65.3906","26.99","114.0","PUDASJARVI MAATALOUSOPPILAITOS, FI","       163","E","        67","E","         1","E","  37.8"," ,E,0711, ","    542.1"," ,E"
+"FIE00145697","2002","65.3906","26.99","114.0","PUDASJARVI MAATALOUSOPPILAITOS, FI","       131","E","        60","E","         0","E","  23.8"," ,E,0828, ","    471.1"," ,E"
+"FIE00145697","2003","65.3906","26.99","114.0","PUDASJARVI MAATALOUSOPPILAITOS, FI","       160","E","        66","E","         1","E","  34.4"," ,E,0526, ","    553.6"," ,E"
+"FIE00145697","2004","65.3906","26.99","114.0","PUDASJARVI MAATALOUSOPPILAITOS, FI","       156","E","        75","E","         1","E","  30.0"," ,E,0802, ","    625.2"," ,E"
+"FIE00145697","2005","65.3906","26.99","114.0","PUDASJARVI MAATALOUSOPPILAITOS, FI","       144","E","        71","E","         0","E","  23.8"," ,E,0509, ","    579.8"," ,E"
+"FIE00145697","2006","65.3906","26.99","114.0","PUDASJARVI MAATALOUSOPPILAITOS, FI","       131","E","        63","E","         1","E","  29.8"," ,E,1117, ","    516.1"," ,E"

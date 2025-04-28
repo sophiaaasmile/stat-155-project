@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCCR0107","2021","34.674481","-77.094795","4.0","CEDAR POINT 0.9 WSW, NC US","       130","N","        74","N","        16","N","  64.5"," ,N,0802, ","   1248.8"," ,N"
+"US1NCCR0107","2022","34.674481","-77.094795","4.0","CEDAR POINT 0.9 WSW, NC US","       115","N","        68","N","        11","N","  85.1"," ,N,1001, ","   1090.0"," ,N"
+"US1NCCR0107","2023","34.674481","-77.094795","4.0","CEDAR POINT 0.9 WSW, NC US","       123","N","        74","N","        16","N"," 135.9"," ,N,0831, ","   1412.7"," ,N"
+"US1NCCR0107","2024","34.674481","-77.094795","4.0","CEDAR POINT 0.9 WSW, NC US","       111","N","        70","N","        18","N"," 158.2"," ,N,0917, ","   1357.7"," ,N"

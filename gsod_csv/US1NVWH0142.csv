@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NVWH0142","2018","39.615547","-119.831743","1554.8","RENO 5.3 N, NV US","        53","N","        27","N","         0","N","  24.1"," ,N,1225, ","    283.7"," ,N"
+"US1NVWH0142","2021","39.615547","-119.831743","1554.8","RENO 5.3 N, NV US","        38","N","        17","N","         2","N","  99.6"," ,N,1025, ","    271.1"," ,N"
+"US1NVWH0142","2022","39.615547","-119.831743","1554.8","RENO 5.3 N, NV US","        44","N","        20","N","         1","N","  40.1"," ,N,1211, ","    215.3"," ,N"

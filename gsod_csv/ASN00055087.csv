@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00055087","1959","-30.6","150.85","619.0","MANILLA BUNDALEER, AS","        82","a","        55","a","         2","a","  32.3"," ,a,0218, ","    605.1"," ,a"
+"ASN00055087","1960","-30.6","150.85","619.0","MANILLA BUNDALEER, AS","        61","a","        48","a","         2","a","  41.7"," ,a,0802, ","    474.1"," ,a"
+"ASN00055087","1961","-30.6","150.85","619.0","MANILLA BUNDALEER, AS","        65","a","        51","a","         7","a","  55.4"," ,a,1123, ","    696.3"," ,a"
+"ASN00055087","1962","-30.6","150.85","619.0","MANILLA BUNDALEER, AS","        73","a","        54","a","         7","a","  53.1"," ,a,1020, ","    739.5"," ,a"
+"ASN00055087","1965","-30.6","150.85","619.0","MANILLA BUNDALEER, AS","        54","a","        37","a","         5","a","  35.1"," ,a,1203, ","    399.7"," ,a"

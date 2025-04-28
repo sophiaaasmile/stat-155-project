@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010178","1930","-30.4","117.7",,"CLAFFERTY SOAK, AS","        72","a","        39","a","         1","a","  25.4"," ,a,0417, ","    330.4"," ,a"
+"ASN00010178","1932","-30.4","117.7",,"CLAFFERTY SOAK, AS","        77","a","        38","a","         2","a","  40.6"," ,a,0807, ","    394.3"," ,a"
+"ASN00010178","1933","-30.4","117.7",,"CLAFFERTY SOAK, AS","        60","a","        36","a","         1","a","  50.8"," ,a,0603, ","    340.2"," ,a"
+"ASN00010178","1934","-30.4","117.7",,"CLAFFERTY SOAK, AS","        58","a","        38","a","         2","a","  26.7"," ,a,0407, ","    313.5"," ,a"
+"ASN00010178","1935","-30.4","117.7",,"CLAFFERTY SOAK, AS","        48","a","        26","a","         2","a","  25.4"," ,a,0708,+","    245.4"," ,a"

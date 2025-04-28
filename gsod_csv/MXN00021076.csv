@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00021076","1971","20.1167","-97.9667","1714.8","SAN LORENZO TLAXIPEHUALA CLF, MX","       162","m","       122","m","        41","m","  84.6"," ,m,0923, ","   2713.7"," ,m"
+"MXN00021076","1977","20.1167","-97.9667","1714.8","SAN LORENZO TLAXIPEHUALA CLF, MX","       151","m","       114","m","        22","m"," 154.9"," ,m,1011, ","   2110.7"," ,m"
+"MXN00021076","1980","20.1167","-97.9667","1714.8","SAN LORENZO TLAXIPEHUALA CLF, MX","       158","m","       114","m","        30","m"," 106.9"," ,m,0925, ","   2387.1"," ,m"
+"MXN00021076","1982","20.1167","-97.9667","1714.8","SAN LORENZO TLAXIPEHUALA CLF, MX","       163","m","       116","m","        31","m"," 138.9"," ,m,0922, ","   2480.5"," ,m"

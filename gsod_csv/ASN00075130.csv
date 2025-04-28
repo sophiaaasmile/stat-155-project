@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00075130","1906","-34.9667","145.2333",,"WILLURAH BACK STATION, AS","        72","a","        41","a","         3","a","  38.4"," ,a,0524, ","    462.6"," ,a"
+"ASN00075130","1907","-34.9667","145.2333",,"WILLURAH BACK STATION, AS","        51","a","        27","a","         0","a","  17.0"," ,a,0522, ","    201.3"," ,a"
+"ASN00075130","1908","-34.9667","145.2333",,"WILLURAH BACK STATION, AS","        46","a","        28","a","         0","a","  21.6"," ,a,0619, ","    210.9"," ,a"
+"ASN00075130","1926","-34.9667","145.2333",,"WILLURAH BACK STATION, AS","        41","a","        32","a","         3","a","  46.2"," ,a,0321, ","    364.1"," ,a"

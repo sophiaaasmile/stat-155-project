@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00006028","1961","-26.4","114.4667",,"THE OVERLANDER, AS","        29","a","        19","a","         2","a","  36.8"," ,a,0614, ","    215.3"," ,a"
+"ASN00006028","1963","-26.4","114.4667",,"THE OVERLANDER, AS","        53","a","        45","a","         7","a","  88.4"," ,a,0111, ","    684.1"," ,a"
+"ASN00006028","1964","-26.4","114.4667",,"THE OVERLANDER, AS","        26","a","        18","a","         3","a","  51.8"," ,a,0611, ","    245.6"," ,a"
+"ASN00006028","1965","-26.4","114.4667",,"THE OVERLANDER, AS","        27","a","        24","a","         3","a","  74.4"," ,a,0606, ","    328.5"," ,a"

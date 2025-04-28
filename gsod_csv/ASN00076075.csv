@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00076075","1951","-34.5","141.5333",,"MALLANBOOL, AS","        88","a","        43","a","         2","a","  26.2"," ,a,0624, ","    320.0"," ,a"
+"ASN00076075","1952","-34.5","141.5333",,"MALLANBOOL, AS","        82","a","        38","a","         3","a","  32.0"," ,a,0516, ","    349.3"," ,a"
+"ASN00076075","1953","-34.5","141.5333",,"MALLANBOOL, AS","        70","a","        34","a","         0","a","  23.9"," ,a,0805, ","    330.6"," ,a"

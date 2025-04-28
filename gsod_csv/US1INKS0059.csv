@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INKS0059","2021","41.23229","-85.77676","255.7","WARSAW 3.7 E, IN US","       145","N","        79","N","         9","N","  64.5"," ,N,1025, ","   1034.6"," ,N"
+"US1INKS0059","2023","41.23229","-85.77676","255.7","WARSAW 3.7 E, IN US","       137","N","        76","N","         4","N","  46.0"," ,N,0223, ","    850.1"," ,N"
+"US1INKS0059","2024","41.23229","-85.77676","255.7","WARSAW 3.7 E, IN US","       147","N","        80","N","         9","N","  76.7"," ,N,0710, ","   1025.1"," ,N"

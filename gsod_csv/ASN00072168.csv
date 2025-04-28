@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00072168","2004","-35.9757","147.0371","205.0","ALBURY TABLE TOP NYRIMBLA, AS","        70","a","        42","a","         1","a","  29.4"," ,a,0610, ","    503.2"," ,a"
+"ASN00072168","2006","-35.9757","147.0371","205.0","ALBURY TABLE TOP NYRIMBLA, AS","        40","a","        28","a","         0","a","  20.0"," ,a,1113, ","    240.4"," ,a"
+"ASN00072168","2007","-35.9757","147.0371","205.0","ALBURY TABLE TOP NYRIMBLA, AS","","","","","","","","","    450.2"," ,a"
+"ASN00072168","2008","-35.9757","147.0371","205.0","ALBURY TABLE TOP NYRIMBLA, AS","        55","a","        38","a","         3","a","  36.8"," ,a,0201, ","    450.2"," ,a"

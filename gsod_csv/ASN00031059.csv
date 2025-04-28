@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00031059","1938","-16.9","145.0167",,"TYRCONNEL MINE, AS","        42","a","        35","a","        11","a","  71.6"," ,a,0222, ","    654.5"," ,a"
+"ASN00031059","1939","-16.9","145.0167",,"TYRCONNEL MINE, AS","        79","a","        56","a","        12","a","  70.6"," ,a,0419, ","    959.8"," ,a"
+"ASN00031059","1940","-16.9","145.0167",,"TYRCONNEL MINE, AS","        75","a","        50","a","        12","a","  70.4"," ,a,0227, ","    842.9"," ,a"
+"ASN00031059","1941","-16.9","145.0167",,"TYRCONNEL MINE, AS","        73","a","        46","a","        10","a","  90.2"," ,a,1230, ","    874.6"," ,a"
+"ASN00031059","1942","-16.9","145.0167",,"TYRCONNEL MINE, AS","        76","a","        54","a","         9","a","  68.3"," ,a,0218, ","    788.7"," ,a"

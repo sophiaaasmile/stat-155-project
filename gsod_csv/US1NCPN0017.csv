@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCPN0017","2021","36.3397","-79.0933","184.4","HURDLE MILLS 5.2 NNW, NC US","       111","N","        67","N","         9","N","  66.0"," ,N,0923, ","   1009.3"," ,N"
+"US1NCPN0017","2022","36.3397","-79.0933","184.4","HURDLE MILLS 5.2 NNW, NC US","       121","N","        78","N","        13","N","  67.6"," ,N,0822, ","   1255.3"," ,N"
+"US1NCPN0017","2023","36.3397","-79.0933","184.4","HURDLE MILLS 5.2 NNW, NC US","       115","N","        67","N","        11","N","  64.5"," ,N,1218, ","   1054.4"," ,N"
+"US1NCPN0017","2024","36.3397","-79.0933","184.4","HURDLE MILLS 5.2 NNW, NC US","       117","N","        76","N","        17","N","  81.8"," ,N,0713, ","   1359.5"," ,N"

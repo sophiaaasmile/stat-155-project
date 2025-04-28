@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006158752","1972","43.8","-79.4167","198.0","TORONTO NEWTON, ON CA","       149","C","        90","C","         4","C","        31","C","   137"," ,C,0203, ","  36.3"," ,C,1212, ","    900.4"," ,C","     2310"," ,C"
+"CA006158752","1973","43.8","-79.4167","198.0","TORONTO NEWTON, ON CA","       145","C","        80","C","         0","C","        11","C","   132"," ,C,0317, ","  23.6"," ,C,1028, ","    792.3"," ,C","      931"," ,C"
+"CA006158752","1974","43.8","-79.4167","198.0","TORONTO NEWTON, ON CA","       142","C","        71","C","         3","C","        15","C","   152"," ,C,0108, ","  35.1"," ,C,0516, ","    737.6"," ,C","     1059"," ,C"

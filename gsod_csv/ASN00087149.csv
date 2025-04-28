@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00087149","1973","-37.25","144.75","502.9","LANCEFIELD SPRINGRIDGE, AS","       168","a","        85","a","        12","a","  94.7"," ,a,0205, ","   1178.6"," ,a"
+"ASN00087149","1974","-37.25","144.75","502.9","LANCEFIELD SPRINGRIDGE, AS","       143","a","        96","a","         5","a","  70.4"," ,a,0514, ","   1028.4"," ,a"
+"ASN00087149","1975","-37.25","144.75","502.9","LANCEFIELD SPRINGRIDGE, AS","       131","a","        80","a","         7","a","  42.0"," ,a,0918, ","    903.7"," ,a"
+"ASN00087149","1976","-37.25","144.75","502.9","LANCEFIELD SPRINGRIDGE, AS","       123","a","        65","a","         3","a","  42.0"," ,a,1102, ","    618.2"," ,a"
+"ASN00087149","1977","-37.25","144.75","502.9","LANCEFIELD SPRINGRIDGE, AS","       110","a","        63","a","         3","a","  70.8"," ,a,0408, ","    665.7"," ,a"

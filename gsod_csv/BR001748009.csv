@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001748009","1945","-17.03","-48.38","0.0","EGERINEU TEIXEIRA, BR","       143","I","       135","I","        38","I"," 102.0"," ,I,1204, ","   2915.9"," ,I"
+"BR001748009","1946","-17.03","-48.38","0.0","EGERINEU TEIXEIRA, BR","        95","I","        79","I","        19","I","  84.0"," ,I,0126, ","   1577.2"," ,I"
+"BR001748009","1950","-17.03","-48.38","0.0","EGERINEU TEIXEIRA, BR","        84","I","        81","I","        13","I","  71.8"," ,I,1216, ","   1370.2"," ,I"

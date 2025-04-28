@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00046096","1970","-31.3667","141.6167","289.6","YANCO GLEN PARINGA, AS","        30","a","        13","a","         0","a","  19.8"," ,a,1020, ","    133.4"," ,a"
+"ASN00046096","1971","-31.3667","141.6167","289.6","YANCO GLEN PARINGA, AS","        48","a","        26","a","         3","a","  32.3"," ,a,0308, ","    296.1"," ,a"
+"ASN00046096","1972","-31.3667","141.6167","289.6","YANCO GLEN PARINGA, AS","        25","a","        14","a","         3","a","  61.5"," ,a,0108, ","    199.2"," ,a"

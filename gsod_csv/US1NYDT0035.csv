@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NYDT0035","2020","41.7237","-73.821","116.7","PLEASANT VALLEY 1.7 S, NY US","       134","N","        81","N","         6","N","","","","","  40.1"," ,N,0805, ","    910.0"," ,N","",""
+"US1NYDT0035","2021","41.7237","-73.821","116.7","PLEASANT VALLEY 1.7 S, NY US","       144","N","        89","N","        11","N","         9","N","   406"," ,N,0202, "," 120.4"," ,N,0902, ","   1248.7"," ,N","     1032"," ,N"
+"US1NYDT0035","2022","41.7237","-73.821","116.7","PLEASANT VALLEY 1.7 S, NY US","       127","N","        83","N","         9","N","         9","N","   107"," ,N,0214, ","  60.5"," ,N,0408, ","   1042.7"," ,N","      744"," ,N"
+"US1NYDT0035","2023","41.7237","-73.821","116.7","PLEASANT VALLEY 1.7 S, NY US","       140","N","       102","N","        18","N","         8","N","   140"," ,N,0315, "," 103.6"," ,N,0710, ","   1652.3"," ,N","      574"," ,N"
+"US1NYDT0035","2024","41.7237","-73.821","116.7","PLEASANT VALLEY 1.7 S, NY US","       137","N","        93","N","        11","N","         9","N","   229"," ,N,0107, ","  67.1"," ,N,0324, ","   1264.4"," ,N","      983"," ,N"

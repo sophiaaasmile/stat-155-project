@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NJWR0008","2011","40.9408","-74.9385","178.0","BLAIRSTOWN TWP 4.1 SE, NJ US","","","","","","","","","   2106.9"," ,N"
+"US1NJWR0008","2012","40.9408","-74.9385","178.0","BLAIRSTOWN TWP 4.1 SE, NJ US","       129","N","        78","N","        11","N","  54.1"," ,N,0422, ","   1133.8"," ,N"
+"US1NJWR0008","2013","40.9408","-74.9385","178.0","BLAIRSTOWN TWP 4.1 SE, NJ US","","","","","","","","","   1105.4"," ,N"
+"US1NJWR0008","2015","40.9408","-74.9385","178.0","BLAIRSTOWN TWP 4.1 SE, NJ US","","","","","","","","","   1118.1"," ,N"
+"US1NJWR0008","2019","40.9408","-74.9385","178.0","BLAIRSTOWN TWP 4.1 SE, NJ US","       136","N","        92","N","        18","N","  86.9"," ,N,0723, ","   1654.7"," ,N"
+"US1NJWR0008","2020","40.9408","-74.9385","178.0","BLAIRSTOWN TWP 4.1 SE, NJ US","       150","N","        84","N","         9","N"," 125.7"," ,N,0805, ","   1192.2"," ,N"

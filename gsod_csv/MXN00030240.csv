@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00030240","1973","21.7333","-98.4","278.0","LAS BADEAS, MX","        85","m","        53","m","        18","m","  84.8"," ,m,0620, ","","","","","   1180.2"," ,m"
+"MXN00030240","1974","21.7333","-98.4","278.0","LAS BADEAS, MX","        62","m","        51","m","        17","m"," 129.8"," ,m,0703, ","      83.5","5","      83.5","m","   1218.7"," ,m"

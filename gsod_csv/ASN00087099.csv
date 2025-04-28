@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00087099","1960","-37.5667","144.55","411.5","GISBORNE HILLTOP, AS","       114","a","        83","a","         5","a","  45.0"," ,a,1216, ","    787.9"," ,a"
+"ASN00087099","1961","-37.5667","144.55","411.5","GISBORNE HILLTOP, AS","        84","a","        61","a","         2","a","  52.1"," ,a,0302, ","    564.9"," ,a"
+"ASN00087099","1962","-37.5667","144.55","411.5","GISBORNE HILLTOP, AS","        94","a","        71","a","         3","a","  43.2"," ,a,0724, ","    667.9"," ,a"

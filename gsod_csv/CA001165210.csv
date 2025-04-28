@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001165210","1964","51.8667","-120.0167","713.0","MOUL CREEK CLEARWATER, BC CA","       136","C","        84","C","         3","C","","","","","  27.9"," ,C,1001, ","    703.1"," ,C","",""
+"CA001165210","1965","51.8667","-120.0167","713.0","MOUL CREEK CLEARWATER, BC CA","","","","","","","        22","C","   203"," ,C,0221, ","","","","","     1467"," ,C"
+"CA001165210","1966","51.8667","-120.0167","713.0","MOUL CREEK CLEARWATER, BC CA","       124","C","        78","C","         0","C","        33","C","   140"," ,C,0216,+","  23.9"," ,C,0609, ","    547.6"," ,C","     1998"," ,C"

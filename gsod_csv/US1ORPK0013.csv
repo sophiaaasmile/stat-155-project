@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ORPK0013","2015","44.7925","-123.1331","52.7","INDEPENDENCE 5.2 SE, OR US","       176","N","        81","N","         7","N","  53.6"," ,N,1218, ","   1034.5"," ,N"
+"US1ORPK0013","2020","44.7925","-123.1331","52.7","INDEPENDENCE 5.2 SE, OR US","       175","N","       106","N","         2","N","  50.3"," ,N,1220, ","   1016.6"," ,N"
+"US1ORPK0013","2021","44.7925","-123.1331","52.7","INDEPENDENCE 5.2 SE, OR US","","","","","","","","","   1134.2"," ,N"
+"US1ORPK0013","2022","44.7925","-123.1331","52.7","INDEPENDENCE 5.2 SE, OR US","       172","N","        85","N","         9","N","  44.2"," ,N,0103, ","   1056.0"," ,N"

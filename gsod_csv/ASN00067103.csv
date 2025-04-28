@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00067103","1989","-33.5583","150.9161","10.0","CATTAI MITCHELL PARK ROAD, AS","       132","a","        82","a","         9","a","  87.2"," ,a,0402, ","   1086.6"," ,a"
+"ASN00067103","1990","-33.5583","150.9161","10.0","CATTAI MITCHELL PARK ROAD, AS","       113","a","        65","a","        12","a"," 153.2"," ,a,0204, ","   1356.1"," ,a"
+"ASN00067103","1993","-33.5583","150.9161","10.0","CATTAI MITCHELL PARK ROAD, AS","        97","a","        56","a","         5","a","  98.8"," ,a,0218, ","    719.4"," ,a"
+"ASN00067103","1995","-33.5583","150.9161","10.0","CATTAI MITCHELL PARK ROAD, AS","","","","","","","","","    789.5"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00021085","1971","20.2","-97.9833","1302.7","TENANGO DE LAS FLORES CLFC, MX","       156","m","       120","m","        29","m","  69.9"," ,m,0804, ","   2077.3"," ,m"
+"MXN00021085","1977","20.2","-97.9833","1302.7","TENANGO DE LAS FLORES CLFC, MX","       151","m","       101","m","        21","m"," 125.0"," ,m,1011, ","   1714.0"," ,m"
+"MXN00021085","1980","20.2","-97.9833","1302.7","TENANGO DE LAS FLORES CLFC, MX","       158","m","       113","m","        25","m","  97.8"," ,m,0927, ","   2039.6"," ,m"

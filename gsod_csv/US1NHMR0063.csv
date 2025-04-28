@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NHMR0063","2020","43.335222","-71.951262","227.1","SUTTON MILLS 0.1 ENE, NH US","       140","N","        77","N","        10","N","","","        15","N","","","   386"," ,N,1217, ","  49.5"," ,N,1017, ","   1081.2"," ,N","     1607"," ,N"
+"US1NHMR0063","2021","43.335222","-71.951262","227.1","SUTTON MILLS 0.1 ENE, NH US","","","","","","","","","","","","","","","","","   1124.3"," ,N","",""
+"US1NHMR0063","2022","43.335222","-71.951262","227.1","SUTTON MILLS 0.1 ENE, NH US","       139","N","        84","N","        14","N","       89","","        18","N","   356"," ,N,0201,+","   244"," ,N,1217, ","  54.6"," ,N,1027, ","   1224.6"," ,N","     1535"," ,N"

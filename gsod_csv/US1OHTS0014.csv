@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OHTS0014","2019","40.409887","-81.353197","260.6","UHRICHSVILLE 0.7 N, OH US","       152","N","        95","N","        16","N","  50.0"," ,N,0814, ","   1308.5"," ,N"
+"US1OHTS0014","2020","40.409887","-81.353197","260.6","UHRICHSVILLE 0.7 N, OH US","       165","N","       104","N","         9","N","  42.9"," ,N,0724, ","   1141.7"," ,N"
+"US1OHTS0014","2023","40.409887","-81.353197","260.6","UHRICHSVILLE 0.7 N, OH US","       142","N","        88","N","         6","N","  74.4"," ,N,0703, ","   1060.8"," ,N"
+"US1OHTS0014","2024","40.409887","-81.353197","260.6","UHRICHSVILLE 0.7 N, OH US","       146","N","        76","N","         3","N","  46.2"," ,N,0403, ","    935.6"," ,N"

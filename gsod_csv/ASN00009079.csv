@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009079","1915","-31.9833","115.8",,"CLAREMONT, AS","       140","a","        92","a","         6","a","  56.4"," ,a,0226, ","    979.8"," ,a"
+"ASN00009079","1916","-31.9833","115.8",,"CLAREMONT, AS","       112","a","        63","a","         5","a","  46.5"," ,a,0529, ","    781.7"," ,a"
+"ASN00009079","1917","-31.9833","115.8",,"CLAREMONT, AS","       148","a","        93","a","         8","a","  50.3"," ,a,0809, ","   1128.6"," ,a"
+"ASN00009079","1920","-31.9833","115.8",,"CLAREMONT, AS","       125","a","        77","a","         5","a","  65.5"," ,a,0610, ","    878.2"," ,a"

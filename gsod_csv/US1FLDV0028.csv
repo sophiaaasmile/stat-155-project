@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLDV0028","2014","30.315674","-81.598511","4.9","JACKSONVILLE 3.8 ESE, FL US","       128","N","        98","N","        18","N","  76.2"," ,N,0906, ","   1793.8"," ,N"
+"US1FLDV0028","2020","30.315674","-81.598511","4.9","JACKSONVILLE 3.8 ESE, FL US","       144","N","       100","N","        11","N","  82.6"," ,N,0608, ","   1372.6"," ,N"
+"US1FLDV0028","2021","30.315674","-81.598511","4.9","JACKSONVILLE 3.8 ESE, FL US","       125","N","        92","N","        16","N","  74.2"," ,N,0626, ","   1626.8"," ,N"
+"US1FLDV0028","2022","30.315674","-81.598511","4.9","JACKSONVILLE 3.8 ESE, FL US","       122","N","        95","N","        17","N","  71.4"," ,N,0703, ","   1449.5"," ,N"
+"US1FLDV0028","2023","30.315674","-81.598511","4.9","JACKSONVILLE 3.8 ESE, FL US","       127","N","        90","N","        14","N","  91.2"," ,N,0706, ","   1440.8"," ,N"

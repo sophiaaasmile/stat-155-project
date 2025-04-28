@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MTLY0014","2022","48.5089","-110.9736","960.7","CHESTER 0.4 WSW, MT US","        75","N","        28","N","         0","N","  19.8"," ,N,1023, ","    222.2"," ,N"
+"US1MTLY0014","2023","48.5089","-110.9736","960.7","CHESTER 0.4 WSW, MT US","        73","N","        29","N","         1","N","  30.0"," ,N,0528, ","    274.5"," ,N"
+"US1MTLY0014","2024","48.5089","-110.9736","960.7","CHESTER 0.4 WSW, MT US","        68","N","        31","N","         0","N","  24.6"," ,N,0919, ","    277.5"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSTR0007","2009","38.926486","-99.66323","669.0","ELLIS 5.6 W, KS US","        74","N","        43","N","         4","N","  48.8"," ,N,0527, ","    558.6"," ,N"
+"US1KSTR0007","2010","38.926486","-99.66323","669.0","ELLIS 5.6 W, KS US","        52","N","        37","N","         2","N","  50.3"," ,N,0915, ","    410.8"," ,N"
+"US1KSTR0007","2011","38.926486","-99.66323","669.0","ELLIS 5.6 W, KS US","        54","N","        40","N","         2","N","  40.6"," ,N,0612, ","    475.2"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MNRM0116","2022","44.9247","-92.9996","319.7","MAPLEWOOD 4.3 SSE, MN US","       133","N","        57","N","         4","N","","","","","  57.4"," ,N,0512, ","    702.3"," ,N","",""
+"US1MNRM0116","2023","44.9247","-92.9996","319.7","MAPLEWOOD 4.3 SSE, MN US","       109","N","        63","N","         8","N","","","","","  63.5"," ,N,0924, ","    863.7"," ,N","",""
+"US1MNRM0116","2024","44.9247","-92.9996","319.7","MAPLEWOOD 4.3 SSE, MN US","       103","N","        60","N","         8","N","         6","N","   152"," ,N,0215, ","  50.8"," ,N,0522, ","    929.1"," ,N","      611"," ,N"

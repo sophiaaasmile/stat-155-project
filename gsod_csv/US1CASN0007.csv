@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CASN0007","2010","38.3852","-122.892814","116.7","SEBASTOPOL 3.7 WSW, CA US","       138","N","        76","N","        20","N","","","",""," 118.9"," ,N,1024, ","   1517.5"," ,N","",""
+"US1CASN0007","2011","38.3852","-122.892814","116.7","SEBASTOPOL 3.7 WSW, CA US","       103","N","        51","N","        12","N","         0","N","     0"," ,N,1231,+","  65.0"," ,N,0216, ","    907.1"," ,N","        0"," ,N"
+"US1CASN0007","2012","38.3852","-122.892814","116.7","SEBASTOPOL 3.7 WSW, CA US","        95","N","        56","N","        20","N","         0","N","     0"," ,N,1231,+","  97.5"," ,N,0121, ","   1310.5"," ,N","        0"," ,N"
+"US1CASN0007","2013","38.3852","-122.892814","116.7","SEBASTOPOL 3.7 WSW, CA US","        52","N","        24","N","         3","N","","","","","  48.0"," ,N,1120, ","    336.5"," ,N","",""

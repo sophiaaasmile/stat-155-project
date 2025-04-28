@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000459001","1996","-4.75","-59.25","0.0","NITEROI TERRA PRETA II, BR","       157","I","       137","I","        38","I","  67.1"," ,I,0321, ","   2727.8"," ,I"
+"BR000459001","1997","-4.75","-59.25","0.0","NITEROI TERRA PRETA II, BR","       120","I","       103","I","        25","I","  99.1"," ,I,0412, ","   2017.2"," ,I"
+"BR000459001","1998","-4.75","-59.25","0.0","NITEROI TERRA PRETA II, BR","       103","I","        94","I","        28","I","  86.1"," ,I,1129, ","   2181.0"," ,I"
+"BR000459001","1999","-4.75","-59.25","0.0","NITEROI TERRA PRETA II, BR","       131","I","       118","I","        41","I","  94.6"," ,I,0206, ","   2762.5"," ,I"

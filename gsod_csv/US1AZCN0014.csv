@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZCN0014","2013","35.21907","-111.60132","2124.5","FLAGSTAFF 3.4 NE, AZ US","        76","N","        55","N","         4","N","  39.6"," ,N,0726, ","    612.1"," ,N"
+"US1AZCN0014","2018","35.21907","-111.60132","2124.5","FLAGSTAFF 3.4 NE, AZ US","        67","N","        40","N","         5","N","  77.2"," ,N,0716, ","    539.7"," ,N"
+"US1AZCN0014","2021","35.21907","-111.60132","2124.5","FLAGSTAFF 3.4 NE, AZ US","        52","N","        38","N","         5","N","  55.4"," ,N,0715, ","    513.0"," ,N"
+"US1AZCN0014","2022","35.21907","-111.60132","2124.5","FLAGSTAFF 3.4 NE, AZ US","        63","N","        38","N","         2","N","  48.0"," ,N,0801, ","    423.8"," ,N"

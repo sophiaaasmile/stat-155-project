@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COBO0527","2021","39.98734","-105.100235","1595.6","LAFAYETTE 0.5 SSW, CO US","        73","N","        36","N","         5","N","  54.6"," ,N,0626, ","    447.8"," ,N"
+"US1COBO0527","2022","39.98734","-105.100235","1595.6","LAFAYETTE 0.5 SSW, CO US","        80","N","        42","N","         4","N","  46.2"," ,N,0816, ","    454.2"," ,N"
+"US1COBO0527","2023","39.98734","-105.100235","1595.6","LAFAYETTE 0.5 SSW, CO US","        96","N","        46","N","         2","N","  55.9"," ,N,0512, ","    521.4"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OHMA0009","2022","39.90617","-83.43667","317.6","LONDON 1.2 N, OH US","       132","N","        71","N","        11","N","  50.3"," ,N,0718, ","   1025.2"," ,N"
+"US1OHMA0009","2023","39.90617","-83.43667","317.6","LONDON 1.2 N, OH US","       125","N","        74","N","        12","N","  53.3"," ,N,0304, ","   1011.5"," ,N"
+"US1OHMA0009","2024","39.90617","-83.43667","317.6","LONDON 1.2 N, OH US","       132","N","        81","N","         3","N","  37.8"," ,N,0928, ","    866.6"," ,N"

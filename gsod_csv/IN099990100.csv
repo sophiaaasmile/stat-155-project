@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN099990100","1966","10.85","72.47","4.0","AGATTI OBSERVATORY, IN","       108","I","        75","I","        23","I","  94.5"," ,I,1112, ","   1591.1"," ,I"
+"IN099990100","1968","10.85","72.47","4.0","AGATTI OBSERVATORY, IN","       102","I","        76","I","        15","I"," 132.0"," ,I,0715, ","   1177.6"," ,I"
+"IN099990100","1969","10.85","72.47","4.0","AGATTI OBSERVATORY, IN","        89","I","        62","I","        14","I"," 111.1"," ,I,0821, ","   1164.7"," ,I"

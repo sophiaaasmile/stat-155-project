@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1ON000492","2018","44.62483","-80.94769","206.7","OWEN SOUND 6.3 NNW GSCA, ON CA","","","","","","","","","   1033.8"," ,N"
+"CA1ON000492","2020","44.62483","-80.94769","206.7","OWEN SOUND 6.3 NNW GSCA, ON CA","       181","N","        98","N","         9","N","  77.2"," ,N,0803, ","   1246.3"," ,N"
+"CA1ON000492","2021","44.62483","-80.94769","206.7","OWEN SOUND 6.3 NNW GSCA, ON CA","       166","N","        82","N","        10","N","  75.2"," ,N,0627, ","   1080.3"," ,N"
+"CA1ON000492","2022","44.62483","-80.94769","206.7","OWEN SOUND 6.3 NNW GSCA, ON CA","       172","N","        92","N","         4","N","  45.5"," ,N,0804, ","    982.1"," ,N"
+"CA1ON000492","2023","44.62483","-80.94769","206.7","OWEN SOUND 6.3 NNW GSCA, ON CA","       171","N","        91","N","         5","N","  45.2"," ,N,1010, ","   1079.4"," ,N"

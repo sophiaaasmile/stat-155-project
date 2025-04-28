@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00041068","1949","-28.25","152.25","579.1","MICHALI, AS","       114","a","        60","a","         8","a"," 106.9"," ,a,1025, ","    846.7"," ,a"
+"ASN00041068","1950","-28.25","152.25","579.1","MICHALI, AS","       157","a","        70","a","         9","a","  77.5"," ,a,0623, ","    999.3"," ,a"
+"ASN00041068","1951","-28.25","152.25","579.1","MICHALI, AS","        86","a","        44","a","         5","a","  45.7"," ,a,0131, ","    607.1"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA005022056","1963","49.5","-97.05","238.0","OTTERBURNE, MB CA","        97","C","        54","C","         3","C","        13","C","   132"," ,C,1207, ","  32.8"," ,C,0718, ","    532.5"," ,C","      818"," ,C"
+"CA005022056","1965","49.5","-97.05","238.0","OTTERBURNE, MB CA","","","","","","","        20","C","   152"," ,C,1115, ","","","","","     1172"," ,C"
+"CA005022056","1968","49.5","-97.05","238.0","OTTERBURNE, MB CA","","","","","","","         9","C","   165"," ,C,0402, ","","","","","      664"," ,C"

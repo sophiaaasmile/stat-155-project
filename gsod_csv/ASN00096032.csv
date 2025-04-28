@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00096032","1957","-41.6","146.2167","457.2","MERSEY VALLEY NUMBER 1, AS","       139","a","        98","a","         9","a","  77.0"," ,a,0418, ","   1218.9"," ,a"
+"ASN00096032","1958","-41.6","146.2167","457.2","MERSEY VALLEY NUMBER 1, AS","       136","a","       113","a","        14","a","  49.0"," ,a,0219, ","   1476.8"," ,a"
+"ASN00096032","1959","-41.6","146.2167","457.2","MERSEY VALLEY NUMBER 1, AS","       119","a","        89","a","        12","a","  49.8"," ,a,0402, ","   1156.6"," ,a"
+"ASN00096032","1960","-41.6","146.2167","457.2","MERSEY VALLEY NUMBER 1, AS","       131","a","       105","a","        14","a","  82.6"," ,a,0423, ","   1403.0"," ,a"

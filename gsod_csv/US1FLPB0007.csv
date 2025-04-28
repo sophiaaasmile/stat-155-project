@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLPB0007","2016","26.518","-80.145","5.8","SUN VALLEY 0.8 SW, FL US","       132","N","        79","N","        20","N"," 161.0"," ,N,0128, ","   1834.0"," ,N"
+"US1FLPB0007","2017","26.518","-80.145","5.8","SUN VALLEY 0.8 SW, FL US","       130","N","        88","N","        27","N"," 229.4"," ,N,0607, ","   2342.3"," ,N"
+"US1FLPB0007","2018","26.518","-80.145","5.8","SUN VALLEY 0.8 SW, FL US","       129","N","        80","N","        18","N"," 126.5"," ,N,0520, ","   1520.7"," ,N"
+"US1FLPB0007","2024","26.518","-80.145","5.8","SUN VALLEY 0.8 SW, FL US","       157","N","        87","N","        19","N","  81.5"," ,N,1007, ","   1759.4"," ,N"

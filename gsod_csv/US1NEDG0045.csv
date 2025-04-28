@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NEDG0045","2022","41.28855","-96.153084","385.6","OMAHA 7.5 WNW, NE US","        88","N","        44","N","         4","N","  42.7"," ,N,0615, ","    559.6"," ,N"
+"US1NEDG0045","2023","41.28855","-96.153084","385.6","OMAHA 7.5 WNW, NE US","        93","N","        49","N","         3","N","  32.3"," ,N,1004, ","    542.6"," ,N"
+"US1NEDG0045","2024","41.28855","-96.153084","385.6","OMAHA 7.5 WNW, NE US","        95","N","        51","N","         5","N"," 137.4"," ,N,0521, ","    803.9"," ,N"

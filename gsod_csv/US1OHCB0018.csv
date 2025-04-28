@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OHCB0018","2021","40.664363","-80.642367","325.5","WELLSVILLE 4.3 N, OH US","       136","N","        91","N","         9","N","  74.2"," ,N,0701, ","   1050.1"," ,N"
+"US1OHCB0018","2022","40.664363","-80.642367","325.5","WELLSVILLE 4.3 N, OH US","       151","N","       102","N","         9","N","  55.6"," ,N,1112, ","   1126.0"," ,N"
+"US1OHCB0018","2023","40.664363","-80.642367","325.5","WELLSVILLE 4.3 N, OH US","       148","N","        95","N","         8","N","  53.1"," ,N,0702, ","   1077.8"," ,N"
+"US1OHCB0018","2024","40.664363","-80.642367","325.5","WELLSVILLE 4.3 N, OH US","       150","N","        94","N","         7","N","  47.2"," ,N,0807, ","   1077.8"," ,N"

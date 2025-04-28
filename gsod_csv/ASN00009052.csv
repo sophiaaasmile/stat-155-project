@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009052","1939","-32.4","116.0167",,"THE CHESTNUTS, AS","       120","a","        88","a","        17","a","  98.6"," ,a,0725, ","   1384.0"," ,a"
+"ASN00009052","1940","-32.4","116.0167",,"THE CHESTNUTS, AS","       105","a","        62","a","         6","a","  53.3"," ,a,0824, ","    789.0"," ,a"
+"ASN00009052","1941","-32.4","116.0167",,"THE CHESTNUTS, AS","       124","a","        89","a","        10","a","  62.0"," ,a,0505, ","   1196.0"," ,a"

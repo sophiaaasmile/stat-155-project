@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00017077","1927","-30.585","138.0592","66.0","BELTANA DEPOT WELL, AS","        13","a","         7","a","         1","a","  25.4"," ,a,0609, ","     92.5"," ,a"
+"ASN00017077","1930","-30.585","138.0592","66.0","BELTANA DEPOT WELL, AS","        24","a","        19","a","         1","a","  26.2"," ,a,1204, ","    221.6"," ,a"
+"ASN00017077","1936","-30.585","138.0592","66.0","BELTANA DEPOT WELL, AS","        13","a","         9","a","         1","a","  27.9"," ,a,0104, ","     94.4"," ,a"

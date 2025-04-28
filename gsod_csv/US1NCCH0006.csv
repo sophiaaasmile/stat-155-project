@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCCH0006","2019","35.68886","-79.48052","206.0","SILER CITY 2.7 SSW, NC US","","","","","","","","","   1351.8"," ,N"
+"US1NCCH0006","2020","35.68886","-79.48052","206.0","SILER CITY 2.7 SSW, NC US","       140","N","        85","N","        20","N"," 106.7"," ,N,0612, ","   1504.8"," ,N"
+"US1NCCH0006","2022","35.68886","-79.48052","206.0","SILER CITY 2.7 SSW, NC US","       109","N","        68","N","        11","N","  89.9"," ,N,1001, ","   1147.6"," ,N"
+"US1NCCH0006","2024","35.68886","-79.48052","206.0","SILER CITY 2.7 SSW, NC US","       110","N","        74","N","        19","N","  96.5"," ,N,0917, ","   1374.5"," ,N"

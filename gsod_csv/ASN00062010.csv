@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00062010","2006","-32.8221","149.0723","600.0","STUART TOWN MOOKER HILL, AS","        52","a","        28","a","         3","a","  33.0"," ,a,0216, ","    251.6"," ,a"
+"ASN00062010","2007","-32.8221","149.0723","600.0","STUART TOWN MOOKER HILL, AS","        94","a","        46","a","         3","a","  56.0"," ,a,0518, ","    600.4"," ,a"
+"ASN00062010","2024","-32.8221","149.0723","600.0","STUART TOWN MOOKER HILL, AS","        85","a","        51","a","         6","a","  52.2"," ,a,0118, ","    678.0"," ,a"

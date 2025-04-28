@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NMBR0316","2020","35.09186","-106.48699","1821.5","ALBUQUERQUE 8.0 ESE, NM US","        64","N","        25","N","         0","N","","","","","  19.8"," ,N,0726, ","    200.4"," ,N","",""
+"US1NMBR0316","2021","35.09186","-106.48699","1821.5","ALBUQUERQUE 8.0 ESE, NM US","        74","N","        32","N","         1","N","","","","","  25.7"," ,N,0721, ","    324.5"," ,N","",""
+"US1NMBR0316","2022","35.09186","-106.48699","1821.5","ALBUQUERQUE 8.0 ESE, NM US","        74","N","        37","N","         0","N","","","","","  20.1"," ,N,0626, ","    309.0"," ,N","",""
+"US1NMBR0316","2023","35.09186","-106.48699","1821.5","ALBUQUERQUE 8.0 ESE, NM US","        68","N","        23","N","         1","N","","","","","  51.3"," ,N,08  ,2","    258.5"," ,N","",""
+"US1NMBR0316","2024","35.09186","-106.48699","1821.5","ALBUQUERQUE 8.0 ESE, NM US","        71","N","        32","N","         0","N","         3","N","   114"," ,N,0105, ","  24.6"," ,N,0610, ","    279.5"," ,N","      296"," ,N"

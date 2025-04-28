@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1PAMT0019","2007","40.29191","-75.46685","103.9","SPRING MOUNT 1.3 N, PA US","       110","N","        79","N","        10","N","         5","N","    97"," ,N,0317, ","  83.8"," ,N,0416, ","   1236.6"," ,N","      334"," ,N"
+"US1PAMT0019","2008","40.29191","-75.46685","103.9","SPRING MOUNT 1.3 N, PA US","       116","N","        76","N","        12","N","","","","","  67.8"," ,N,1212, ","   1146.2"," ,N","",""
+"US1PAMT0019","2009","40.29191","-75.46685","103.9","SPRING MOUNT 1.3 N, PA US","       138","N","        91","N","         8","N","","","","","  47.0"," ,N,1209, ","   1206.4"," ,N","",""

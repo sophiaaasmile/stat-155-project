@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00003085","1993","-17.4311","123.0389","80.0","MOUNT JOWLAENGA, AS","        47","a","        40","a","         9","a"," 128.4"," ,a,1217, ","    801.9"," ,a"
+"ASN00003085","1994","-17.4311","123.0389","80.0","MOUNT JOWLAENGA, AS","        36","a","        32","a","         4","a","  60.0"," ,a,0215, ","    480.0"," ,a"
+"ASN00003085","1995","-17.4311","123.0389","80.0","MOUNT JOWLAENGA, AS","        67","a","        51","a","         7","a","  67.0"," ,a,0204, ","    794.6"," ,a"
+"ASN00003085","1996","-17.4311","123.0389","80.0","MOUNT JOWLAENGA, AS","        47","a","        41","a","         8","a"," 111.8"," ,a,0309, ","    800.8"," ,a"

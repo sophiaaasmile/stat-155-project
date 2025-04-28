@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00086255","1970","-38.55","145.4833","30.5","KILCUNDA WEATHERALL, AS","       170","a","       103","a","         8","a","  57.7"," ,a,0321, ","   1097.5"," ,a"
+"ASN00086255","1971","-38.55","145.4833","30.5","KILCUNDA WEATHERALL, AS","       167","a","       100","a","         1","a","  32.3"," ,a,1106, ","    946.6"," ,a"
+"ASN00086255","1972","-38.55","145.4833","30.5","KILCUNDA WEATHERALL, AS","       131","a","        62","a","         2","a","  29.5"," ,a,0410, ","    606.6"," ,a"

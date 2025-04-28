@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003023400","1948","51.1833","-112.5833","937.0","HUSSAR, AB CA","        66","C","        41","C","         1","C","        18","C","   203"," ,C,0303, ","  48.0"," ,C,0507, ","    362.4"," ,C","     1308"," ,C"
+"CA003023400","1950","51.1833","-112.5833","937.0","HUSSAR, AB CA","        77","C","        35","C","         2","C","         6","C","   305"," ,C,1006, ","  30.5"," ,C,1006, ","    330.1"," ,C","      671"," ,C"
+"CA003023400","1954","51.1833","-112.5833","937.0","HUSSAR, AB CA","        92","C","        64","C","         2","C","        23","C","    76"," ,C,0424,+","  38.1"," ,C,0803, ","    502.5"," ,C","     1073"," ,C"

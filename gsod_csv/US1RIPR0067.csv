@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1RIPR0067","2020","41.83564","-71.39487","38.1","PROVIDENCE 1.6 NE, RI US","       134","N","        81","N","         9","N","  85.3"," ,N,1201, ","   1135.5"," ,N"
+"US1RIPR0067","2021","41.83564","-71.39487","38.1","PROVIDENCE 1.6 NE, RI US","       146","N","        79","N","        13","N","  99.8"," ,N,0902, ","   1260.9"," ,N"
+"US1RIPR0067","2022","41.83564","-71.39487","38.1","PROVIDENCE 1.6 NE, RI US","       110","N","        74","N","        11","N"," 147.1"," ,N,0906, ","   1199.2"," ,N"
+"US1RIPR0067","2023","41.83564","-71.39487","38.1","PROVIDENCE 1.6 NE, RI US","       140","N","        83","N","        22","N","  86.1"," ,N,0717, ","   1524.3"," ,N"

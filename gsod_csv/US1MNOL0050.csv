@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNOL0050","2021","43.858347","-92.403066","389.5","STEWARTVILLE 4.3 E, MN US","        96","N","        52","N","         8","N","  66.0"," ,N,0707, ","    690.5"," ,N"
+"US1MNOL0050","2022","43.858347","-92.403066","389.5","STEWARTVILLE 4.3 E, MN US","       110","N","        62","N","         8","N","  87.6"," ,N,0724, ","    871.7"," ,N"
+"US1MNOL0050","2023","43.858347","-92.403066","389.5","STEWARTVILLE 4.3 E, MN US","       101","N","        59","N","         6","N","  54.9"," ,N,0401, ","    683.1"," ,N"
+"US1MNOL0050","2024","43.858347","-92.403066","389.5","STEWARTVILLE 4.3 E, MN US","       116","N","        69","N","         9","N"," 115.8"," ,N,0622, ","    999.2"," ,N"

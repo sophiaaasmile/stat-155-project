@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056179","1965","-30.3667","150.9833","731.5","BRAMBLE BERRY, AS","        67","a","        33","a","         4","a","  39.4"," ,a,1208, ","    412.7"," ,a"
+"ASN00056179","1966","-30.3667","150.9833","731.5","BRAMBLE BERRY, AS","        77","a","        50","a","         8","a","  73.7"," ,a,1108, ","    732.9"," ,a"
+"ASN00056179","1968","-30.3667","150.9833","731.5","BRAMBLE BERRY, AS","        93","a","        56","a","         6","a","  55.4"," ,a,0113, ","    771.1"," ,a"

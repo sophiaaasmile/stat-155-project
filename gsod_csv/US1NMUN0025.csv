@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMUN0025","2020","36.27527","-103.22431","1490.8","CLAYTON 12.4 SSW, NM US","        57","N","        26","N","         2","N","  34.3"," ,N,0708, ","    292.8"," ,N"
+"US1NMUN0025","2022","36.27527","-103.22431","1490.8","CLAYTON 12.4 SSW, NM US","        51","N","        23","N","         3","N","  90.9"," ,N,0731, ","    383.9"," ,N"
+"US1NMUN0025","2023","36.27527","-103.22431","1490.8","CLAYTON 12.4 SSW, NM US","        59","N","        34","N","         3","N","  38.6"," ,N,0915, ","    401.7"," ,N"
+"US1NMUN0025","2024","36.27527","-103.22431","1490.8","CLAYTON 12.4 SSW, NM US","        60","N","        36","N","         7","N","  40.6"," ,N,1020,+","    526.8"," ,N"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NJAT0045","2020","39.443566","-74.6361","18.6","HAMILTON TWP 6.6 ESE, NJ US","       134","N","        94","N","        19","N","  83.8"," ,N,0808, ","   1547.4"," ,N"
+"US1NJAT0045","2021","39.443566","-74.6361","18.6","HAMILTON TWP 6.6 ESE, NJ US","       122","N","        80","N","        11","N","  61.0"," ,N,0709, ","   1102.1"," ,N"
+"US1NJAT0045","2022","39.443566","-74.6361","18.6","HAMILTON TWP 6.6 ESE, NJ US","       119","N","        75","N","        11","N"," 107.7"," ,N,1003, ","   1279.4"," ,N"
+"US1NJAT0045","2023","39.443566","-74.6361","18.6","HAMILTON TWP 6.6 ESE, NJ US","       114","N","        73","N","        11","N","  70.9"," ,N,1218, ","   1211.3"," ,N"
+"US1NJAT0045","2024","39.443566","-74.6361","18.6","HAMILTON TWP 6.6 ESE, NJ US","       111","N","        78","N","        11","N","  73.7"," ,N,0110, ","   1173.1"," ,N"

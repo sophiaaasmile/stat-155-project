@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NDCV0004","2021","48.757576","-98.34205","500.2","LANGDON 1.4 ESE, ND US","        82","N","        34","N","         3","N","  84.6"," ,N,0810, ","    464.5"," ,N"
+"US1NDCV0004","2022","48.757576","-98.34205","500.2","LANGDON 1.4 ESE, ND US","       119","N","        48","N","         2","N","  51.3"," ,N,0531, ","    556.7"," ,N"
+"US1NDCV0004","2023","48.757576","-98.34205","500.2","LANGDON 1.4 ESE, ND US","        75","N","        32","N","         0","N","  24.1"," ,N,0622, ","    276.5"," ,N"
+"US1NDCV0004","2024","48.757576","-98.34205","500.2","LANGDON 1.4 ESE, ND US","        98","N","        48","N","        10","N","  93.5"," ,N,0917, ","    766.3"," ,N"

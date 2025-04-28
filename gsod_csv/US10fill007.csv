@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10fill007","2005","40.3509","-97.5014","481.0","OHIOWA 5.0 SW, NE US","        57","N","        42","N","         6","N"," 104.1"," ,N,0726, ","    673.8"," ,N"
+"US10fill007","2009","40.3509","-97.5014","481.0","OHIOWA 5.0 SW, NE US","        63","N","        46","N","         4","N","  48.3"," ,N,0621, ","    532.1"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSEK0005","2021","37.45667","-96.25667","305.7","HOWARD 0.9 SSE, KS US","       106","N","        56","N","        12","N","  93.2"," ,N,1011, ","    961.4"," ,N"
+"US1KSEK0005","2022","37.45667","-96.25667","305.7","HOWARD 0.9 SSE, KS US","        88","N","        54","N","         7","N"," 125.2"," ,N,0601, ","    904.2"," ,N"
+"US1KSEK0005","2023","37.45667","-96.25667","305.7","HOWARD 0.9 SSE, KS US","        92","N","        59","N","         2","N","  46.7"," ,N,1025, ","    694.3"," ,N"
+"US1KSEK0005","2024","37.45667","-96.25667","305.7","HOWARD 0.9 SSE, KS US","        79","N","        56","N","         8","N"," 128.3"," ,N,0428, ","    917.0"," ,N"

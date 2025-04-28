@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001741007","1973","-17.88","-41.31","284.0","PEDRO VERSIANI EFBM, BR","        75","I","        56","I","        12","I","  65.0"," ,I,0314, ","   1014.8"," ,I"
+"BR001741007","1987","-17.88","-41.31","284.0","PEDRO VERSIANI EFBM, BR","        76","I","        72","I","        35","I"," 182.0"," ,I,1203, ","   2879.8"," ,I"
+"BR001741007","2000","-17.88","-41.31","284.0","PEDRO VERSIANI EFBM, BR","       100","I","        83","I","        19","I","  77.8"," ,I,0123, ","   1636.5"," ,I"

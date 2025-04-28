@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00044201","2004","-26.0808","146.4172","323.6","THE 27 MILE GARDEN TM, AS","        41","a","        29","a","         9","a","  68.6"," ,a,1210, ","    559.4"," ,a"
+"ASN00044201","2007","-26.0808","146.4172","323.6","THE 27 MILE GARDEN TM, AS","        45","a","        29","a","         2","a","  48.4"," ,a,0124, ","    346.6"," ,a"
+"ASN00044201","2010","-26.0808","146.4172","323.6","THE 27 MILE GARDEN TM, AS","        82","a","        65","a","        14","a"," 103.6"," ,a,0302, ","   1273.8"," ,a"

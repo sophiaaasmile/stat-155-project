@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00077092","1978","-35.55","143.7667",,"KANGAROO LAKE, AS","","","","","","","","","    399.6"," ,a"
+"ASN00077092","1979","-35.55","143.7667",,"KANGAROO LAKE, AS","        53","a","        35","a","         1","a","  43.2"," ,a,0121, ","    310.9"," ,a"
+"ASN00077092","1981","-35.55","143.7667",,"KANGAROO LAKE, AS","        81","a","        52","a","         1","a","  32.0"," ,a,0331, ","    427.6"," ,a"

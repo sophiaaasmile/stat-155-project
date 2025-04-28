@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ORJS0024","2017","42.170737","-123.637524","424.3","CAVE JUNCTION 0.4 ENE, OR US","       123","N","        94","N","        23","N","  81.5"," ,N,0216, ","   1746.8"," ,N"
+"US1ORJS0024","2018","42.170737","-123.637524","424.3","CAVE JUNCTION 0.4 ENE, OR US","       101","N","        73","N","         9","N","  45.7"," ,N,0324, ","   1010.1"," ,N"
+"US1ORJS0024","2019","42.170737","-123.637524","424.3","CAVE JUNCTION 0.4 ENE, OR US","       114","N","        78","N","        18","N","  97.5"," ,N,0120, ","   1482.4"," ,N"
+"US1ORJS0024","2023","42.170737","-123.637524","424.3","CAVE JUNCTION 0.4 ENE, OR US","       128","N","        84","N","        16","N","  57.2"," ,N,0328, ","   1245.5"," ,N"
+"US1ORJS0024","2024","42.170737","-123.637524","424.3","CAVE JUNCTION 0.4 ENE, OR US","       136","N","        93","N","        31","N","  79.8"," ,N,0215, ","   2032.9"," ,N"

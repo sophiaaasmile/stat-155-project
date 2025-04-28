@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CTMD0018","2020","41.34475","-72.39281","9.1","ESSEX VILLAGE 0.9 S, CT US","       143","N","        92","N","        10","N","  57.2"," ,N,0701, ","   1204.5"," ,N"
+"US1CTMD0018","2021","41.34475","-72.39281","9.1","ESSEX VILLAGE 0.9 S, CT US","       140","N","        80","N","        14","N"," 165.9"," ,N,0902, ","   1319.4"," ,N"
+"US1CTMD0018","2022","41.34475","-72.39281","9.1","ESSEX VILLAGE 0.9 S, CT US","       137","N","        92","N","         8","N","  83.1"," ,N,0906, ","   1190.4"," ,N"
+"US1CTMD0018","2023","41.34475","-72.39281","9.1","ESSEX VILLAGE 0.9 S, CT US","       153","N","        87","N","        20","N","  69.9"," ,N,1211, ","   1389.5"," ,N"
+"US1CTMD0018","2024","41.34475","-72.39281","9.1","ESSEX VILLAGE 0.9 S, CT US","       139","N","        84","N","        17","N","  85.9"," ,N,0110, ","   1520.9"," ,N"

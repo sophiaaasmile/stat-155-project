@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00051151","1915","-31.15","147.5167","165.0","NYNGAN PINE RIDGE, AS","        40","a","        21","a","         2","a","  45.5"," ,a,0515, ","    235.1"," ,a"
+"ASN00051151","1916","-31.15","147.5167","165.0","NYNGAN PINE RIDGE, AS","        62","a","        36","a","         5","a","  82.8"," ,a,0410, ","    518.0"," ,a"
+"ASN00051151","1917","-31.15","147.5167","165.0","NYNGAN PINE RIDGE, AS","        48","a","        42","a","         6","a","  45.2"," ,a,0207, ","    487.9"," ,a"
+"ASN00051151","1920","-31.15","147.5167","165.0","NYNGAN PINE RIDGE, AS","        39","a","        34","a","         2","a","  35.3"," ,a,0630, ","    356.9"," ,a"

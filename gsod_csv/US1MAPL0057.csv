@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MAPL0057","2021","42.090749","-70.849143","25.9","HANSON 1.8 N, MA US","       153","N","        86","N","        18","N"," 104.1"," ,N,0902, ","   1533.5"," ,N"
+"US1MAPL0057","2023","42.090749","-70.849143","25.9","HANSON 1.8 N, MA US","       162","N","        93","N","        20","N","  55.9"," ,N,0521, ","   1517.5"," ,N"
+"US1MAPL0057","2024","42.090749","-70.849143","25.9","HANSON 1.8 N, MA US","       146","N","        85","N","        13","N","  71.6"," ,N,0110, ","   1383.1"," ,N"

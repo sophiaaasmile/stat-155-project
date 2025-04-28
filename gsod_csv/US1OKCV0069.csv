@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKCV0069","2010","35.2013729","-97.345213","335.6","NORMAN 5.5 ESE, OK US","        75","N","        50","N","        10","N","  46.2"," ,N,0909, ","    782.6"," ,N"
+"US1OKCV0069","2011","35.2013729","-97.345213","335.6","NORMAN 5.5 ESE, OK US","        47","N","        34","N","         7","N","  73.7"," ,N,0425, ","    673.9"," ,N"
+"US1OKCV0069","2014","35.2013729","-97.345213","335.6","NORMAN 5.5 ESE, OK US","","","","","","","","","    656.9"," ,N"
+"US1OKCV0069","2015","35.2013729","-97.345213","335.6","NORMAN 5.5 ESE, OK US","","","","","","","","","   1571.4"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSSA0047","2021","38.831074","-97.567065","385.9","SALINA 2.9 ENE, KS US","        84","N","        39","N","         9","N","  77.0"," ,N,0509, ","    727.8"," ,N"
+"US1KSSA0047","2022","38.831074","-97.567065","385.9","SALINA 2.9 ENE, KS US","        81","N","        41","N","         9","N","  83.8"," ,N,0702, ","    713.5"," ,N"
+"US1KSSA0047","2023","38.831074","-97.567065","385.9","SALINA 2.9 ENE, KS US","        85","N","        47","N","         6","N","  55.6"," ,N,0515, ","    667.9"," ,N"
+"US1KSSA0047","2024","38.831074","-97.567065","385.9","SALINA 2.9 ENE, KS US","        87","N","        47","N","         6","N","  43.2"," ,N,1119, ","    639.9"," ,N"

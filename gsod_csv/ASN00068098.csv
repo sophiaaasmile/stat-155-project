@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00068098","1962","-34.4","150.15","749.8","TUGALONG MOSS VALE, AS","        86","a","        59","a","         6","a","  71.1"," ,a,0111, ","    821.9"," ,a"
+"ASN00068098","1963","-34.4","150.15","749.8","TUGALONG MOSS VALE, AS","       117","a","        77","a","         7","a"," 106.7"," ,a,0429, ","   1270.6"," ,a"
+"ASN00068098","1965","-34.4","150.15","749.8","TUGALONG MOSS VALE, AS","        68","a","        33","a","         6","a","  51.6"," ,a,1017, ","    481.5"," ,a"

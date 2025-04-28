@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001021994","1990","49.7","-124.9667","76.0","COURTENAY SANDWICK, BC CA","       162","C","       102","C","        11","C","","","         6","C","","","   305"," ,C,0129, ","  58.6"," ,C,1128, ","   1265.4"," ,C","     1022"," ,C"
+"CA001021994","1991","49.7","-124.9667","76.0","COURTENAY SANDWICK, BC CA","","","","","","","       23","","         7","C","   420"," ,C,0109, ","   228"," ,C,0301, ","","","","","      768"," ,C"
+"CA001021994","1992","49.7","-124.9667","76.0","COURTENAY SANDWICK, BC CA","       168","C","       107","C","        14","C","","","         7","C","","","   170"," ,C,1227, ","  57.8"," ,C,0202, ","   1456.0"," ,C","      558"," ,C"

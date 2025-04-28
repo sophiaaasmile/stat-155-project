@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA00110361F","1995","49.4167","-123.2333","20.0","HOWE SOUND STRACHAN CRK, BC CA","        0","","         3","C","     0"," ,C,1231,+","    80"," ,C,0214, ","   2711.2"," ,C","      190"," ,C"
+"CA00110361F","1997","49.4167","-123.2333","20.0","HOWE SOUND STRACHAN CRK, BC CA","        0","","         2","C","     0"," ,C,1231,+","    91"," ,C,0328, ","","","      116"," ,C"
+"CA00110361F","2001","49.4167","-123.2333","20.0","HOWE SOUND STRACHAN CRK, BC CA","        0","","         0","C","     0"," ,C,1231,+","    10"," ,C,0207, ","","","       10"," ,C"
+"CA00110361F","2002","49.4167","-123.2333","20.0","HOWE SOUND STRACHAN CRK, BC CA","","","         5","C","","","   170"," ,C,0126, ","","","      558"," ,C"
+"CA00110361F","2003","49.4167","-123.2333","20.0","HOWE SOUND STRACHAN CRK, BC CA","        0","","         0","C","     0"," ,C,1231,+","    20"," ,C,1229, ","   2573.8"," ,C","      518"," ,C"
+"CA00110361F","2004","49.4167","-123.2333","20.0","HOWE SOUND STRACHAN CRK, BC CA","","","         2","C","","","    50"," ,C,0106,+","","","      150"," ,C"

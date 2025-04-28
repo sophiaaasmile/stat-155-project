@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001012566","1961","48.7833","-123.6833","8.0","DUNCAN EAST, BC CA","       167","C","       110","C","        11","C","         2","C","   201"," ,C,0305, ","  86.1"," ,C,0114, ","   1330.9"," ,C","      368"," ,C"
+"CA001012566","1962","48.7833","-123.6833","8.0","DUNCAN EAST, BC CA","       157","C","        98","C","         8","C","         6","C","    69"," ,C,0304, ","  42.2"," ,C,0426, ","   1095.8"," ,C","      395"," ,C"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COJF0513","2021","39.873732","-105.057808","1642.6","WESTMINSTER 0.6 SW, CO US","        64","N","        30","N","         0","N","  25.1"," ,N,0801, ","    322.7"," ,N"
+"US1COJF0513","2022","39.873732","-105.057808","1642.6","WESTMINSTER 0.6 SW, CO US","        80","N","        36","N","         1","N","  30.7"," ,N,0601, ","    379.5"," ,N"
+"US1COJF0513","2023","39.873732","-105.057808","1642.6","WESTMINSTER 0.6 SW, CO US","        97","N","        43","N","         3","N","  69.6"," ,N,0512, ","    486.2"," ,N"
+"US1COJF0513","2024","39.873732","-105.057808","1642.6","WESTMINSTER 0.6 SW, CO US","        77","N","        38","N","         2","N","  32.5"," ,N,0204, ","    412.7"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00088128","1928","-37.2667","144.6333",,"COBAW HAZEL FARM, AS","        70","a","        64","a","         9","a"," 100.8"," ,a,0321, ","    917.4"," ,a"
+"ASN00088128","1929","-37.2667","144.6333",,"COBAW HAZEL FARM, AS","        71","a","        64","a","         4","a","  72.1"," ,a,0404, ","    746.4"," ,a"
+"ASN00088128","1930","-37.2667","144.6333",,"COBAW HAZEL FARM, AS","        74","a","        67","a","         9","a","  94.0"," ,a,1206, ","   1054.3"," ,a"

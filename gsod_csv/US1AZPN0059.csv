@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZPN0059","2017","32.9568","-111.3195","552.6","FLORENCE 6.2 SE, AZ US","        34","N","        19","N","         0","N","  22.1"," ,N,0121, ","    146.9"," ,N"
+"US1AZPN0059","2018","32.9568","-111.3195","552.6","FLORENCE 6.2 SE, AZ US","        44","N","        23","N","         2","N","  36.1"," ,N,0903, ","    288.0"," ,N"
+"US1AZPN0059","2019","32.9568","-111.3195","552.6","FLORENCE 6.2 SE, AZ US","        44","N","        31","N","         3","N","  36.6"," ,N,1120, ","    366.3"," ,N"

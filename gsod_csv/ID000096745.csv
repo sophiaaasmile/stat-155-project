@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"ID000096745","2010","-6.183","106.833","8.0","JAKARTA OBSERVATORY, ID","         0","S","       335","S","       209","S","   35.4","S,0503, ","     32.33","S"
+"ID000096745","2011","-6.183","106.833","8.0","JAKARTA OBSERVATORY, ID","         0","S","       339","S","       234","S","   35.4","S,1119,+","     32.50","S"
+"ID000096745","2019","-6.183","106.833","8.0","JAKARTA OBSERVATORY, ID","         0","S","       334","S","       229","S","   35.2","S,0411, ","     32.59","S"
+"ID000096745","2022","-6.183","106.833","8.0","JAKARTA OBSERVATORY, ID","         0","S","       351","S","       203","S","   35.4","S,1028, ","     32.16","S"

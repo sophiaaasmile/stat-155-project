@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040217","1932","-27.4833","153.1",,"CANNON HILL, AS","","","","","","","","","    560.1"," ,a"
+"ASN00040217","1933","-27.4833","153.1",,"CANNON HILL, AS","        78","a","        62","a","        11","a"," 185.9"," ,a,0405, ","   1232.2"," ,a"
+"ASN00040217","1945","-27.4833","153.1",,"CANNON HILL, AS","        91","a","        59","a","        18","a","  94.0"," ,a,0611, ","   1178.6"," ,a"
+"ASN00040217","1946","-27.4833","153.1",,"CANNON HILL, AS","        52","a","        43","a","         8","a"," 112.8"," ,a,0325, ","    828.1"," ,a"

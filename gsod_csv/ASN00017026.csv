@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00017026","2002","-28.3724","139.9724","30.0","MOOMBA DARALINGIE, AS","         5","a","         5","a","         2","a","  26.8"," ,a,0224, ","     74.4"," ,a"
+"ASN00017026","2003","-28.3724","139.9724","30.0","MOOMBA DARALINGIE, AS","        15","a","        11","a","         0","a","  19.0"," ,a,0813, ","    179.1"," ,a"
+"ASN00017026","2004","-28.3724","139.9724","30.0","MOOMBA DARALINGIE, AS","        14","a","        11","a","         0","a","  20.9"," ,a,1209, ","    111.1"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040658","2005","-26.6028","153.0431","21.0","BLI BLI, AS","       137","a","        93","a","        11","a","  64.8"," ,a,0509, ","   1276.0"," ,a"
+"ASN00040658","2006","-26.6028","153.0431","21.0","BLI BLI, AS","       116","a","        74","a","        17","a","  93.2"," ,a,0621, ","   1339.0"," ,a"
+"ASN00040658","2007","-26.6028","153.0431","21.0","BLI BLI, AS","","","","","","","","","   1907.3"," ,a"

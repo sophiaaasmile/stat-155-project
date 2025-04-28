@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COPU0132","2020","38.318763","-104.7649014","1530.4","PUEBLO WEST 3.2 SW, CO US","        47","N","        21","N","         0","N","  22.4"," ,N,0716, ","    182.3"," ,N"
+"US1COPU0132","2021","38.318763","-104.7649014","1530.4","PUEBLO WEST 3.2 SW, CO US","        52","N","        27","N","         1","N","  47.0"," ,N,0518, ","    252.0"," ,N"
+"US1COPU0132","2022","38.318763","-104.7649014","1530.4","PUEBLO WEST 3.2 SW, CO US","        53","N","        23","N","         2","N","  37.1"," ,N,0808, ","    264.4"," ,N"
+"US1COPU0132","2024","38.318763","-104.7649014","1530.4","PUEBLO WEST 3.2 SW, CO US","        68","N","        40","N","         3","N","  35.6"," ,N,1109, ","    417.9"," ,N"

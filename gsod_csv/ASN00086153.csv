@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00086153","1893","-38.0","145.35",,"BEACONSFIELD LOUISVILLE, AS","       133","a","        99","a","         9","a","  43.9"," ,a,0925, ","   1079.7"," ,a"
+"ASN00086153","1894","-38.0","145.35",,"BEACONSFIELD LOUISVILLE, AS","       128","a","       100","a","         3","a","  61.0"," ,a,1229,+","    996.7"," ,a"
+"ASN00086153","1895","-38.0","145.35",,"BEACONSFIELD LOUISVILLE, AS","       109","a","        93","a","         4","a","  41.9"," ,a,0105, ","    837.9"," ,a"
+"ASN00086153","1912","-38.0","145.35",,"BEACONSFIELD LOUISVILLE, AS","       138","a","        83","a","         2","a","  37.8"," ,a,1206, ","    779.8"," ,a"
+"ASN00086153","1916","-38.0","145.35",,"BEACONSFIELD LOUISVILLE, AS","       188","a","       114","a","         9","a","  66.3"," ,a,0923, ","   1216.1"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COLR0858","2010","40.384572","-105.547509","2351.2","ESTES PARK 1.6 WNW, CO US","       111","N","        50","N","         1","N","  41.1"," ,N,0511, ","    488.3"," ,N"
+"US1COLR0858","2011","40.384572","-105.547509","2351.2","ESTES PARK 1.6 WNW, CO US","       108","N","        47","N","         1","N","  35.3"," ,N,0518, ","    451.9"," ,N"
+"US1COLR0858","2012","40.384572","-105.547509","2351.2","ESTES PARK 1.6 WNW, CO US","        88","N","        39","N","         1","N","  29.2"," ,N,0706, ","    308.6"," ,N"
+"US1COLR0858","2013","40.384572","-105.547509","2351.2","ESTES PARK 1.6 WNW, CO US","       113","N","        61","N","         3","N","  38.4"," ,N,0911, ","    531.4"," ,N"

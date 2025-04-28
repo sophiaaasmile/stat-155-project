@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMCB0027","2022","35.169662","-107.817456","1987.9","GRANTS 1.6 NE, NM US","        73","N","        30","N","         0","N","  20.8"," ,N,0827, ","    276.8"," ,N"
+"US1NMCB0027","2023","35.169662","-107.817456","1987.9","GRANTS 1.6 NE, NM US","        79","N","        23","N","         0","N","   9.1"," ,N,1120, ","    151.9"," ,N"
+"US1NMCB0027","2024","35.169662","-107.817456","1987.9","GRANTS 1.6 NE, NM US","        81","N","        30","N","         1","N"," 115.1"," ,N,0622, ","    357.6"," ,N"

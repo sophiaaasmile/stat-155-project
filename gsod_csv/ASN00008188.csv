@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00008188","1915","-28.3","114.8",,"BEATININE, AS","       109","a","        70","a","         5","a","  46.5"," ,a,0626, ","    685.1"," ,a"
+"ASN00008188","1916","-28.3","114.8",,"BEATININE, AS","        61","a","        37","a","         3","a","  66.5"," ,a,0121, ","    471.8"," ,a"
+"ASN00008188","1917","-28.3","114.8",,"BEATININE, AS","        79","a","        57","a","         8","a","  58.4"," ,a,0319, ","    746.7"," ,a"
+"ASN00008188","1918","-28.3","114.8",,"BEATININE, AS","        55","a","        50","a","         3","a","  31.8"," ,a,0224, ","    457.4"," ,a"

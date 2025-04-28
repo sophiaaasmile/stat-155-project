@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040580","1912","-27.5","152.45",,"LOCKROSE, AS","        50","a","        47","a","         9","a","  64.3"," ,a,0303, ","    812.7"," ,a"
+"ASN00040580","1913","-27.5","152.45",,"LOCKROSE, AS","        24","a","        24","a","         4","a","  76.2"," ,a,0622, ","    459.4"," ,a"
+"ASN00040580","1914","-27.5","152.45",,"LOCKROSE, AS","        29","a","        29","a","         9","a"," 101.6"," ,a,1225, ","    658.6"," ,a"

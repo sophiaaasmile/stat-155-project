@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00043076","1920","-27.4833","149.05",,"REDBANK, AS","        69","a","        38","a","         6","a","  64.0"," ,a,0613, ","    614.6"," ,a"
+"ASN00043076","1922","-27.4833","149.05",,"REDBANK, AS","        44","a","        30","a","         2","a","  73.9"," ,a,1206, ","    374.5"," ,a"
+"ASN00043076","1923","-27.4833","149.05",,"REDBANK, AS","        34","a","        24","a","         2","a"," 102.1"," ,a,1224, ","    370.1"," ,a"

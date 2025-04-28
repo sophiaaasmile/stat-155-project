@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NJBG0015","2012","40.791492","-74.13979","17.7","NORTH ARLINGTON 0.7 WNW, NJ US","","","","","","","","","    921.4"," ,N"
+"US1NJBG0015","2020","40.791492","-74.13979","17.7","NORTH ARLINGTON 0.7 WNW, NJ US","       166","N","        87","N","        12","N","  76.2"," ,N,0711, ","   1229.3"," ,N"
+"US1NJBG0015","2021","40.791492","-74.13979","17.7","NORTH ARLINGTON 0.7 WNW, NJ US","       135","N","        77","N","        14","N"," 223.5"," ,N,0902, ","   1551.7"," ,N"
+"US1NJBG0015","2023","40.791492","-74.13979","17.7","NORTH ARLINGTON 0.7 WNW, NJ US","       132","N","        75","N","        20","N","  84.1"," ,N,1218, ","   1498.4"," ,N"
+"US1NJBG0015","2024","40.791492","-74.13979","17.7","NORTH ARLINGTON 0.7 WNW, NJ US","       131","N","        87","N","        12","N"," 104.9"," ,N,0807, ","   1351.0"," ,N"

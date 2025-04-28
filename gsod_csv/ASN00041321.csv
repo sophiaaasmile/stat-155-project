@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00041321","1960","-28.4333","151.9667","807.7","BIANCHRE, AS","        93","a","        66","a","         3","a","  52.8"," ,a,0513, ","    678.8"," ,a"
+"ASN00041321","1961","-28.4333","151.9667","807.7","BIANCHRE, AS","        92","a","        57","a","         7","a","  71.1"," ,a,0219, ","    755.8"," ,a"
+"ASN00041321","1962","-28.4333","151.9667","807.7","BIANCHRE, AS","       111","a","        69","a","         8","a","  98.3"," ,a,0101, ","   1023.8"," ,a"

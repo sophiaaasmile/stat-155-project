@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COEP0271","2020","39.013917","-104.744889","2184.8","BLACK FOREST 4.7 WSW, CO US","        84","N","        30","N","         0","N","","","","","  23.9"," ,N,0627, ","    276.8"," ,N","",""
+"US1COEP0271","2021","39.013917","-104.744889","2184.8","BLACK FOREST 4.7 WSW, CO US","        84","N","        42","N","         1","N","        19","N","   254"," ,N,0315, ","  56.1"," ,N,0801, ","    403.1"," ,N","     1718"," ,N"
+"US1COEP0271","2022","39.013917","-104.744889","2184.8","BLACK FOREST 4.7 WSW, CO US","       101","N","        33","N","         1","N","        26","N","   330"," ,N,0521, ","  28.7"," ,N,0521, ","    294.7"," ,N","     1912"," ,N"

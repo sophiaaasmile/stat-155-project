@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMGR0012","2009","32.8699","-108.283715","2026.9","SILVER CITY 6.1 N, NM US","        85","N","        45","N","         2","N","  50.3"," ,N,0912, ","    448.5"," ,N"
+"US1NMGR0012","2010","32.8699","-108.283715","2026.9","SILVER CITY 6.1 N, NM US","        88","N","        56","N","         4","N","  51.3"," ,N,0711, ","    666.0"," ,N"
+"US1NMGR0012","2011","32.8699","-108.283715","2026.9","SILVER CITY 6.1 N, NM US","        72","N","        35","N","         5","N","  69.3"," ,N,0725, ","    488.6"," ,N"

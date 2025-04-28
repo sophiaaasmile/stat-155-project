@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA008205079","1985","45.7833","-62.9667","17.0","SEAFOAM, NS CA","       143","C","        95","C","         8","C","        31","C","   270"," ,C,0115, ","  45.0"," ,C,0801, ","   1079.0"," ,C","     2940"," ,C"
+"CA008205079","1986","45.7833","-62.9667","17.0","SEAFOAM, NS CA","       147","C","        92","C","         6","C","        25","C","   410"," ,C,0222, ","  58.0"," ,C,0728, ","   1032.9"," ,C","     2660"," ,C"
+"CA008205079","1987","45.7833","-62.9667","17.0","SEAFOAM, NS CA","       141","C","        92","C","         6","C","        33","C","   330"," ,C,0316, ","  42.0"," ,C,0909, ","    996.9"," ,C","     3440"," ,C"

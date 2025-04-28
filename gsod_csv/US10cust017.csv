@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10cust017","2006","41.2252","-99.6644","741.0","BROKEN BOW 12.3 S, NE US","        40","N","        34","N","         1","N","  57.2"," ,N,0910, ","    385.2"," ,N"
+"US10cust017","2007","41.2252","-99.6644","741.0","BROKEN BOW 12.3 S, NE US","        50","N","        44","N","        10","N","  61.7"," ,N,0505, ","    662.4"," ,N"
+"US10cust017","2008","41.2252","-99.6644","741.0","BROKEN BOW 12.3 S, NE US","        54","N","        51","N","        12","N","  85.1"," ,N,0524, ","    820.1"," ,N"

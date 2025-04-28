@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1DENC0076","2022","39.506","-75.7719","13.1","MIDDLETOWN 4.9 NW, DE US","       121","N","        75","N","        13","N","  63.5"," ,N,1216, ","   1120.8"," ,N"
+"US1DENC0076","2023","39.506","-75.7719","13.1","MIDDLETOWN 4.9 NW, DE US","       107","N","        62","N","        16","N","  72.6"," ,N,1211, ","   1206.4"," ,N"
+"US1DENC0076","2024","39.506","-75.7719","13.1","MIDDLETOWN 4.9 NW, DE US","       113","N","        74","N","        10","N"," 131.8"," ,N,0606, ","   1091.6"," ,N"

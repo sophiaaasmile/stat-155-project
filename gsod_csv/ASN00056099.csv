@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056099","1961","-29.7167","151.2167","630.9","SWANBROOK IBIS VALLEY, AS","        68","a","        56","a","         4","a","  35.3"," ,a,0219, ","    613.7"," ,a"
+"ASN00056099","1965","-29.7167","151.2167","630.9","SWANBROOK IBIS VALLEY, AS","        37","a","        34","a","         3","a","  37.6"," ,a,0227, ","    334.4"," ,a"
+"ASN00056099","1966","-29.7167","151.2167","630.9","SWANBROOK IBIS VALLEY, AS","        43","a","        37","a","         6","a","  65.5"," ,a,1108, ","    559.3"," ,a"
+"ASN00056099","1968","-29.7167","151.2167","630.9","SWANBROOK IBIS VALLEY, AS","        37","a","        32","a","         0","a","  25.1"," ,a,0501, ","    334.1"," ,a"
+"ASN00056099","1969","-29.7167","151.2167","630.9","SWANBROOK IBIS VALLEY, AS","        43","a","        42","a","        10","a","  64.8"," ,a,0907,+","    779.1"," ,a"

@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002549078","1985","-25.39","-49.36","0.0","PASSAUNA DE SANTA FELICIDADE, BR","        76","I","        60","I","         6","I","  40.8"," ,I,0603, ","    834.7"," ,I"
+"BR002549078","1986","-25.39","-49.36","0.0","PASSAUNA DE SANTA FELICIDADE, BR","       121","I","        85","I","        20","I","  73.4"," ,I,0211, ","   1628.6"," ,I"
+"BR002549078","1987","-25.39","-49.36","0.0","PASSAUNA DE SANTA FELICIDADE, BR","       122","I","        87","I","        13","I"," 103.5"," ,I,0615, ","   1455.0"," ,I"
+"BR002549078","1989","-25.39","-49.36","0.0","PASSAUNA DE SANTA FELICIDADE, BR","       129","I","       102","I","        13","I","  70.6"," ,I,0912, ","   1452.6"," ,I"
+"BR002549078","1992","-25.39","-49.36","0.0","PASSAUNA DE SANTA FELICIDADE, BR","       112","I","        95","I","        15","I","  67.4"," ,I,0530, ","   1380.6"," ,I"
+"BR002549078","1995","-25.39","-49.36","0.0","PASSAUNA DE SANTA FELICIDADE, BR","        87","I","        72","I","        16","I"," 113.5"," ,I,0625, ","   1412.2"," ,I"
+"BR002549078","1996","-25.39","-49.36","0.0","PASSAUNA DE SANTA FELICIDADE, BR","        68","I","        61","I","        16","I","  85.0"," ,I,0628, ","   1231.6"," ,I"

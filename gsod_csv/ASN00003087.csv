@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00003087","1994","-17.5606","122.1458","15.0","TANJUNGPANDAN, AS","        25","a","        19","a","         4","a","  52.6"," ,a,0220, ","    329.6"," ,a"
+"ASN00003087","1995","-17.5606","122.1458","15.0","TANJUNGPANDAN, AS","        31","a","        24","a","         6","a","  36.6"," ,a,0306, ","    444.9"," ,a"
+"ASN00003087","1996","-17.5606","122.1458","15.0","TANJUNGPANDAN, AS","        50","a","        37","a","        10","a","  80.4"," ,a,0312, ","    666.4"," ,a"
+"ASN00003087","1997","-17.5606","122.1458","15.0","TANJUNGPANDAN, AS","        39","a","        30","a","         9","a"," 245.0"," ,a,0510, ","   1157.2"," ,a"

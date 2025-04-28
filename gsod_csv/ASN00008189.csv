@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00008189","1916","-30.6","116.2",,"BERKSHIRE VALLEY POST OFFICE 1, AS","        74","a","        39","a","         5","a","  72.6"," ,a,0121, ","    450.5"," ,a"
+"ASN00008189","1917","-30.6","116.2",,"BERKSHIRE VALLEY POST OFFICE 1, AS","       105","a","        64","a","         8","a","  52.8"," ,a,0319, ","    714.2"," ,a"
+"ASN00008189","1918","-30.6","116.2",,"BERKSHIRE VALLEY POST OFFICE 1, AS","        82","a","        46","a","         6","a","  47.2"," ,a,0327, ","    581.2"," ,a"

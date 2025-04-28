@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001847009","1943","-18.95","-47.0","963.0","PATROCINIO, BR","        77","I","        76","I","        19","I","  99.0"," ,I,0216, ","   1622.0"," ,I"
+"BR001847009","1944","-18.95","-47.0","963.0","PATROCINIO, BR","        74","I","        66","I","        19","I","  96.3"," ,I,0229, ","   1364.7"," ,I"
+"BR001847009","1945","-18.95","-47.0","963.0","PATROCINIO, BR","        93","I","        87","I","        22","I","  46.0"," ,I,1231, ","   1530.5"," ,I"

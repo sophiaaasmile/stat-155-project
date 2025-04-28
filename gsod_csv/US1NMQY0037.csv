@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMQY0037","2021","35.18661","-103.73599","1243.3","TUCUMCARI 1.4 NNW, NM US","        40","N","        27","N","         5","N","  56.9"," ,N,0829, ","    370.7"," ,N"
+"US1NMQY0037","2022","35.18661","-103.73599","1243.3","TUCUMCARI 1.4 NNW, NM US","        41","N","        25","N","         1","N","  57.2"," ,N,0821, ","    275.1"," ,N"
+"US1NMQY0037","2023","35.18661","-103.73599","1243.3","TUCUMCARI 1.4 NNW, NM US","        56","N","        29","N","         3","N","  61.7"," ,N,0526, ","    350.5"," ,N"
+"US1NMQY0037","2024","35.18661","-103.73599","1243.3","TUCUMCARI 1.4 NNW, NM US","        52","N","        29","N","         4","N","  45.2"," ,N,1020, ","    383.5"," ,N"

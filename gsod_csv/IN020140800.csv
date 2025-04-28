@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN020140800","1968","8.75","78.18","3.0","TUTICORIN HARBOUOBSY SR, IN","        50","I","        37","I","         4","I","  97.5"," ,I,1218, ","    601.3"," ,I"
+"IN020140800","1969","8.75","78.18","3.0","TUTICORIN HARBOUOBSY SR, IN","        54","I","        42","I","         7","I"," 114.5"," ,I,1218, ","    778.3"," ,I"
+"IN020140800","1970","8.75","78.18","3.0","TUTICORIN HARBOUOBSY SR, IN","        42","I","        27","I","         5","I","  61.8"," ,I,0311, ","    459.3"," ,I"

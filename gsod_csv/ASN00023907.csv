@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00023907","2013","-34.9161","138.8991","375.0","CHARLESTON ALERT, AS","       124","a","        66","a","         1","a","  61.6"," ,a,0601, ","    731.8"," ,a"
+"ASN00023907","2014","-34.9161","138.8991","375.0","CHARLESTON ALERT, AS","       104","a","        45","a","         6","a","  96.6"," ,a,0214, ","    658.8"," ,a"
+"ASN00023907","2015","-34.9161","138.8991","375.0","CHARLESTON ALERT, AS","       114","a","        49","a","         1","a","  25.4"," ,a,0519, ","    468.4"," ,a"
+"ASN00023907","2016","-34.9161","138.8991","375.0","CHARLESTON ALERT, AS","       132","a","        76","a","         9","a","  77.0"," ,a,1228, ","   1083.0"," ,a"

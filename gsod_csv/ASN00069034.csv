@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00069034","1952","-36.3667","150.0667",,"TILBA TILBA 2, AS","       108","a","        77","a","        21","a"," 164.6"," ,a,0414, ","   1628.7"," ,a"
+"ASN00069034","1953","-36.3667","150.0667",,"TILBA TILBA 2, AS","       102","a","        64","a","         5","a"," 189.0"," ,a,0505, ","    835.3"," ,a"
+"ASN00069034","1954","-36.3667","150.0667",,"TILBA TILBA 2, AS","        87","a","        46","a","         2","a"," 139.7"," ,a,0222, ","    633.6"," ,a"

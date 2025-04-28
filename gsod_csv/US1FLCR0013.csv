@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLCR0013","2019","26.279769","-81.758328","2.7","NAPLES PARK 3.7 ENE, FL US","","","","","","","","","   1618.7"," ,N"
+"US1FLCR0013","2020","26.279769","-81.758328","2.7","NAPLES PARK 3.7 ENE, FL US","       119","N","        86","N","        16","N"," 106.7"," ,N,0913, ","   1459.3"," ,N"
+"US1FLCR0013","2021","26.279769","-81.758328","2.7","NAPLES PARK 3.7 ENE, FL US","       121","N","        74","N","        14","N","  91.2"," ,N,0922, ","   1292.7"," ,N"
+"US1FLCR0013","2023","26.279769","-81.758328","2.7","NAPLES PARK 3.7 ENE, FL US","        90","N","        56","N","        13","N"," 117.9"," ,N,1116, ","   1061.4"," ,N"

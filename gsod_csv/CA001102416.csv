@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001102416","1972","49.0833","-123.0667","2.0","DELTA LADNER EAST, BC CA","       181","C","       112","C","         6","C","         9","C","   112"," ,C,1211, ","  53.8"," ,C,1225, ","    3419.0","0","    3419.0","C","   1212.1"," ,C","      605"," ,C"
+"CA001102416","1973","49.0833","-123.0667","2.0","DELTA LADNER EAST, BC CA","","","","","","","         3","C","   109"," ,C,1123, ","","","","","","","","","      211"," ,C"
+"CA001102416","1974","49.0833","-123.0667","2.0","DELTA LADNER EAST, BC CA","       171","C","       102","C","         7","C","         3","C","   102"," ,C,0112, ","  42.9"," ,C,0315, ","","","","","   1073.8"," ,C","      178"," ,C"

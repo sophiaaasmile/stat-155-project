@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00090141","1969","-38.3333","142.5833","55.0","WANGOOM POST OFFICE, AS","       129","a","        67","a","         3","a","  45.7"," ,a,1028, ","    683.4"," ,a"
+"ASN00090141","1971","-38.3333","142.5833","55.0","WANGOOM POST OFFICE, AS","","","","","","","","","    999.8"," ,a"
+"ASN00090141","1973","-38.3333","142.5833","55.0","WANGOOM POST OFFICE, AS","       158","a","        96","a","         7","a","  51.3"," ,a,0206, ","   1047.7"," ,a"
+"ASN00090141","1974","-38.3333","142.5833","55.0","WANGOOM POST OFFICE, AS","       148","a","        91","a","         1","a","  27.6"," ,a,0430, ","    805.4"," ,a"

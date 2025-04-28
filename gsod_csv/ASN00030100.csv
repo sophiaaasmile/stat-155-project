@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00030100","1973","-20.5167","143.2833",,"ACTION DOWNS STATION, AS","        51","a","        38","a","         6","a","  96.5"," ,a,1104, ","    634.7"," ,a"
+"ASN00030100","1974","-20.5167","143.2833",,"ACTION DOWNS STATION, AS","        66","a","        47","a","        11","a"," 101.8"," ,a,0103, ","    962.8"," ,a"
+"ASN00030100","1975","-20.5167","143.2833",,"ACTION DOWNS STATION, AS","        45","a","        41","a","        11","a"," 177.8"," ,a,0226, ","   1018.6"," ,a"

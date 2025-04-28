@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKPY0019","2018","35.970531","-96.705661","256.0","CUSHING 3.2 E, OK US","        91","N","        59","N","         9","N","  55.6"," ,N,0922, ","    904.1"," ,N"
+"US1OKPY0019","2019","35.970531","-96.705661","256.0","CUSHING 3.2 E, OK US","       107","N","        66","N","        22","N"," 129.5"," ,N,0521, ","   1507.0"," ,N"
+"US1OKPY0019","2020","35.970531","-96.705661","256.0","CUSHING 3.2 E, OK US","       112","N","        61","N","        10","N","  53.1"," ,N,0319, ","    988.9"," ,N"

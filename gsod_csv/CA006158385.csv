@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006158385","1975","43.7167","-79.3167","138.0","TORONTO BERMONDSEY, ON CA","","","","","","","        16","C","    76"," ,C,1225,+","","","","","      853"," ,C"
+"CA006158385","1979","43.7167","-79.3167","138.0","TORONTO BERMONDSEY, ON CA","","","","","","","         5","C","   100"," ,C,0113, ","","","","","      354"," ,C"
+"CA006158385","1980","43.7167","-79.3167","138.0","TORONTO BERMONDSEY, ON CA","        67","C","        45","C","         2","C","         4","C","   116"," ,C,0314, ","  34.6"," ,C,1024, ","    579.2"," ,C","      237"," ,C"
+"CA006158385","1982","43.7167","-79.3167","138.0","TORONTO BERMONDSEY, ON CA","","","","","","","         6","C","   100"," ,C,0203, ","","","","","      581"," ,C"
+"CA006158385","1983","43.7167","-79.3167","138.0","TORONTO BERMONDSEY, ON CA","        55","C","        37","C","         1","C","         5","C","   100"," ,C,1229,+","  40.4"," ,C,0519, ","    453.3"," ,C","      446"," ,C"

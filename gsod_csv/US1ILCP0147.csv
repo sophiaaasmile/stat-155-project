@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILCP0147","2022","40.1225","-88.3116","228.6","CHAMPAIGN 2.6 WNW, IL US","       109","N","        68","N","         8","N","  64.3"," ,N,0708, ","    907.6"," ,N"
+"US1ILCP0147","2023","40.1225","-88.3116","228.6","CHAMPAIGN 2.6 WNW, IL US","       103","N","        63","N","         9","N","  45.0"," ,N,0708, ","    880.3"," ,N"
+"US1ILCP0147","2024","40.1225","-88.3116","228.6","CHAMPAIGN 2.6 WNW, IL US","       110","N","        73","N","         7","N","  85.6"," ,N,0710, ","   1071.9"," ,N"

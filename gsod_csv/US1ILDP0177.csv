@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILDP0177","2022","41.8749","-88.1387","233.8","WINFIELD 0.8 ENE, IL US","       124","N","        72","N","         7","N","  40.6"," ,N,0705, ","    923.8"," ,N"
+"US1ILDP0177","2023","41.8749","-88.1387","233.8","WINFIELD 0.8 ENE, IL US","       138","N","        80","N","         3","N","  48.8"," ,N,0729, ","    881.6"," ,N"
+"US1ILDP0177","2024","41.8749","-88.1387","233.8","WINFIELD 0.8 ENE, IL US","       131","N","        81","N","         7","N","  46.5"," ,N,0623, ","    983.2"," ,N"

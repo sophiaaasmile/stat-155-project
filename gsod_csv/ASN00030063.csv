@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00030063","1892","-20.3","143.1",,"BURLEIGH STATION, AS","        11","a","        10","a","         5","a","  44.5"," ,a,0126,+","    246.4"," ,a"
+"ASN00030063","1900","-20.3","143.1",,"BURLEIGH STATION, AS","        22","a","        17","a","         6","a","  53.3"," ,a,0120, ","    337.3"," ,a"
+"ASN00030063","1940","-20.3","143.1",,"BURLEIGH STATION, AS","        35","a","        33","a","         8","a","  88.9"," ,a,0219, ","    763.5"," ,a"
+"ASN00030063","1941","-20.3","143.1",,"BURLEIGH STATION, AS","        50","a","        43","a","        12","a","  83.1"," ,a,1203, ","    777.4"," ,a"
+"ASN00030063","1942","-20.3","143.1",,"BURLEIGH STATION, AS","        32","a","        30","a","         5","a","  68.3"," ,a,1228, ","    499.4"," ,a"
+"ASN00030063","1943","-20.3","143.1",,"BURLEIGH STATION, AS","        20","a","        19","a","         5","a","  64.0"," ,a,1219, ","    323.8"," ,a"

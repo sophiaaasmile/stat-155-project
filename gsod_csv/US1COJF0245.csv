@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COJF0245","2005","39.8379","-105.1123","1716.0","ARVADA 2.7 NNW, CO US","        76","N","        33","N","         2","N","         7","N","   318"," ,N,0411, ","  39.4"," ,N,1010, ","    359.6"," ,N","      710"," ,N"
+"US1COJF0245","2006","39.8379","-105.1123","1716.0","ARVADA 2.7 NNW, CO US","        79","N","        36","N","         2","N","        16","N","   572"," ,N,1221, ","  38.1"," ,N,1221, ","    376.5"," ,N","     2014"," ,N"
+"US1COJF0245","2008","39.8379","-105.1123","1716.0","ARVADA 2.7 NNW, CO US","        72","N","        28","N","         1","N","        21","N","   145"," ,N,0131, ","  31.2"," ,N,0816, ","    282.9"," ,N","     1325"," ,N"
+"US1COJF0245","2009","39.8379","-105.1123","1716.0","ARVADA 2.7 NNW, CO US","       100","N","        42","N","         3","N","","","","","  43.9"," ,N,0602, ","    531.4"," ,N","",""

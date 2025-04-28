@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYSY0006","2012","42.4177","-76.9425","434.3","WATKINS GLEN 4.6 NW, NY US","","","","","","","","","    807.4"," ,N"
+"US1NYSY0006","2016","42.4177","-76.9425","434.3","WATKINS GLEN 4.6 NW, NY US","       159","N","        69","N","         6","N","  81.8"," ,N,1021, ","    874.2"," ,N"
+"US1NYSY0006","2017","42.4177","-76.9425","434.3","WATKINS GLEN 4.6 NW, NY US","       180","N","        93","N","         7","N","  72.9"," ,N,1030, ","   1124.0"," ,N"
+"US1NYSY0006","2018","42.4177","-76.9425","434.3","WATKINS GLEN 4.6 NW, NY US","       201","N","        95","N","         9","N","  59.4"," ,N,0814, ","   1171.8"," ,N"

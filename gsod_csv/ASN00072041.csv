@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00072041","1952","-35.9667","147.0","243.5","TABLE TOP BELLEVUE, AS","        81","a","        73","a","         5","a","  38.1"," ,a,0508, ","    820.6"," ,a"
+"ASN00072041","1953","-35.9667","147.0","243.5","TABLE TOP BELLEVUE, AS","        88","a","        67","a","         3","a","  35.8"," ,a,0131, ","    644.6"," ,a"
+"ASN00072041","1955","-35.9667","147.0","243.5","TABLE TOP BELLEVUE, AS","        95","a","        90","a","         5","a","  69.6"," ,a,1021, ","    899.7"," ,a"
+"ASN00072041","1960","-35.9667","147.0","243.5","TABLE TOP BELLEVUE, AS","        79","a","        58","a","         3","a","  54.6"," ,a,0112, ","    728.3"," ,a"
+"ASN00072041","1968","-35.9667","147.0","243.5","TABLE TOP BELLEVUE, AS","       100","a","        62","a","         3","a","  31.8"," ,a,0511, ","    615.3"," ,a"

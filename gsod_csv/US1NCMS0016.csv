@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCMS0016","2016","35.801508","-82.530481","618.1","MARS HILL 2.2 SSE, NC US","       133","N","        71","N","         1","N","  33.0"," ,N,0821, ","    666.2"," ,N"
+"US1NCMS0016","2017","35.801508","-82.530481","618.1","MARS HILL 2.2 SSE, NC US","       146","N","        81","N","        15","N","  80.3"," ,N,0815, ","   1197.3"," ,N"
+"US1NCMS0016","2018","35.801508","-82.530481","618.1","MARS HILL 2.2 SSE, NC US","       159","N","        99","N","        15","N","  48.8"," ,N,1228, ","   1332.0"," ,N"
+"US1NCMS0016","2020","35.801508","-82.530481","618.1","MARS HILL 2.2 SSE, NC US","       142","N","        98","N","        13","N","  85.3"," ,N,0413, ","   1280.0"," ,N"

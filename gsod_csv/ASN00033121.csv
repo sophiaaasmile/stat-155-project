@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00033121","1901","-21.1833","149.1",,"ALEXANDRA, AS","        95","a","        76","a","        19","a"," 234.4"," ,a,0110, ","   1692.3"," ,a"
+"ASN00033121","1913","-21.1833","149.1",,"ALEXANDRA, AS","        84","a","        71","a","        25","a"," 229.4"," ,a,1221, ","   2176.5"," ,a"

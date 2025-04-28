@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MIOK0094","2017","42.5066","-83.3791","267.6","FARMINGTON HILLS 1.4 N, MI US","","","","","","","","","   1045.6"," ,N"
+"US1MIOK0094","2018","42.5066","-83.3791","267.6","FARMINGTON HILLS 1.4 N, MI US","       154","N","        86","N","        11","N","  68.8"," ,N,0512, ","   1080.7"," ,N"
+"US1MIOK0094","2019","42.5066","-83.3791","267.6","FARMINGTON HILLS 1.4 N, MI US","       150","N","        84","N","         8","N","  53.1"," ,N,0717, ","   1101.3"," ,N"
+"US1MIOK0094","2020","42.5066","-83.3791","267.6","FARMINGTON HILLS 1.4 N, MI US","       131","N","        77","N","         6","N","  58.4"," ,N,0828, ","    886.0"," ,N"

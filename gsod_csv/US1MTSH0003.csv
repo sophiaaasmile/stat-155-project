@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MTSH0003","2017","48.9135","-104.8999","696.2","OUTLOOK 5.6 WNW, MT US","        68","N","        25","N","         0","N","  17.8"," ,N,1002, ","    223.2"," ,N"
+"US1MTSH0003","2018","48.9135","-104.8999","696.2","OUTLOOK 5.6 WNW, MT US","        77","N","        42","N","         2","N","  26.9"," ,N,0608, ","    432.5"," ,N"
+"US1MTSH0003","2019","48.9135","-104.8999","696.2","OUTLOOK 5.6 WNW, MT US","","","","","","","","","    622.1"," ,N"
+"US1MTSH0003","2020","48.9135","-104.8999","696.2","OUTLOOK 5.6 WNW, MT US","        61","N","        30","N","         1","N","  53.3"," ,N,0630, ","    323.6"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00015606","1936","-25.4","132.2","512.0","LYNDA VALE, AS","        19","a","        13","a","         4","a","  63.5"," ,a,0225, ","    215.5"," ,a"
+"ASN00015606","1938","-25.4","132.2","512.0","LYNDA VALE, AS","        12","a","         9","a","         4","a","  55.9"," ,a,0217, ","    218.8"," ,a"
+"ASN00015606","1939","-25.4","132.2","512.0","LYNDA VALE, AS","        27","a","        27","a","         4","a"," 110.5"," ,a,0124, ","    378.4"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00039271","1913","-24.0667","151.3",,"RIVERSTON HMSD, AS","        74","a","        57","a","        14","a"," 175.5"," ,a,0118, ","   1217.5"," ,a"
+"ASN00039271","1914","-24.0667","151.3",,"RIVERSTON HMSD, AS","        61","a","        38","a","        10","a","  92.7"," ,a,1009, ","    714.5"," ,a"
+"ASN00039271","1916","-24.0667","151.3",,"RIVERSTON HMSD, AS","        74","a","        58","a","         7","a","  56.4"," ,a,0223, ","    822.6"," ,a"

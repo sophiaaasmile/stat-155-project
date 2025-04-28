@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003012207","1972","53.5333","-113.5667","671.0","EDMONTON LYNNWOOD, AB CA","       144","C","        67","C","         0","C","        22","C","   147"," ,C,0421, ","  24.9"," ,C,0608, ","    529.6"," ,C","     1956"," ,C"
+"CA003012207","1973","53.5333","-113.5667","671.0","EDMONTON LYNNWOOD, AB CA","","","","","","","        22","C","   188"," ,C,0413, ","","","","","     1433"," ,C"
+"CA003012207","1974","53.5333","-113.5667","671.0","EDMONTON LYNNWOOD, AB CA","       124","C","        53","C","         4","C","        28","C","   251"," ,C,0313, ","  57.9"," ,C,0626, ","    547.4"," ,C","     2094"," ,C"
+"CA003012207","1975","53.5333","-113.5667","671.0","EDMONTON LYNNWOOD, AB CA","","","","","","","        16","C","   127"," ,C,1203, ","","","","","     1284"," ,C"

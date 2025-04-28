@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00088129","1970","-37.1333","145.5833","189.0","CATHKIN MOUNT EDGAR, AS","       118","a","        76","a","         6","a","  53.3"," ,a,0102, ","    824.5"," ,a"
+"ASN00088129","1972","-37.1333","145.5833","189.0","CATHKIN MOUNT EDGAR, AS","        89","a","        47","a","         1","a","  29.7"," ,a,0217, ","    483.6"," ,a"
+"ASN00088129","1973","-37.1333","145.5833","189.0","CATHKIN MOUNT EDGAR, AS","       106","a","        76","a","        11","a","  73.7"," ,a,0221, ","   1071.1"," ,a"

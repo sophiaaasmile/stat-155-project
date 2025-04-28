@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASZ0003","2009","37.065078","-122.217828","150.9","DAVENPORT 4.2 NW, CA US","        77","N","        49","N","         4","N"," 134.6"," ,N,0216, ","    778.7"," ,N"
+"US1CASZ0003","2010","37.065078","-122.217828","150.9","DAVENPORT 4.2 NW, CA US","        99","N","        70","N","        16","N","  68.6"," ,N,1229, ","   1125.0"," ,N"
+"US1CASZ0003","2011","37.065078","-122.217828","150.9","DAVENPORT 4.2 NW, CA US","        78","N","        54","N","         9","N","  54.9"," ,N,0604, ","    850.0"," ,N"

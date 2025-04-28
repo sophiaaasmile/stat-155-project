@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00066096","1917","-33.7167","151.1667",,"PYMBLE, AS","        97","a","        80","a","        12","a","  88.4"," ,a,0411, ","   1250.5"," ,a"
+"ASN00066096","1918","-33.7167","151.1667",,"PYMBLE, AS","        96","a","        70","a","        10","a"," 177.5"," ,a,0112, ","   1064.7"," ,a"
+"ASN00066096","1919","-33.7167","151.1667",,"PYMBLE, AS","       103","a","        67","a","        16","a","  68.6"," ,a,0225, ","   1103.5"," ,a"

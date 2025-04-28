@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1LASM0003","2021","30.287855","-91.904348","6.4","BREAUX BRIDGE 0.7 NNW, LA US","       136","N","        93","N","        18","N"," 124.0"," ,N,0518, ","   1972.0"," ,N"
+"US1LASM0003","2022","30.287855","-91.904348","6.4","BREAUX BRIDGE 0.7 NNW, LA US","       112","N","        68","N","        13","N","  76.7"," ,N,0804, ","   1253.5"," ,N"
+"US1LASM0003","2023","30.287855","-91.904348","6.4","BREAUX BRIDGE 0.7 NNW, LA US","        88","N","        54","N","        13","N","  98.8"," ,N,1201, ","   1159.7"," ,N"
+"US1LASM0003","2024","30.287855","-91.904348","6.4","BREAUX BRIDGE 0.7 NNW, LA US","       116","N","        87","N","        25","N"," 167.4"," ,N,0602, ","   1833.8"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NMBR0013","2006","35.1405","-106.6953","1528.9","ALBUQUERQUE 3.1 WSW, NM US","        56","N","        29","N","         2","N","         3","N","   267"," ,N,1230, ","  88.9"," ,N,1220, ","    407.1"," ,N","      401"," ,N"
+"US1NMBR0013","2007","35.1405","-106.6953","1528.9","ALBUQUERQUE 3.1 WSW, NM US","        49","N","        24","N","         0","N","         3","N","   109"," ,N,0214, ","  22.4"," ,N,0413, ","    222.7"," ,N","      159"," ,N"
+"US1NMBR0013","2010","35.1405","-106.6953","1528.9","ALBUQUERQUE 3.1 WSW, NM US","        54","N","        20","N","         1","N","","","","","  33.8"," ,N,1217, ","    262.7"," ,N","",""

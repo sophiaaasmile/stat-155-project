@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00097007","1947","-43.4297","146.1597","6.0","PORT DAVEY MELALEUCA, AS","       257","a","       190","a","        18","a","  62.5"," ,a,1031, ","   2490.5"," ,a"
+"ASN00097007","1950","-43.4297","146.1597","6.0","PORT DAVEY MELALEUCA, AS","       219","a","       156","a","         8","a","  44.5"," ,a,1028, ","   1610.1"," ,a"
+"ASN00097007","1951","-43.4297","146.1597","6.0","PORT DAVEY MELALEUCA, AS","       222","a","       167","a","        20","a"," 137.2"," ,a,0413, ","   2461.4"," ,a"
+"ASN00097007","1957","-43.4297","146.1597","6.0","PORT DAVEY MELALEUCA, AS","       255","a","       195","a","        14","a"," 125.2"," ,a,0916, ","   2537.7"," ,a"
+"ASN00097007","1961","-43.4297","146.1597","6.0","PORT DAVEY MELALEUCA, AS","       227","a","       176","a","        12","a","  52.8"," ,a,1110, ","   2080.5"," ,a"

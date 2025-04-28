@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002549020","1940","-25.0","-49.48","400.0","PASSO DO ACUNGUI, BR","       101","I","        80","I","        11","I","  57.6"," ,I,0114, ","   1035.0"," ,I"
+"BR002549020","1941","-25.0","-49.48","400.0","PASSO DO ACUNGUI, BR","       118","I","        91","I","        10","I","  59.0"," ,I,0225, ","   1150.6"," ,I"
+"BR002549020","1942","-25.0","-49.48","400.0","PASSO DO ACUNGUI, BR","       112","I","        85","I","        11","I","  89.4"," ,I,0203, ","   1226.3"," ,I"
+"BR002549020","1943","-25.0","-49.48","400.0","PASSO DO ACUNGUI, BR","        89","I","        69","I","         6","I","  57.0"," ,I,0131, ","    972.2"," ,I"

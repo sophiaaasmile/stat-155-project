@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10scot027","2008","41.9289","-103.6484","1249.1","SCOTTSBLUFF 4.4 NNE, NE US","        77","N","        32","N","         2","N","         6","N","    89"," ,N,0316, ","  47.5"," ,N,0723, ","    384.7"," ,N","      351"," ,N"
+"US10scot027","2009","41.9289","-103.6484","1249.1","SCOTTSBLUFF 4.4 NNE, NE US","       106","N","        47","N","         4","N","        13","N","   178"," ,N,0126, ","  41.4"," ,N,0611, ","    500.8"," ,N","      706"," ,N"
+"US10scot027","2010","41.9289","-103.6484","1249.1","SCOTTSBLUFF 4.4 NNE, NE US","        80","N","        37","N","         0","N","         2","N","   127"," ,N,0221, ","  24.4"," ,N,0516, ","    377.4"," ,N","      229"," ,N"
+"US10scot027","2011","41.9289","-103.6484","1249.1","SCOTTSBLUFF 4.4 NNE, NE US","        82","N","        46","N","         4","N","         0","N","     0"," ,N,1231,+","  48.0"," ,N,0617, ","    460.1"," ,N","        0"," ,N"

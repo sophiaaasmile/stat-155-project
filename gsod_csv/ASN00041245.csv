@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00041245","1960","-27.6333","151.9667","585.2","PRESTON, AS","        72","a","        45","a","         7","a","  57.9"," ,a,0205, ","    666.7"," ,a"
+"ASN00041245","1961","-27.6333","151.9667","585.2","PRESTON, AS","        88","a","        64","a","        14","a","  69.3"," ,a,1007, ","    961.7"," ,a"
+"ASN00041245","1963","-27.6333","151.9667","585.2","PRESTON, AS","        61","a","        50","a","        10","a","  58.7"," ,a,0204, ","    750.5"," ,a"

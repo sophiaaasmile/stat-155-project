@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CODG0133","2010","39.513668","-104.908465","1865.7","LONE TREE 2.0 SW, CO US","        58","N","        32","N","         1","N","  36.1"," ,N,0731, ","    305.1"," ,N"
+"US1CODG0133","2012","39.513668","-104.908465","1865.7","LONE TREE 2.0 SW, CO US","        44","N","        30","N","         2","N"," 126.0"," ,N,0607, ","    400.4"," ,N"
+"US1CODG0133","2013","39.513668","-104.908465","1865.7","LONE TREE 2.0 SW, CO US","        55","N","        35","N","         5","N","  51.1"," ,N,0913, ","    391.0"," ,N"

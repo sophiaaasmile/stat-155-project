@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASL0008","2014","35.329455","-120.832402","23.5","LOS OSOS 0.5 N, CA US","        27","N","        19","N","         4","N","  63.8"," ,N,1212, ","    298.4"," ,N"
+"US1CASL0008","2016","35.329455","-120.832402","23.5","LOS OSOS 0.5 N, CA US","        34","N","        21","N","         6","N","  55.9"," ,N,1121, ","    401.8"," ,N"
+"US1CASL0008","2020","35.329455","-120.832402","23.5","LOS OSOS 0.5 N, CA US","        28","N","        17","N","         2","N","  40.6"," ,N,0317, ","    216.9"," ,N"

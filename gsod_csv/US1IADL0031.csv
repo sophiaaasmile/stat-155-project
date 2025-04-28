@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IADL0031","2019","41.681515","-93.955348","324.9","DALLAS CENTER 1.5 E, IA US","       127","N","        76","N","        12","N","  72.1"," ,N,0524, ","   1146.6"," ,N"
+"US1IADL0031","2020","41.681515","-93.955348","324.9","DALLAS CENTER 1.5 E, IA US","        97","N","        56","N","         7","N","  37.3"," ,N,0908,+","    738.6"," ,N"
+"US1IADL0031","2023","41.681515","-93.955348","324.9","DALLAS CENTER 1.5 E, IA US","        87","N","        45","N","        10","N","  74.4"," ,N,0420, ","    755.6"," ,N"
+"US1IADL0031","2024","41.681515","-93.955348","324.9","DALLAS CENTER 1.5 E, IA US","       100","N","        66","N","         9","N","  74.7"," ,N,0731, ","    976.3"," ,N"

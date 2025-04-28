@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLPN0071","2018","28.07288","-82.76536","8.5","PALM HARBOR 1.0 S, FL US","       130","N","        84","N","        17","N","  94.5"," ,N,1220, ","   1518.9"," ,N"
+"US1FLPN0071","2019","28.07288","-82.76536","8.5","PALM HARBOR 1.0 S, FL US","       122","N","        89","N","        26","N","  88.4"," ,N,1019, ","   1871.3"," ,N"
+"US1FLPN0071","2020","28.07288","-82.76536","8.5","PALM HARBOR 1.0 S, FL US","       117","N","        78","N","        13","N"," 133.6"," ,N,1112, ","   1286.6"," ,N"
+"US1FLPN0071","2024","28.07288","-82.76536","8.5","PALM HARBOR 1.0 S, FL US","       113","N","        77","N","        19","N"," 287.0"," ,N,1010, ","   1751.6"," ,N"

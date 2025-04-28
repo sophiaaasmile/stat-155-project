@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"IDM00097310","2017","-8.267","122.967","9.0","LARANTUKA GEWAYENTA, ID","         0","S","       333","S","       203","S","   37.4","S,1030,+","     32.50","S"
+"IDM00097310","2018","-8.267","122.967","9.0","LARANTUKA GEWAYENTA, ID","         0","S","       341","S","       244","S","   38.3","S,0909,+","     32.98","S"
+"IDM00097310","2019","-8.267","122.967","9.0","LARANTUKA GEWAYENTA, ID","         0","S","       345","S","       199","S","   36.4","S,1203, ","     32.29","S"
+"IDM00097310","2022","-8.267","122.967","9.0","LARANTUKA GEWAYENTA, ID","         0","S","       349","S","       221","S","   36.4","S,1116, ","     32.46","S"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYYT0012","2022","42.7327308","-77.0778852","334.7","PENN YAN 5.1 NNW, NY US","       141","N","        70","N","         2","N","  68.3"," ,N,1112, ","    722.2"," ,N"
+"US1NYYT0012","2023","42.7327308","-77.0778852","334.7","PENN YAN 5.1 NNW, NY US","       144","N","        79","N","         4","N","  39.4"," ,N,0710, ","    854.4"," ,N"
+"US1NYYT0012","2024","42.7327308","-77.0778852","334.7","PENN YAN 5.1 NNW, NY US","       154","N","        83","N","         3","N","  68.6"," ,N,0810, ","    858.3"," ,N"

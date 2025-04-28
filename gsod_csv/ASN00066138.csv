@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00066138","1969","-33.815","151.2969","100.0","MANLY NORTH HEAD, AS","","","","","","","","","    825.7"," ,a"
+"ASN00066138","1970","-33.815","151.2969","100.0","MANLY NORTH HEAD, AS","","","","","","","","","    976.2"," ,a"
+"ASN00066138","1973","-33.815","151.2969","100.0","MANLY NORTH HEAD, AS","       126","a","        74","a","        10","a"," 151.9"," ,a,0108, ","   1350.5"," ,a"
+"ASN00066138","1974","-33.815","151.2969","100.0","MANLY NORTH HEAD, AS","       134","a","        89","a","        19","a","  94.0"," ,a,0519, ","   1670.0"," ,a"

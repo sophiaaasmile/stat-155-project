@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","FZF0","FZF0_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"CIM00085470","1979","-27.296","-70.414","298.0","CHAMONATE, CI","         2","S","         2","S","         1","S","         0","S","         2","S","    0.0","S,0628,+","  33.0"," ,S,0320, ","0.0","S,0608","     40.9"," ,S","      9.54","S"
+"CIM00085470","1993","-27.296","-70.414","298.0","CHAMONATE, CI","","","","","","","         0","S","         1","S","   -1.2","S,0717, ","","","-1.2","S,0717","","","      9.43","S"
+"CIM00085470","2001","-27.296","-70.414","298.0","CHAMONATE, CI","","","","","","","         0","S","         0","S","    0.4","S,0628, ","","","","","","","     10.18","S"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNMW0013","2022","43.7971","-92.8488","399.3","WALTHAM 2.0 SE, MN US","       113","N","        56","N","         7","N","  82.6"," ,N,0724, ","    837.8"," ,N"
+"US1MNMW0013","2023","43.7971","-92.8488","399.3","WALTHAM 2.0 SE, MN US","       100","N","        53","N","         6","N","  50.5"," ,N,0401, ","    673.5"," ,N"
+"US1MNMW0013","2024","43.7971","-92.8488","399.3","WALTHAM 2.0 SE, MN US","       114","N","        61","N","        11","N","  64.8"," ,N,0521, ","   1018.5"," ,N"

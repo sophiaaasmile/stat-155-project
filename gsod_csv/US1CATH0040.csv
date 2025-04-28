@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CATH0040","2014","40.0209846","-122.1900864","81.7","GERBER 3.5 SW, CA US","        76","N","        46","N","         5","N","  71.1"," ,N,1211, ","    625.2"," ,N"
+"US1CATH0040","2015","40.0209846","-122.1900864","81.7","GERBER 3.5 SW, CA US","        65","N","        28","N","         3","N","  34.3"," ,N,0207, ","    335.5"," ,N"
+"US1CATH0040","2016","40.0209846","-122.1900864","81.7","GERBER 3.5 SW, CA US","        94","N","        65","N","         8","N","  45.7"," ,N,0105, ","    925.5"," ,N"

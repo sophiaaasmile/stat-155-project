@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYRN0001","2018","42.6391","-73.5698","192.9","AVERILL PARK 0.9 WNW, NY US","       166","N","       104","N","        11","N","  63.0"," ,N,0918, ","   1303.4"," ,N"
+"US1NYRN0001","2020","42.6391","-73.5698","192.9","AVERILL PARK 0.9 WNW, NY US","       159","N","        94","N","         8","N","  57.7"," ,N,0930, ","   1128.8"," ,N"
+"US1NYRN0001","2021","42.6391","-73.5698","192.9","AVERILL PARK 0.9 WNW, NY US","       155","N","        92","N","        18","N"," 114.6"," ,N,0715, ","   1484.3"," ,N"
+"US1NYRN0001","2022","42.6391","-73.5698","192.9","AVERILL PARK 0.9 WNW, NY US","       147","N","        92","N","         9","N","  45.0"," ,N,0906, ","   1095.9"," ,N"
+"US1NYRN0001","2024","42.6391","-73.5698","192.9","AVERILL PARK 0.9 WNW, NY US","       153","N","        92","N","        10","N","  51.6"," ,N,0723, ","   1167.7"," ,N"

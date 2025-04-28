@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00020198","1991","17.55","-96.5667","2142.7","YAHILA CFE, MX","       201","m","       162","m","        60","m"," 279.9"," ,m,1108, ","   5105.7"," ,m"
+"MXN00020198","1992","17.55","-96.5667","2142.7","YAHILA CFE, MX","       220","m","       177","m","        61","m"," 259.8"," ,m,0907, ","   5384.2"," ,m"
+"MXN00020198","1993","17.55","-96.5667","2142.7","YAHILA CFE, MX","       198","m","       156","m","        62","m"," 334.8"," ,m,1021, ","   5808.3"," ,m"

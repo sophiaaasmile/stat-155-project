@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMSR0058","2018","33.32199","-107.65817","1876.7","WINSTON 1.8 SSW, NM US","        42","N","        32","N","         2","N","  61.0"," ,N,0824, ","    353.3"," ,N"
+"US1NMSR0058","2019","33.32199","-107.65817","1876.7","WINSTON 1.8 SSW, NM US","        62","N","        32","N","         5","N","  42.2"," ,N,0915, ","    362.2"," ,N"
+"US1NMSR0058","2020","33.32199","-107.65817","1876.7","WINSTON 1.8 SSW, NM US","        42","N","        24","N","         0","N","  21.8"," ,N,0724, ","    234.6"," ,N"
+"US1NMSR0058","2021","33.32199","-107.65817","1876.7","WINSTON 1.8 SSW, NM US","        57","N","        24","N","         0","N","  21.3"," ,N,0814, ","    214.7"," ,N"

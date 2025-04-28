@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00023337","1959","-34.5833","139.0667",,"EDEN VALLEY WYNCROFT, AS","        88","a","        46","a","         0","a","  23.9"," ,a,0215, ","    410.7"," ,a"
+"ASN00023337","1960","-34.5833","139.0667",,"EDEN VALLEY WYNCROFT, AS","       127","a","        68","a","         5","a","  63.5"," ,a,0505, ","    938.2"," ,a"
+"ASN00023337","1961","-34.5833","139.0667",,"EDEN VALLEY WYNCROFT, AS","       107","a","        55","a","         4","a","  48.5"," ,a,1117, ","    631.0"," ,a"
+"ASN00023337","1962","-34.5833","139.0667",,"EDEN VALLEY WYNCROFT, AS","       111","a","        70","a","         3","a","  57.2"," ,a,0523, ","    780.2"," ,a"

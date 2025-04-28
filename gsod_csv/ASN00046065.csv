@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00046065","1934","-29.0","143.2",,"HAMILTON GATE, AS","        25","a","        16","a","         0","a","  18.0"," ,a,1011, ","    123.2"," ,a"
+"ASN00046065","1935","-29.0","143.2",,"HAMILTON GATE, AS","        24","a","        15","a","         0","a","  19.6"," ,a,0630, ","    139.4"," ,a"
+"ASN00046065","1936","-29.0","143.2",,"HAMILTON GATE, AS","        29","a","        24","a","         2","a","  27.4"," ,a,0803, ","    321.7"," ,a"
+"ASN00046065","1937","-29.0","143.2",,"HAMILTON GATE, AS","        13","a","        10","a","         0","a","  17.8"," ,a,0612, ","     77.4"," ,a"
+"ASN00046065","1938","-29.0","143.2",,"HAMILTON GATE, AS","        11","a","         5","a","         1","a","  49.5"," ,a,0624, ","     76.3"," ,a"

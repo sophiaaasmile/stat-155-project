@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009876","1986","-34.1311","116.7394","250.0","CHOWERUP, AS","       117","a","        51","a","         1","a","  25.8"," ,a,0222, ","    410.2"," ,a"
+"ASN00009876","1987","-34.1311","116.7394","250.0","CHOWERUP, AS","        98","a","        43","a","         1","a","  28.2"," ,a,0408, ","    383.2"," ,a"
+"ASN00009876","1988","-34.1311","116.7394","250.0","CHOWERUP, AS","       125","a","        70","a","         2","a","  44.6"," ,a,0625, ","    629.2"," ,a"

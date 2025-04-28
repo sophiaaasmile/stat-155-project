@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00059143","2013","-30.8585","152.9983","3.0","FISHERMANS REACH, AS","       123","a","        69","a","        18","a"," 204.8"," ,a,0524, ","   1698.2"," ,a"
+"ASN00059143","2014","-30.8585","152.9983","3.0","FISHERMANS REACH, AS","       121","a","        62","a","        14","a","  92.0"," ,a,0827, ","   1110.2"," ,a"
+"ASN00059143","2015","-30.8585","152.9983","3.0","FISHERMANS REACH, AS","       137","a","        86","a","        20","a"," 114.6"," ,a,0121, ","   1754.4"," ,a"
+"ASN00059143","2016","-30.8585","152.9983","3.0","FISHERMANS REACH, AS","       117","a","        63","a","         5","a"," 168.6"," ,a,0605, ","    983.0"," ,a"

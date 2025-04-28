@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00086197","1895","-37.6","145.3",,"PANTON HILL FAIRVIEW, AS","        71","a","        64","a","         3","a","  54.4"," ,a,0104, ","    595.2"," ,a"
+"ASN00086197","1921","-37.6","145.3",,"PANTON HILL FAIRVIEW, AS","       130","a","        74","a","         2","a","  39.6"," ,a,0103, ","    713.7"," ,a"
+"ASN00086197","1922","-37.6","145.3",,"PANTON HILL FAIRVIEW, AS","       132","a","        75","a","         2","a","  53.1"," ,a,0109, ","    784.4"," ,a"
+"ASN00086197","1923","-37.6","145.3",,"PANTON HILL FAIRVIEW, AS","       136","a","        72","a","         3","a","  38.9"," ,a,1013, ","    640.6"," ,a"

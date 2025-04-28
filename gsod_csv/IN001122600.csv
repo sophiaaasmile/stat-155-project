@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN001122600","1961","15.72","77.6","379.0","GONEGONDLA PWD, IN","        26","I","        26","I","         7","I","  50.8"," ,I,0722, ","    449.8"," ,I"
+"IN001122600","1962","15.72","77.6","379.0","GONEGONDLA PWD, IN","        46","I","        45","I","        10","I"," 114.3"," ,I,0523, ","    806.4"," ,I"
+"IN001122600","1968","15.72","77.6","379.0","GONEGONDLA PWD, IN","        43","I","        41","I","         8","I","  48.8"," ,I,0504, ","    607.9"," ,I"
+"IN001122600","1969","15.72","77.6","379.0","GONEGONDLA PWD, IN","        42","I","        39","I","         9","I","  86.4"," ,I,0821, ","    672.6"," ,I"

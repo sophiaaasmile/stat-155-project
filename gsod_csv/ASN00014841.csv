@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00014841","1995","-16.8141","131.2195","110.0","PIGEON HOLE COMMUNITY, AS","        51","a","        43","a","        10","a","  67.8"," ,a,0115, ","    764.4"," ,a"
+"ASN00014841","1996","-16.8141","131.2195","110.0","PIGEON HOLE COMMUNITY, AS","        33","a","        28","a","         8","a","  83.6"," ,a,0309, ","    777.2"," ,a"
+"ASN00014841","1997","-16.8141","131.2195","110.0","PIGEON HOLE COMMUNITY, AS","        62","a","        46","a","        12","a","  73.0"," ,a,0119, ","    838.0"," ,a"
+"ASN00014841","1999","-16.8141","131.2195","110.0","PIGEON HOLE COMMUNITY, AS","        60","a","        49","a","         3","a","  30.8"," ,a,1228, ","    582.2"," ,a"

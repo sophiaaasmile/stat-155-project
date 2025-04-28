@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1IAWB0017","2021","42.531447","-94.183973","339.2","FORT DODGE 1.7 NNW, IA US","        82","N","        54","N","         7","N","","","","","  62.2"," ,N,0626, ","    809.1"," ,N","",""
+"US1IAWB0017","2022","42.531447","-94.183973","339.2","FORT DODGE 1.7 NNW, IA US","        89","N","        50","N","         3","N","","","","","  55.1"," ,N,0828, ","    567.7"," ,N","",""
+"US1IAWB0017","2023","42.531447","-94.183973","339.2","FORT DODGE 1.7 NNW, IA US","        81","N","        57","N","         8","N","         8","N","   193"," ,N,0119, ","  93.0"," ,N,0531, ","    810.6"," ,N","      689"," ,N"
+"US1IAWB0017","2024","42.531447","-94.183973","339.2","FORT DODGE 1.7 NNW, IA US","        99","N","        59","N","        11","N","","","","","  59.2"," ,N,0619, ","    903.8"," ,N","",""

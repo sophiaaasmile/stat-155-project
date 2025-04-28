@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NMCH0031","2021","33.376425","-104.434679","1073.8","ROSWELL 5.5 E, NM US","        26","N","        26","N","         7","N","","","","","  71.1"," ,N,0629, ","    511.8"," ,N","",""
+"US1NMCH0031","2022","33.376425","-104.434679","1073.8","ROSWELL 5.5 E, NM US","        26","N","        26","N","         4","N","","","","","  55.9"," ,N,0627, ","    327.9"," ,N","",""
+"US1NMCH0031","2023","33.376425","-104.434679","1073.8","ROSWELL 5.5 E, NM US","        29","N","        29","N","         2","N","","","","","  40.6"," ,N,1001, ","    285.8"," ,N","",""
+"US1NMCH0031","2024","33.376425","-104.434679","1073.8","ROSWELL 5.5 E, NM US","        27","N","        24","N","         5","N","         1","N","    76"," ,N,0211, "," 165.1"," ,N,1020, ","    436.3"," ,N","       84"," ,N"

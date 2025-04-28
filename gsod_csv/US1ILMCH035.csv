@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILMCH035","2021","42.358394","-88.2335","239.9","LAKEMOOR 1.9 NW, IL US","        68","N","        47","N","         5","N","  58.7"," ,N,1211, ","    594.1"," ,N"
+"US1ILMCH035","2022","42.358394","-88.2335","239.9","LAKEMOOR 1.9 NW, IL US","        87","N","        63","N","         8","N","  61.7"," ,N,0912, ","    816.1"," ,N"
+"US1ILMCH035","2024","42.358394","-88.2335","239.9","LAKEMOOR 1.9 NW, IL US","","","","","","","","","    871.2"," ,N"

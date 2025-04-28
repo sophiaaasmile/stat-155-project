@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002145006","1942","-21.45","-45.22","0.0","CARMO DA CACHOEIRA, BR","        93","I","        85","I","        16","I","  66.2"," ,I,0222, ","   1471.9"," ,I"
+"BR002145006","1943","-21.45","-45.22","0.0","CARMO DA CACHOEIRA, BR","        71","I","        69","I","        14","I","  60.2"," ,I,0119, ","   1395.3"," ,I"
+"BR002145006","1944","-21.45","-45.22","0.0","CARMO DA CACHOEIRA, BR","        83","I","        72","I","         9","I","  68.6"," ,I,0305, ","   1121.8"," ,I"

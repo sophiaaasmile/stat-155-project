@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001739020","1996","-17.51","-39.64","0.0","FAZENDA CASCATA, BR","        86","I","        82","I","        11","I","  98.8"," ,I,1123, ","   1319.4"," ,I"
+"BR001739020","1997","-17.51","-39.64","0.0","FAZENDA CASCATA, BR","        94","I","        90","I","         5","I","  47.2"," ,I,1220, ","   1186.5"," ,I"
+"BR001739020","2000","-17.51","-39.64","0.0","FAZENDA CASCATA, BR","       110","I","       104","I","        13","I","  93.1"," ,I,0927, ","   1544.4"," ,I"

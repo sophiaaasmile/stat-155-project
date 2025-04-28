@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"IDM00097126","2005","-2.55","120.367","50.0","MASAMBA ANDI JEMMA, ID","         0","S","       336","S","       181","S","   35.0","S,0226, ","     32.04","S"
+"IDM00097126","2017","-2.55","120.367","50.0","MASAMBA ANDI JEMMA, ID","         0","S","       333","S","       219","S","   35.8","S,0206, ","     32.43","S"
+"IDM00097126","2022","-2.55","120.367","50.0","MASAMBA ANDI JEMMA, ID","         0","S","       362","S","       237","S","   34.8","S,1222,+","     32.38","S"

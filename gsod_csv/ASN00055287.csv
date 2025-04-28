@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00055287","1971","-31.6","150.1833","427.0","YARRAMAN NORTH, AS","        64","a","        45","a","         6","a","  67.3"," ,a,0201, ","    666.0"," ,a"
+"ASN00055287","1972","-31.6","150.1833","427.0","YARRAMAN NORTH, AS","        62","a","        47","a","         4","a","  47.8"," ,a,0113, ","    626.4"," ,a"
+"ASN00055287","1973","-31.6","150.1833","427.0","YARRAMAN NORTH, AS","        75","a","        63","a","         8","a","  53.3"," ,a,0113, ","    925.3"," ,a"

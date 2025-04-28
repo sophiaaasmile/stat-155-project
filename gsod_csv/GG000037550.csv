@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"GG000037550","1967","41.9","45.4","1990.0","CIVITURA, GG","       162","I","        90","I","        12","I","  47.4"," ,I,0901, ","   1242.5"," ,I"
+"GG000037550","1969","41.9","45.4","1990.0","CIVITURA, GG","       115","I","        80","I","         6","I","  37.8"," ,I,0504, ","    766.2"," ,I"
+"GG000037550","1970","41.9","45.4","1990.0","CIVITURA, GG","        99","I","        61","I","         6","I","  61.3"," ,I,0815, ","    793.0"," ,I"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CAOR0077","2021","33.788592","-117.792437","117.3","ORANGE 2.1 ESE, CA US","        44","N","        21","N","         3","N","  45.5"," ,N,1215, ","    298.8"," ,N"
+"US1CAOR0077","2023","33.788592","-117.792437","117.3","ORANGE 2.1 ESE, CA US","        75","N","        35","N","         6","N","  68.3"," ,N,0821, ","    631.3"," ,N"
+"US1CAOR0077","2024","33.788592","-117.792437","117.3","ORANGE 2.1 ESE, CA US","        42","N","        22","N","         6","N","  48.3"," ,N,0205, ","    406.9"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLBV0036","2018","28.479253","-80.709267","1.2","MERRIT ISLAND 9.1 N, FL US","        93","N","        82","N","        19","N","  78.7"," ,N,0601, ","   1518.2"," ,N"
+"US1FLBV0036","2020","28.479253","-80.709267","1.2","MERRIT ISLAND 9.1 N, FL US","       107","N","        92","N","        22","N","  94.7"," ,N,0707, ","   1612.9"," ,N"
+"US1FLBV0036","2023","28.479253","-80.709267","1.2","MERRIT ISLAND 9.1 N, FL US","        97","N","        90","N","        24","N","  76.2"," ,N,1217, ","   1607.6"," ,N"
+"US1FLBV0036","2024","28.479253","-80.709267","1.2","MERRIT ISLAND 9.1 N, FL US","        87","N","        78","N","        13","N"," 151.9"," ,N,1010, ","   1340.5"," ,N"

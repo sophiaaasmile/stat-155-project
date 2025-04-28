@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COFM0103","2022","38.431664","-105.205626","1633.4","LINCOLN PARK 0.6 NE, CO US","        93","N","        28","N","         0","N","  12.7"," ,N,0521, ","    223.0"," ,N"
+"US1COFM0103","2023","38.431664","-105.205626","1633.4","LINCOLN PARK 0.6 NE, CO US","        86","N","        33","N","         3","N","  28.2"," ,N,0426, ","    337.2"," ,N"
+"US1COFM0103","2024","38.431664","-105.205626","1633.4","LINCOLN PARK 0.6 NE, CO US","        75","N","        40","N","         2","N","  66.0"," ,N,0315, ","    444.4"," ,N"

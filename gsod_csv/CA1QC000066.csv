@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA1QC000066","2021","45.016149","-72.9945","92.0","SAINT ARMAND 4.2 ESE, QC CA","       167","N","        86","N","         2","N","","","","","  36.8"," ,N,1101, ","    806.7"," ,N","",""
+"CA1QC000066","2022","45.016149","-72.9945","92.0","SAINT ARMAND 4.2 ESE, QC CA","       166","N","       103","N","         8","N","","","","","  48.5"," ,N,1107, ","   1226.6"," ,N","",""
+"CA1QC000066","2023","45.016149","-72.9945","92.0","SAINT ARMAND 4.2 ESE, QC CA","       181","N","        97","N","        11","N","","","","","  81.5"," ,N,0702, ","   1330.3"," ,N","",""
+"CA1QC000066","2024","45.016149","-72.9945","92.0","SAINT ARMAND 4.2 ESE, QC CA","       174","N","        98","N","         8","N","        17","N","   170"," ,N,0405, ","  70.4"," ,N,0711, ","   1117.5"," ,N","     1328"," ,N"

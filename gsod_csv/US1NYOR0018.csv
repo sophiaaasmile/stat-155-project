@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NYOR0018","2018","41.54269","-74.188349","137.8","WALDEN 1.2 S, NY US","","","","","","","","","","","","","   1629.0"," ,N","",""
+"US1NYOR0018","2021","41.54269","-74.188349","137.8","WALDEN 1.2 S, NY US","       149","N","        84","N","        10","N","","","",""," 140.5"," ,N,0902, ","   1201.0"," ,N","",""
+"US1NYOR0018","2022","41.54269","-74.188349","137.8","WALDEN 1.2 S, NY US","       135","N","        82","N","         9","N","        11","N","   124"," ,N,1212,+","  57.9"," ,N,0408, ","    969.2"," ,N","      908"," ,N"

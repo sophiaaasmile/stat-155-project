@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKJC0013","2022","34.6258","-99.3228","427.0","ALTUS 1.7 SSW, OK US","        64","N","        37","N","         3","N"," 133.1"," ,N,0601, ","    599.2"," ,N"
+"US1OKJC0013","2023","34.6258","-99.3228","427.0","ALTUS 1.7 SSW, OK US","        73","N","        52","N","         8","N","  40.6"," ,N,1215, ","    670.4"," ,N"
+"US1OKJC0013","2024","34.6258","-99.3228","427.0","ALTUS 1.7 SSW, OK US","        51","N","        36","N","         9","N","  99.3"," ,N,0603, ","    737.9"," ,N"

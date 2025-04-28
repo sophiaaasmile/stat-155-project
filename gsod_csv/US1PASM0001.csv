@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1PASM0001","2020","40.058442","-79.261568","838.2","HIDDEN VALLEY 0.3 ENE, PA US","       196","N","       129","N","        17","N","  58.4"," ,N,1217, ","   1644.5"," ,N"
+"US1PASM0001","2021","40.058442","-79.261568","838.2","HIDDEN VALLEY 0.3 ENE, PA US","       184","N","       123","N","        16","N","  79.2"," ,N,0702, ","   1619.7"," ,N"
+"US1PASM0001","2022","40.058442","-79.261568","838.2","HIDDEN VALLEY 0.3 ENE, PA US","       180","N","       135","N","        14","N","  71.1"," ,N,1112, ","   1649.5"," ,N"
+"US1PASM0001","2023","40.058442","-79.261568","838.2","HIDDEN VALLEY 0.3 ENE, PA US","       163","N","       124","N","        13","N","  55.9"," ,N,0104, ","   1679.6"," ,N"
+"US1PASM0001","2024","40.058442","-79.261568","838.2","HIDDEN VALLEY 0.3 ENE, PA US","       158","N","       113","N","        17","N"," 115.8"," ,N,1123, ","   1702.7"," ,N"

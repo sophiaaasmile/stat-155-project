@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009101","1923","-31.2","116.1",,"RANGERS VALLEY, AS","       119","a","        76","a","         6","a","  65.0"," ,a,1216, ","    844.1"," ,a"
+"ASN00009101","1924","-31.2","116.1",,"RANGERS VALLEY, AS","        79","a","        49","a","         2","a","  38.6"," ,a,0606, ","    565.0"," ,a"
+"ASN00009101","1925","-31.2","116.1",,"RANGERS VALLEY, AS","        85","a","        54","a","         3","a","  38.1"," ,a,0925, ","    539.3"," ,a"
+"ASN00009101","1926","-31.2","116.1",,"RANGERS VALLEY, AS","       110","a","        78","a","         6","a","  49.5"," ,a,0718, ","    952.5"," ,a"

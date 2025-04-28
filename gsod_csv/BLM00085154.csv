@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"BLM00085154","2009","-14.819","-64.918","155.1","TTE AV JORGE HENRICH ARAUZ, BL","","","","","         0","S","       338","S","       143","S","","","   39.2","S,0408, ","     31.07","S","",""
+"BLM00085154","2011","-14.819","-64.918","155.1","TTE AV JORGE HENRICH ARAUZ, BL","         0","S","         0","S","","","","","","","    9.2","S,0705, ","","","","","     20.80","S"
+"BLM00085154","2012","-14.819","-64.918","155.1","TTE AV JORGE HENRICH ARAUZ, BL","","","","","         0","S","       339","S","       156","S","","","   38.2","S,1030, ","     31.56","S","",""
+"BLM00085154","2018","-14.819","-64.918","155.1","TTE AV JORGE HENRICH ARAUZ, BL","         0","S","         0","S","","","","","","","   10.4","S,0820,+","","","","","     20.85","S"
+"BLM00085154","2019","-14.819","-64.918","155.1","TTE AV JORGE HENRICH ARAUZ, BL","         0"," ","         0","S","","","","","","","    7.2","S,0806, ","","","","","     21.01","S"

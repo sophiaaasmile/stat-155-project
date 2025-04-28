@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10butl004","2005","41.219","-97.349",,"RISING CITY 3.1 WNW, NE US","        57","N","        43","N","         6","N","  60.7"," ,N,0419, ","    534.2"," ,N"
+"US10butl004","2006","41.219","-97.349",,"RISING CITY 3.1 WNW, NE US","        78","N","        48","N","         9","N","  93.5"," ,N,0916, ","    818.9"," ,N"
+"US10butl004","2007","41.219","-97.349",,"RISING CITY 3.1 WNW, NE US","        72","N","        54","N","         7","N","  58.4"," ,N,0807, ","    735.6"," ,N"

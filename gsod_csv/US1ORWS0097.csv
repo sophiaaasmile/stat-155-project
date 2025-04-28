@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ORWS0097","2018","45.541464","-122.99869","56.7","HILLSBORO 3.0 WNW, OR US","       164","N","        82","N","         3","N","  38.1"," ,N,1218, ","    735.7"," ,N"
+"US1ORWS0097","2019","45.541464","-122.99869","56.7","HILLSBORO 3.0 WNW, OR US","       165","N","        75","N","         5","N","  66.5"," ,N,0212, ","    766.3"," ,N"
+"US1ORWS0097","2021","45.541464","-122.99869","56.7","HILLSBORO 3.0 WNW, OR US","       192","N","        98","N","         7","N","  43.7"," ,N,1112, ","   1057.1"," ,N"
+"US1ORWS0097","2022","45.541464","-122.99869","56.7","HILLSBORO 3.0 WNW, OR US","       173","N","        77","N","         9","N","  74.4"," ,N,1227, ","   1034.6"," ,N"

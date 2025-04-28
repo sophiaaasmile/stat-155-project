@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00045058","1995","-27.3772","141.9472","70.0","KARMONA, AS","        21","a","        19","a","         3","a","  53.0"," ,a,0118, ","    304.5"," ,a"
+"ASN00045058","1996","-27.3772","141.9472","70.0","KARMONA, AS","        22","a","        16","a","         2","a","  58.6"," ,a,0726, ","    235.7"," ,a"
+"ASN00045058","1998","-27.3772","141.9472","70.0","KARMONA, AS","        23","a","        18","a","         4","a","  59.2"," ,a,0113, ","    330.2"," ,a"

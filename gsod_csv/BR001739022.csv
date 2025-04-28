@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001739022","1993","-17.25","-39.62","0.0","FAZENDA RIO DO SUL, BR","       151","I","        52","I","         6","I","  60.0"," ,I,0120, ","    724.3"," ,I"
+"BR001739022","1994","-17.25","-39.62","0.0","FAZENDA RIO DO SUL, BR","        86","I","        64","I","         4","I","  41.2"," ,I,1122, ","    833.6"," ,I"
+"BR001739022","1999","-17.25","-39.62","0.0","FAZENDA RIO DO SUL, BR","       124","I","        83","I","        15","I"," 145.0"," ,I,1129, ","   1359.2"," ,I"
+"BR001739022","2000","-17.25","-39.62","0.0","FAZENDA RIO DO SUL, BR","       145","I","       104","I","        22","I","  89.3"," ,I,1202, ","   1696.9"," ,I"

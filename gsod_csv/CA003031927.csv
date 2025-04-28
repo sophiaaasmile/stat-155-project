@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003031927","2002","49.65","-114.0333","1259.0","COWLEY TANNER, AB CA","        85","C","        52","C","         3","C","        28","C","   300"," ,C,0522, ","  59.0"," ,C,0608, ","    559.9"," ,C","     2311"," ,C"
+"CA003031927","2003","49.65","-114.0333","1259.0","COWLEY TANNER, AB CA","        70","C","        38","C","         1","C","        18","C","   280"," ,C,0426, ","  28.0"," ,C,0426, ","    374.4"," ,C","     1889"," ,C"

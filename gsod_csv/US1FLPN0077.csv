@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLPN0077","2020","27.8618","-82.83478","9.1","SEMINOLE 3.3 WNW, FL US","        97","N","        71","N","        15","N"," 157.5"," ,N,1112, ","   1364.8"," ,N"
+"US1FLPN0077","2021","27.8618","-82.83478","9.1","SEMINOLE 3.3 WNW, FL US","        90","N","        72","N","        19","N","  52.1"," ,N,0915, ","   1213.1"," ,N"
+"US1FLPN0077","2023","27.8618","-82.83478","9.1","SEMINOLE 3.3 WNW, FL US","        68","N","        48","N","         7","N","  65.0"," ,N,1217, ","    702.0"," ,N"
+"US1FLPN0077","2024","27.8618","-82.83478","9.1","SEMINOLE 3.3 WNW, FL US","        84","N","        67","N","        16","N"," 304.8"," ,N,1010, ","   1656.8"," ,N"

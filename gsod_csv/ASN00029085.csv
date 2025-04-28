@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00029085","1971","-16.2333","141.4167","6.1","INKERMAN STATION, AS","        65","a","        52","a","        16","a"," 154.9"," ,a,0227, ","   1341.5"," ,a"
+"ASN00029085","1975","-16.2333","141.4167","6.1","INKERMAN STATION, AS","        78","a","        64","a","        19","a","  75.0"," ,a,0214, ","   1306.6"," ,a"
+"ASN00029085","1976","-16.2333","141.4167","6.1","INKERMAN STATION, AS","        58","a","        57","a","        32","a"," 162.5"," ,a,1216, ","   2686.4"," ,a"

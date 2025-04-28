@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000257002","1990","-2.97","-57.59","0.0","BOA VISTA DO RAMOS, BR","       181","I","       150","I","        23","I","  61.3"," ,I,0408, ","   2266.0"," ,I"
+"BR000257002","1998","-2.97","-57.59","0.0","BOA VISTA DO RAMOS, BR","       152","I","       126","I","        27","I","  73.3"," ,I,0502, ","   2112.1"," ,I"
+"BR000257002","1999","-2.97","-57.59","0.0","BOA VISTA DO RAMOS, BR","       169","I","       145","I","        35","I"," 128.1"," ,I,0301, ","   2859.7"," ,I"

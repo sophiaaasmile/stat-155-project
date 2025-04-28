@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALJF0081","2022","33.693604","-86.536685","298.1","ARGO 1.6 WNW, AL US","       119","N","        80","N","        22","N"," 124.0"," ,N,1130, ","   1679.2"," ,N"
+"US1ALJF0081","2023","33.693604","-86.536685","298.1","ARGO 1.6 WNW, AL US","       132","N","        86","N","        22","N","  75.4"," ,N,0810, ","   1422.2"," ,N"
+"US1ALJF0081","2024","33.693604","-86.536685","298.1","ARGO 1.6 WNW, AL US","       121","N","        81","N","        20","N","  93.0"," ,N,0915, ","   1475.5"," ,N"

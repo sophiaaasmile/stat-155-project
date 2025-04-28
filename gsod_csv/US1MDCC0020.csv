@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MDCC0020","2021","39.6171","-75.83121","12.8","ELKTON 1.1 NNW, MD US","       117","N","        67","N","        11","N","  58.7"," ,N,0902, ","    893.8"," ,N"
+"US1MDCC0020","2023","39.6171","-75.83121","12.8","ELKTON 1.1 NNW, MD US","        94","N","        57","N","        10","N","  65.8"," ,N,1211, ","    956.3"," ,N"
+"US1MDCC0020","2024","39.6171","-75.83121","12.8","ELKTON 1.1 NNW, MD US","       106","N","        68","N","        11","N","  75.2"," ,N,0606, ","   1041.9"," ,N"

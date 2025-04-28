@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003041910","1960","49.0333","-111.85","1057.0","COUTTS EXPERIMENTAL ST, AB CA","        61","C","        41","C","         1","C","        24","C","   178"," ,C,0424,+","  49.8"," ,C,0802, ","    362.5"," ,C","     1866"," ,C"
+"CA003041910","1961","49.0333","-111.85","1057.0","COUTTS EXPERIMENTAL ST, AB CA","        76","C","        46","C","         0","C","        19","C","    89"," ,C,1020, ","  23.6"," ,C,0510, ","    303.3"," ,C","      889"," ,C"
+"CA003041910","1962","49.0333","-111.85","1057.0","COUTTS EXPERIMENTAL ST, AB CA","        58","C","        40","C","         0","C","","","","","  15.0"," ,C,0713, ","    273.5"," ,C","",""

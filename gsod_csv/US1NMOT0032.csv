@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMOT0032","2009","32.990698","-105.875786","1701.1","LA LUZ 3.8 ENE, NM US","        67","N","        35","N","         4","N","  46.5"," ,N,0917, ","    393.5"," ,N"
+"US1NMOT0032","2011","32.990698","-105.875786","1701.1","LA LUZ 3.8 ENE, NM US","        57","N","        21","N","         1","N","  27.4"," ,N,1027, ","    210.0"," ,N"
+"US1NMOT0032","2016","32.990698","-105.875786","1701.1","LA LUZ 3.8 ENE, NM US","        65","N","        33","N","         3","N","  39.6"," ,N,0811, ","    336.6"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006133050","1971","43.1667","-79.6","191.0","GRIMSBY ALLAN, ON CA","       147","C","        82","C","         2","C","        25","C","   231"," ,C,0208, ","  29.5"," ,C,0822, ","    772.8"," ,C","     2038"," ,C"
+"CA006133050","1972","43.1667","-79.6","191.0","GRIMSBY ALLAN, ON CA","       168","C","        94","C","         6","C","        26","C","   318"," ,C,0213, ","  46.0"," ,C,0807, ","   1030.6"," ,C","     2198"," ,C"
+"CA006133050","1973","43.1667","-79.6","191.0","GRIMSBY ALLAN, ON CA","       148","C","        84","C","         9","C","        16","C","   147"," ,C,0317, ","  48.8"," ,C,1029, ","    966.9"," ,C","     1408"," ,C"
+"CA006133050","1974","43.1667","-79.6","191.0","GRIMSBY ALLAN, ON CA","       157","C","        85","C","         1","C","        26","C","   198"," ,C,0202, ","  26.4"," ,C,1120, ","    837.0"," ,C","     2081"," ,C"

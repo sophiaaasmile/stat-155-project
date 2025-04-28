@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMSF0133","2020","35.965419","-106.03076","1749.9","ESPANOLA 3.4 SE, NM US","","","","","","","","","    161.5"," ,N"
+"US1NMSF0133","2021","35.965419","-106.03076","1749.9","ESPANOLA 3.4 SE, NM US","        49","N","        18","N","         0","N","  15.0"," ,N,0601, ","    175.9"," ,N"
+"US1NMSF0133","2022","35.965419","-106.03076","1749.9","ESPANOLA 3.4 SE, NM US","        55","N","        28","N","         1","N","  25.7"," ,N,0623, ","    325.4"," ,N"
+"US1NMSF0133","2023","35.965419","-106.03076","1749.9","ESPANOLA 3.4 SE, NM US","","","","","","","","","    195.3"," ,N"

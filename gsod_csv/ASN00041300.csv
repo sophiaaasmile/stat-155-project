@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00041300","1959","-26.9833","151.3833","411.5","CREGMORE, AS","        72","a","        60","a","         8","a","  65.3"," ,a,1017, ","    886.2"," ,a"
+"ASN00041300","1960","-26.9833","151.3833","411.5","CREGMORE, AS","        53","a","        36","a","         6","a","  57.2"," ,a,0206, ","    542.3"," ,a"
+"ASN00041300","1961","-26.9833","151.3833","411.5","CREGMORE, AS","        54","a","        44","a","         4","a","  33.0"," ,a,1117,+","    491.0"," ,a"

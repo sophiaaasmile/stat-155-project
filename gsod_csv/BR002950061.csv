@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002950061","1993","-29.85","-50.91","0.0","MORUNGAVA, BR","       134","I","        85","I","        15","I","  95.2"," ,I,0705, ","   1498.7"," ,I"
+"BR002950061","1994","-29.85","-50.91","0.0","MORUNGAVA, BR","       123","I","        98","I","        26","I","  86.8"," ,I,0619, ","   2008.5"," ,I"
+"BR002950061","1997","-29.85","-50.91","0.0","MORUNGAVA, BR","       133","I","       104","I","        23","I","  83.3"," ,I,0131, ","   1780.2"," ,I"

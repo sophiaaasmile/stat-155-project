@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00066144","1965","-33.9667","151.0667","48.0","PEAKHURST FOREST ROAD, AS","        98","a","        50","a","         7","a","  49.5"," ,a,1018, ","    610.5"," ,a"
+"ASN00066144","1966","-33.9667","151.0667","48.0","PEAKHURST FOREST ROAD, AS","       120","a","        64","a","         8","a","  94.0"," ,a,1109, ","    873.4"," ,a"
+"ASN00066144","1967","-33.9667","151.0667","48.0","PEAKHURST FOREST ROAD, AS","       131","a","        66","a","         9","a","  99.1"," ,a,0807, ","    995.0"," ,a"
+"ASN00066144","1968","-33.9667","151.0667","48.0","PEAKHURST FOREST ROAD, AS","        96","a","        47","a","         7","a","  55.1"," ,a,0105, ","    552.8"," ,a"

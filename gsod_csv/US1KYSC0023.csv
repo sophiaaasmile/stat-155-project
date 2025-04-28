@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KYSC0023","2021","38.215528","-84.564461","260.6","GEORGETOWN 1.0 NW, KY US","       131","N","        93","N","        16","N","  52.8"," ,N,0126, ","   1462.6"," ,N"
+"US1KYSC0023","2022","38.215528","-84.564461","260.6","GEORGETOWN 1.0 NW, KY US","       127","N","        82","N","        12","N","  50.5"," ,N,0218, ","   1073.2"," ,N"
+"US1KYSC0023","2023","38.215528","-84.564461","260.6","GEORGETOWN 1.0 NW, KY US","       132","N","        71","N","        10","N","  74.9"," ,N,0103, ","   1072.8"," ,N"
+"US1KYSC0023","2024","38.215528","-84.564461","260.6","GEORGETOWN 1.0 NW, KY US","       132","N","        96","N","        13","N","  62.5"," ,N,0928, ","   1192.9"," ,N"

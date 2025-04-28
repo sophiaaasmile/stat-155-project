@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NYUL0032","2019","41.838556","-73.95875","48.5","ESOPUS 0.8 NNE, NY US","       138","N","        98","N","        10","N","","","","","","","","","  68.3"," ,N,1017, ","   1243.2"," ,N","",""
+"US1NYUL0032","2021","41.838556","-73.95875","48.5","ESOPUS 0.8 NNE, NY US","       138","N","        82","N","        13","N","","","","","","","",""," 104.1"," ,N,0902, ","   1264.6"," ,N","",""
+"US1NYUL0032","2024","41.838556","-73.95875","48.5","ESOPUS 0.8 NNE, NY US","       147","N","        82","N","        13","N","       26","","        10","N","   279"," ,N,0107, ","   279"," ,N,0107, ","  59.4"," ,N,0110, ","   1268.6"," ,N","      804"," ,N"

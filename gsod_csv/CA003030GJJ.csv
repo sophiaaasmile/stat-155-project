@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003030GJJ","1973","50.6","-113.6833","1024.0","BLACKIE 2 W, AB CA","        77","C","        49","C","         1","C","        22","C","   102"," ,C,0405,+","  30.5"," ,C,0614, ","    402.7"," ,C","     1089"," ,C"
+"CA003030GJJ","1974","50.6","-113.6833","1024.0","BLACKIE 2 W, AB CA","        80","C","        58","C","         4","C","        27","C","   330"," ,C,0427, ","  62.2"," ,C,0426, ","    460.1"," ,C","     1535"," ,C"
+"CA003030GJJ","1975","50.6","-113.6833","1024.0","BLACKIE 2 W, AB CA","        72","C","        56","C","         2","C","        27","C","   254"," ,C,1230, ","  25.4"," ,C,1230,+","    474.8"," ,C","     2156"," ,C"

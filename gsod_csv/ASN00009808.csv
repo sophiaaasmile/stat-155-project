@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009808","1907","-33.5167","115.6167",,"ELGIN, AS","       141","a","        91","a","         4","a","  48.3"," ,a,0712, ","    971.1"," ,a"
+"ASN00009808","1908","-33.5167","115.6167",,"ELGIN, AS","       101","a","        73","a","         3","a","  63.0"," ,a,0807, ","    796.5"," ,a"
+"ASN00009808","1909","-33.5167","115.6167",,"ELGIN, AS","       106","a","        91","a","         6","a","  39.1"," ,a,0514, ","    943.1"," ,a"

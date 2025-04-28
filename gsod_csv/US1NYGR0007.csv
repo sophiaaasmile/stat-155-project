@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYGR0007","2021","42.414","-74.009","248.7","GREENVILLE 0.7 E, NY US","       140","N","        83","N","        15","N","  63.0"," ,N,0702, ","   1207.3"," ,N"
+"US1NYGR0007","2022","42.414","-74.009","248.7","GREENVILLE 0.7 E, NY US","       124","N","        83","N","         8","N","  85.3"," ,N,0831, ","   1019.8"," ,N"
+"US1NYGR0007","2024","42.414","-74.009","248.7","GREENVILLE 0.7 E, NY US","       135","N","        77","N","         8","N","  53.6"," ,N,0110, ","    937.8"," ,N"

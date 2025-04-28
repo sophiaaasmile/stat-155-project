@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006158406","1987","43.65","-79.35","77.0","TORONTO BOOTH, ON CA","       105","C","        65","C","         0","C","         5","C","    86"," ,C,1219, ","  22.8"," ,C,1219, ","    650.3"," ,C","      528"," ,C"
+"CA006158406","1988","43.65","-79.35","77.0","TORONTO BOOTH, ON CA","       118","C","        62","C","         1","C","         5","C","    68"," ,C,0212, ","  28.6"," ,C,0716, ","    598.5"," ,C","      380"," ,C"
+"CA006158406","1990","43.65","-79.35","77.0","TORONTO BOOTH, ON CA","       131","C","        71","C","         3","C","         4","C","   100"," ,C,1203, ","  50.6"," ,C,0812, ","    835.7"," ,C","      442"," ,C"

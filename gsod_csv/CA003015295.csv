@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003015295","1968","52.25","-115.3","1174.0","PRAIRIE CREEK RANGER STATION, AB CA","        95","C","        50","C","         1","C","        18","C","   147"," ,C,1115, ","  73.7"," ,C,0719, ","    595.6"," ,C","     1612"," ,C"
+"CA003015295","1969","52.25","-115.3","1174.0","PRAIRIE CREEK RANGER STATION, AB CA","        92","C","        55","C","         5","C","        12","C","   117"," ,C,0104, ","  39.1"," ,C,0623, ","    620.6"," ,C","      881"," ,C"
+"CA003015295","1970","52.25","-115.3","1174.0","PRAIRIE CREEK RANGER STATION, AB CA","        96","C","        49","C","         5","C","        27","C","   163"," ,C,0426, ","  49.5"," ,C,0613, ","    554.3"," ,C","     1870"," ,C"
+"CA003015295","1973","52.25","-115.3","1174.0","PRAIRIE CREEK RANGER STATION, AB CA","","","","","","","        25","C","   193"," ,C,0405, ","","","","","     1794"," ,C"
+"CA003015295","1974","52.25","-115.3","1174.0","PRAIRIE CREEK RANGER STATION, AB CA","        90","C","        55","C","         5","C","        27","C","   180"," ,C,0512, ","  71.1"," ,C,0625, ","    628.9"," ,C","     1977"," ,C"

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA005040230","1980","50.5","-99.4833","433.0","BIRNIE, MB CA","        75","C","        45","C","         5","C","        16","C","   160"," ,C,0110, ","  74.0"," ,C,0820, ","    605.7"," ,C","     1254"," ,C"
+"CA005040230","1981","50.5","-99.4833","433.0","BIRNIE, MB CA","        60","C","        44","C","         2","C","         5","C","    40"," ,C,0418, ","  35.8"," ,C,0830, ","    457.1"," ,C","      280"," ,C"

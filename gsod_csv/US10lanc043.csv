@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10lanc043","2011","40.77905","-96.647295",,"LINCOLN 1.8 SE, NE US","        99","N","        55","N","         9","N","  58.2"," ,N,0627, ","    795.2"," ,N"
+"US10lanc043","2013","40.77905","-96.647295",,"LINCOLN 1.8 SE, NE US","        83","N","        52","N","         8","N","  65.0"," ,N,0527, ","    747.0"," ,N"
+"US10lanc043","2014","40.77905","-96.647295",,"LINCOLN 1.8 SE, NE US","       107","N","        51","N","        10","N"," 153.2"," ,N,1001, ","    920.3"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001952003","1985","-19.96","-52.23","300.0","SAO JOSE DO SUCURIU, BR","        76","I","        68","I","         9","I","  77.0"," ,I,0227, ","   1011.3"," ,I"
+"BR001952003","1995","-19.96","-52.23","300.0","SAO JOSE DO SUCURIU, BR","        97","I","        82","I","        18","I"," 116.5"," ,I,0220, ","   1478.3"," ,I"
+"BR001952003","1996","-19.96","-52.23","300.0","SAO JOSE DO SUCURIU, BR","       113","I","       103","I","        29","I","  77.1"," ,I,1225, ","   1977.5"," ,I"

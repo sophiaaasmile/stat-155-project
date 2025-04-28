@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OHHC0010","2014","40.8816","-83.709","268.5","JENERA 1.6 SE, OH US","       126","N","        63","N","         8","N","  50.5"," ,N,0911, ","    869.7"," ,N"
+"US1OHHC0010","2015","40.8816","-83.709","268.5","JENERA 1.6 SE, OH US","       143","N","        82","N","         8","N","  57.7"," ,N,0616, ","    977.2"," ,N"
+"US1OHHC0010","2016","40.8816","-83.709","268.5","JENERA 1.6 SE, OH US","","","","","","","","","    733.2"," ,N"
+"US1OHHC0010","2022","40.8816","-83.709","268.5","JENERA 1.6 SE, OH US","","","","","","","","","    890.9"," ,N"

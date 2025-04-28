@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"GMM00010235","1991","53.0","9.833","77.0","SOLTAU, GM","       147","S","        73","S","         3","S","  28.7"," ,S,1220,+","    644.2"," ,S"
+"GMM00010235","1992","53.0","9.833","77.0","SOLTAU, GM","       162","S","        99","S","         1","S","  27.2"," ,S,0313, ","    791.5"," ,S"

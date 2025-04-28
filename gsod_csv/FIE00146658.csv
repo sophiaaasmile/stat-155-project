@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FIE00146658","2003","69.4317","25.8194","148.0","UTSJOKI KARIGASNIEMI, FI","       138","E","        38","E","         1","E","  25.8"," ,E,0923, ","    365.6"," ,E"
+"FIE00146658","2004","69.4317","25.8194","148.0","UTSJOKI KARIGASNIEMI, FI","       144","E","        48","E","         1","E","  30.2"," ,E,0806, ","    446.4"," ,E"
+"FIE00146658","2005","69.4317","25.8194","148.0","UTSJOKI KARIGASNIEMI, FI","       164","E","        61","E","         0","E","  23.0"," ,E,0903, ","    500.0"," ,E"
+"FIE00146658","2006","69.4317","25.8194","148.0","UTSJOKI KARIGASNIEMI, FI","       135","E","        43","E","         0","E","  21.6"," ,E,0704, ","    338.5"," ,E"
+"FIE00146658","2007","69.4317","25.8194","148.0","UTSJOKI KARIGASNIEMI, FI","       165","E","        52","E","         0","E","  15.6"," ,E,0823,+","    417.3"," ,E"

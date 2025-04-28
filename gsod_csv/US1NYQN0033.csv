@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYQN0033","2021","40.662099","-73.841345","2.1","HOWARD BEACH 0.4 NNW, NY US","       113","N","        81","N","        11","N"," 126.0"," ,N,0902, ","   1399.2"," ,N"
+"US1NYQN0033","2022","40.662099","-73.841345","2.1","HOWARD BEACH 0.4 NNW, NY US","       115","N","        78","N","        12","N","  59.7"," ,N,1004, ","   1151.7"," ,N"
+"US1NYQN0033","2023","40.662099","-73.841345","2.1","HOWARD BEACH 0.4 NNW, NY US","       120","N","        71","N","        20","N"," 117.6"," ,N,0930, ","   1468.7"," ,N"
+"US1NYQN0033","2024","40.662099","-73.841345","2.1","HOWARD BEACH 0.4 NNW, NY US","       117","N","        85","N","        11","N","  85.6"," ,N,0324, ","   1307.6"," ,N"

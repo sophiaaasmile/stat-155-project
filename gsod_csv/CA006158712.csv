@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006158712","1974","43.7167","-79.5167","130.0","TORONTO JANE WILSON, ON CA","       115","C","        68","C","         3","C","         9","C","   152"," ,C,0108, ","  44.5"," ,C,0516, ","    733.6"," ,C","      706"," ,C"
+"CA006158712","1975","43.7167","-79.5167","130.0","TORONTO JANE WILSON, ON CA","","","","","","","        12","C","   104"," ,C,1226, ","","","","","      719"," ,C"
+"CA006158712","1976","43.7167","-79.5167","130.0","TORONTO JANE WILSON, ON CA","       120","C","        72","C","         4","C","        13","C","   163"," ,C,0113, ","  32.0"," ,C,0813, ","    680.9"," ,C","      847"," ,C"
+"CA006158712","1977","43.7167","-79.5167","130.0","TORONTO JANE WILSON, ON CA","       118","C","        76","C","         7","C","        16","C","   244"," ,C,1208, ","  58.7"," ,C,0706, ","    933.0"," ,C","     1227"," ,C"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006157884","1979","43.9","-78.6667","84.0","SOPER CREEK WPCP, ON CA","       127","C","        88","C","         2","C","        15","C","   122"," ,C,0120, ","  55.0"," ,C,0124, ","    852.6"," ,C","      841"," ,C"
+"CA006157884","1980","43.9","-78.6667","84.0","SOPER CREEK WPCP, ON CA","       138","C","        86","C","         5","C","        21","C","   148"," ,C,0211, ","  41.4"," ,C,0720, ","    924.5"," ,C","     1529"," ,C"
+"CA006157884","1981","43.9","-78.6667","84.0","SOPER CREEK WPCP, ON CA","       123","C","        76","C","         5","C","        13","C","   200"," ,C,0210, ","  48.0"," ,C,0905, ","    829.2"," ,C","      854"," ,C"

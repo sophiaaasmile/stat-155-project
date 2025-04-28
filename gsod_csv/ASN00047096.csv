@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00047096","1970","-31.8333","143.3667","71.6","WILCANNIA MULGA YARDS, AS","        10","a","         8","a","         2","a","  48.3"," ,a,0423, ","    161.2"," ,a"
+"ASN00047096","1971","-31.8333","143.3667","71.6","WILCANNIA MULGA YARDS, AS","        30","a","        20","a","         2","a","  41.1"," ,a,1226, ","    235.2"," ,a"
+"ASN00047096","1973","-31.8333","143.3667","71.6","WILCANNIA MULGA YARDS, AS","        31","a","        27","a","         3","a","  73.2"," ,a,1104, ","    448.3"," ,a"
+"ASN00047096","1974","-31.8333","143.3667","71.6","WILCANNIA MULGA YARDS, AS","        42","a","        35","a","         6","a","  56.0"," ,a,0826, ","    487.6"," ,a"

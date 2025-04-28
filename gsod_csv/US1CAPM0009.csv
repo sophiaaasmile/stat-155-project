@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CAPM0009","2020","39.817928","-120.315792","1511.5","BECKWOURTH 3.3 E, CA US","        43","N","        21","N","         2","N","","","","","  30.5"," ,N,1118, ","    221.7"," ,N","",""
+"US1CAPM0009","2021","39.817928","-120.315792","1511.5","BECKWOURTH 3.3 E, CA US","","","","","","","","","","","","","    405.9"," ,N","",""
+"US1CAPM0009","2022","39.817928","-120.315792","1511.5","BECKWOURTH 3.3 E, CA US","        37","N","        20","N","         1","N","         9","N","   114"," ,N,1102, ","  35.1"," ,N,1211, ","    234.0"," ,N","      704"," ,N"
+"US1CAPM0009","2024","39.817928","-120.315792","1511.5","BECKWOURTH 3.3 E, CA US","        57","N","        30","N","         1","N","        13","N","   305"," ,N,0302, ","  27.9"," ,N,0219, ","    358.0"," ,N","     1073"," ,N"

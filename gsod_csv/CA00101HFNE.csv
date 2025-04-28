@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA00101HFNE","1979","48.45","-123.4333","6.0","VICTORIA PORTAGE INLET, BC CA","","","         1","C","","","    28"," ,C,0202, ","       28"," ,C"
+"CA00101HFNE","1981","48.45","-123.4333","6.0","VICTORIA PORTAGE INLET, BC CA","        0","","         0","C","     0"," ,C,1231,+","     0","T,C,1231,+","        0","T,C"
+"CA00101HFNE","1982","48.45","-123.4333","6.0","VICTORIA PORTAGE INLET, BC CA","        6","","         2","C","   110"," ,C,0106,+","    80"," ,C,0104, ","      223"," ,C"

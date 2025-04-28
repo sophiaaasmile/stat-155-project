@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00072084","1967","-35.9167","147.45",,"TALMALMO MYRTLE GROVE, AS","        73","a","        33","a","         0","a","  19.8"," ,a,0521, ","    309.2"," ,a"
+"ASN00072084","1968","-35.9167","147.45",,"TALMALMO MYRTLE GROVE, AS","       118","a","        68","a","         6","a","  67.8"," ,a,0511, ","    885.8"," ,a"
+"ASN00072084","1969","-35.9167","147.45",,"TALMALMO MYRTLE GROVE, AS","       101","a","        60","a","         8","a","  63.2"," ,a,0416, ","    844.2"," ,a"
+"ASN00072084","1970","-35.9167","147.45",,"TALMALMO MYRTLE GROVE, AS","       118","a","        74","a","         8","a","  80.0"," ,a,0827, ","   1069.7"," ,a"
+"ASN00072084","1971","-35.9167","147.45",,"TALMALMO MYRTLE GROVE, AS","","","","","","","","","    830.2"," ,a"

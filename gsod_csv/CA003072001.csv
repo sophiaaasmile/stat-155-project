@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003072001","2002","55.2667","-118.1833","639.0","DEBOLT GOODWIN, AB CA","","","","","","","        17","C","   160"," ,C,0505, ","","","","","     1381"," ,C"
+"CA003072001","2005","55.2667","-118.1833","639.0","DEBOLT GOODWIN, AB CA","","","","","","","         8","C","   130"," ,C,0204, ","","","","","      620"," ,C"
+"CA003072001","2006","55.2667","-118.1833","639.0","DEBOLT GOODWIN, AB CA","        90","C","        52","C","         1","C","        18","C","   190"," ,C,1028, ","  34.0"," ,C,0729, ","    420.8"," ,C","     1350"," ,C"

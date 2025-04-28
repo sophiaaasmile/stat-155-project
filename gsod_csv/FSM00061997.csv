@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FSM00061997","1984","-46.433","51.85","142.0","ALFRED FAURE ILES CROZET, FS","       259","S","       166","S","        13","S","  56.9"," ,S,0415, ","   2134.3"," ,S"
+"FSM00061997","2007","-46.433","51.85","142.0","ALFRED FAURE ILES CROZET, FS","       224","S","       149","S","        14","S","  51.1"," ,S,0520,+","   1909.3"," ,S"
+"FSM00061997","2012","-46.433","51.85","142.0","ALFRED FAURE ILES CROZET, FS","       267","S","       188","S","        26","S","  69.1"," ,S,0523, ","   2824.6"," ,S"
+"FSM00061997","2013","-46.433","51.85","142.0","ALFRED FAURE ILES CROZET, FS","       277","S","       164","S","        22","S","  51.6"," ,S,0404, ","   2196.4"," ,S"
+"FSM00061997","2014","-46.433","51.85","142.0","ALFRED FAURE ILES CROZET, FS","       219","S","       142","S","        20","S","  60.7"," ,S,0611, ","   1916.3"," ,S"
+"FSM00061997","2015","-46.433","51.85","142.0","ALFRED FAURE ILES CROZET, FS","       210","S","       121","S","        17","S","  55.6"," ,S,1123, ","   1789.3"," ,S"

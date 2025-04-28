@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN008060200","1957","34.33","76.33","3925.0","MULBECK OBSERVATORY, IN","        56","I","        42","I","         3","I","  30.5"," ,I,0826,+","    415.9"," ,I"
+"IN008060200","1959","34.33","76.33","3925.0","MULBECK OBSERVATORY, IN","        57","I","        37","I","         3","I","  64.8"," ,I,0705, ","    425.8"," ,I"
+"IN008060200","1960","34.33","76.33","3925.0","MULBECK OBSERVATORY, IN","        32","I","        19","I","         0","I","  11.4"," ,I,0120, ","    104.3"," ,I"
+"IN008060200","1963","34.33","76.33","3925.0","MULBECK OBSERVATORY, IN","        17","I","        11","I","         1","I","  26.2"," ,I,0309, ","    115.8"," ,I"
+"IN008060200","1965","34.33","76.33","3925.0","MULBECK OBSERVATORY, IN","        22","I","        12","I","         0","I","   5.8"," ,I,0318, ","     56.0"," ,I"

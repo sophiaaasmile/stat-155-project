@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CODN0269","2020","39.8034","-104.8837","1599.9","DENVER 6.7 NE, CO US","        69","N","        34","N","         1","N","  40.1"," ,N,0320, ","    334.9"," ,N"
+"US1CODN0269","2021","39.8034","-104.8837","1599.9","DENVER 6.7 NE, CO US","        67","N","        31","N","         4","N","  73.7"," ,N,0315, ","    397.1"," ,N"
+"US1CODN0269","2022","39.8034","-104.8837","1599.9","DENVER 6.7 NE, CO US","        71","N","        38","N","         3","N","  38.6"," ,N,0601, ","    426.7"," ,N"
+"US1CODN0269","2024","39.8034","-104.8837","1599.9","DENVER 6.7 NE, CO US","        79","N","        32","N","         4","N","  33.3"," ,N,0314, ","    388.0"," ,N"

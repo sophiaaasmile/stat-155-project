@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILMH0005","2021","41.0996065","-89.3824117","146.6","HENRY 1.4 SW, IL US","       118","N","        63","N","        12","N","  86.4"," ,N,1025, ","    940.5"," ,N"
+"US1ILMH0005","2022","41.0996065","-89.3824117","146.6","HENRY 1.4 SW, IL US","       109","N","        63","N","         9","N","  80.3"," ,N,0607, ","    910.8"," ,N"
+"US1ILMH0005","2024","41.0996065","-89.3824117","146.6","HENRY 1.4 SW, IL US","       106","N","        69","N","         7","N","  66.8"," ,N,0305, ","    940.0"," ,N"

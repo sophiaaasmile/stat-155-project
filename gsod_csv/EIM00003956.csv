@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"EIM00003956","2012","52.283","-6.483","53.0","JOHNSTOWN CASTLE, EI","       186","S","       110","S","         2","S","  31.0"," ,S,0827, ","   1121.3"," ,S"
+"EIM00003956","2013","52.283","-6.483","53.0","JOHNSTOWN CASTLE, EI","       186","S","        87","S","         3","S","  32.8"," ,S,1018, ","    848.9"," ,S"
+"EIM00003956","2014","52.283","-6.483","53.0","JOHNSTOWN CASTLE, EI","       220","S","       109","S","         3","S","  43.2"," ,S,1006, ","   1082.2"," ,S"

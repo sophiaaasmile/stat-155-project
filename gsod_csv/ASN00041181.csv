@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00041181","1959","-27.05","151.0","323.1","WILKIE, AS","        72","a","        59","a","         9","a","  74.9"," ,a,0218, ","    864.7"," ,a"
+"ASN00041181","1960","-27.05","151.0","323.1","WILKIE, AS","        40","a","        36","a","         4","a","  56.4"," ,a,0312, ","    486.3"," ,a"
+"ASN00041181","1961","-27.05","151.0","323.1","WILKIE, AS","        39","a","        34","a","         8","a"," 111.8"," ,a,0301, ","    693.0"," ,a"

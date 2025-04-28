@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00067064","1965","-33.8667","150.8333","82.3","CECIL PARK ANDERSONS RES.FARM, AS","        69","a","        48","a","         6","a","  47.0"," ,a,1018, ","    551.3"," ,a"
+"ASN00067064","1966","-33.8667","150.8333","82.3","CECIL PARK ANDERSONS RES.FARM, AS","        88","a","        57","a","         6","a"," 189.2"," ,a,1109, ","    784.3"," ,a"
+"ASN00067064","1967","-33.8667","150.8333","82.3","CECIL PARK ANDERSONS RES.FARM, AS","        78","a","        51","a","        10","a","  83.8"," ,a,0807, ","    844.6"," ,a"
+"ASN00067064","1968","-33.8667","150.8333","82.3","CECIL PARK ANDERSONS RES.FARM, AS","        70","a","        44","a","         7","a","  47.2"," ,a,0515,+","    581.5"," ,a"
+"ASN00067064","1969","-33.8667","150.8333","82.3","CECIL PARK ANDERSONS RES.FARM, AS","        83","a","        63","a","        12","a"," 134.6"," ,a,1114, ","   1173.5"," ,a"

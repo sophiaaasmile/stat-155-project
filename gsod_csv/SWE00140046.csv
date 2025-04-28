@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"SWE00140046","1989","63.37","16.9897","70.0","MOFORSEN, SW","       121","E","        65","E","         0","E","  16.4"," ,E,0508, ","    521.1"," ,E"
+"SWE00140046","1990","63.37","16.9897","70.0","MOFORSEN, SW","       129","E","        74","E","         2","E","  54.0"," ,E,0908, ","    613.8"," ,E"
+"SWE00140046","1991","63.37","16.9897","70.0","MOFORSEN, SW","       122","E","        70","E","         1","E","  28.3"," ,E,0514, ","    503.1"," ,E"

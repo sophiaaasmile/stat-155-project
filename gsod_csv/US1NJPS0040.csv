@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NJPS0040","2020","41.006785","-74.266384","89.0","WAYNE TWP 4.2 NNW, NJ US","       149","N","        87","N","        11","N","  69.9"," ,N,0711, ","   1153.1"," ,N"
+"US1NJPS0040","2021","41.006785","-74.266384","89.0","WAYNE TWP 4.2 NNW, NJ US","       148","N","        76","N","        11","N"," 135.6"," ,N,0902, ","   1325.2"," ,N"
+"US1NJPS0040","2022","41.006785","-74.266384","89.0","WAYNE TWP 4.2 NNW, NJ US","       143","N","        77","N","        18","N","  84.6"," ,N,0408, ","   1278.5"," ,N"
+"US1NJPS0040","2023","41.006785","-74.266384","89.0","WAYNE TWP 4.2 NNW, NJ US","       156","N","        90","N","        16","N"," 118.9"," ,N,1218, ","   1585.9"," ,N"

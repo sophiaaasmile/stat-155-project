@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GAEL0001","2009","34.110403","-82.874335","192.3","ELBERTON 0.7 WNW, GA US","       131","N","        92","N","        18","N"," 104.4"," ,N,1013, ","   1608.5"," ,N"
+"US1GAEL0001","2010","34.110403","-82.874335","192.3","ELBERTON 0.7 WNW, GA US","       106","N","        57","N","        11","N"," 139.2"," ,N,0927, ","   1050.8"," ,N"
+"US1GAEL0001","2011","34.110403","-82.874335","192.3","ELBERTON 0.7 WNW, GA US","       105","N","        64","N","        12","N","  57.9"," ,N,0822, ","   1016.3"," ,N"
+"US1GAEL0001","2012","34.110403","-82.874335","192.3","ELBERTON 0.7 WNW, GA US","       117","N","        72","N","        13","N","  64.0"," ,N,0810, ","   1074.3"," ,N"

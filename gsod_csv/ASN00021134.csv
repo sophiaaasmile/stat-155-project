@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00021134","1998","-33.9964","138.5384","198.0","BALAKLAVA SHIROKEE, AS","        79","a","        35","a","         1","a","  28.2"," ,a,0412, ","    398.9"," ,a"
+"ASN00021134","1999","-33.9964","138.5384","198.0","BALAKLAVA SHIROKEE, AS","","","","","","","","","    456.9"," ,a"
+"ASN00021134","2000","-33.9964","138.5384","198.0","BALAKLAVA SHIROKEE, AS","        89","a","        46","a","         0","a","  22.0"," ,a,0220, ","    431.0"," ,a"
+"ASN00021134","2001","-33.9964","138.5384","198.0","BALAKLAVA SHIROKEE, AS","       106","a","        48","a","         1","a","  37.0"," ,a,0924, ","    502.0"," ,a"
+"ASN00021134","2002","-33.9964","138.5384","198.0","BALAKLAVA SHIROKEE, AS","        74","a","        28","a","         0","a","  20.0"," ,a,0519, ","    242.7"," ,a"

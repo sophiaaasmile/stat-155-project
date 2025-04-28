@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00068182","1970","-35.1333","150.1333","564.0","NERRIGA GLENGARRY, AS","        85","a","        59","a","         6","a","  64.3"," ,a,0529, ","    697.3"," ,a"
+"ASN00068182","1971","-35.1333","150.1333","564.0","NERRIGA GLENGARRY, AS","        79","a","        60","a","         5","a","  36.8"," ,a,0207,+","    699.3"," ,a"
+"ASN00068182","1972","-35.1333","150.1333","564.0","NERRIGA GLENGARRY, AS","        69","a","        47","a","         5","a","  46.0"," ,a,0307, ","    653.5"," ,a"

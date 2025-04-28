@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COPW0049","2022","38.128224","-102.604778","1116.8","LAMAR 3.4 NNE, CO US","        58","N","        29","N","         3","N","  49.0"," ,N,0608, ","    354.1"," ,N"
+"US1COPW0049","2023","38.128224","-102.604778","1116.8","LAMAR 3.4 NNE, CO US","        72","N","        42","N","         4","N","  44.7"," ,N,0519, ","    500.8"," ,N"
+"US1COPW0049","2024","38.128224","-102.604778","1116.8","LAMAR 3.4 NNE, CO US","        61","N","        35","N","         2","N","  41.7"," ,N,1109, ","    406.2"," ,N"

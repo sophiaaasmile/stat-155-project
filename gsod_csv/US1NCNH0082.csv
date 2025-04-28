@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCNH0082","2020","34.1787","-77.884","8.5","WILMINGTON 2.8 SE, NC US","       132","N","        91","N","        24","N","  92.2"," ,N,0521, ","   1947.9"," ,N"
+"US1NCNH0082","2021","34.1787","-77.884","8.5","WILMINGTON 2.8 SE, NC US","       117","N","        76","N","        22","N"," 154.9"," ,N,0604, ","   1755.0"," ,N"
+"US1NCNH0082","2022","34.1787","-77.884","8.5","WILMINGTON 2.8 SE, NC US","       106","N","        78","N","        16","N","  90.2"," ,N,0820, ","   1369.9"," ,N"
+"US1NCNH0082","2023","34.1787","-77.884","8.5","WILMINGTON 2.8 SE, NC US","       114","N","        79","N","        21","N"," 145.3"," ,N,0831, ","   1677.8"," ,N"
+"US1NCNH0082","2024","34.1787","-77.884","8.5","WILMINGTON 2.8 SE, NC US","       108","N","        73","N","        23","N"," 210.6"," ,N,0808, ","   1920.3"," ,N"

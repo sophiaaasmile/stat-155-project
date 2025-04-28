@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALMD0107","2021","34.73937","-86.69659","209.1","HUNTSVILLE 4.5 WNW, AL US","       138","N","        93","N","        19","N"," 102.4"," ,N,0920, ","   1636.4"," ,N"
+"US1ALMD0107","2022","34.73937","-86.69659","209.1","HUNTSVILLE 4.5 WNW, AL US","       111","N","        72","N","        17","N","  93.7"," ,N,0323, ","   1442.6"," ,N"
+"US1ALMD0107","2023","34.73937","-86.69659","209.1","HUNTSVILLE 4.5 WNW, AL US","       128","N","        85","N","        14","N"," 100.3"," ,N,0829, ","   1445.5"," ,N"
+"US1ALMD0107","2024","34.73937","-86.69659","209.1","HUNTSVILLE 4.5 WNW, AL US","       119","N","        83","N","        11","N","  69.3"," ,N,0430, ","   1227.9"," ,N"

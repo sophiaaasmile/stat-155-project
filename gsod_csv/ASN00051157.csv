@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00051157","1990","-31.1072","148.0217","180.0","GULARGAMBONE OLD EMBY, AS","        65","a","        36","a","         4","a","  28.8"," ,a,0111, ","    435.6"," ,a"
+"ASN00051157","1991","-31.1072","148.0217","180.0","GULARGAMBONE OLD EMBY, AS","        30","a","        24","a","         4","a","  59.4"," ,a,1213, ","    381.2"," ,a"
+"ASN00051157","1992","-31.1072","148.0217","180.0","GULARGAMBONE OLD EMBY, AS","        30","a","        28","a","         6","a","  63.0"," ,a,0209, ","    463.2"," ,a"

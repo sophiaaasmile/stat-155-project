@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYDL0023","2016","41.9351","-75.0784","532.2","LONG EDDY 6.5 NNE, NY US","       151","N","        79","N","         9","N","  56.9"," ,N,0225, ","   1169.5"," ,N"
+"US1NYDL0023","2017","41.9351","-75.0784","532.2","LONG EDDY 6.5 NNE, NY US","       174","N","        99","N","        11","N","  67.1"," ,N,0502, ","   1305.0"," ,N"
+"US1NYDL0023","2020","41.9351","-75.0784","532.2","LONG EDDY 6.5 NNE, NY US","","","","","","","","","   1441.9"," ,N"
+"US1NYDL0023","2024","41.9351","-75.0784","532.2","LONG EDDY 6.5 NNE, NY US","       164","N","       105","N","        11","N","  79.5"," ,N,0810, ","   1389.3"," ,N"

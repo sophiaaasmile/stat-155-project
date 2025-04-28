@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00076019","1950","-34.4","141.7",,"KARAWINNA 2, AS","        46","a","        32","a","         3","a","  56.9"," ,a,0317, ","    370.3"," ,a"
+"ASN00076019","1951","-34.4","141.7",,"KARAWINNA 2, AS","        65","a","        41","a","         0","a","  23.1"," ,a,0607, ","    268.4"," ,a"
+"ASN00076019","1952","-34.4","141.7",,"KARAWINNA 2, AS","        45","a","        36","a","         3","a","  37.8"," ,a,1116, ","    333.8"," ,a"
+"ASN00076019","1953","-34.4","141.7",,"KARAWINNA 2, AS","        50","a","        31","a","         0","a","  19.1"," ,a,0930,+","    283.0"," ,a"

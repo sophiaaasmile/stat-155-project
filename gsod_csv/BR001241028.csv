@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001241028","1992","-12.02","-41.05","511.0","ESTACAO EXPERIMENTAL UTINGA, BR","       109","I","        64","I","        11","I","  64.3"," ,I,1215, ","   1014.4"," ,I"
+"BR001241028","1993","-12.02","-41.05","511.0","ESTACAO EXPERIMENTAL UTINGA, BR","        65","I","        34","I","         5","I","  55.8"," ,I,1008, ","    401.5"," ,I"
+"BR001241028","1994","-12.02","-41.05","511.0","ESTACAO EXPERIMENTAL UTINGA, BR","        82","I","        44","I","         3","I","  77.3"," ,I,0116, ","    486.1"," ,I"
+"BR001241028","1996","-12.02","-41.05","511.0","ESTACAO EXPERIMENTAL UTINGA, BR","        69","I","        32","I","         5","I","  70.3"," ,I,1118, ","    546.0"," ,I"
+"BR001241028","1997","-12.02","-41.05","511.0","ESTACAO EXPERIMENTAL UTINGA, BR","        95","I","        71","I","        13","I","  79.6"," ,I,0322, ","   1062.3"," ,I"
+"BR001241028","1998","-12.02","-41.05","511.0","ESTACAO EXPERIMENTAL UTINGA, BR","        57","I","        36","I","         7","I","  72.4"," ,I,1111, ","    503.8"," ,I"

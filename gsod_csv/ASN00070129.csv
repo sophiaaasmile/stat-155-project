@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00070129","1960","-34.4667","149.5833",,"REDMOUNT, AS","       102","a","        92","a","         6","a","  48.8"," ,a,0110, ","   1165.5"," ,a"
+"ASN00070129","1961","-34.4667","149.5833",,"REDMOUNT, AS","        72","a","        64","a","         9","a","  73.2"," ,a,1120, ","    917.6"," ,a"
+"ASN00070129","1962","-34.4667","149.5833",,"REDMOUNT, AS","        70","a","        66","a","         4","a","  74.9"," ,a,0112, ","    808.2"," ,a"

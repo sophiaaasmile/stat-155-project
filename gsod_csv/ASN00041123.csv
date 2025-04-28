@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00041123","2010","-28.4136","151.0825","273.0","INGLEWOOD BRIDGE TM, AS","        89","a","        58","a","         6","a","  47.0"," ,a,0302, ","    861.0"," ,a"
+"ASN00041123","2012","-28.4136","151.0825","273.0","INGLEWOOD BRIDGE TM, AS","        67","a","        47","a","         6","a","  45.8"," ,a,0106, ","    632.6"," ,a"
+"ASN00041123","2013","-28.4136","151.0825","273.0","INGLEWOOD BRIDGE TM, AS","        57","a","        35","a","         7","a"," 101.0"," ,a,0128, ","    572.4"," ,a"

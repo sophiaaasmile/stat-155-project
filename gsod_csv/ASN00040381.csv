@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040381","1967","-28.25","152.8833","91.0","THE DIP, AS","       111","a","        66","a","        15","a","  85.1"," ,a,0612, ","   1222.9"," ,a"
+"ASN00040381","1968","-28.25","152.8833","91.0","THE DIP, AS","        77","a","        50","a","         9","a","  45.0"," ,a,0814, ","    705.5"," ,a"
+"ASN00040381","1969","-28.25","152.8833","91.0","THE DIP, AS","        83","a","        58","a","        11","a","  57.2"," ,a,0515, ","    907.5"," ,a"

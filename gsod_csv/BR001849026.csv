@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001849026","1997","-18.89","-50.0","0.0","PONTE BR 365 FAZ.BOA VISTA, BR","       135","I","        77","I","        25","I","  79.8"," ,I,0103, ","   1648.7"," ,I"
+"BR001849026","1998","-18.89","-50.0","0.0","PONTE BR 365 FAZ.BOA VISTA, BR","       105","I","        74","I","        19","I","  53.7"," ,I,1226, ","   1229.7"," ,I"
+"BR001849026","1999","-18.89","-50.0","0.0","PONTE BR 365 FAZ.BOA VISTA, BR","        91","I","        62","I","        10","I","  66.0"," ,I,0104, ","    976.8"," ,I"
+"BR001849026","2000","-18.89","-50.0","0.0","PONTE BR 365 FAZ.BOA VISTA, BR","       103","I","        73","I","        17","I"," 124.9"," ,I,0103, ","   1403.1"," ,I"

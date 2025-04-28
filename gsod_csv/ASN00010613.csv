@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010613","1907","-32.9333","117.1167","340.0","NARROGIN STATE FARM, AS","        76","a","        52","a","         2","a","  39.4"," ,a,0620, ","    530.8"," ,a"
+"ASN00010613","1908","-32.9333","117.1167","340.0","NARROGIN STATE FARM, AS","        55","a","        40","a","         4","a","  41.4"," ,a,0408, ","    401.8"," ,a"
+"ASN00010613","1909","-32.9333","117.1167","340.0","NARROGIN STATE FARM, AS","        67","a","        49","a","         4","a","  35.8"," ,a,0809, ","    530.7"," ,a"
+"ASN00010613","1912","-32.9333","117.1167","340.0","NARROGIN STATE FARM, AS","        75","a","        48","a","         1","a","  45.7"," ,a,0703, ","    438.3"," ,a"

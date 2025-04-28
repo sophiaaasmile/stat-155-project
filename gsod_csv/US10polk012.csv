@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10polk012","2013","41.2359","-97.5051","509.9","OSCEOLA 4.5 NE, NE US","        52","N","        44","N","         8","N","  58.2"," ,N,1003, ","    709.1"," ,N"
+"US10polk012","2014","41.2359","-97.5051","509.9","OSCEOLA 4.5 NE, NE US","        55","N","        46","N","        13","N","  86.6"," ,N,0604, ","    944.6"," ,N"

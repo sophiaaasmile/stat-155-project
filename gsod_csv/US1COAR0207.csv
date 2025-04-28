@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COAR0207","2011","39.619195","-104.723717","1803.8","AURORA 7.3 SE, CO US","        94","N","        44","N","         4","N","        24","N","   203"," ,N,1102, ","  41.7"," ,N,0512, ","    538.4"," ,N","     1640"," ,N"
+"US1COAR0207","2017","39.619195","-104.723717","1803.8","AURORA 7.3 SE, CO US","","","","","","","","","","","","","    490.5"," ,N","",""
+"US1COAR0207","2018","39.619195","-104.723717","1803.8","AURORA 7.3 SE, CO US","","","","","","","","","","","","","    454.6"," ,N","",""

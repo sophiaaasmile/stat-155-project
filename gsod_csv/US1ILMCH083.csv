@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILMCH083","2018","42.228825","-88.349642","272.5","CRYSTAL LAKE 1.0 WSW, IL US","       126","N","        84","N","        12","N","  81.8"," ,N,0902, ","   1105.9"," ,N"
+"US1ILMCH083","2019","42.228825","-88.349642","272.5","CRYSTAL LAKE 1.0 WSW, IL US","       136","N","        93","N","        10","N","  63.0"," ,N,0912, ","   1224.3"," ,N"
+"US1ILMCH083","2020","42.228825","-88.349642","272.5","CRYSTAL LAKE 1.0 WSW, IL US","       100","N","        72","N","        11","N","  58.9"," ,N,0515, ","   1031.9"," ,N"
+"US1ILMCH083","2021","42.228825","-88.349642","272.5","CRYSTAL LAKE 1.0 WSW, IL US","        84","N","        55","N","         4","N","  65.0"," ,N,0810, ","    633.7"," ,N"
+"US1ILMCH083","2022","42.228825","-88.349642","272.5","CRYSTAL LAKE 1.0 WSW, IL US","       105","N","        66","N","         6","N","  55.9"," ,N,0912, ","    895.8"," ,N"

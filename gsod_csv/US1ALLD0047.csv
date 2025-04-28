@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALLD0047","2020","34.853485","-87.649577","180.7","FLORENCE 2.0 NNE, AL US","       157","N","        95","N","        31","N","  95.3"," ,N,0413, ","   2072.2"," ,N"
+"US1ALLD0047","2021","34.853485","-87.649577","180.7","FLORENCE 2.0 NNE, AL US","       144","N","        93","N","        23","N","  97.5"," ,N,0318, ","   1765.6"," ,N"
+"US1ALLD0047","2022","34.853485","-87.649577","180.7","FLORENCE 2.0 NNE, AL US","       123","N","        87","N","        20","N","  71.1"," ,N,0102, ","   1476.1"," ,N"
+"US1ALLD0047","2023","34.853485","-87.649577","180.7","FLORENCE 2.0 NNE, AL US","       125","N","        80","N","         9","N","  91.2"," ,N,0104, ","   1244.4"," ,N"

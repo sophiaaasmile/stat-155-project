@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003034950","1959","49.1333","-113.0333","1250.0","OWENDALE, AB CA","        75","C","        57","C","         4","C","        31","C","   305"," ,C,1231, ","  46.2"," ,C,0626, ","    627.2"," ,C","     2810"," ,C"
+"CA003034950","1960","49.1333","-113.0333","1250.0","OWENDALE, AB CA","        59","C","        38","C","         2","C","","","","","  46.5"," ,C,0801, ","    333.4"," ,C","",""
+"CA003034950","1962","49.1333","-113.0333","1250.0","OWENDALE, AB CA","        59","C","        40","C","         1","C","","","","","  62.0"," ,C,0613, ","    335.7"," ,C","",""

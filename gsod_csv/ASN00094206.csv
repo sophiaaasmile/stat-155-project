@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00094206","1998","-43.1753","147.1539","110.0","GARDNERS BAY WOODBRIDGE HILL, AS","       162","a","        68","a","         7","a","  68.4"," ,a,0625, ","    804.6"," ,a"
+"ASN00094206","1999","-43.1753","147.1539","110.0","GARDNERS BAY WOODBRIDGE HILL, AS","       152","a","        66","a","         2","a","  60.6"," ,a,0207, ","    657.0"," ,a"
+"ASN00094206","2000","-43.1753","147.1539","110.0","GARDNERS BAY WOODBRIDGE HILL, AS","       161","a","        85","a","         4","a","  44.4"," ,a,0727, ","    835.4"," ,a"
+"ASN00094206","2001","-43.1753","147.1539","110.0","GARDNERS BAY WOODBRIDGE HILL, AS","       171","a","        77","a","         6","a","  60.2"," ,a,1012, ","    967.6"," ,a"
+"ASN00094206","2002","-43.1753","147.1539","110.0","GARDNERS BAY WOODBRIDGE HILL, AS","       151","a","        84","a","         2","a","  39.2"," ,a,0108, ","    755.2"," ,a"
+"ASN00094206","2003","-43.1753","147.1539","110.0","GARDNERS BAY WOODBRIDGE HILL, AS","       149","a","        80","a","         8","a"," 108.4"," ,a,0321, ","    989.4"," ,a"
+"ASN00094206","2004","-43.1753","147.1539","110.0","GARDNERS BAY WOODBRIDGE HILL, AS","       158","a","        85","a","         7","a","  47.6"," ,a,0814, ","    910.2"," ,a"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN018071700","1975","31.33","75.33","229.0","KAPURTHALA OBSERVATORY, IN","        43","I","        36","I","        25","I"," 348.5"," ,I,0723, ","   3147.9"," ,I"
+"IN018071700","1978","31.33","75.33","229.0","KAPURTHALA OBSERVATORY, IN","        43","I","        42","I","        28","I"," 280.7"," ,I,0811, ","   2431.1"," ,I"
+"IN018071700","1979","31.33","75.33","229.0","KAPURTHALA OBSERVATORY, IN","        51","I","        51","I","        26","I"," 101.9"," ,I,0522, ","   1577.6"," ,I"
+"IN018071700","1980","31.33","75.33","229.0","KAPURTHALA OBSERVATORY, IN","        42","I","        40","I","        22","I"," 191.8"," ,I,0727, ","   1784.6"," ,I"
+"IN018071700","1981","31.33","75.33","229.0","KAPURTHALA OBSERVATORY, IN","        44","I","        44","I","        21","I"," 165.4"," ,I,0809, ","   1818.9"," ,I"

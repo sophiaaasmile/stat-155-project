@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00023110","1991","-34.625","138.7208","47.0","GAWLER EVANSTON GARDENS C.F.S, AS","       100","a","        45","a","         1","a","  29.4"," ,a,0609, ","    416.0"," ,a"
+"ASN00023110","1993","-34.625","138.7208","47.0","GAWLER EVANSTON GARDENS C.F.S, AS","       100","a","        63","a","         1","a","  26.4"," ,a,0919, ","    474.4"," ,a"
+"ASN00023110","1994","-34.625","138.7208","47.0","GAWLER EVANSTON GARDENS C.F.S, AS","        88","a","        41","a","         0","a","  20.0"," ,a,1102, ","    312.1"," ,a"
+"ASN00023110","1995","-34.625","138.7208","47.0","GAWLER EVANSTON GARDENS C.F.S, AS","        96","a","        49","a","         1","a","  26.2"," ,a,0115, ","    441.4"," ,a"

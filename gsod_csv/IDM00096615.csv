@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"IDM00096615","2012","-1.817","109.963","14.0","RAHADI USMAN, ID","         0","S","       320","S","       107","S","   34.4","S,0621,+","     31.66","S"
+"IDM00096615","2015","-1.817","109.963","14.0","RAHADI USMAN, ID","         0","S","       328","S","       167","S","   35.0","S,1020, ","     32.11","S"
+"IDM00096615","2022","-1.817","109.963","14.0","RAHADI USMAN, ID","         0","S","       351","S","       191","S","   35.5","S,0525, ","     32.10","S"

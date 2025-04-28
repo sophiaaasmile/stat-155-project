@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GADG0009","2022","32.1998","-83.2568","112.8","EASTMAN 4.5 W, GA US","       124","N","        65","N","        10","N","  96.0"," ,N,0807, ","   1002.9"," ,N"
+"US1GADG0009","2023","32.1998","-83.2568","112.8","EASTMAN 4.5 W, GA US","       121","N","        76","N","        12","N","  47.8"," ,N,1012, ","   1141.3"," ,N"
+"US1GADG0009","2024","32.1998","-83.2568","112.8","EASTMAN 4.5 W, GA US","       106","N","        68","N","        13","N"," 104.1"," ,N,0927, ","   1311.1"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR048609150","1944","-13.45","-39.93","562.0","ITAQUARA RFFSA, BR","       104","I","        48","I","         9","I","  51.8"," ,I,0421, ","    699.7"," ,I"
+"BR048609150","1945","-13.45","-39.93","562.0","ITAQUARA RFFSA, BR","       100","I","        44","I","         4","I","  52.5"," ,I,0109, ","    536.3"," ,I"
+"BR048609150","1952","-13.45","-39.93","562.0","ITAQUARA RFFSA, BR","        96","I","        49","I","         3","I","  52.3"," ,I,1031, ","    486.1"," ,I"
+"BR048609150","1955","-13.45","-39.93","562.0","ITAQUARA RFFSA, BR","       105","I","        55","I","         3","I","  57.4"," ,I,1114, ","    656.7"," ,I"

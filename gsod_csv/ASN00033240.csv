@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00033240","1977","-20.0333","146.9833",,"HILLSBOROUGH STATION, AS","        43","a","        40","a","        10","a","  79.0"," ,a,0515, ","    738.0"," ,a"
+"ASN00033240","1978","-20.0333","146.9833",,"HILLSBOROUGH STATION, AS","        42","a","        37","a","        11","a"," 228.0"," ,a,0131, ","    950.6"," ,a"
+"ASN00033240","1979","-20.0333","146.9833",,"HILLSBOROUGH STATION, AS","        45","a","        41","a","        11","a","  70.0"," ,a,0202, ","    816.3"," ,a"
+"ASN00033240","1980","-20.0333","146.9833",,"HILLSBOROUGH STATION, AS","        31","a","        29","a","         7","a"," 176.4"," ,a,0106, ","    660.7"," ,a"
+"ASN00033240","1981","-20.0333","146.9833",,"HILLSBOROUGH STATION, AS","        68","a","        64","a","        17","a"," 121.0"," ,a,0521, ","   1328.1"," ,a"

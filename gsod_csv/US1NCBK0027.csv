@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCBK0027","2022","35.75235","-81.63588","357.2","DREXEL 1.6 WSW, NC US","       136","N","        80","N","        17","N","  75.7"," ,N,1001, ","   1346.1"," ,N"
+"US1NCBK0027","2023","35.75235","-81.63588","357.2","DREXEL 1.6 WSW, NC US","       129","N","        85","N","        15","N","  69.9"," ,N,1227, ","   1327.1"," ,N"
+"US1NCBK0027","2024","35.75235","-81.63588","357.2","DREXEL 1.6 WSW, NC US","       130","N","        84","N","        14","N"," 125.2"," ,N,0927, ","   1519.2"," ,N"

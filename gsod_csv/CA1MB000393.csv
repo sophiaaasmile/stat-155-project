@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1MB000393","2021","49.974756","-98.3048498","153.6","PORTAGE LA PRAIRIE 1.0 W, MB CA","        96","N","        34","N","         4","N","  30.5"," ,N,1014, ","    380.6"," ,N"
+"CA1MB000393","2022","49.974756","-98.3048498","153.6","PORTAGE LA PRAIRIE 1.0 W, MB CA","       137","N","        58","N","         6","N","  73.7"," ,N,0719, ","    749.6"," ,N"
+"CA1MB000393","2023","49.974756","-98.3048498","153.6","PORTAGE LA PRAIRIE 1.0 W, MB CA","       103","N","        39","N","         1","N","  28.4"," ,N,1002, ","    348.9"," ,N"
+"CA1MB000393","2024","49.974756","-98.3048498","153.6","PORTAGE LA PRAIRIE 1.0 W, MB CA","       138","N","        56","N","         5","N","  56.9"," ,N,0525, ","    718.8"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1INLK0026","2008","41.439267","-87.3542","217.0","CROWN POINT 1.1 N, IN US","","","","","","","        14","N","   191"," ,N,0101, ","","","","","      919"," ,N"
+"US1INLK0026","2010","41.439267","-87.3542","217.0","CROWN POINT 1.1 N, IN US","       115","N","        78","N","         8","N","","","","","  50.0"," ,N,0803, ","    981.6"," ,N","",""
+"US1INLK0026","2012","41.439267","-87.3542","217.0","CROWN POINT 1.1 N, IN US","       107","N","        65","N","         5","N","","","","","  90.9"," ,N,0507, ","    891.0"," ,N","",""
+"US1INLK0026","2020","41.439267","-87.3542","217.0","CROWN POINT 1.1 N, IN US","       123","N","        74","N","         6","N","","","","","  75.9"," ,N,0515, ","   1034.8"," ,N","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10whee001","2005","41.9939","-98.6327","645.0","BARTLETT 8.6 NW, NE US","        61","N","        42","N","         7","N","  49.5"," ,N,0810, ","    604.5"," ,N"
+"US10whee001","2006","41.9939","-98.6327","645.0","BARTLETT 8.6 NW, NE US","        63","N","        32","N","         6","N","  45.2"," ,N,0808, ","    450.9"," ,N"
+"US10whee001","2012","41.9939","-98.6327","645.0","BARTLETT 8.6 NW, NE US","        47","N","        32","N","         3","N","  34.3"," ,N,0505,+","    294.8"," ,N"

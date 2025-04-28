@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001952000","1992","-19.44","-52.56","370.0","ALTO SUCURIU, BR","       109","I","        98","I","        21","I","  73.5"," ,I,0226, ","   1808.7"," ,I"
+"BR001952000","1995","-19.44","-52.56","370.0","ALTO SUCURIU, BR","        88","I","        82","I","        17","I","  77.8"," ,I,0208, ","   1397.6"," ,I"
+"BR001952000","1997","-19.44","-52.56","370.0","ALTO SUCURIU, BR","        96","I","        88","I","        27","I"," 113.4"," ,I,0515, ","   2086.1"," ,I"

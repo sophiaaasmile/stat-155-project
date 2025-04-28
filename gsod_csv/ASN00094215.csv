@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00094215","2000","-42.8156","147.6225","35.0","FORCETT OLD FORCETT ROAD, AS","       119","a","        42","a","         4","a","  65.4"," ,a,0105, ","    559.8"," ,a"
+"ASN00094215","2001","-42.8156","147.6225","35.0","FORCETT OLD FORCETT ROAD, AS","       154","a","        67","a","         2","a","  42.4"," ,a,0424, ","    636.7"," ,a"
+"ASN00094215","2002","-42.8156","147.6225","35.0","FORCETT OLD FORCETT ROAD, AS","       130","a","        48","a","         3","a","  38.6"," ,a,0108, ","    511.8"," ,a"

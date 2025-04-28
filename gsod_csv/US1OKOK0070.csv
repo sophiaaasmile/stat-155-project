@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKOK0070","2020","35.544057","-97.586157","377.0","OKLAHOMA CITY 6.7 NW, OK US","        89","N","        57","N","        12","N"," 145.5"," ,N,0901, ","   1061.7"," ,N"
+"US1OKOK0070","2021","35.544057","-97.586157","377.0","OKLAHOMA CITY 6.7 NW, OK US","        69","N","        49","N","         9","N"," 103.6"," ,N,0627, ","    818.1"," ,N"
+"US1OKOK0070","2022","35.544057","-97.586157","377.0","OKLAHOMA CITY 6.7 NW, OK US","        67","N","        52","N","         8","N","  54.4"," ,N,0503, ","    688.8"," ,N"
+"US1OKOK0070","2023","35.544057","-97.586157","377.0","OKLAHOMA CITY 6.7 NW, OK US","        80","N","        60","N","        10","N","  57.2"," ,N,0709, ","    880.1"," ,N"
+"US1OKOK0070","2024","35.544057","-97.586157","377.0","OKLAHOMA CITY 6.7 NW, OK US","        76","N","        53","N","         8","N","  79.5"," ,N,1103, ","    871.9"," ,N"

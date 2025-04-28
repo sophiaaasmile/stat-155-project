@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00054151","2013","-30.2838","150.1666","1450.0","NARRABRI MT KAPUTAR NATIONAL, AS","        78","a","        47","a","        11","a"," 119.2"," ,a,0129, ","    922.2"," ,a"
+"ASN00054151","2014","-30.2838","150.1666","1450.0","NARRABRI MT KAPUTAR NATIONAL, AS","        89","a","        49","a","        11","a","  73.4"," ,a,0327, ","    987.2"," ,a"
+"ASN00054151","2017","-30.2838","150.1666","1450.0","NARRABRI MT KAPUTAR NATIONAL, AS","        94","a","        60","a","         8","a","  66.0"," ,a,1015, ","    923.6"," ,a"

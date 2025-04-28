@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10linc048","2005","41.1612","-101.152","922.9","SUTHERLAND 1.4 W, NE US","        69","N","        38","N","         4","N","       27","","         7","N","   140"," ,N,0109, ","   130"," ,N,0105, ","  49.0"," ,N,0611, ","    497.4"," ,N","      435"," ,N"
+"US10linc048","2006","41.1612","-101.152","922.9","SUTHERLAND 1.4 W, NE US","        61","N","        34","N","         4","N","","","","","","","","","  38.9"," ,N,0922, ","    459.6"," ,N","",""
+"US10linc048","2007","41.1612","-101.152","922.9","SUTHERLAND 1.4 W, NE US","        95","N","        49","N","         3","N","","","","","","","","","  85.3"," ,N,0613, ","    667.2"," ,N","",""
+"US10linc048","2008","41.1612","-101.152","922.9","SUTHERLAND 1.4 W, NE US","        80","N","        45","N","         4","N","","","","","","","","","  50.0"," ,N,0606, ","    633.7"," ,N","",""
+"US10linc048","2009","41.1612","-101.152","922.9","SUTHERLAND 1.4 W, NE US","       114","N","        56","N","         3","N","","","","","","","","","  80.0"," ,N,0616, ","    661.2"," ,N","",""

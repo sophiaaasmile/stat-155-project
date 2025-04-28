@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010785","1910","-33.4","118.0",,"WHITVILLE, AS","        87","a","        43","a","         0","a","  20.3"," ,a,0524, ","    393.7"," ,a"
+"ASN00010785","1911","-33.4","118.0",,"WHITVILLE, AS","        70","a","        35","a","         0","a","  16.5"," ,a,1012, ","    272.7"," ,a"
+"ASN00010785","1914","-33.4","118.0",,"WHITVILLE, AS","        38","a","        25","a","         1","a","  38.9"," ,a,0218, ","    294.3"," ,a"
+"ASN00010785","1915","-33.4","118.0",,"WHITVILLE, AS","        65","a","        43","a","         1","a","  26.2"," ,a,0728, ","    353.8"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CODN0031","2005","39.756485","-105.030142","1634.9","MOUNTAIN VIEW 1.9 SE, CO US","        84","N","        42","N","         4","N","","","","","  45.0"," ,N,1010, ","    474.9"," ,N","",""
+"US1CODN0031","2006","39.756485","-105.030142","1634.9","MOUNTAIN VIEW 1.9 SE, CO US","        74","N","        39","N","         2","N","        14","N","   216"," ,N,1229, ","  28.4"," ,N,1229, ","    380.8"," ,N","      992"," ,N"
+"US1CODN0031","2007","39.756485","-105.030142","1634.9","MOUNTAIN VIEW 1.9 SE, CO US","        92","N","        42","N","         3","N","        20","N","   152"," ,N,0329, ","  47.5"," ,N,0728, ","    490.7"," ,N","     1294"," ,N"

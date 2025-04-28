@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1IAWR0005","2021","41.4601417","-93.385506","248.1","HARTFORD 1.0 E, IA US","        87","N","        47","N","         7","N","         8","N","   198"," ,N,0126, ","  72.4"," ,N,0731, ","    745.3"," ,N","      599"," ,N"
+"US1IAWR0005","2022","41.4601417","-93.385506","248.1","HARTFORD 1.0 E, IA US","        95","N","        50","N","         5","N","         7","N","   211"," ,N,0115, ","  74.4"," ,N,1105, ","    650.7"," ,N","      725"," ,N"

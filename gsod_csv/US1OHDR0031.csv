@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OHDR0031","2021","40.0275","-84.4936","310.6","ARCANUM 4.0 NE, OH US","       123","N","        93","N","         9","N","  69.1"," ,N,0619, ","   1163.4"," ,N"
+"US1OHDR0031","2022","40.0275","-84.4936","310.6","ARCANUM 4.0 NE, OH US","       117","N","        69","N","        10","N","  50.3"," ,N,0307, ","    832.1"," ,N"
+"US1OHDR0031","2023","40.0275","-84.4936","310.6","ARCANUM 4.0 NE, OH US","       120","N","        77","N","         8","N","  87.1"," ,N,0304, ","    932.5"," ,N"
+"US1OHDR0031","2024","40.0275","-84.4936","310.6","ARCANUM 4.0 NE, OH US","       129","N","        90","N","         7","N","  55.6"," ,N,0306, ","   1028.3"," ,N"

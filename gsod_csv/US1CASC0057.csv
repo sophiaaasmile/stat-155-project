@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASC0057","2015","37.172527","-121.702959","94.5","MORGAN HILL 4.5 NW, CA US","        41","N","        22","N","         1","N","  67.8"," ,N,0207, ","    266.5"," ,N"
+"US1CASC0057","2016","37.172527","-121.702959","94.5","MORGAN HILL 4.5 NW, CA US","        67","N","        37","N","         6","N","  49.5"," ,N,0306, ","    551.9"," ,N"
+"US1CASC0057","2017","37.172527","-121.702959","94.5","MORGAN HILL 4.5 NW, CA US","        63","N","        43","N","        13","N","  71.9"," ,N,0109, ","    778.2"," ,N"
+"US1CASC0057","2018","37.172527","-121.702959","94.5","MORGAN HILL 4.5 NW, CA US","        45","N","        30","N","         2","N","  44.5"," ,N,0109, ","    363.1"," ,N"

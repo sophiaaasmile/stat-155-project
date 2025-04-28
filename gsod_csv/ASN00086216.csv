@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00086216","1959","-38.1833","145.1167","150.0","MOUNT ELIZA TA MARUA, AS","       154","a","        64","a","         3","a","  39.1"," ,a,0305, ","    678.8"," ,a"
+"ASN00086216","1960","-38.1833","145.1167","150.0","MOUNT ELIZA TA MARUA, AS","       191","a","        92","a","        10","a","  36.3"," ,a,0421, ","    979.7"," ,a"
+"ASN00086216","1961","-38.1833","145.1167","150.0","MOUNT ELIZA TA MARUA, AS","       167","a","        73","a","         2","a","  43.4"," ,a,0424, ","    722.4"," ,a"

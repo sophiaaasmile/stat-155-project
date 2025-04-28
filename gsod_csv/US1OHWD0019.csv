@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OHWD0019","2016","41.387302","-83.678497","205.7","BOWLING GREEN 1.7 WNW, OH US","       120","N","        83","N","         5","N","  61.5"," ,N,0918, ","    917.0"," ,N"
+"US1OHWD0019","2017","41.387302","-83.678497","205.7","BOWLING GREEN 1.7 WNW, OH US","       124","N","        84","N","         9","N","  56.9"," ,N,0701, ","   1079.4"," ,N"
+"US1OHWD0019","2018","41.387302","-83.678497","205.7","BOWLING GREEN 1.7 WNW, OH US","       131","N","        83","N","         8","N","  49.3"," ,N,0611, ","   1101.0"," ,N"
+"US1OHWD0019","2019","41.387302","-83.678497","205.7","BOWLING GREEN 1.7 WNW, OH US","       131","N","        94","N","         7","N","  64.5"," ,N,0602, ","   1144.6"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003041908","1900","49.0","-111.95","1036.0","COUTTS, AB CA","        50","C","        36","C","         1","C","        14","C","   152"," ,C,1229,+","  33.0"," ,C,0513, ","    403.1"," ,C","     1314"," ,C"
+"CA003041908","1905","49.0","-111.95","1036.0","COUTTS, AB CA","        20","C","        18","C","         1","C","         5","C","   305"," ,C,1128, ","  30.5"," ,C,1128, ","    161.4"," ,C","      533"," ,C"
+"CA003041908","1907","49.0","-111.95","1036.0","COUTTS, AB CA","        63","C","        53","C","         3","C","        27","C","   152"," ,C,0911,+","  25.4"," ,C,0710,+","    431.2"," ,C","     1713"," ,C"

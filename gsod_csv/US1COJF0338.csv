@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COJF0338","2020","39.572217","-105.122118","1763.6","KEN CARYL 0.6 WSW, CO US","        88","N","        41","N","         2","N","  33.5"," ,N,0320, ","    383.8"," ,N"
+"US1COJF0338","2021","39.572217","-105.122118","1763.6","KEN CARYL 0.6 WSW, CO US","        84","N","        44","N","         5","N","  54.1"," ,N,0626, ","    543.9"," ,N"
+"US1COJF0338","2022","39.572217","-105.122118","1763.6","KEN CARYL 0.6 WSW, CO US","        91","N","        49","N","         5","N","  44.5"," ,N,0521, ","    557.0"," ,N"
+"US1COJF0338","2023","39.572217","-105.122118","1763.6","KEN CARYL 0.6 WSW, CO US","       103","N","        59","N","         3","N","  76.7"," ,N,0512, ","    726.5"," ,N"

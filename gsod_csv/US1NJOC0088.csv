@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NJOC0088","2021","40.077361","-74.256145","50.6","JACKSON TWP 5.6 ESE, NJ US","       142","N","        77","N","        16","N","  68.6"," ,N,1026, ","   1357.1"," ,N"
+"US1NJOC0088","2022","40.077361","-74.256145","50.6","JACKSON TWP 5.6 ESE, NJ US","       122","N","        73","N","        14","N","  92.7"," ,N,0806, ","   1228.6"," ,N"
+"US1NJOC0088","2023","40.077361","-74.256145","50.6","JACKSON TWP 5.6 ESE, NJ US","       121","N","        80","N","        14","N","  82.6"," ,N,1218,+","   1348.8"," ,N"
+"US1NJOC0088","2024","40.077361","-74.256145","50.6","JACKSON TWP 5.6 ESE, NJ US","       118","N","        74","N","        11","N","  70.6"," ,N,0110, ","   1096.8"," ,N"

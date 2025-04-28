@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010756","1931","-32.9","116.7",,"LA LEONESA, AS","       106","a","        65","a","         5","a","  43.4"," ,a,0407, ","    758.4"," ,a"
+"ASN00010756","1932","-32.9","116.7",,"LA LEONESA, AS","        94","a","        62","a","         8","a","  44.5"," ,a,0716, ","    805.7"," ,a"
+"ASN00010756","1933","-32.9","116.7",,"LA LEONESA, AS","        82","a","        52","a","         3","a","  36.8"," ,a,0603, ","    597.9"," ,a"
+"ASN00010756","1934","-32.9","116.7",,"LA LEONESA, AS","        76","a","        53","a","         5","a","  91.4"," ,a,0309, ","    660.7"," ,a"

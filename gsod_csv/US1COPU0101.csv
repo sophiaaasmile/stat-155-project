@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COPU0101","2016","38.299805","-104.584671","1488.0","PUEBLO 1.9 E, CO US","        67","N","        33","N","         2","N","  29.5"," ,N,0708, ","    330.2"," ,N"
+"US1COPU0101","2017","38.299805","-104.584671","1488.0","PUEBLO 1.9 E, CO US","        86","N","        38","N","         4","N","  35.1"," ,N,0511, ","    408.1"," ,N"
+"US1COPU0101","2018","38.299805","-104.584671","1488.0","PUEBLO 1.9 E, CO US","        62","N","        23","N","         0","N","  22.9"," ,N,0716, ","    205.3"," ,N"

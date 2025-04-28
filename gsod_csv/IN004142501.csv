@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN004142501","1964","26.0","84.28","68.0","RAGHUNATHPUR, IN","        36","I","        35","I","        18","I"," 130.0"," ,I,0709, ","   1438.6"," ,I"
+"IN004142501","1965","26.0","84.28","68.0","RAGHUNATHPUR, IN","        36","I","        36","I","        14","I","  60.0"," ,I,0829,+","    825.0"," ,I"
+"IN004142501","1966","26.0","84.28","68.0","RAGHUNATHPUR, IN","        26","I","        19","I","         5","I","  72.5"," ,I,0822, ","    442.6"," ,I"
+"IN004142501","1967","26.0","84.28","68.0","RAGHUNATHPUR, IN","        34","I","        34","I","        10","I"," 100.0"," ,I,0920, ","    800.3"," ,I"

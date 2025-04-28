@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"TUM00017064","2015","40.9","29.15","18.0","ISTANBUL BOLGE KARTAL, TU","       107","S","        54","S","         8","S","  57.4"," ,S,0623, ","    760.4"," ,S"
+"TUM00017064","2016","40.9","29.15","18.0","ISTANBUL BOLGE KARTAL, TU","       121","S","        63","S","         6","S","  65.5"," ,S,1230, ","    827.8"," ,S"
+"TUM00017064","2024","40.9","29.15","18.0","ISTANBUL BOLGE KARTAL, TU","       103","S","        48","S","         3","S","  54.6"," ,S,1211, ","    565.6"," ,S"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GAHS0009","2012","32.5653","-83.63158","104.5","BONAIRE 2.6 NW, GA US","       120","N","        66","N","        10","N","  86.9"," ,N,0704, ","   1092.3"," ,N"
+"US1GAHS0009","2014","32.5653","-83.63158","104.5","BONAIRE 2.6 NW, GA US","       130","N","        81","N","        18","N","  88.9"," ,N,1224, ","   1351.2"," ,N"
+"US1GAHS0009","2015","32.5653","-83.63158","104.5","BONAIRE 2.6 NW, GA US","       145","N","        83","N","        16","N","  61.2"," ,N,1222, ","   1354.6"," ,N"

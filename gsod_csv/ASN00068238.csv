@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00068238","1994","-34.6879","150.6027","100.0","UPPER KANGAROO VALLEY NELLSVI, AS","        73","a","        54","a","        12","a","  91.0"," ,a,0212, ","    855.1"," ,a"
+"ASN00068238","1995","-34.6879","150.6027","100.0","UPPER KANGAROO VALLEY NELLSVI, AS","        99","a","        72","a","        19","a"," 200.0"," ,a,0925, ","   1443.9"," ,a"
+"ASN00068238","1996","-34.6879","150.6027","100.0","UPPER KANGAROO VALLEY NELLSVI, AS","        85","a","        68","a","        10","a"," 148.0"," ,a,0901, ","   1092.2"," ,a"
+"ASN00068238","1998","-34.6879","150.6027","100.0","UPPER KANGAROO VALLEY NELLSVI, AS","       113","a","        74","a","        12","a"," 302.0"," ,a,0808, ","   1629.3"," ,a"
+"ASN00068238","1999","-34.6879","150.6027","100.0","UPPER KANGAROO VALLEY NELLSVI, AS","","","","","","","","","   1501.4"," ,a"
+"ASN00068238","2001","-34.6879","150.6027","100.0","UPPER KANGAROO VALLEY NELLSVI, AS","       123","a","        80","a","        14","a"," 101.0"," ,a,0711, ","   1315.1"," ,a"

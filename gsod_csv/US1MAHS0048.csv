@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MAHS0048","2022","42.266824","-72.664074","57.3","EASTHAMPTON 1.0 E, MA US","       133","N","        83","N","        14","N","","","","","  52.3"," ,N,0906, ","   1218.1"," ,N","",""
+"US1MAHS0048","2023","42.266824","-72.664074","57.3","EASTHAMPTON 1.0 E, MA US","       135","N","        90","N","        19","N","        13","N","   178"," ,N,0314, ","  80.0"," ,N,0930, ","   1663.8"," ,N","      840"," ,N"
+"US1MAHS0048","2024","42.266824","-72.664074","57.3","EASTHAMPTON 1.0 E, MA US","       134","N","        84","N","        13","N","         8","N","   279"," ,N,0107, ","  78.2"," ,N,0110, ","   1310.0"," ,N","      742"," ,N"

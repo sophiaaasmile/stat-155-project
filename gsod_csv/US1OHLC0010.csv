@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1OHLC0010","2012","40.1282","-82.5158","339.9","GRANVILLE 4.0 N, OH US","       133","N","        84","N","         6","N","","","","","  82.8"," ,N,0902, ","   1053.2"," ,N","",""
+"US1OHLC0010","2021","40.1282","-82.5158","339.9","GRANVILLE 4.0 N, OH US","       148","N","        87","N","         9","N","         7","N","    76"," ,N,0421, ","  97.0"," ,N,0901, ","   1202.8"," ,N","      431"," ,N"
+"US1OHLC0010","2022","40.1282","-82.5158","339.9","GRANVILLE 4.0 N, OH US","       163","N","        90","N","        15","N","         7","N","   140"," ,N,0117, ","  60.2"," ,N,0718, ","   1315.1"," ,N","      495"," ,N"
+"US1OHLC0010","2023","40.1282","-82.5158","339.9","GRANVILLE 4.0 N, OH US","       144","N","        88","N","         7","N","         5","N","    76"," ,N,0123, ","  37.6"," ,N,0614, ","   1016.8"," ,N","      251"," ,N"

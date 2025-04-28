@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10sarp022","2007","41.1469","-96.0668","327.1","PAPILLION 1.4 WSW, NE US","       100","N","        64","N","        13","N","        12","N","   191"," ,N,0121, ","  90.9"," ,N,0506, ","   1089.7"," ,N","     1095"," ,N"
+"US10sarp022","2008","41.1469","-96.0668","327.1","PAPILLION 1.4 WSW, NE US","       102","N","        63","N","        11","N","         6","N","   114"," ,N,0206, ","  74.7"," ,N,0716, ","   1074.8"," ,N","      387"," ,N"
+"US10sarp022","2011","41.1469","-96.0668","327.1","PAPILLION 1.4 WSW, NE US","        85","N","        52","N","         2","N","","","","","  67.3"," ,N,0416, ","    666.0"," ,N","",""
+"US10sarp022","2012","41.1469","-96.0668","327.1","PAPILLION 1.4 WSW, NE US","        68","N","        40","N","         6","N","","","","","  77.5"," ,N,0415, ","    630.7"," ,N","",""

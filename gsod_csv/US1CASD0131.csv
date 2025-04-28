@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASD0131","2017","32.7646","-117.0689","140.8","MID CITY SAN DIEGO 0.5W, CA US","        44","N","        16","N","         2","N","  82.6"," ,N,0228, ","    365.8"," ,N"
+"US1CASD0131","2020","32.7646","-117.0689","140.8","MID CITY SAN DIEGO 0.5W, CA US","        53","N","        24","N","         3","N","  54.1"," ,N,0410, ","    336.1"," ,N"
+"US1CASD0131","2021","32.7646","-117.0689","140.8","MID CITY SAN DIEGO 0.5W, CA US","        53","N","        25","N","         1","N","  38.6"," ,N,1215, ","    298.4"," ,N"
+"US1CASD0131","2023","32.7646","-117.0689","140.8","MID CITY SAN DIEGO 0.5W, CA US","","","","","","","","","    528.1"," ,N"

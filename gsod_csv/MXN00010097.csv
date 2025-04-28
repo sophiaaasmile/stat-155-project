@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00010097","1967","26.05","-104.9833","1895.9","LA ZARCA CFE, MX","        66","m","        36","m","         2","m","  29.5"," ,m,0630, ","    392.1"," ,m"
+"MXN00010097","1968","26.05","-104.9833","1895.9","LA ZARCA CFE, MX","        69","m","        49","m","         6","m","  40.4"," ,m,0912, ","    595.3"," ,m"

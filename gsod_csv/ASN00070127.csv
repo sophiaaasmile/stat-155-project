@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00070127","1960","-34.4833","150.0","896.1","STRATHAVEN, AS","        90","a","        66","a","         5","a","  43.4"," ,a,1203, ","    954.8"," ,a"
+"ASN00070127","1962","-34.4833","150.0","896.1","STRATHAVEN, AS","","","","","","","","","    851.1"," ,a"
+"ASN00070127","1963","-34.4833","150.0","896.1","STRATHAVEN, AS","","","","","","","","","   1023.2"," ,a"
+"ASN00070127","1966","-34.4833","150.0","896.1","STRATHAVEN, AS","","","","","","","","","    726.9"," ,a"

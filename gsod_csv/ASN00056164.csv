@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056164","2004","-28.3734","152.393","910.0","LEGUME ACACIA PLATEAU VERDAN, AS","       111","a","        63","a","        17","a"," 111.0"," ,a,0306, ","   1223.0"," ,a"
+"ASN00056164","2005","-28.3734","152.393","910.0","LEGUME ACACIA PLATEAU VERDAN, AS","       115","a","        65","a","         5","a","  71.4"," ,a,0630, ","    803.3"," ,a"
+"ASN00056164","2006","-28.3734","152.393","910.0","LEGUME ACACIA PLATEAU VERDAN, AS","       115","a","        70","a","         6","a","  62.2"," ,a,0213, ","    885.9"," ,a"
+"ASN00056164","2020","-28.3734","152.393","910.0","LEGUME ACACIA PLATEAU VERDAN, AS","       113","a","        80","a","        12","a","  81.0"," ,a,0209, ","   1196.4"," ,a"
+"ASN00056164","2021","-28.3734","152.393","910.0","LEGUME ACACIA PLATEAU VERDAN, AS","       135","a","        97","a","        15","a"," 100.6"," ,a,1201, ","   1537.0"," ,a"
+"ASN00056164","2022","-28.3734","152.393","910.0","LEGUME ACACIA PLATEAU VERDAN, AS","       168","a","       116","a","        18","a"," 140.8"," ,a,0513, ","   1931.8"," ,a"
+"ASN00056164","2023","-28.3734","152.393","910.0","LEGUME ACACIA PLATEAU VERDAN, AS","        80","a","        51","a","        13","a","  74.0"," ,a,0330, ","    938.4"," ,a"

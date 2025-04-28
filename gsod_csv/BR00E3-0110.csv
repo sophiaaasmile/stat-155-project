@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00E3-0110","1956","-23.93","-46.68","800.0","FAZENDA CAPIVARI, BR","       189","I","       144","I","        28","I"," 125.0"," ,I,0324, ","   2584.5"," ,I"
+"BR00E3-0110","1957","-23.93","-46.68","800.0","FAZENDA CAPIVARI, BR","       194","I","       149","I","        34","I","  75.0"," ,I,0321, ","   2525.3"," ,I"
+"BR00E3-0110","1959","-23.93","-46.68","800.0","FAZENDA CAPIVARI, BR","       134","I","       115","I","        26","I"," 137.5"," ,I,1205, ","   2171.2"," ,I"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003032685","1955","49.7167","-113.4","953.0","FORT MACLEOD EXPERIMENTAL ST, AB CA","        56","C","        48","C","         2","C","        27","C","   305"," ,C,0418, ","  31.8"," ,C,0514, ","    420.2"," ,C","     1902"," ,C"
+"CA003032685","1956","49.7167","-113.4","953.0","FORT MACLEOD EXPERIMENTAL ST, AB CA","        56","C","        43","C","         3","C","        23","C","   254"," ,C,0108, ","  52.6"," ,C,0703, ","    420.6"," ,C","     1700"," ,C"
+"CA003032685","1957","49.7167","-113.4","953.0","FORT MACLEOD EXPERIMENTAL ST, AB CA","        59","C","        52","C","         0","C","        30","C","   152"," ,C,1022,+","  19.1"," ,C,0609, ","    385.0"," ,C","     1890"," ,C"
+"CA003032685","1958","49.7167","-113.4","953.0","FORT MACLEOD EXPERIMENTAL ST, AB CA","","","","","","","        18","C","   152"," ,C,0226, ","","","","","     1271"," ,C"
+"CA003032685","1959","49.7167","-113.4","953.0","FORT MACLEOD EXPERIMENTAL ST, AB CA","","","","","","","","","","","","","    495.5"," ,C","     2032"," ,C"

@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"PEM00084782","1977","-18.053","-70.276","468.8","CORONEL CARLOS CIRIANI SANTA, PE","         6","S","         0","S","         0","S","","","","","","","   1.0"," ,S,0113, ","      3.1"," ,S","",""
+"PEM00084782","1978","-18.053","-70.276","468.8","CORONEL CARLOS CIRIANI SANTA, PE","         3","S","         0","S","         0","S","         0","S","         0","S","    8.0","S,0623,+","   0.5"," ,S,0811,+","      1.3"," ,S","     13.46","S"
+"PEM00084782","1979","-18.053","-70.276","468.8","CORONEL CARLOS CIRIANI SANTA, PE","         1","S","         1","S","         0","S","","","","","","","   3.0"," ,S,0615, ","      3.0"," ,S","",""
+"PEM00084782","1980","-18.053","-70.276","468.8","CORONEL CARLOS CIRIANI SANTA, PE","         6","S","         0","S","         0","S","         0","S","         0","S","    7.0","S,0822, ","   1.0"," ,S,0711, ","      2.9"," ,S","     13.96","S"
+"PEM00084782","1995","-18.053","-70.276","468.8","CORONEL CARLOS CIRIANI SANTA, PE","         6","S","         0","S","         0","S","","","","","","","   0.8"," ,S,0316, ","      2.3"," ,S","",""
+"PEM00084782","1996","-18.053","-70.276","468.8","CORONEL CARLOS CIRIANI SANTA, PE","        12","S","         1","S","         0","S","","","","","","","   5.1"," ,S,0210, ","     10.2"," ,S","",""
+"PEM00084782","1997","-18.053","-70.276","468.8","CORONEL CARLOS CIRIANI SANTA, PE","        39","S","         4","S","         0","S","","","","","","","  22.1"," ,S,0124, ","     54.8"," ,S","",""

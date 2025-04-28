@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMSF0114","2020","35.6681","-105.95482","2124.2","SANTA FE 0.7 S, NM US","        59","N","        23","N","         0","N","  17.8"," ,N,0117, ","    178.5"," ,N"
+"US1NMSF0114","2021","35.6681","-105.95482","2124.2","SANTA FE 0.7 S, NM US","        68","N","        26","N","         0","N","  16.0"," ,N,0725, ","    210.9"," ,N"
+"US1NMSF0114","2022","35.6681","-105.95482","2124.2","SANTA FE 0.7 S, NM US","        86","N","        45","N","         1","N","  33.0"," ,N,0626, ","    390.8"," ,N"

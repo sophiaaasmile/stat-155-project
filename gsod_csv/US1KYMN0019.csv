@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KYMN0019","2019","37.663866","-84.260376","303.3","RICHMOND 5.8 SSE, KY US","       120","N","        88","N","        15","N","  93.7"," ,N,1201, ","   1544.6"," ,N"
+"US1KYMN0019","2021","37.663866","-84.260376","303.3","RICHMOND 5.8 SSE, KY US","       122","N","        87","N","        18","N"," 112.5"," ,N,0702, ","   1631.1"," ,N"
+"US1KYMN0019","2022","37.663866","-84.260376","303.3","RICHMOND 5.8 SSE, KY US","       119","N","        78","N","        10","N","  42.9"," ,N,0718, ","   1099.9"," ,N"
+"US1KYMN0019","2024","37.663866","-84.260376","303.3","RICHMOND 5.8 SSE, KY US","       121","N","        93","N","        10","N","  49.5"," ,N,0403, ","   1208.8"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MDTB0008","2013","38.758007","-76.079045","4.0","EASTON 1.2 SSW, MD US","","","","","","","","","   1063.8"," ,N"
+"US1MDTB0008","2015","38.758007","-76.079045","4.0","EASTON 1.2 SSW, MD US","","","","","","","","","   1148.2"," ,N"
+"US1MDTB0008","2017","38.758007","-76.079045","4.0","EASTON 1.2 SSW, MD US","       114","N","        66","N","        10","N","  86.4"," ,N,0729, ","   1007.2"," ,N"
+"US1MDTB0008","2018","38.758007","-76.079045","4.0","EASTON 1.2 SSW, MD US","       125","N","        81","N","        27","N","  82.0"," ,N,1012, ","   1747.2"," ,N"

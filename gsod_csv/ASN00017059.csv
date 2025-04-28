@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00017059","1925","-30.0158","138.9944","198.0","THE KNOB, AS","         7","a","         7","a","         0","a","  19.8"," ,a,0113, ","     90.1"," ,a"
+"ASN00017059","1938","-30.0158","138.9944","198.0","THE KNOB, AS","         4","a","         4","a","         1","a","  45.7"," ,a,0220, ","     72.4"," ,a"
+"ASN00017059","1949","-30.0158","138.9944","198.0","THE KNOB, AS","        11","a","         9","a","         2","a","  29.0"," ,a,0226, ","    122.3"," ,a"

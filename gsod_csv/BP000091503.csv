@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"BP000091503","1994","-8.333","157.267","3.0","MUNDA, BP","       214","I","       151","I","        36","I","","","","","","","  89.9"," ,I,0821, ","","","   2754.4"," ,I","",""
+"BP000091503","1996","-8.333","157.267","3.0","MUNDA, BP","       234","I","       158","I","        46","I","","","","","",""," 164.1"," ,I,0512, ","","","   3637.2"," ,I","",""
+"BP000091503","2011","-8.333","157.267","3.0","MUNDA, BP","","","","","","","         0","S","       346","S","        89","S","","","   34.4","S,0116, ","","","     31.35","S"

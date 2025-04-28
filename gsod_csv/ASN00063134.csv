@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00063134","1960","-33.4333","149.9333","1066.8","KAROO MEADOW FLAT, AS","       125","a","        99","a","        11","a","  66.3"," ,a,1203, ","   1225.0"," ,a"
+"ASN00063134","1961","-33.4333","149.9333","1066.8","KAROO MEADOW FLAT, AS","        59","a","        51","a","         6","a","  68.8"," ,a,1022, ","    765.4"," ,a"
+"ASN00063134","1964","-33.4333","149.9333","1066.8","KAROO MEADOW FLAT, AS","        90","a","        60","a","        11","a","  75.7"," ,a,0612, ","    981.1"," ,a"
+"ASN00063134","1965","-33.4333","149.9333","1066.8","KAROO MEADOW FLAT, AS","        78","a","        53","a","         5","a","  41.7"," ,a,1017, ","    618.2"," ,a"

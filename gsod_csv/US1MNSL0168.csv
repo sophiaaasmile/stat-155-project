@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNSL0168","2021","46.79391","-92.9257","403.3","WRIGHT 9.2 NNE, MN US","       107","N","        66","N","         5","N","  47.5"," ,N,1216, ","    730.9"," ,N"
+"US1MNSL0168","2023","46.79391","-92.9257","403.3","WRIGHT 9.2 NNE, MN US","       120","N","        61","N","         6","N","  36.1"," ,N,0924, ","    709.8"," ,N"
+"US1MNSL0168","2024","46.79391","-92.9257","403.3","WRIGHT 9.2 NNE, MN US","       123","N","        62","N","         4","N","  38.6"," ,N,0522, ","    673.1"," ,N"

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"COM00080022","2003","10.442","-75.513","1.2","RAFAEL NUNEZ, CO","        76","S","        43","S","         6","S","  63.0"," ,S,1205, ","    595.4"," ,S"
+"COM00080022","2019","10.442","-75.513","1.2","RAFAEL NUNEZ, CO","        71","S","        42","S","         4","S","  31.0"," ,S,1025, ","    548.9"," ,S"

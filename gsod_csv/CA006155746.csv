@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006155746","1966","43.4167","-79.6833","84.0","OAKVILLE STP, ON CA","        79","C","        51","C","         2","C","         8","C","   198"," ,C,0122, ","  36.8"," ,C,0609, ","    551.2"," ,C","      667"," ,C"
+"CA006155746","1967","43.4167","-79.6833","84.0","OAKVILLE STP, ON CA","       117","C","        69","C","         8","C","        15","C","   203"," ,C,0126, ","  54.1"," ,C,0827, ","    807.6"," ,C","     1025"," ,C"
+"CA006155746","1969","43.4167","-79.6833","84.0","OAKVILLE STP, ON CA","       113","C","        66","C","         3","C","        12","C","   102"," ,C,1230, ","  38.9"," ,C,0518, ","    646.6"," ,C","      771"," ,C"

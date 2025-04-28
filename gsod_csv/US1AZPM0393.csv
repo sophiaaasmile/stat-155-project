@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZPM0393","2022","32.387063","-111.154201","635.5","MARANA 4.9 SE, AZ US","        49","N","        25","N","         1","N","  33.0"," ,N,0820, ","    254.9"," ,N"
+"US1AZPM0393","2023","32.387063","-111.154201","635.5","MARANA 4.9 SE, AZ US","        47","N","        23","N","         0","N","  18.5"," ,N,1223, ","    192.2"," ,N"
+"US1AZPM0393","2024","32.387063","-111.154201","635.5","MARANA 4.9 SE, AZ US","        48","N","        28","N","         0","N","  22.9"," ,N,0726, ","    329.8"," ,N"

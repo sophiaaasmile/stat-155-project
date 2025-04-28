@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00048202","1971","-29.8833","144.4667","110.0","WANAARING WONGAREENA, AS","        49","a","        31","a","         4","a","  61.2"," ,a,0309, ","    458.4"," ,a"
+"ASN00048202","1973","-29.8833","144.4667","110.0","WANAARING WONGAREENA, AS","        67","a","        37","a","         4","a","  55.1"," ,a,0330, ","    521.6"," ,a"
+"ASN00048202","1974","-29.8833","144.4667","110.0","WANAARING WONGAREENA, AS","        69","a","        46","a","         5","a","  45.4"," ,a,1117, ","    524.0"," ,a"

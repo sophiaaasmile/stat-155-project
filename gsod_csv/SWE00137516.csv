@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"SWE00137516","1961","55.5","13.88","70.0","HOGESTAD, SW","       109","E","        70","E","         2","E","  42.4"," ,E,0905, ","    663.4"," ,E"
+"SWE00137516","1962","55.5","13.88","70.0","HOGESTAD, SW","       146","E","        86","E","         0","E","  20.0"," ,E,0509,+","    703.8"," ,E"
+"SWE00137516","1963","55.5","13.88","70.0","HOGESTAD, SW","       104","E","        75","E","         1","E","  30.3"," ,E,0818, ","    600.0"," ,E"

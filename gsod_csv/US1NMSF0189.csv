@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NMSF0189","2022","35.384456","-106.130073","1923.6","MADRID 1.9 SE, NM US","        74","N","        37","N","         2","N","","","","","  28.2"," ,N,1005, ","    359.5"," ,N","",""
+"US1NMSF0189","2023","35.384456","-106.130073","1923.6","MADRID 1.9 SE, NM US","        73","N","        36","N","         1","N","","","","","  28.4"," ,N,0317, ","    289.3"," ,N","",""
+"US1NMSF0189","2024","35.384456","-106.130073","1923.6","MADRID 1.9 SE, NM US","        69","N","        31","N","         2","N","         5","N","   229"," ,N,1107, ","  68.3"," ,N,0630, ","    413.4"," ,N","      498"," ,N"

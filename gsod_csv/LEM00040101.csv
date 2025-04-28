@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"LEM00040101","2001","33.817","35.85","920.0","HOUCHE AL OUMARA, LE","         0","S","       216","S","        95","S","   40.7","S,0810, ","     24.40","S"
+"LEM00040101","2009","33.817","35.85","920.0","HOUCHE AL OUMARA, LE","         0","S","       203","S","        69","S","   38.0","S,0821, ","     23.33","S"
+"LEM00040101","2010","33.817","35.85","920.0","HOUCHE AL OUMARA, LE","         0","S","       253","S","       108","S","   43.2","S,0730, ","     26.22","S"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NYNS0034","2018","40.666824","-73.505371","4.3","WANTAGH 0.3 ESE, NY US","       122","N","        97","N","        22","N","","","","","  63.8"," ,N,0726, ","   1611.9"," ,N","",""
+"US1NYNS0034","2019","40.666824","-73.505371","4.3","WANTAGH 0.3 ESE, NY US","       119","N","       100","N","        15","N","","","","","  52.1"," ,N,1214, ","   1388.2"," ,N","",""
+"US1NYNS0034","2020","40.666824","-73.505371","4.3","WANTAGH 0.3 ESE, NY US","       133","N","        83","N","        15","N","         2","N","   127"," ,N,1217, "," 131.6"," ,N,0910, ","   1194.1"," ,N","      165"," ,N"

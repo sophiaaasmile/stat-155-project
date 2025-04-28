@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COLP0042","2015","37.237854","-107.594858","2134.5","BAYFIELD 0.3 N, CO US","","","","","","","","","    572.7"," ,N"
+"US1COLP0042","2016","37.237854","-107.594858","2134.5","BAYFIELD 0.3 N, CO US","        67","N","        37","N","         3","N","  30.0"," ,N,0806, ","    364.9"," ,N"
+"US1COLP0042","2017","37.237854","-107.594858","2134.5","BAYFIELD 0.3 N, CO US","        87","N","        49","N","         1","N","  32.3"," ,N,0724, ","    401.1"," ,N"
+"US1COLP0042","2020","37.237854","-107.594858","2134.5","BAYFIELD 0.3 N, CO US","        60","N","        33","N","         0","N","  21.1"," ,N,0319, ","    263.8"," ,N"

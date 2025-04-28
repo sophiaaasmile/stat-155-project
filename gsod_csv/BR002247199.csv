@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002247199","1983","-22.0","-47.88","648.0","CAMPUS DE ARARAQUARA, BR","       138","I","       107","I","        34","I","  93.2"," ,I,0113, ","   2301.5"," ,I"
+"BR002247199","1984","-22.0","-47.88","648.0","CAMPUS DE ARARAQUARA, BR","       100","I","        72","I","        13","I","  64.8"," ,I,0229, ","   1146.6"," ,I"
+"BR002247199","1985","-22.0","-47.88","648.0","CAMPUS DE ARARAQUARA, BR","       101","I","        72","I","        21","I","  57.4"," ,I,1103, ","   1315.7"," ,I"
+"BR002247199","1986","-22.0","-47.88","648.0","CAMPUS DE ARARAQUARA, BR","       105","I","        78","I","        19","I","  93.3"," ,I,1202, ","   1447.1"," ,I"

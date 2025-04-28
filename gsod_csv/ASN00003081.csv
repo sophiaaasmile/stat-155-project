@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00003081","1991","-17.5778","123.8222","91.0","CURTIN, AS","        48","a","        35","a","         5","a"," 101.0"," ,a,0222, ","    677.0"," ,a"
+"ASN00003081","1992","-17.5778","123.8222","91.0","CURTIN, AS","        38","a","        22","a","         3","a","  47.0"," ,a,0426, ","    285.1"," ,a"
+"ASN00003081","1994","-17.5778","123.8222","91.0","CURTIN, AS","        40","a","        37","a","        11","a","  72.0"," ,a,0219, ","    721.3"," ,a"

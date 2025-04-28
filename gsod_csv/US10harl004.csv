@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10harl004","2005","40.1765","-99.5579","623.9","ORLEANS 6.2 WNW, NE US","        66","N","        43","N","         6","N","  50.8"," ,N,0818, ","    627.5"," ,N"
+"US10harl004","2010","40.1765","-99.5579","623.9","ORLEANS 6.2 WNW, NE US","        71","N","        48","N","        10","N","  66.3"," ,N,0423, ","    744.5"," ,N"
+"US10harl004","2013","40.1765","-99.5579","623.9","ORLEANS 6.2 WNW, NE US","        37","N","        29","N","         3","N","  68.6"," ,N,0530, ","    368.5"," ,N"
+"US10harl004","2014","40.1765","-99.5579","623.9","ORLEANS 6.2 WNW, NE US","        48","N","        38","N","         6","N","  54.6"," ,N,0602, ","    584.8"," ,N"

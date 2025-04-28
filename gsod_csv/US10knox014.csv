@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10knox014","2009","42.4672","-97.7639","541.0","CREIGHTON 7.4 E, NE US","       108","N","        61","N","         4","N","        11","N","   203"," ,N,1209, ","  54.1"," ,N,0816, ","    671.4"," ,N","     1147"," ,N"
+"US10knox014","2010","42.4672","-97.7639","541.0","CREIGHTON 7.4 E, NE US","        98","N","        54","N","         9","N","        13","N","   102"," ,N,0107, ","  78.7"," ,N,0611, ","    840.7"," ,N","      728"," ,N"
+"US10knox014","2011","42.4672","-97.7639","541.0","CREIGHTON 7.4 E, NE US","        82","N","        52","N","         7","N","        13","N","   178"," ,N,0416, ","  60.5"," ,N,0712, ","    724.4"," ,N","      856"," ,N"

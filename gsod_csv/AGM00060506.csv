@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"AGM00060506","1993","35.6","0.3","476.0","MASCARA MATEMORE, AG","         0","S","       182","S","        61","S","   42.4","S,0820, ","     23.29","S"
+"AGM00060506","1995","35.6","0.3","476.0","MASCARA MATEMORE, AG","         0","S","       215","S","        50","S","   40.7","S,0724,+","     24.30","S"
+"AGM00060506","1997","35.6","0.3","476.0","MASCARA MATEMORE, AG","         0","S","       215","S","        54","S","   39.4","S,0712, ","     24.57","S"

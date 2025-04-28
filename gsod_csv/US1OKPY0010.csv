@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKPY0010","2012","36.1182","-96.7113","274.9","YALE 0.6 WNW, OK US","        73","N","        39","N","         6","N","  59.4"," ,N,0320, ","    531.4"," ,N"
+"US1OKPY0010","2013","36.1182","-96.7113","274.9","YALE 0.6 WNW, OK US","        98","N","        62","N","        12","N","  66.0"," ,N,0809, ","    977.8"," ,N"
+"US1OKPY0010","2014","36.1182","-96.7113","274.9","YALE 0.6 WNW, OK US","       105","N","        52","N","         3","N","  39.4"," ,N,0607, ","    594.3"," ,N"

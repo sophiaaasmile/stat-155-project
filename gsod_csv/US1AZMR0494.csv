@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZMR0494","2019","33.27337","-111.69302","413.6","GILBERT 7.3 SE, AZ US","        47","N","        25","N","         1","N","  53.6"," ,N,0222, ","    306.8"," ,N"
+"US1AZMR0494","2020","33.27337","-111.69302","413.6","GILBERT 7.3 SE, AZ US","        24","N","        13","N","         0","N","  17.3"," ,N,0319, ","    112.5"," ,N"
+"US1AZMR0494","2023","33.27337","-111.69302","413.6","GILBERT 7.3 SE, AZ US","        38","N","        17","N","         0","N","  22.6"," ,N,1223,+","    176.6"," ,N"
+"US1AZMR0494","2024","33.27337","-111.69302","413.6","GILBERT 7.3 SE, AZ US","        35","N","        19","N","         1","N","  33.5"," ,N,0202, ","    184.4"," ,N"

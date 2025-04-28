@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKTL0081","2021","35.980321","-95.828496","202.1","BROKEN ARROW 4.6 SSW, OK US","       104","N","        58","N","        14","N"," 124.2"," ,N,0718, ","   1178.0"," ,N"
+"US1OKTL0081","2022","35.980321","-95.828496","202.1","BROKEN ARROW 4.6 SSW, OK US","       102","N","        55","N","        13","N","  91.7"," ,N,0505, ","    973.2"," ,N"
+"US1OKTL0081","2023","35.980321","-95.828496","202.1","BROKEN ARROW 4.6 SSW, OK US","       106","N","        65","N","        13","N","  76.5"," ,N,0324, ","   1114.0"," ,N"
+"US1OKTL0081","2024","35.980321","-95.828496","202.1","BROKEN ARROW 4.6 SSW, OK US","        96","N","        60","N","        12","N"," 112.3"," ,N,1103, ","   1169.1"," ,N"

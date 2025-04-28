@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00C4-0280","1943","-21.8","-47.27","680.0","FAZENDA SAO CARLOS, BR","        91","I","        80","I","        15","I","  68.0"," ,I,1117, ","   1260.1"," ,I"
+"BR00C4-0280","1947","-21.8","-47.27","680.0","FAZENDA SAO CARLOS, BR","        97","I","        90","I","        16","I","  50.0"," ,I,1229, ","   1544.2"," ,I"
+"BR00C4-0280","1948","-21.8","-47.27","680.0","FAZENDA SAO CARLOS, BR","        57","I","        52","I","        11","I","  54.0"," ,I,1217, ","    969.0"," ,I"
+"BR00C4-0280","1949","-21.8","-47.27","680.0","FAZENDA SAO CARLOS, BR","        81","I","        75","I","        18","I","  53.0"," ,I,1216, ","   1199.0"," ,I"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10scot012","2008","41.7199","-103.6684","1320.1","GERING 7.3 S, NE US","        86","N","        36","N","         1","N","        16","N","   122"," ,N,0410, ","  29.5"," ,N,0816, ","    372.7"," ,N","      863"," ,N"
+"US10scot012","2010","41.7199","-103.6684","1320.1","GERING 7.3 S, NE US","        87","N","        41","N","         3","N","        16","N","   229"," ,N,0512, ","  35.1"," ,N,0512, ","    475.7"," ,N","     1486"," ,N"
+"US10scot012","2011","41.7199","-103.6684","1320.1","GERING 7.3 S, NE US","        96","N","        59","N","         3","N","        19","N","   152"," ,N,1102, ","  60.5"," ,N,1009, ","    609.1"," ,N","     1368"," ,N"

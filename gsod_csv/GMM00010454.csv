@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"GMM00010454","1952","51.85","10.767","240.0","WERNIGERODE AUT, GM","        32","S","        64","S","         2","S","   35.0","S,0702, ","     11.52","S"
+"GMM00010454","1955","51.85","10.767","240.0","WERNIGERODE AUT, GM","        38","S","        64","S","         0","S","   27.8","S,0625,+","     11.50","S"
+"GMM00010454","1959","51.85","10.767","240.0","WERNIGERODE AUT, GM","        20","S","        92","S","         3","S","   36.1","S,0711, ","     13.99","S"

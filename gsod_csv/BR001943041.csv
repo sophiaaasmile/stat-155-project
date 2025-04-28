@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001943041","1968","-19.95","-43.98","902.0","RUA SIDERAL, BR","        93","I","        71","I","        13","I"," 100.0"," ,I,0304, ","   1342.0"," ,I"
+"BR001943041","1969","-19.95","-43.98","902.0","RUA SIDERAL, BR","        99","I","        68","I","        17","I"," 104.4"," ,I,1225, ","   1362.2"," ,I"
+"BR001943041","1970","-19.95","-43.98","902.0","RUA SIDERAL, BR","        93","I","        65","I","        13","I","  96.2"," ,I,1104, ","   1237.9"," ,I"

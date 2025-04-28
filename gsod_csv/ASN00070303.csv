@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00070303","1886","-34.7167","149.6333","701.0","GOULBURN BAW BAW, AS","       124","a","        73","a","         5","a","  62.5"," ,a,0121, ","    819.5"," ,a"
+"ASN00070303","1888","-34.7167","149.6333","701.0","GOULBURN BAW BAW, AS","        71","a","        39","a","         6","a","  62.5"," ,a,1216, ","    526.3"," ,a"
+"ASN00070303","1889","-34.7167","149.6333","701.0","GOULBURN BAW BAW, AS","       147","a","        66","a","         3","a","  52.1"," ,a,0104, ","    705.0"," ,a"
+"ASN00070303","1890","-34.7167","149.6333","701.0","GOULBURN BAW BAW, AS","       172","a","        89","a","         6","a","  97.8"," ,a,0312, ","    977.7"," ,a"

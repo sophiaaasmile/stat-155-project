@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MOCR0020","2010","37.057983","-93.40545","356.9","CLEVER 4.0 ENE, MO US","       108","N","        66","N","        13","N"," 201.4"," ,N,0902, ","   1287.5"," ,N"
+"US1MOCR0020","2012","37.057983","-93.40545","356.9","CLEVER 4.0 ENE, MO US","        75","N","        48","N","        10","N","  73.2"," ,N,1014, ","    795.2"," ,N"
+"US1MOCR0020","2013","37.057983","-93.40545","356.9","CLEVER 4.0 ENE, MO US","       117","N","        75","N","        13","N","  72.1"," ,N,0130, ","   1276.8"," ,N"

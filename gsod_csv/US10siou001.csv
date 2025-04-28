@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10siou001","2007","42.0008","-103.848","1253.9","MITCHELL 4.7 NNW, NE US","        69","N","        29","N","         1","N","  36.1"," ,N,1014, ","    235.0"," ,N"
+"US10siou001","2008","42.0008","-103.848","1253.9","MITCHELL 4.7 NNW, NE US","        61","N","        30","N","         1","N","  29.2"," ,N,0724, ","    299.0"," ,N"
+"US10siou001","2009","42.0008","-103.848","1253.9","MITCHELL 4.7 NNW, NE US","        89","N","        45","N","         1","N","  27.9"," ,N,0712, ","    408.5"," ,N"
+"US10siou001","2010","42.0008","-103.848","1253.9","MITCHELL 4.7 NNW, NE US","        68","N","        39","N","         2","N","  32.5"," ,N,0705, ","    376.2"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MOSS0043","2021","38.838991","-90.72867","165.8","O FALLON 3.9 NNW, MO US","       112","N","        67","N","        14","N","  85.1"," ,N,0710, ","   1176.1"," ,N"
+"US1MOSS0043","2022","38.838991","-90.72867","165.8","O FALLON 3.9 NNW, MO US","       105","N","        75","N","        11","N"," 268.7"," ,N,0726, ","   1251.9"," ,N"
+"US1MOSS0043","2023","38.838991","-90.72867","165.8","O FALLON 3.9 NNW, MO US","       103","N","        67","N","        15","N","  56.1"," ,N,0730, ","   1057.7"," ,N"
+"US1MOSS0043","2024","38.838991","-90.72867","165.8","O FALLON 3.9 NNW, MO US","       108","N","        73","N","        17","N","  74.9"," ,N,1105, ","   1230.1"," ,N"

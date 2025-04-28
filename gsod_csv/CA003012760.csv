@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003012760","1954","52.3","-112.35","808.0","GADSBY, AB CA","       106","C","        55","C","         2","C","        11","C","    56"," ,C,0425, ","  33.0"," ,C,0827, ","    445.6"," ,C","      642"," ,C"
+"CA003012760","1955","52.3","-112.35","808.0","GADSBY, AB CA","        84","C","        41","C","         2","C","        14","C","   173"," ,C,0427, ","  29.7"," ,C,0920, ","    420.7"," ,C","     1357"," ,C"

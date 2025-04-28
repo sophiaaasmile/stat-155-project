@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00063284","1894","-33.7","149.1833","890.0","NEVILLE SPRINGVALE, AS","       116","a","        80","a","         9","a","  97.8"," ,a,0127, ","   1086.1"," ,a"
+"ASN00063284","1895","-33.7","149.1833","890.0","NEVILLE SPRINGVALE, AS","        88","a","        65","a","         2","a","  29.0"," ,a,0127, ","    587.0"," ,a"
+"ASN00063284","1896","-33.7","149.1833","890.0","NEVILLE SPRINGVALE, AS","       112","a","        82","a","         8","a","  71.6"," ,a,0828, ","   1001.2"," ,a"
+"ASN00063284","1897","-33.7","149.1833","890.0","NEVILLE SPRINGVALE, AS","        88","a","        58","a","         5","a","  44.2"," ,a,0110, ","    616.1"," ,a"
+"ASN00063284","1898","-33.7","149.1833","890.0","NEVILLE SPRINGVALE, AS","        89","a","        57","a","         2","a","  66.3"," ,a,0113, ","    540.8"," ,a"

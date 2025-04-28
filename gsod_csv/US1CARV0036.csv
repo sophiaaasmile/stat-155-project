@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CARV0036","2015","34.015847","-117.449825","288.3","SUNNYSLOPE 1.6 W, CA US","        35","N","        19","N","         2","N","  29.0"," ,N,0915, ","    232.1"," ,N"
+"US1CARV0036","2016","34.015847","-117.449825","288.3","SUNNYSLOPE 1.6 W, CA US","        34","N","        20","N","         2","N","  46.5"," ,N,0107, ","    235.9"," ,N"
+"US1CARV0036","2017","34.015847","-117.449825","288.3","SUNNYSLOPE 1.6 W, CA US","","","","","","","","","    331.3"," ,N"
+"US1CARV0036","2018","34.015847","-117.449825","288.3","SUNNYSLOPE 1.6 W, CA US","        29","N","        16","N","         1","N","  33.5"," ,N,1207, ","    200.3"," ,N"

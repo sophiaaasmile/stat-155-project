@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"SAM00040437","2000","24.958","46.699","624.5","KING KHALED INTERNATIONAL, SA","         0","S","       296","S","       199","S","   47.5","S,0716, ","     34.01","S"
+"SAM00040437","2001","24.958","46.699","624.5","KING KHALED INTERNATIONAL, SA","         0","S","       314","S","       208","S","   47.0","S,0811, ","     34.22","S"
+"SAM00040437","2007","24.958","46.699","624.5","KING KHALED INTERNATIONAL, SA","         0","S","       291","S","       193","S","   48.0","S,0731, ","     33.70","S"
+"SAM00040437","2010","24.958","46.699","624.5","KING KHALED INTERNATIONAL, SA","         0","S","       332","S","       209","S","   48.0","S,0716, ","     34.95","S"
+"SAM00040437","2012","24.958","46.699","624.5","KING KHALED INTERNATIONAL, SA","         0","S","       301","S","       189","S","   47.3","S,0717, ","     33.54","S"

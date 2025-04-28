@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN004112900","1961","25.3","87.53","21.0","KRITYANAND NAGAR, IN","        88","I","        62","I","        22","I"," 118.4"," ,I,0613, ","   1510.4"," ,I"
+"IN004112900","1962","25.3","87.53","21.0","KRITYANAND NAGAR, IN","        78","I","        63","I","        14","I"," 106.9"," ,I,0821, ","   1183.4"," ,I"
+"IN004112900","1964","25.3","87.53","21.0","KRITYANAND NAGAR, IN","        60","I","        46","I","         9","I"," 129.5"," ,I,0709, ","   1002.5"," ,I"
+"IN004112900","1966","25.3","87.53","21.0","KRITYANAND NAGAR, IN","        48","I","        38","I","        10","I"," 104.0"," ,I,0824, ","    851.5"," ,I"

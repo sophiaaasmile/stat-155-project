@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00060040","1953","-31.7667","151.4333","1069.8","GLENROCK OUTSTATION, AS","        71","a","        52","a","         5","a","  54.4"," ,a,0502, ","    578.9"," ,a"
+"ASN00060040","1954","-31.7667","151.4333","1069.8","GLENROCK OUTSTATION, AS","        80","a","        51","a","         4","a","  47.8"," ,a,0103, ","    591.2"," ,a"
+"ASN00060040","1955","-31.7667","151.4333","1069.8","GLENROCK OUTSTATION, AS","        76","a","        58","a","         9","a"," 102.1"," ,a,0224, ","    893.1"," ,a"
+"ASN00060040","1956","-31.7667","151.4333","1069.8","GLENROCK OUTSTATION, AS","        83","a","        66","a","         8","a","  58.9"," ,a,0121, ","    817.8"," ,a"

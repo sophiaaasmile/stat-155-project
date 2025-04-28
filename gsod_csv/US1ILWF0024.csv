@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILWF0024","2022","40.7935402","-89.4866463","209.7","METAMORA 6.4 W, IL US","       118","N","        66","N","         7","N","  37.1"," ,N,0802, ","    816.9"," ,N"
+"US1ILWF0024","2023","40.7935402","-89.4866463","209.7","METAMORA 6.4 W, IL US","       122","N","        73","N","         9","N","  49.3"," ,N,0703, ","   1001.4"," ,N"
+"US1ILWF0024","2024","40.7935402","-89.4866463","209.7","METAMORA 6.4 W, IL US","       121","N","        75","N","         6","N","  60.2"," ,N,0428, ","    949.7"," ,N"

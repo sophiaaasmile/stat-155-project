@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00039155","1961","-24.35","150.6833","182.9","CALLIDE PLAINS, AS","        69","a","        47","a","        11","a","  87.1"," ,a,0217, ","    824.4"," ,a"
+"ASN00039155","1962","-24.35","150.6833","182.9","CALLIDE PLAINS, AS","        72","a","        48","a","         6","a","  41.7"," ,a,0301, ","    634.4"," ,a"
+"ASN00039155","1963","-24.35","150.6833","182.9","CALLIDE PLAINS, AS","        68","a","        49","a","         6","a","  77.7"," ,a,0327, ","    640.6"," ,a"
+"ASN00039155","1964","-24.35","150.6833","182.9","CALLIDE PLAINS, AS","        59","a","        41","a","         7","a","  70.4"," ,a,0703, ","    616.1"," ,a"

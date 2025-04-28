@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001025975","1962","49.3333","-124.3333","31.0","PARKSVILLE NORTHWEST, BC CA","       151","C","        94","C","         5","C","         6","C","   102"," ,C,0228,+","  38.6"," ,C,1229, ","    958.2"," ,C","      489"," ,C"
+"CA001025975","1963","49.3333","-124.3333","31.0","PARKSVILLE NORTHWEST, BC CA","       153","C","        86","C","         5","C","         1","C","    64"," ,C,0328, ","  42.7"," ,C,1222, ","    956.8"," ,C","       64"," ,C"
+"CA001025975","1964","49.3333","-124.3333","31.0","PARKSVILLE NORTHWEST, BC CA","       153","C","        77","C","         4","C","        12","C","   114"," ,C,0121, ","  59.9"," ,C,0115, ","    776.4"," ,C","      824"," ,C"

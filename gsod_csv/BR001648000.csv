@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001648000","1974","-16.36","-48.09","650.0","ESTRADA GO 56 PCD, BR","       100","I","        89","I","         9","I","  35.0"," ,I,0310,+","   1178.0"," ,I"
+"BR001648000","1986","-16.36","-48.09","650.0","ESTRADA GO 56 PCD, BR","        72","I","        65","I","        14","I","  75.2"," ,I,0109, ","   1269.7"," ,I"
+"BR001648000","1988","-16.36","-48.09","650.0","ESTRADA GO 56 PCD, BR","        72","I","        71","I","        29","I"," 116.8"," ,I,0209, ","   2263.2"," ,I"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00085224","1972","-38.5833","146.1833","296.0","EAST TARWIN MCLEOD, AS","       121","a","        77","a","         5","a","  48.3"," ,a,0213, ","    892.7"," ,a"
+"ASN00085224","1973","-38.5833","146.1833","296.0","EAST TARWIN MCLEOD, AS","       132","a","       110","a","        10","a","  63.8"," ,a,0206, ","   1212.6"," ,a"
+"ASN00085224","1974","-38.5833","146.1833","296.0","EAST TARWIN MCLEOD, AS","       111","a","       103","a","         7","a","  47.6"," ,a,0708, ","   1220.1"," ,a"
+"ASN00085224","1975","-38.5833","146.1833","296.0","EAST TARWIN MCLEOD, AS","       109","a","        99","a","         6","a","  48.4"," ,a,0812, ","   1320.4"," ,a"

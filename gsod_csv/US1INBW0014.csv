@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INBW0014","2014","39.22946","-85.87926","246.0","WD9HTN COLUMBUS 2.2 NE, IN US","       143","N","        86","N","        12","N","  52.1"," ,N,1206, ","   1166.8"," ,N"
+"US1INBW0014","2016","39.22946","-85.87926","246.0","WD9HTN COLUMBUS 2.2 NE, IN US","       138","N","        88","N","        17","N","  75.2"," ,N,1020, ","   1340.5"," ,N"
+"US1INBW0014","2018","39.22946","-85.87926","246.0","WD9HTN COLUMBUS 2.2 NE, IN US","       145","N","        80","N","        14","N","  90.2"," ,N,0909, ","   1240.3"," ,N"
+"US1INBW0014","2019","39.22946","-85.87926","246.0","WD9HTN COLUMBUS 2.2 NE, IN US","       128","N","        94","N","        11","N","  79.0"," ,N,0616, ","   1280.1"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COLA0088","2020","37.19445","-103.12885","1557.8","PRITCHETT 19.2 SW, CO US","        60","N","        26","N","         1","N","  46.0"," ,N,0829, ","    261.4"," ,N"
+"US1COLA0088","2021","37.19445","-103.12885","1557.8","PRITCHETT 19.2 SW, CO US","        51","N","        25","N","         3","N","  58.9"," ,N,0531, ","    309.4"," ,N"
+"US1COLA0088","2022","37.19445","-103.12885","1557.8","PRITCHETT 19.2 SW, CO US","        57","N","        28","N","         1","N","  26.7"," ,N,0817, ","    277.8"," ,N"
+"US1COLA0088","2023","37.19445","-103.12885","1557.8","PRITCHETT 19.2 SW, CO US","        70","N","        38","N","         5","N","  38.4"," ,N,0701, ","    478.4"," ,N"

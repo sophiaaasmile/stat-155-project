@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1Cher4307","2021","42.94042803","-100.33720357",,"VALENTINE 11.74 ENE, NE US","        76","N","        40","N","         5","N","  62.2"," ,N,0902, ","    506.4"," ,N"
+"US1Cher4307","2022","42.94042803","-100.33720357",,"VALENTINE 11.74 ENE, NE US","        44","N","        23","N","         1","N","  43.4"," ,N,0429, ","    244.6"," ,N"
+"US1Cher4307","2023","42.94042803","-100.33720357",,"VALENTINE 11.74 ENE, NE US","        61","N","        44","N","        13","N","  79.2"," ,N,1012, ","    783.3"," ,N"
+"US1Cher4307","2024","42.94042803","-100.33720357",,"VALENTINE 11.74 ENE, NE US","        61","N","        31","N","         3","N","  93.0"," ,N,0617, ","    398.4"," ,N"

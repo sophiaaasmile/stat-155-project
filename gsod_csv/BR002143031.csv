@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002143031","1959","-21.35","-43.2","0.0","FAZENDA FERRAZ, BR","        85","I","        57","I","         0","I","  25.2"," ,I,1210, ","    863.8"," ,I"
+"BR002143031","1960","-21.35","-43.2","0.0","FAZENDA FERRAZ, BR","       120","I","       101","I","         5","I","  78.6"," ,I,1207, ","   1458.0"," ,I"
+"BR002143031","1965","-21.35","-43.2","0.0","FAZENDA FERRAZ, BR","       147","I","       118","I","        18","I","  89.2"," ,I,0121, ","   1712.7"," ,I"

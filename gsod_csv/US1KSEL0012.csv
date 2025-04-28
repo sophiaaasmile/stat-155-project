@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1KSEL0012","2008","38.7542527","-99.26941944","612.0","MUNJOR 3.8 S, KS US","        94","N","        54","N","         6","N","         7","N","   117"," ,N,0224, ","  58.9"," ,N,0526, ","    689.6"," ,N","      648"," ,N"
+"US1KSEL0012","2009","38.7542527","-99.26941944","612.0","MUNJOR 3.8 S, KS US","        94","N","        40","N","         4","N","","","","","  33.0"," ,N,0826, ","    474.1"," ,N","",""
+"US1KSEL0012","2010","38.7542527","-99.26941944","612.0","MUNJOR 3.8 S, KS US","        66","N","        30","N","         5","N","","","","","  49.0"," ,N,0526, ","    472.2"," ,N","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCRG0012","2016","36.51657","-79.7035282","176.5","EDEN 2.3 ENE, NC US","       117","N","        68","N","        15","N","  77.2"," ,N,1008, ","   1175.2"," ,N"
+"US1NCRG0012","2017","36.51657","-79.7035282","176.5","EDEN 2.3 ENE, NC US","       118","N","        78","N","        13","N","  55.6"," ,N,0424, ","   1227.0"," ,N"
+"US1NCRG0012","2018","36.51657","-79.7035282","176.5","EDEN 2.3 ENE, NC US","       138","N","        99","N","        23","N"," 153.4"," ,N,1012, ","   1983.4"," ,N"

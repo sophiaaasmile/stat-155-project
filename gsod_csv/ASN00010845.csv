@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010845","1934","-33.1","119.85",,"BURKETT ROCKS, AS","        64","a","        34","a","         1","a","  31.8"," ,a,0309, ","    300.7"," ,a"
+"ASN00010845","1935","-33.1","119.85",,"BURKETT ROCKS, AS","        59","a","        32","a","         1","a","  29.2"," ,a,1019, ","    277.9"," ,a"
+"ASN00010845","1936","-33.1","119.85",,"BURKETT ROCKS, AS","        42","a","        26","a","         1","a","  27.9"," ,a,0603, ","    222.0"," ,a"
+"ASN00010845","1937","-33.1","119.85",,"BURKETT ROCKS, AS","        56","a","        30","a","         4","a","  43.2"," ,a,0306, ","    368.8"," ,a"

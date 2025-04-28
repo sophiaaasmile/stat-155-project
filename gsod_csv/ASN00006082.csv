@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00006082","1908","-24.5","113.5",,"POINT CHARLES, AS","        24","a","        17","a","         7","a","  63.5"," ,a,0602, ","    354.2"," ,a"
+"ASN00006082","1914","-24.5","113.5",,"POINT CHARLES, AS","        14","a","        11","a","         2","a","  30.7"," ,a,0719, ","    126.5"," ,a"
+"ASN00006082","1917","-24.5","113.5",,"POINT CHARLES, AS","        18","a","        14","a","         2","a","  37.3"," ,a,0628, ","    192.9"," ,a"
+"ASN00006082","1918","-24.5","113.5",,"POINT CHARLES, AS","        24","a","        11","a","         1","a","  36.3"," ,a,0521, ","    136.3"," ,a"
+"ASN00006082","1919","-24.5","113.5",,"POINT CHARLES, AS","         2","a","         2","a","         1","a"," 142.2"," ,a,0607, ","    153.6"," ,a"

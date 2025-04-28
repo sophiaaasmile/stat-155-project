@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056103","1959","-29.6167","151.7333","1055.0","GLEN INNES BURRAWONG, AS","        76","a","        69","a","        13","a","  55.9"," ,a,1218, ","   1070.0"," ,a"
+"ASN00056103","1960","-29.6167","151.7333","1055.0","GLEN INNES BURRAWONG, AS","        65","a","        56","a","         6","a","  34.3"," ,a,0502,+","    672.5"," ,a"
+"ASN00056103","1961","-29.6167","151.7333","1055.0","GLEN INNES BURRAWONG, AS","        75","a","        53","a","         8","a","  74.9"," ,a,1220, ","    773.3"," ,a"

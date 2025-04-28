@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INGN0009","2018","38.9375","-86.73","225.2","SPRINGVILLE 6.0 W, IN US","       136","N","        78","N","        17","N","  80.3"," ,N,0909, ","   1466.6"," ,N"
+"US1INGN0009","2019","38.9375","-86.73","225.2","SPRINGVILLE 6.0 W, IN US","","","","","","","","","   1684.1"," ,N"
+"US1INGN0009","2020","38.9375","-86.73","225.2","SPRINGVILLE 6.0 W, IN US","       145","N","        83","N","        18","N","  67.3"," ,N,0731, ","   1359.4"," ,N"
+"US1INGN0009","2021","38.9375","-86.73","225.2","SPRINGVILLE 6.0 W, IN US","       149","N","        93","N","        11","N","  57.9"," ,N,0717, ","   1294.6"," ,N"
+"US1INGN0009","2022","38.9375","-86.73","225.2","SPRINGVILLE 6.0 W, IN US","       127","N","        75","N","        17","N","  71.4"," ,N,0727, ","   1278.2"," ,N"

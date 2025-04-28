@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CASR0084","2021","34.2403","-117.2722","1395.1","CRESTLINE 1.4 ESE, CA US","        43","N","        27","N","        12","N","","","",""," 147.8"," ,N,1224, ","    809.7"," ,N","",""
+"US1CASR0084","2022","34.2403","-117.2722","1395.1","CRESTLINE 1.4 ESE, CA US","        37","N","        26","N","         7","N","         4","N","   152"," ,N,0216, ","  76.2"," ,N,1109, ","    565.5"," ,N","      335"," ,N"
+"US1CASR0084","2023","34.2403","-117.2722","1395.1","CRESTLINE 1.4 ESE, CA US","        72","N","        53","N","        19","N","","","",""," 247.7"," ,N,0821, ","   1613.0"," ,N","",""
+"US1CASR0084","2024","34.2403","-117.2722","1395.1","CRESTLINE 1.4 ESE, CA US","        54","N","        39","N","        12","N","","","",""," 101.6"," ,N,0206, ","    984.8"," ,N","",""

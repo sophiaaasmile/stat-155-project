@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FIE00145567","2004","63.6117","30.2042","234.0","LIEKSA KIVIVAARA, FI","       176","E","        99","E","         6","E","  77.7"," ,E,0728, ","    969.2"," ,E"
+"FIE00145567","2006","63.6117","30.2042","234.0","LIEKSA KIVIVAARA, FI","       166","E","        82","E","         3","E","  62.0"," ,E,0628, ","    776.5"," ,E"
+"FIE00145567","2008","63.6117","30.2042","234.0","LIEKSA KIVIVAARA, FI","       196","E","       103","E","         2","E","  43.0"," ,E,0808, ","    942.7"," ,E"

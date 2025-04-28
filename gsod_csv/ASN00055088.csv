@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00055088","1960","-30.6","150.95","774.2","MANILLA BRADFORD PARK, AS","        60","a","        46","a","         3","a","  46.5"," ,a,0802, ","    487.5"," ,a"
+"ASN00055088","1961","-30.6","150.95","774.2","MANILLA BRADFORD PARK, AS","        64","a","        51","a","         7","a","  43.4"," ,a,1130, ","    665.4"," ,a"
+"ASN00055088","1962","-30.6","150.95","774.2","MANILLA BRADFORD PARK, AS","        56","a","        49","a","         5","a","  52.1"," ,a,1020, ","    694.3"," ,a"
+"ASN00055088","1963","-30.6","150.95","774.2","MANILLA BRADFORD PARK, AS","        74","a","        65","a","         9","a","  48.3"," ,a,1217, ","    879.4"," ,a"

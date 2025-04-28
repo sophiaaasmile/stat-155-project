@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000082400","1980","-3.85","-32.417","59.0","FERNANDO DE NORONHA, BR","       126","I","        77","I","        22","I"," 279.9"," ,I,0307, ","   2066.1"," ,I"
+"BR000082400","2018","-3.85","-32.417","59.0","FERNANDO DE NORONHA, BR","       111","S","        76","S","        11","S","  91.9"," ,S,0208, ","   1238.6"," ,S"
+"BR000082400","2019","-3.85","-32.417","59.0","FERNANDO DE NORONHA, BR","       124","S","        82","S","        13","S"," 109.0"," ,S,0414, ","   1560.1"," ,S"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMBR0156","2018","35.148","-106.255","2110.1","EDGEWOOD 6.3 NW, NM US","        65","N","        36","N","         1","N","  54.9"," ,N,1024, ","    364.8"," ,N"
+"US1NMBR0156","2020","35.148","-106.255","2110.1","EDGEWOOD 6.3 NW, NM US","","","","","","","","","    264.7"," ,N"
+"US1NMBR0156","2021","35.148","-106.255","2110.1","EDGEWOOD 6.3 NW, NM US","        45","N","        29","N","         0","N","  21.8"," ,N,0813, ","    275.6"," ,N"

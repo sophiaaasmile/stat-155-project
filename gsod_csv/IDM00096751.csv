@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"IDM00096751","2009","-6.7","106.933",,"BOGOR CITEKO, ID","         0","S","       332","S","         0","S","   29.4","S,0916, ","     26.22","S"
+"IDM00096751","2012","-6.7","106.933",,"BOGOR CITEKO, ID","         0","S","       346","S","         1","S","   32.8","S,1021, ","     26.24","S"
+"IDM00096751","2022","-6.7","106.933",,"BOGOR CITEKO, ID","         0","S","       345","S","         0","S","   29.0","S,0508, ","     25.54","S"

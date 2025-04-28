@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00066155","1971","-33.55","151.25","3.0","BROOKLYN WOBBY BEACH, AS","        85","a","        67","a","        10","a"," 100.8"," ,a,0201, ","   1031.1"," ,a"
+"ASN00066155","1972","-33.55","151.25","3.0","BROOKLYN WOBBY BEACH, AS","        93","a","        72","a","        14","a"," 108.5"," ,a,0126, ","   1175.2"," ,a"
+"ASN00066155","1973","-33.55","151.25","3.0","BROOKLYN WOBBY BEACH, AS","        92","a","        71","a","         8","a","  62.2"," ,a,1012, ","    975.8"," ,a"

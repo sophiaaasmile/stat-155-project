@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1MB000133","2020","49.458721","-97.006231","236.2","ST PIERRE JOLYS 2.5 NW, MB CA","        68","N","        34","N","         4","N","  43.2"," ,N,0815, ","    399.3"," ,N"
+"CA1MB000133","2021","49.458721","-97.006231","236.2","ST PIERRE JOLYS 2.5 NW, MB CA","        66","N","        36","N","         3","N","  33.0"," ,N,1111, ","    399.8"," ,N"
+"CA1MB000133","2024","49.458721","-97.006231","236.2","ST PIERRE JOLYS 2.5 NW, MB CA","        94","N","        63","N","         6","N","  90.2"," ,N,0917, ","    744.9"," ,N"

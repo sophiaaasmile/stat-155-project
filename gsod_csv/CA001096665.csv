@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001096665","1972","52.9833","-119.0","1067.0","RED PASS MOUNT ROBSON PARK, BC CA","       152","C","        93","C","         3","C","        57","C","   259"," ,C,1129, ","  26.7"," ,C,0906, ","    876.6"," ,C","     5311"," ,C"
+"CA001096665","1973","52.9833","-119.0","1067.0","RED PASS MOUNT ROBSON PARK, BC CA","       116","C","        66","C","         2","C","        37","C","   254"," ,C,1127, ","  26.7"," ,C,1019, ","    553.1"," ,C","     3241"," ,C"
+"CA001096665","1974","52.9833","-119.0","1067.0","RED PASS MOUNT ROBSON PARK, BC CA","       150","C","        83","C","         2","C","        54","C","   381"," ,C,0113, ","  38.1"," ,C,0113, ","    733.3"," ,C","     5139"," ,C"

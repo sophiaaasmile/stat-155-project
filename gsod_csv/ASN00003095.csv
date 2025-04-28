@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00003095","1998","-18.3192","125.7806","160.0","PILLARA SPRINGS, AS","        39","a","        35","a","        10","a","  58.0"," ,a,0323, ","    716.2"," ,a"
+"ASN00003095","2000","-18.3192","125.7806","160.0","PILLARA SPRINGS, AS","        62","a","        46","a","        12","a","  94.6"," ,a,0303, ","    958.9"," ,a"
+"ASN00003095","2001","-18.3192","125.7806","160.0","PILLARA SPRINGS, AS","        49","a","        37","a","        11","a"," 113.2"," ,a,0220, ","    882.7"," ,a"

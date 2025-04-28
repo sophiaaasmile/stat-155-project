@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"COM00080315","2017","2.95","-75.294","446.2","BENITO SALAS, CO","       130","S","        69","S","        16","S"," 144.0"," ,S,0421, ","   1531.3"," ,S"
+"COM00080315","2018","2.95","-75.294","446.2","BENITO SALAS, CO","       121","S","        58","S","        11","S","  80.0"," ,S,0515, ","    914.6"," ,S"
+"COM00080315","2019","2.95","-75.294","446.2","BENITO SALAS, CO","       138","S","        63","S","        10","S","  71.1"," ,S,0330, ","   1000.1"," ,S"

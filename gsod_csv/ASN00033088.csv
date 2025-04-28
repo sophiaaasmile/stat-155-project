@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00033088","1956","-20.2667","148.8333","3.7","SOUTH MOLLE ISLAND, AS","","","","","","","","","   2554.1"," ,a"
+"ASN00033088","1961","-20.2667","148.8333","3.7","SOUTH MOLLE ISLAND, AS","        51","a","        46","a","         9","a","  66.8"," ,a,0219, ","    760.9"," ,a"
+"ASN00033088","1962","-20.2667","148.8333","3.7","SOUTH MOLLE ISLAND, AS","        42","a","        38","a","        20","a"," 394.5"," ,a,0226, ","   1655.0"," ,a"
+"ASN00033088","1973","-20.2667","148.8333","3.7","SOUTH MOLLE ISLAND, AS","       118","a","       106","a","        27","a"," 143.0"," ,a,1222, ","   2354.2"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCWK0004","2011","35.71335","-78.7854","125.0","APEX 3.4 ESE, NC US","       117","N","        67","N","        11","N","  62.5"," ,N,0806, ","   1025.3"," ,N"
+"US1NCWK0004","2012","35.71335","-78.7854","125.0","APEX 3.4 ESE, NC US","","","","","","","","","   1014.5"," ,N"
+"US1NCWK0004","2020","35.71335","-78.7854","125.0","APEX 3.4 ESE, NC US","","","","","","","","","   1622.8"," ,N"
+"US1NCWK0004","2021","35.71335","-78.7854","125.0","APEX 3.4 ESE, NC US","       116","N","        77","N","        11","N","  69.3"," ,N,0709, ","   1312.5"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNCG0043","2022","45.47504","-92.75326","289.3","TAYLORS FALLS 6.1 NW, MN US","       120","N","        61","N","         4","N","  45.2"," ,N,0413, ","    726.4"," ,N"
+"US1MNCG0043","2023","45.47504","-92.75326","289.3","TAYLORS FALLS 6.1 NW, MN US","       103","N","        57","N","         8","N","  53.6"," ,N,0331, ","    728.5"," ,N"
+"US1MNCG0043","2024","45.47504","-92.75326","289.3","TAYLORS FALLS 6.1 NW, MN US","        90","N","        53","N","        12","N","  48.0"," ,N,0729, ","    933.7"," ,N"

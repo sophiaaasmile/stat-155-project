@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMCH0022","2021","34.079856","-104.836628","1437.4","ROSWELL 52.1 NNW, NM US","        35","N","        22","N","         5","N","  48.3"," ,N,0504, ","    348.9"," ,N"
+"US1NMCH0022","2022","34.079856","-104.836628","1437.4","ROSWELL 52.1 NNW, NM US","        44","N","        24","N","         4","N","  41.7"," ,N,0821, ","    325.4"," ,N"
+"US1NMCH0022","2023","34.079856","-104.836628","1437.4","ROSWELL 52.1 NNW, NM US","        49","N","        18","N","         1","N","  36.8"," ,N,1001, ","    204.0"," ,N"

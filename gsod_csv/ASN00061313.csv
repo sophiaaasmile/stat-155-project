@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00061313","1975","-32.8667","151.2","166.0","MILLFIELD CEDAR CREEK, AS","","","","","","","","","    874.4"," ,a"
+"ASN00061313","1976","-32.8667","151.2","166.0","MILLFIELD CEDAR CREEK, AS","       118","a","        70","a","        12","a","  63.0"," ,a,0220, ","   1055.0"," ,a"
+"ASN00061313","1980","-32.8667","151.2","166.0","MILLFIELD CEDAR CREEK, AS","        74","a","        30","a","         4","a","  60.0"," ,a,0510, ","    426.0"," ,a"

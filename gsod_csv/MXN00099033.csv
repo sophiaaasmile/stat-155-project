@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00099033","2003","29.8","-109.6667","612.6","MOCTEZUMA, MX","        47","m","        35","m","         3","m","  40.1"," ,m,0905,+","    414.7"," ,m"
+"MXN00099033","2004","29.8","-109.6667","612.6","MOCTEZUMA, MX","        63","m","        34","m","         3","m","  32.8"," ,m,0723, ","    439.4"," ,m"

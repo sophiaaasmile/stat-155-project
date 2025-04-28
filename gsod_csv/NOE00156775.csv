@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"NOE00156775","2013","59.2306","10.9631","30.0","FREDRIKSTAD, NO","       105","E","        59","E","         2","E","  29.9"," ,E,0128, ","    559.8"," ,E"
+"NOE00156775","2014","59.2306","10.9631","30.0","FREDRIKSTAD, NO","       152","E","        91","E","         4","E","  38.0"," ,E,1123, ","    905.6"," ,E"
+"NOE00156775","2015","59.2306","10.9631","30.0","FREDRIKSTAD, NO","       128","E","        69","E","         3","E","  55.5"," ,E,0901, ","    733.7"," ,E"

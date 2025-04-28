@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1ON000791","2021","45.27286","-75.48952","93.9","METCALFE 4.4 NNW, ON CA","       159","N","        77","N","         4","N","  36.1"," ,N,1017, ","    880.9"," ,N"
+"CA1ON000791","2022","45.27286","-75.48952","93.9","METCALFE 4.4 NNW, ON CA","       171","N","        77","N","         7","N","  62.0"," ,N,0808, ","    971.6"," ,N"
+"CA1ON000791","2023","45.27286","-75.48952","93.9","METCALFE 4.4 NNW, ON CA","       174","N","        82","N","         6","N","  51.6"," ,N,0406, ","   1029.8"," ,N"
+"CA1ON000791","2024","45.27286","-75.48952","93.9","METCALFE 4.4 NNW, ON CA","","","","","","","","","    949.8"," ,N"

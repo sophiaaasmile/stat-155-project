@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MIWY0052","2020","42.417046","-83.343613","195.7","LIVONIA 2.0 NE, MI US","       134","N","        73","N","         9","N","  49.3"," ,N,0802,+","    859.6"," ,N"
+"US1MIWY0052","2021","42.417046","-83.343613","195.7","LIVONIA 2.0 NE, MI US","       136","N","        78","N","        10","N","  64.8"," ,N,0626, ","   1044.1"," ,N"
+"US1MIWY0052","2024","42.417046","-83.343613","195.7","LIVONIA 2.0 NE, MI US","       110","N","        68","N","         6","N","  52.6"," ,N,0527, ","    897.2"," ,N"

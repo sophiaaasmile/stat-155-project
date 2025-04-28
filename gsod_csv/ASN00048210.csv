@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00048210","1884","-31.5","145.15","285.0","COBAR MULGA DOWNS, AS","        40","a","        23","a","         3","a","  32.8"," ,a,1116, ","    252.7"," ,a"
+"ASN00048210","1885","-31.5","145.15","285.0","COBAR MULGA DOWNS, AS","        28","a","        18","a","         3","a","  34.0"," ,a,0303, ","    426.9"," ,a"
+"ASN00048210","1887","-31.5","145.15","285.0","COBAR MULGA DOWNS, AS","","","","","","","","","    485.4"," ,a"
+"ASN00048210","1889","-31.5","145.15","285.0","COBAR MULGA DOWNS, AS","        56","a","        36","a","         5","a","  56.6"," ,a,0830, ","    487.9"," ,a"
+"ASN00048210","1890","-31.5","145.15","285.0","COBAR MULGA DOWNS, AS","        52","a","        41","a","         2","a","  30.0"," ,a,0310, ","    450.3"," ,a"

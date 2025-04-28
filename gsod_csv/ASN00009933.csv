@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009933","1984","-34.3367","116.1083","240.0","MANJIMUP WA CHIP AND PULP, AS","       165","a","       100","a","         8","a","  47.2"," ,a,1118, ","   1132.0"," ,a"
+"ASN00009933","1989","-34.3367","116.1083","240.0","MANJIMUP WA CHIP AND PULP, AS","       162","a","       101","a","         4","a","  44.0"," ,a,0818, ","   1016.1"," ,a"
+"ASN00009933","1990","-34.3367","116.1083","240.0","MANJIMUP WA CHIP AND PULP, AS","       140","a","        86","a","         4","a","  30.2"," ,a,0802, ","   1014.7"," ,a"

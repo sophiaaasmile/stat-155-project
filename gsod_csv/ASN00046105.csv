@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00046105","1911","-30.9667","141.8","142.0","SANDY CREEK BORE, AS","        34","a","        28","a","         2","a","  30.5"," ,a,0128, ","    259.3"," ,a"
+"ASN00046105","1915","-30.9667","141.8","142.0","SANDY CREEK BORE, AS","        20","a","        17","a","         0","a","  22.1"," ,a,0514, ","    126.6"," ,a"
+"ASN00046105","1916","-30.9667","141.8","142.0","SANDY CREEK BORE, AS","        11","a","        10","a","         3","a","  69.1"," ,a,0722, ","    217.6"," ,a"

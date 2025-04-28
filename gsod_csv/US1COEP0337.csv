@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COEP0337","2015","38.774772","-104.8327599","1869.9","COLORADO SPRINGS 4.1 S, CO US","       132","N","        65","N","        10","N","  90.4"," ,N,0616, ","    919.8"," ,N"
+"US1COEP0337","2016","38.774772","-104.8327599","1869.9","COLORADO SPRINGS 4.1 S, CO US","        83","N","        37","N","         4","N","  82.3"," ,N,0808, ","    515.5"," ,N"
+"US1COEP0337","2017","38.774772","-104.8327599","1869.9","COLORADO SPRINGS 4.1 S, CO US","       109","N","        46","N","         7","N","  52.8"," ,N,0727, ","    614.4"," ,N"
+"US1COEP0337","2018","38.774772","-104.8327599","1869.9","COLORADO SPRINGS 4.1 S, CO US","        81","N","        40","N","         3","N","  51.1"," ,N,0724, ","    357.6"," ,N"

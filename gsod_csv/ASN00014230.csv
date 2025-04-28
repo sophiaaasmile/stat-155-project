@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00014230","1991","-12.6975","132.3681","40.0","KAPALGA CSIRO, AS","        93","a","        69","a","        14","a","  41.0"," ,a,0115, ","   1028.0"," ,a"
+"ASN00014230","1992","-12.6975","132.3681","40.0","KAPALGA CSIRO, AS","        91","a","        70","a","        17","a","  75.5"," ,a,0212, ","   1239.4"," ,a"
+"ASN00014230","1994","-12.6975","132.3681","40.0","KAPALGA CSIRO, AS","        97","a","        70","a","        17","a","  73.6"," ,a,0408, ","   1254.6"," ,a"

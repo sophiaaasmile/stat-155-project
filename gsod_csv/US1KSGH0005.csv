@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSGH0005","2013","39.2226015","-99.6984904","704.4","PALCO 7.5 WSW, KS US","        57","N","        32","N","         6","N","  74.4"," ,N,0728, ","    551.0"," ,N"
+"US1KSGH0005","2015","39.2226015","-99.6984904","704.4","PALCO 7.5 WSW, KS US","        54","N","        39","N","         5","N","  51.8"," ,N,1214, ","    524.1"," ,N"
+"US1KSGH0005","2016","39.2226015","-99.6984904","704.4","PALCO 7.5 WSW, KS US","        46","N","        36","N","         9","N"," 132.6"," ,N,0907, ","    857.6"," ,N"

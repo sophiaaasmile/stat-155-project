@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00085191","1938","-38.0167","147.2833",,"PERRY BRIDGE, AS","        67","a","        48","a","         2","a","  50.3"," ,a,0318, ","    427.1"," ,a"
+"ASN00085191","1939","-38.0167","147.2833",,"PERRY BRIDGE, AS","        57","a","        46","a","         4","a","  72.6"," ,a,0227, ","    569.9"," ,a"
+"ASN00085191","1940","-38.0167","147.2833",,"PERRY BRIDGE, AS","        46","a","        34","a","         1","a","  45.2"," ,a,1220, ","    338.2"," ,a"

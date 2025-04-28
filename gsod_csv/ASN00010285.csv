@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010285","1977","-30.9","117.9822","340.0","CROMLECH FARM, AS","        49","a","        25","a","         1","a","  30.5"," ,a,1227, ","    190.1"," ,a"
+"ASN00010285","1978","-30.9","117.9822","340.0","CROMLECH FARM, AS","        58","a","        35","a","         3","a","  30.5"," ,a,1217, ","    367.3"," ,a"
+"ASN00010285","1979","-30.9","117.9822","340.0","CROMLECH FARM, AS","        37","a","        22","a","         2","a","  29.5"," ,a,0623, ","    204.7"," ,a"

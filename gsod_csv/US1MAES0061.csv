@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MAES0061","2021","42.8401604","-70.9747706","57.3","AMESBURY 2.6 WSW, MA US","       136","N","        88","N","        13","N","  86.1"," ,N,1031, ","   1362.4"," ,N"
+"US1MAES0061","2022","42.8401604","-70.9747706","57.3","AMESBURY 2.6 WSW, MA US","       130","N","        84","N","         8","N","  40.1"," ,N,1014, ","    970.2"," ,N"
+"US1MAES0061","2023","42.8401604","-70.9747706","57.3","AMESBURY 2.6 WSW, MA US","       154","N","        90","N","        20","N","  85.6"," ,N,0809, ","   1601.8"," ,N"
+"US1MAES0061","2024","42.8401604","-70.9747706","57.3","AMESBURY 2.6 WSW, MA US","       144","N","        83","N","        13","N","  68.1"," ,N,0110, ","   1142.4"," ,N"

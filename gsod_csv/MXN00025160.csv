@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00025160","1980","24.6833","-107.7833","4.9","ESPINOZA, MX","        40","m","        26","m","         8","m"," 103.9"," ,m,1015, ","    561.1"," ,m"
+"MXN00025160","1981","24.6833","-107.7833","4.9","ESPINOZA, MX","        37","m","        28","m","         4","m","  89.9"," ,m,0105, ","    411.4"," ,m"

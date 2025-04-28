@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00012253","1915","-31.0","123.0",,"COONANA, AS","        68","a","        41","a","         2","a","  52.1"," ,a,0117, ","    470.3"," ,a"
+"ASN00012253","1916","-31.0","123.0",,"COONANA, AS","        52","a","        18","a","         0","a","  10.4"," ,a,0528, ","    141.1"," ,a"

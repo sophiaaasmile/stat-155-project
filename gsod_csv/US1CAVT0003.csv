@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CAVT0003","2015","34.2306","-118.804742","329.5","SIMI VALLEY 3.8 SW, CA US","        23","N","        12","N","         1","N","         0","N","     0"," ,N,1231,+","  27.4"," ,N,0111, ","    160.7"," ,N","        0"," ,N"
+"US1CAVT0003","2017","34.2306","-118.804742","329.5","SIMI VALLEY 3.8 SW, CA US","        36","N","        18","N","         2","N","","","",""," 111.0"," ,N,0218, ","    387.0"," ,N","",""

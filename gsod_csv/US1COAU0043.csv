@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COAU0043","2021","37.21487","-106.97586","2225.3","PAGOSA SPRINGS 4.5 SSE, CO US","        90","N","        44","N","         0","N","  24.4"," ,N,1210, ","    391.5"," ,N"
+"US1COAU0043","2022","37.21487","-106.97586","2225.3","PAGOSA SPRINGS 4.5 SSE, CO US","        94","N","        50","N","         4","N","  34.8"," ,N,0627, ","    512.7"," ,N"
+"US1COAU0043","2023","37.21487","-106.97586","2225.3","PAGOSA SPRINGS 4.5 SSE, CO US","        94","N","        42","N","         0","N","  21.6"," ,N,0322, ","    396.4"," ,N"
+"US1COAU0043","2024","37.21487","-106.97586","2225.3","PAGOSA SPRINGS 4.5 SSE, CO US","       107","N","        49","N","         3","N","  35.6"," ,N,0701, ","    558.9"," ,N"

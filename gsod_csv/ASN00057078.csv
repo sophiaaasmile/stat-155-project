@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00057078","1965","-28.5333","152.7","274.3","BONALBO OLD GLEN HUON HMSD, AS","       117","a","        78","a","         7","a"," 198.9"," ,a,0720, ","   1107.0"," ,a"
+"ASN00057078","1966","-28.5333","152.7","274.3","BONALBO OLD GLEN HUON HMSD, AS","        82","a","        48","a","         5","a","  43.7"," ,a,0611, ","    679.6"," ,a"
+"ASN00057078","1967","-28.5333","152.7","274.3","BONALBO OLD GLEN HUON HMSD, AS","       125","a","        88","a","        20","a"," 125.7"," ,a,0612, ","   1698.9"," ,a"

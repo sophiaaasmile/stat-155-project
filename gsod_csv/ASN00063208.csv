@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00063208","1904","-33.7","149.1833","880.0","CARCOAR COMBING PARK, AS","        68","a","        56","a","         4","a","  31.5"," ,a,1020, ","    628.7"," ,a"
+"ASN00063208","1905","-33.7","149.1833","880.0","CARCOAR COMBING PARK, AS","        90","a","        66","a","         3","a","  30.7"," ,a,0919, ","    703.9"," ,a"
+"ASN00063208","1906","-33.7","149.1833","880.0","CARCOAR COMBING PARK, AS","        92","a","        61","a","        10","a","  38.6"," ,a,1003, ","    793.3"," ,a"
+"ASN00063208","1907","-33.7","149.1833","880.0","CARCOAR COMBING PARK, AS","        77","a","        50","a","         6","a","  67.1"," ,a,1104, ","    624.7"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GADH0002","2010","31.601205","-84.245026","64.9","ALBANY 4.4 WNW, GA US","        74","N","        58","N","        10","N","  58.4"," ,N,0823, ","   1243.5"," ,N"
+"US1GADH0002","2011","31.601205","-84.245026","64.9","ALBANY 4.4 WNW, GA US","        87","N","        69","N","        10","N","  63.5"," ,N,0717, ","   1028.6"," ,N"
+"US1GADH0002","2012","31.601205","-84.245026","64.9","ALBANY 4.4 WNW, GA US","        87","N","        70","N","         6","N","  78.7"," ,N,0219, ","   1029.7"," ,N"

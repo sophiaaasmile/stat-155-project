@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COAR0386","2022","39.594033","-105.011773","1649.0","LITTLETON 0.1 ESE, CO US","        84","N","        44","N","         1","N","        23","N","   226"," ,N,1229, ","  26.9"," ,N,1229, ","    350.3"," ,N","     1962"," ,N"
+"US1COAR0386","2023","39.594033","-105.011773","1649.0","LITTLETON 0.1 ESE, CO US","       105","N","        43","N","         6","N","        11","N","   178"," ,N,1029, ","  82.6"," ,N,0512, ","    614.4"," ,N","      879"," ,N"
+"US1COAR0386","2024","39.594033","-105.011773","1649.0","LITTLETON 0.1 ESE, CO US","        80","N","        35","N","         4","N","        13","N","   183"," ,N,1106, ","  36.8"," ,N,0314, ","    410.2"," ,N","     1289"," ,N"

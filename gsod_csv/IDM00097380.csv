@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TAVG","TAVG_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"IDM00097380","2011","-10.5","121.833","26.0","SABU TARDAMU, ID","","","","","         0","S","       340","S","       111","S","","","   39.3","S,1217, ","","","     31.58","S","",""
+"IDM00097380","2012","-10.5","121.833","26.0","SABU TARDAMU, ID","         0","S","         0","S","         0","S","       343","S","       120","S","   18.0","S,0630, ","   35.9","S,1128, ","     27.74","S","     31.50","S","     23.97","S"
+"IDM00097380","2020","-10.5","121.833","26.0","SABU TARDAMU, ID","","","","","         0","S","       344","S","       214","S","","","   36.8","S,1121,+","","","     32.56","S","",""
+"IDM00097380","2022","-10.5","121.833","26.0","SABU TARDAMU, ID","","","","","         0","S","       355","S","       230","S","","","   34.6","S,1009,+","","","     32.30","S","",""

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMDA0336","2017","32.26033","-106.72007","1228.6","LAS CRUCES 5.6 SSE, NM US","        47","N","        23","N","         1","N","  37.1"," ,N,0801, ","    275.5"," ,N"
+"US1NMDA0336","2018","32.26033","-106.72007","1228.6","LAS CRUCES 5.6 SSE, NM US","        47","N","        23","N","         3","N","  43.7"," ,N,1024, ","    295.3"," ,N"
+"US1NMDA0336","2019","32.26033","-106.72007","1228.6","LAS CRUCES 5.6 SSE, NM US","        40","N","        17","N","         1","N","  45.0"," ,N,0611, ","    183.4"," ,N"
+"US1NMDA0336","2020","32.26033","-106.72007","1228.6","LAS CRUCES 5.6 SSE, NM US","        38","N","        23","N","         1","N","  37.8"," ,N,0304, ","    245.7"," ,N"

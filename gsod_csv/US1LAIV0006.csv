@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1LAIV0006","2020","30.3097","-91.118473","5.8","ST. GABRIEL 2.8 NNW, LA US","","","","","","","","","   1532.6"," ,N"
+"US1LAIV0006","2021","30.3097","-91.118473","5.8","ST. GABRIEL 2.8 NNW, LA US","       138","N","       108","N","        31","N"," 270.5"," ,N,0518, ","   2526.6"," ,N"
+"US1LAIV0006","2022","30.3097","-91.118473","5.8","ST. GABRIEL 2.8 NNW, LA US","       124","N","        88","N","        23","N","  80.8"," ,N,1125, ","   1638.0"," ,N"
+"US1LAIV0006","2023","30.3097","-91.118473","5.8","ST. GABRIEL 2.8 NNW, LA US","        89","N","        51","N","        15","N","  89.9"," ,N,0130, ","   1120.1"," ,N"

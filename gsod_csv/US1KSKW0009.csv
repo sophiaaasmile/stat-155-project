@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSKW0009","2011","37.614574","-99.109047","656.2","HAVILAND 0.3 SW, KS US","        45","N","        36","N","         6","N","  45.7"," ,N,1220, ","    517.2"," ,N"
+"US1KSKW0009","2012","37.614574","-99.109047","656.2","HAVILAND 0.3 SW, KS US","        49","N","        34","N","         6","N","  39.4"," ,N,0709, ","    466.9"," ,N"
+"US1KSKW0009","2013","37.614574","-99.109047","656.2","HAVILAND 0.3 SW, KS US","        60","N","        48","N","         4","N","  57.9"," ,N,0806, ","    662.6"," ,N"

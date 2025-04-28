@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMSF0026","2012","35.122746","-106.211328","2037.6","EDGEWOOD 3.4 NW, NM US","        42","N","        23","N","         1","N","  28.4"," ,N,0817, ","    222.7"," ,N"
+"US1NMSF0026","2013","35.122746","-106.211328","2037.6","EDGEWOOD 3.4 NW, NM US","        55","N","        38","N","         4","N","  47.5"," ,N,0911, ","    433.5"," ,N"
+"US1NMSF0026","2015","35.122746","-106.211328","2037.6","EDGEWOOD 3.4 NW, NM US","        76","N","        50","N","         3","N","  60.7"," ,N,0707, ","    612.1"," ,N"
+"US1NMSF0026","2016","35.122746","-106.211328","2037.6","EDGEWOOD 3.4 NW, NM US","        74","N","        41","N","         2","N","  40.4"," ,N,0806, ","    432.0"," ,N"

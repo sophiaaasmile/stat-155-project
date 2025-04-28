@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00084138","1985","-37.4","148.6667","210.0","GOONGERAH SOUTH, AS","       156","a","        89","a","        18","a"," 118.0"," ,a,1212, ","   1460.4"," ,a"
+"ASN00084138","1986","-37.4","148.6667","210.0","GOONGERAH SOUTH, AS","       125","a","        67","a","         6","a","  51.0"," ,a,1119, ","    657.3"," ,a"
+"ASN00084138","1987","-37.4","148.6667","210.0","GOONGERAH SOUTH, AS","       124","a","        65","a","         6","a","  57.0"," ,a,1202, ","    781.7"," ,a"
+"ASN00084138","1988","-37.4","148.6667","210.0","GOONGERAH SOUTH, AS","       139","a","        75","a","         6","a"," 147.0"," ,a,1117, ","   1000.8"," ,a"

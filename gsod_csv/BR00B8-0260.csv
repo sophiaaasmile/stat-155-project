@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00B8-0260","1971","-20.32","-51.15","340.0","FAZENDA RANCHO ALEGRE, BR","        97","I","        74","I","        10","I","  52.5"," ,I,1102, ","   1098.1"," ,I"
+"BR00B8-0260","1972","-20.32","-51.15","340.0","FAZENDA RANCHO ALEGRE, BR","        97","I","        82","I","        22","I"," 101.0"," ,I,0108, ","   1628.7"," ,I"
+"BR00B8-0260","1973","-20.32","-51.15","340.0","FAZENDA RANCHO ALEGRE, BR","        73","I","        71","I","        17","I","  71.1"," ,I,0215, ","   1253.9"," ,I"
+"BR00B8-0260","1974","-20.32","-51.15","340.0","FAZENDA RANCHO ALEGRE, BR","        71","I","        62","I","        23","I","  85.8"," ,I,0317, ","   1381.8"," ,I"

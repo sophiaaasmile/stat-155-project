@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IAMR0004","2020","40.935283","-93.08273","305.7","MELROSE 3.6 SSW, IA US","        67","N","        60","N","        11","N","  83.8"," ,N,0515, ","    838.3"," ,N"
+"US1IAMR0004","2021","40.935283","-93.08273","305.7","MELROSE 3.6 SSW, IA US","        67","N","        58","N","        15","N","  78.7"," ,N,0625, ","   1012.9"," ,N"
+"US1IAMR0004","2022","40.935283","-93.08273","305.7","MELROSE 3.6 SSW, IA US","        56","N","        50","N","         7","N","  86.9"," ,N,0918, ","    670.2"," ,N"

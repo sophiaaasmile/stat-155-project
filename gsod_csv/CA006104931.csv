@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006104931","1954","45.2333","-75.6833","87.0","MANOTICK, ON CA","       185","C","        99","C","         7","C","        25","C","   264"," ,C,0216, ","  34.5"," ,C,1103, ","   1008.1"," ,C","     2007"," ,C"
+"CA006104931","1955","45.2333","-75.6833","87.0","MANOTICK, ON CA","       142","C","        75","C","         2","C","        22","C","   140"," ,C,0326, ","  48.3"," ,C,1015, ","    718.0"," ,C","     1621"," ,C"
+"CA006104931","1956","45.2333","-75.6833","87.0","MANOTICK, ON CA","       141","C","        80","C","         5","C","        24","C","   127"," ,C,0206, ","  46.2"," ,C,0415, ","    787.8"," ,C","     1615"," ,C"

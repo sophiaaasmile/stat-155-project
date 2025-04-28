@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COMR0112","2021","40.238231","-103.813533","1324.7","FORT MORGAN 2.1 SSW, CO US","        54","N","        29","N","         2","N","  39.4"," ,N,0428, ","    318.3"," ,N"
+"US1COMR0112","2022","40.238231","-103.813533","1324.7","FORT MORGAN 2.1 SSW, CO US","        59","N","        33","N","         2","N","  38.4"," ,N,0725, ","    316.8"," ,N"
+"US1COMR0112","2023","40.238231","-103.813533","1324.7","FORT MORGAN 2.1 SSW, CO US","        81","N","        54","N","         4","N","  55.4"," ,N,0721, ","    559.9"," ,N"
+"US1COMR0112","2024","40.238231","-103.813533","1324.7","FORT MORGAN 2.1 SSW, CO US","        63","N","        37","N","         0","N","  23.6"," ,N,0824,+","    385.3"," ,N"

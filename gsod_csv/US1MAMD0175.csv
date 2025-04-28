@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MAMD0175","2021","42.420887","-71.171957","31.4","ARLINGTON 0.4 WNW, MA US","       150","N","        87","N","        15","N","         6","N","   127"," ,N,0210,+"," 110.0"," ,N,0902, ","   1521.2"," ,N","      590"," ,N"
+"US1MAMD0175","2022","42.420887","-71.171957","31.4","ARLINGTON 0.4 WNW, MA US","       143","N","        81","N","         7","N","         6","N","   147"," ,N,0107, ","  39.9"," ,N,1223, ","    956.9"," ,N","      538"," ,N"
+"US1MAMD0175","2023","42.420887","-71.171957","31.4","ARLINGTON 0.4 WNW, MA US","       154","N","        91","N","        16","N","","","","","  82.6"," ,N,0919, ","   1568.6"," ,N","",""

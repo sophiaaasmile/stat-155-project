@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZYV0063","2020","34.66479","-112.330861","1492.9","PRESCOTT VALLEY 4.0 NNW, AZ US","        33","N","        16","N","         2","N","  37.6"," ,N,0724, ","    217.4"," ,N"
+"US1AZYV0063","2021","34.66479","-112.330861","1492.9","PRESCOTT VALLEY 4.0 NNW, AZ US","        63","N","        36","N","         3","N","  53.3"," ,N,0724, ","    445.3"," ,N"
+"US1AZYV0063","2022","34.66479","-112.330861","1492.9","PRESCOTT VALLEY 4.0 NNW, AZ US","        77","N","        36","N","         0","N","  21.6"," ,N,0922, ","    301.7"," ,N"
+"US1AZYV0063","2023","34.66479","-112.330861","1492.9","PRESCOTT VALLEY 4.0 NNW, AZ US","        65","N","        26","N","         1","N","  27.7"," ,N,0520, ","    289.5"," ,N"
+"US1AZYV0063","2024","34.66479","-112.330861","1492.9","PRESCOTT VALLEY 4.0 NNW, AZ US","        65","N","        30","N","         2","N","  38.9"," ,N,0207, ","    319.0"," ,N"

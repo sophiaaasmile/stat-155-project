@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA00604H26A","1980","48.5","-89.2167","229.0","THUNDER BAY POMBER, ON CA","       126","C","        69","C","         7","C","        26","C","   319"," ,C,0106, ","  56.1"," ,C,0829, ","    869.3"," ,C","     2514"," ,C"
+"CA00604H26A","1982","48.5","-89.2167","229.0","THUNDER BAY POMBER, ON CA","       151","C","        82","C","         8","C","        22","C","   350"," ,C,0102, ","  64.8"," ,C,0705, ","    979.6"," ,C","     2241"," ,C"
+"CA00604H26A","1983","48.5","-89.2167","229.0","THUNDER BAY POMBER, ON CA","       142","C","        82","C","         6","C","        31","C","   280"," ,C,0414, ","  39.5"," ,C,1123, ","    905.1"," ,C","     2822"," ,C"
+"CA00604H26A","1984","48.5","-89.2167","229.0","THUNDER BAY POMBER, ON CA","       150","C","        76","C","         3","C","        19","C","   110"," ,C,0314, ","  42.1"," ,C,1215, ","    837.9"," ,C","     1408"," ,C"
+"CA00604H26A","1986","48.5","-89.2167","229.0","THUNDER BAY POMBER, ON CA","       146","C","        77","C","         3","C","        20","C","   252"," ,C,0225, ","  34.9"," ,C,0723, ","    753.0"," ,C","     2004"," ,C"

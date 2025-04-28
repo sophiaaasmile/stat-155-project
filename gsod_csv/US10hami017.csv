@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10hami017","2021","40.95034","-97.998805","556.0","AURORA 5.8 N, NE US","        71","N","        46","N","         8","N"," 112.5"," ,N,0314, ","    728.7"," ,N"
+"US10hami017","2022","40.95034","-97.998805","556.0","AURORA 5.8 N, NE US","        66","N","        34","N","         5","N","  55.4"," ,N,0608, ","    504.7"," ,N"
+"US10hami017","2024","40.95034","-97.998805","556.0","AURORA 5.8 N, NE US","        71","N","        52","N","         5","N","  81.3"," ,N,0426, ","    734.4"," ,N"

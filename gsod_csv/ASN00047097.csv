@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00047097","1970","-31.85","143.2833","70.1","WILCANNIA TINTARIE, AS","        10","a","         9","a","         1","a","  44.5"," ,a,0423, ","    143.1"," ,a"
+"ASN00047097","1971","-31.85","143.2833","70.1","WILCANNIA TINTARIE, AS","        29","a","        23","a","         0","a","  21.6"," ,a,1226, ","    201.4"," ,a"
+"ASN00047097","1973","-31.85","143.2833","70.1","WILCANNIA TINTARIE, AS","        33","a","        28","a","         8","a","  59.4"," ,a,1104, ","    509.1"," ,a"

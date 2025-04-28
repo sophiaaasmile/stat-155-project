@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"GMM00010444","1943","51.55","9.95","176.0","GOETTINGEN, GM","","","","","","","        15","S","        74","S","         6","S","","","   35.0","S,0803, ","","","     14.01","S"
+"GMM00010444","1991","51.55","9.95","176.0","GOETTINGEN, GM","       146","S","        58","S","         0","S","","","","","","","  23.9"," ,S,1220, ","","","    453.9"," ,S","",""
+"GMM00010444","1992","51.55","9.95","176.0","GOETTINGEN, GM","       169","S","        79","S","         0","S","","","","","","","  23.4"," ,S,0706, ","","","    618.2"," ,S","",""

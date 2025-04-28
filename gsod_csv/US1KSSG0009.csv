@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSSG0009","2009","37.775066","-97.369292","409.0","PARK CITY 3.0 WSW, KS US","       113","N","        58","N","         7","N"," 132.6"," ,N,0427, ","    891.5"," ,N"
+"US1KSSG0009","2013","37.775066","-97.369292","409.0","PARK CITY 3.0 WSW, KS US","        91","N","        65","N","        12","N","  72.4"," ,N,1031, ","   1087.2"," ,N"
+"US1KSSG0009","2014","37.775066","-97.369292","409.0","PARK CITY 3.0 WSW, KS US","        77","N","        38","N","         8","N","  72.9"," ,N,0607, ","    646.8"," ,N"
+"US1KSSG0009","2015","37.775066","-97.369292","409.0","PARK CITY 3.0 WSW, KS US","        93","N","        59","N","        12","N","  86.6"," ,N,0517, ","   1141.1"," ,N"

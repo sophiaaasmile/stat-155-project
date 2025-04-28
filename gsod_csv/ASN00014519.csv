@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00014519","2001","-11.9171","136.5317",,"CAPE WILBERFORCE, AS","        97","a","        72","a","        18","a","  66.0"," ,a,0210, ","   1421.0"," ,a"
+"ASN00014519","2002","-11.9171","136.5317",,"CAPE WILBERFORCE, AS","        66","a","        44","a","         5","a","  40.0"," ,a,0412, ","    540.2"," ,a"
+"ASN00014519","2004","-11.9171","136.5317",,"CAPE WILBERFORCE, AS","       108","a","        71","a","        21","a"," 123.0"," ,a,0519, ","   1630.2"," ,a"

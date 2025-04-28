@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"ID000096163","2003","-0.883","100.35","3.0","PADANG TABING, ID","         0","I","       329","I","        32","I","   34.1","I,0206, ","     31.04","I"
+"ID000096163","2015","-0.883","100.35","3.0","PADANG TABING, ID","         0","S","       347","S","        13","S","   32.9","S,0711, ","     30.78","S"
+"ID000096163","2016","-0.883","100.35","3.0","PADANG TABING, ID","         0","S","       335","S","        50","S","   35.2","S,0125, ","     31.07","S"
+"ID000096163","2019","-0.883","100.35","3.0","PADANG TABING, ID","         0","S","       332","S","        28","S","   33.6","S,0930, ","     30.61","S"

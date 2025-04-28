@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00041290","1959","-27.2","151.4","365.8","ELINORE, AS","        58","a","        52","a","         5","a","  57.2"," ,a,1017, ","    698.4"," ,a"
+"ASN00041290","1960","-27.2","151.4","365.8","ELINORE, AS","        41","a","        32","a","         3","a","  50.3"," ,a,0218, ","    415.6"," ,a"
+"ASN00041290","1961","-27.2","151.4","365.8","ELINORE, AS","        49","a","        43","a","         4","a","  57.9"," ,a,1110, ","    566.2"," ,a"

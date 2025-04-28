@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IDID0012","2022","46.052928","-115.885939","789.4","KOOSKIA 7.3 SE, ID US","       154","N","        85","N","         5","N","  41.4"," ,N,0611, ","    833.4"," ,N"
+"US1IDID0012","2023","46.052928","-115.885939","789.4","KOOSKIA 7.3 SE, ID US","       146","N","        74","N","         1","N","  38.4"," ,N,1105, ","    679.6"," ,N"
+"US1IDID0012","2024","46.052928","-115.885939","789.4","KOOSKIA 7.3 SE, ID US","       160","N","        80","N","         3","N","  32.5"," ,N,0404, ","    784.3"," ,N"

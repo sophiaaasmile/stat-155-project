@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10red_018","2006","40.2084","-100.6373",,"MCCOOK 0.8 WNW, NE US","        59","N","        39","N","         3","N","  37.3"," ,N,1230, ","    532.3"," ,N"
+"US10red_018","2007","40.2084","-100.6373",,"MCCOOK 0.8 WNW, NE US","        68","N","        52","N","         7","N","  99.3"," ,N,0424, ","    685.2"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001746018","1990","-17.92","-47.01","0.0","FAZENDA LIMOEIRO, BR","        67","I","        62","I","        13","I","  56.0"," ,I,0103, ","   1044.3"," ,I"
+"BR001746018","1997","-17.92","-47.01","0.0","FAZENDA LIMOEIRO, BR","        97","I","        81","I","        20","I","  78.4"," ,I,0103, ","   1519.7"," ,I"
+"BR001746018","1999","-17.92","-47.01","0.0","FAZENDA LIMOEIRO, BR","        80","I","        76","I","        17","I","  58.0"," ,I,1113, ","   1276.8"," ,I"
+"BR001746018","2000","-17.92","-47.01","0.0","FAZENDA LIMOEIRO, BR","        96","I","        79","I","        18","I","  66.5"," ,I,1107, ","   1391.7"," ,I"

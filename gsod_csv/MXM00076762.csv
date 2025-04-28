@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"MXM00076762","1990","17.55","-99.5","1265.0","CHILPANCINGO RO., MX","       108","S","        74","S","         9","S","         0","S","         0","S","    5.6","S,0108, ","  34.0"," ,S,1005, ","    831.9"," ,S","     14.73","S"
+"MXM00076762","1992","17.55","-99.5","1265.0","CHILPANCINGO RO., MX","","","","","","","         0","S","         0","S","    5.0","S,0110, ","","","","","     14.85","S"
+"MXM00076762","2016","17.55","-99.5","1265.0","CHILPANCINGO RO., MX","        81","S","        42","S","         5","S","","","","","","","  75.2"," ,S,0513, ","    559.4"," ,S","",""

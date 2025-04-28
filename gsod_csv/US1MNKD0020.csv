@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNKD0020","2021","45.276946","-94.885635","367.6","SPICER 4.1 NE, MN US","       118","N","        56","N","         5","N","  42.2"," ,N,0629, ","    692.0"," ,N"
+"US1MNKD0020","2023","45.276946","-94.885635","367.6","SPICER 4.1 NE, MN US","       121","N","        60","N","         5","N","  82.8"," ,N,0726, ","    847.2"," ,N"
+"US1MNKD0020","2024","45.276946","-94.885635","367.6","SPICER 4.1 NE, MN US","       139","N","        60","N","        11","N","  69.9"," ,N,0603, ","    940.9"," ,N"

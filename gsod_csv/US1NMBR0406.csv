@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMBR0406","2022","35.198112","-106.317278","1991.3","SANDIA PARK 3.4 NE, NM US","        72","N","        45","N","         1","N","  36.8"," ,N,0831, ","    462.0"," ,N"
+"US1NMBR0406","2023","35.198112","-106.317278","1991.3","SANDIA PARK 3.4 NE, NM US","        72","N","        39","N","         0","N","  20.6"," ,N,0519, ","    279.2"," ,N"
+"US1NMBR0406","2024","35.198112","-106.317278","1991.3","SANDIA PARK 3.4 NE, NM US","        59","N","        28","N","         1","N","  25.4"," ,N,0906, ","    272.9"," ,N"

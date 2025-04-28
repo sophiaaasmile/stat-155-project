@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MECM0128","2020","43.609","-70.286","12.5","SOUTH PORTLAND 1.6 S, ME US","       124","N","        73","N","        13","N","  58.9"," ,N,0629, ","   1029.1"," ,N"
+"US1MECM0128","2021","43.609","-70.286","12.5","SOUTH PORTLAND 1.6 S, ME US","       144","N","        82","N","        12","N","  97.5"," ,N,1031, ","   1235.8"," ,N"
+"US1MECM0128","2022","43.609","-70.286","12.5","SOUTH PORTLAND 1.6 S, ME US","       143","N","        78","N","        12","N","  53.3"," ,N,1018, ","   1177.8"," ,N"
+"US1MECM0128","2024","43.609","-70.286","12.5","SOUTH PORTLAND 1.6 S, ME US","       136","N","        82","N","        15","N","  66.3"," ,N,0114, ","   1296.4"," ,N"

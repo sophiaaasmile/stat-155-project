@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001106720","1954","49.1167","-122.85","99.0","REIDVILLE, BC CA","       153","C","       109","C","         9","C","        12","C","   279"," ,C,0123, ","  58.4"," ,C,1104, ","   1377.6"," ,C","     1272"," ,C"
+"CA001106720","1955","49.1167","-122.85","99.0","REIDVILLE, BC CA","       154","C","       109","C","         7","C","        13","C","   178"," ,C,1117, ","  93.0"," ,C,1102, ","   1341.1"," ,C","      990"," ,C"
+"CA001106720","1956","49.1167","-122.85","99.0","REIDVILLE, BC CA","       145","C","       111","C","         8","C","        12","C","   178"," ,C,0216, ","  68.6"," ,C,1208, ","   1320.0"," ,C","      774"," ,C"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NJMS0018","2016","41.012669","-74.510311","238.0","JEFFERSON TWP 2.4 ENE, NJ US","       127","N","        83","N","         9","N","  79.8"," ,N,0731, ","   1129.6"," ,N"
+"US1NJMS0018","2017","41.012669","-74.510311","238.0","JEFFERSON TWP 2.4 ENE, NJ US","       138","N","        80","N","        10","N"," 117.1"," ,N,1030, ","   1164.0"," ,N"
+"US1NJMS0018","2018","41.012669","-74.510311","238.0","JEFFERSON TWP 2.4 ENE, NJ US","       173","N","       112","N","        20","N","  90.9"," ,N,1103, ","   1909.7"," ,N"
+"US1NJMS0018","2019","41.012669","-74.510311","238.0","JEFFERSON TWP 2.4 ENE, NJ US","       149","N","        99","N","        18","N","  70.9"," ,N,1017, ","   1592.6"," ,N"
+"US1NJMS0018","2020","41.012669","-74.510311","238.0","JEFFERSON TWP 2.4 ENE, NJ US","       144","N","        85","N","        12","N","  86.6"," ,N,0711, ","   1362.2"," ,N"

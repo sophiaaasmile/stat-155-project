@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ORCC0081","2019","45.4276","-122.365","159.1","BORING 0.6 WSW, OR US","       159","N","        99","N","         4","N","  43.4"," ,N,0119, ","   1003.1"," ,N"
+"US1ORCC0081","2022","45.4276","-122.365","159.1","BORING 0.6 WSW, OR US","       151","N","       109","N","        11","N","  49.5"," ,N,0611, ","   1426.5"," ,N"
+"US1ORCC0081","2024","45.4276","-122.365","159.1","BORING 0.6 WSW, OR US","       172","N","       114","N","         8","N","  41.4"," ,N,0603, ","   1390.2"," ,N"

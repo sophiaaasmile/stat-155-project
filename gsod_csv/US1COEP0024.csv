@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COEP0024","2006","38.9831","-104.6904","2208.3","BLACK FOREST 2.1 SSE, CO US","       123","N","        65","N","         4","N","        29","N","   533"," ,N,1221, ","  62.7"," ,N,1221, ","    689.8"," ,N","     2836"," ,N"
+"US1COEP0024","2007","38.9831","-104.6904","2208.3","BLACK FOREST 2.1 SSE, CO US","       136","N","        60","N","         6","N","        35","N","   300"," ,N,0425, ","  54.9"," ,N,0425, ","    733.8"," ,N","     2918"," ,N"
+"US1COEP0024","2011","38.9831","-104.6904","2208.3","BLACK FOREST 2.1 SSE, CO US","       112","N","        55","N","         1","N","        27","N","   147"," ,N,1102, "," 113.3"," ,N,0915, ","    591.2"," ,N","     1908"," ,N"

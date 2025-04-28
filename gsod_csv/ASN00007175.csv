@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00007175","1915","-26.4667","118.4667",,"GARDEN GULLY, AS","        36","a","        28","a","         5","a","  50.0"," ,a,0106, ","    390.9"," ,a"
+"ASN00007175","1916","-26.4667","118.4667",,"GARDEN GULLY, AS","        20","a","        17","a","         4","a","  57.2"," ,a,0613, ","    329.0"," ,a"
+"ASN00007175","1917","-26.4667","118.4667",,"GARDEN GULLY, AS","        17","a","        16","a","         5","a","  47.0"," ,a,0315, ","    287.3"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSHV0002","2022","38.053718","-97.464171","437.1","NEWTON 6.5 WNW, KS US","        64","N","        37","N","         7","N","  66.5"," ,N,1105, ","    677.7"," ,N"
+"US1KSHV0002","2023","38.053718","-97.464171","437.1","NEWTON 6.5 WNW, KS US","        69","N","        48","N","         5","N","  33.0"," ,N,0809, ","    629.3"," ,N"
+"US1KSHV0002","2024","38.053718","-97.464171","437.1","NEWTON 6.5 WNW, KS US","        80","N","        47","N","        11","N","  81.0"," ,N,1102, ","    778.4"," ,N"

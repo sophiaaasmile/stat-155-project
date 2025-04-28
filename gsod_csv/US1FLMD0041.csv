@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLMD0041","2020","25.6633578","-80.4096612","2.4","LINDGREN ACRES 0.7 SW, FL US","       162","N","       115","N","        23","N"," 101.9"," ,N,1003, ","   2111.2"," ,N"
+"US1FLMD0041","2021","25.6633578","-80.4096612","2.4","LINDGREN ACRES 0.7 SW, FL US","       130","N","        83","N","        20","N"," 114.8"," ,N,0629, ","   1517.3"," ,N"
+"US1FLMD0041","2022","25.6633578","-80.4096612","2.4","LINDGREN ACRES 0.7 SW, FL US","       137","N","        93","N","        15","N"," 218.7"," ,N,0604, ","   1790.8"," ,N"
+"US1FLMD0041","2023","25.6633578","-80.4096612","2.4","LINDGREN ACRES 0.7 SW, FL US","       138","N","        98","N","        29","N"," 157.0"," ,N,1116, ","   2126.5"," ,N"
+"US1FLMD0041","2024","25.6633578","-80.4096612","2.4","LINDGREN ACRES 0.7 SW, FL US","       133","N","        89","N","        16","N"," 109.7"," ,N,0613, ","   1596.8"," ,N"

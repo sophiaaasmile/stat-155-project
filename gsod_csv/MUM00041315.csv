@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"MUM00041315","2005","17.25","54.083","881.0","QAIROON HAIRITI, MU","         0","S","       274","S","         7","S","   37.5","S,0609, ","     24.70","S"
+"MUM00041315","2006","17.25","54.083","881.0","QAIROON HAIRITI, MU","         0","S","       293","S","        18","S","   38.2","S,0531, ","     25.00","S"
+"MUM00041315","2015","17.25","54.083","881.0","QAIROON HAIRITI, MU","         0","S","       320","S","        15","S","   39.6","S,0624, ","     26.01","S"

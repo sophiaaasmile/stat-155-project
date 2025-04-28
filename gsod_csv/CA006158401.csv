@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006158401","1960","43.65","-79.55","133.0","TORONTO BLOORDALE, ON CA","","","","","","","        16","C","   254"," ,C,0225, ","","","","","     1397"," ,C"
+"CA006158401","1961","43.65","-79.55","133.0","TORONTO BLOORDALE, ON CA","","","","","","","        15","C","   157"," ,C,0126, ","","","","","     1185"," ,C"
+"CA006158401","1962","43.65","-79.55","133.0","TORONTO BLOORDALE, ON CA","       109","C","        58","C","         4","C","        14","C","   140"," ,C,0223, ","  72.1"," ,C,0725, ","    800.0"," ,C","     1181"," ,C"
+"CA006158401","1963","43.65","-79.55","133.0","TORONTO BLOORDALE, ON CA","       121","C","        57","C","         4","C","        18","C","    89"," ,C,1211, ","  37.6"," ,C,0606, ","    592.6"," ,C","     1073"," ,C"
+"CA006158401","1964","43.65","-79.55","133.0","TORONTO BLOORDALE, ON CA","       115","C","        61","C","         4","C","        13","C","   229"," ,C,0310, ","  54.1"," ,C,0811, ","    779.7"," ,C","     1284"," ,C"

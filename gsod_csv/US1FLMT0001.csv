@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLMT0001","2012","27.1222","-80.3169","11.9","PALM CITY 4.0 SW, FL US","       159","N","        89","N","        14","N"," 186.4"," ,N,0828, ","   1556.8"," ,N"
+"US1FLMT0001","2013","27.1222","-80.3169","11.9","PALM CITY 4.0 SW, FL US","       156","N","        82","N","        15","N","  75.7"," ,N,0715, ","   1297.5"," ,N"
+"US1FLMT0001","2015","27.1222","-80.3169","11.9","PALM CITY 4.0 SW, FL US","       162","N","        91","N","        11","N","  93.0"," ,N,0301, ","   1306.7"," ,N"
+"US1FLMT0001","2017","27.1222","-80.3169","11.9","PALM CITY 4.0 SW, FL US","       141","N","        87","N","        21","N"," 122.2"," ,N,0603, ","   1886.0"," ,N"

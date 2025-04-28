@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MNBW0008","2019","44.151099","-94.785161","323.7","COMFREY 6.5 ENE, MN US","","","","","","","","","","","","","   1075.0"," ,N","",""
+"US1MNBW0008","2020","44.151099","-94.785161","323.7","COMFREY 6.5 ENE, MN US","        94","N","        53","N","         5","N","        14","N","   218"," ,N,0209, ","  56.9"," ,N,0629, ","    801.7"," ,N","     1068"," ,N"
+"US1MNBW0008","2021","44.151099","-94.785161","323.7","COMFREY 6.5 ENE, MN US","        92","N","        57","N","         7","N","        10","N","   208"," ,N,1211, ","  58.7"," ,N,0627, ","    770.7"," ,N","      731"," ,N"
+"US1MNBW0008","2023","44.151099","-94.785161","323.7","COMFREY 6.5 ENE, MN US","       104","N","        60","N","        11","N","","","","","  72.9"," ,N,0514, ","    967.4"," ,N","",""

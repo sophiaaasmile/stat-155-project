@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CALK0018","2022","38.81363","-122.56783","355.7","HIDDEN VALLEY LAKE 2.7 W, CA US","        46","N","        30","N","         2","N","         0","N","     0","T,N,0223, ","  56.6"," ,N,1227, ","    393.3"," ,N","        0","T,N"
+"US1CALK0018","2023","38.81363","-122.56783","355.7","HIDDEN VALLEY LAKE 2.7 W, CA US","        74","N","        56","N","        17","N","         1","N","   102"," ,N,0224, ","  59.2"," ,N,0310, ","   1060.6"," ,N","      128"," ,N"
+"US1CALK0018","2024","38.81363","-122.56783","355.7","HIDDEN VALLEY LAKE 2.7 W, CA US","        73","N","        46","N","        10","N","         0","N","     0"," ,N,1231,+"," 121.2"," ,N,1121, ","   1067.9"," ,N","        0"," ,N"

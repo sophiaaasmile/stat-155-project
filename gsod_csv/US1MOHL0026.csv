@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MOHL0026","2012","36.9993","-91.8421","359.7","MOUNTAIN VIEW 7.9 W, MO US","        81","N","        55","N","        10","N","  41.4"," ,N,0831, ","    840.7"," ,N"
+"US1MOHL0026","2013","36.9993","-91.8421","359.7","MOUNTAIN VIEW 7.9 W, MO US","       101","N","        77","N","        21","N","  86.4"," ,N,0810, ","   1408.7"," ,N"
+"US1MOHL0026","2014","36.9993","-91.8421","359.7","MOUNTAIN VIEW 7.9 W, MO US","        98","N","        70","N","         9","N","  73.2"," ,N,1010, ","   1000.9"," ,N"

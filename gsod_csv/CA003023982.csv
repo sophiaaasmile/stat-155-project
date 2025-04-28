@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003023982","1977","51.5833","-113.8333","988.0","LONE PINE CREEK, AB CA","        89","C","        50","C","         1","C","         8","C","   127"," ,C,0126, ","  28.2"," ,C,0528, ","    391.8"," ,C","      620"," ,C"
+"CA003023982","1978","51.5833","-113.8333","988.0","LONE PINE CREEK, AB CA","        86","C","        46","C","         3","C","        10","C","    69"," ,C,0125, ","  67.6"," ,C,0816, ","    480.2"," ,C","      624"," ,C"

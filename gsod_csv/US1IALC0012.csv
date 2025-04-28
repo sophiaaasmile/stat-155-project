@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IALC0012","2022","41.00536","-93.3443","305.4","CHARITON 2.0 WSW, IA US","        55","N","        48","N","         9","N","  97.0"," ,N,0918, ","    785.8"," ,N"
+"US1IALC0012","2023","41.00536","-93.3443","305.4","CHARITON 2.0 WSW, IA US","        54","N","        52","N","         5","N","  43.2"," ,N,0917, ","    629.1"," ,N"
+"US1IALC0012","2024","41.00536","-93.3443","305.4","CHARITON 2.0 WSW, IA US","        70","N","        57","N","         7","N","  45.7"," ,N,0626, ","    815.5"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NYSY0001","2009","42.39072","-76.71761","426.1","SMITH VALLEY 1.9 SE, NY US","","","","","","","","","","","","","    856.1"," ,N","",""
+"US1NYSY0001","2011","42.39072","-76.71761","426.1","SMITH VALLEY 1.9 SE, NY US","       175","N","        97","N","         9","N","","","",""," 108.0"," ,N,0908, ","   1251.8"," ,N","",""
+"US1NYSY0001","2014","42.39072","-76.71761","426.1","SMITH VALLEY 1.9 SE, NY US","       167","N","        79","N","         9","N","        17","N","   211"," ,N,1211, ","  51.6"," ,N,0609, ","   1059.8"," ,N","     1736"," ,N"
+"US1NYSY0001","2018","42.39072","-76.71761","426.1","SMITH VALLEY 1.9 SE, NY US","       185","N","        87","N","        12","N","        29","N","   264"," ,N,1116, ","  75.4"," ,N,0814, ","   1209.6"," ,N","     2648"," ,N"

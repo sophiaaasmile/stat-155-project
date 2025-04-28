@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NCON0086","2017","34.710851","-77.129041","9.1","SWANSBORO 1.4 N, NC US","       137","N","        96","N","        19","N","","","","","  76.7"," ,N,0425, ","   1609.3"," ,N","",""
+"US1NCON0086","2018","34.710851","-77.129041","9.1","SWANSBORO 1.4 N, NC US","       158","N","       114","N","        29","N","","","",""," 414.8"," ,N,0915, ","   2641.4"," ,N","",""
+"US1NCON0086","2019","34.710851","-77.129041","9.1","SWANSBORO 1.4 N, NC US","       123","N","        81","N","        17","N","         0","N","     0","T,N,0305, "," 170.7"," ,N,0906, ","   1507.5"," ,N","        0","T,N"
+"US1NCON0086","2021","34.710851","-77.129041","9.1","SWANSBORO 1.4 N, NC US","       129","N","        90","N","        15","N","","","",""," 104.1"," ,N,0804, ","   1429.7"," ,N","",""

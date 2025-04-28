@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001957008","1966","-19.6","-57.1","0.0","MUTUM PARTICULAR, BR","        35","I","        35","I","        17","I","  65.0"," ,I,0326, ","    864.0"," ,I"
+"BR001957008","1967","-19.6","-57.1","0.0","MUTUM PARTICULAR, BR","        34","I","        34","I","        14","I","  95.0"," ,I,0225, ","    907.0"," ,I"
+"BR001957008","1969","-19.6","-57.1","0.0","MUTUM PARTICULAR, BR","        36","I","        35","I","        11","I","  80.0"," ,I,0430, ","    767.0"," ,I"

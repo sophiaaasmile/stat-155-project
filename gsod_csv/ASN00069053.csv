@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00069053","1963","-35.8167","150.2167",,"BURREWARRA NORTH, AS","        95","a","        74","a","        20","a"," 146.1"," ,a,0519, ","   1679.0"," ,a"
+"ASN00069053","1964","-35.8167","150.2167",,"BURREWARRA NORTH, AS","        77","a","        56","a","        12","a","  75.7"," ,a,0825, ","    980.1"," ,a"
+"ASN00069053","1965","-35.8167","150.2167",,"BURREWARRA NORTH, AS","        65","a","        46","a","         2","a","  41.1"," ,a,0508, ","    667.9"," ,a"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CAOR0026","2014","33.5633399","-117.639429","186.8","MISSION VIEJO 3.5 SSE K6WTA, CA US","        30","N","        21","N","         2","N","  41.4"," ,N,0301, ","    256.3"," ,N"
+"US1CAOR0026","2019","33.5633399","-117.639429","186.8","MISSION VIEJO 3.5 SSE K6WTA, CA US","        64","N","        39","N","         7","N","  69.1"," ,N,0214, ","    625.2"," ,N"
+"US1CAOR0026","2020","33.5633399","-117.639429","186.8","MISSION VIEJO 3.5 SSE K6WTA, CA US","        44","N","        23","N","         3","N","  50.8"," ,N,0407, ","    309.6"," ,N"
+"US1CAOR0026","2021","33.5633399","-117.639429","186.8","MISSION VIEJO 3.5 SSE K6WTA, CA US","        49","N","        22","N","         2","N","  32.0"," ,N,1224, ","    221.2"," ,N"
+"US1CAOR0026","2023","33.5633399","-117.639429","186.8","MISSION VIEJO 3.5 SSE K6WTA, CA US","        85","N","        33","N","         6","N","  58.4"," ,N,0315, ","    603.6"," ,N"

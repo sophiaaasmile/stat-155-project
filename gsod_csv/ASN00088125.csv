@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00088125","2001","-37.3827","145.4731","220.0","YEA RIVER DEVLINS BRIDGE, AS","       112","a","        65","a","         3","a","  42.0"," ,a,1106, ","    663.4"," ,a"
+"ASN00088125","2002","-37.3827","145.4731","220.0","YEA RIVER DEVLINS BRIDGE, AS","       113","a","        61","a","         2","a","  41.6"," ,a,0221, ","    585.2"," ,a"
+"ASN00088125","2003","-37.3827","145.4731","220.0","YEA RIVER DEVLINS BRIDGE, AS","       131","a","        76","a","         6","a","  70.4"," ,a,0724, ","    879.2"," ,a"
+"ASN00088125","2005","-37.3827","145.4731","220.0","YEA RIVER DEVLINS BRIDGE, AS","       115","a","        62","a","         6","a"," 112.0"," ,a,0203, ","    802.4"," ,a"
+"ASN00088125","2006","-37.3827","145.4731","220.0","YEA RIVER DEVLINS BRIDGE, AS","        86","a","        42","a","         1","a","  25.8"," ,a,0314, ","    400.8"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILDK0029","2022","41.653843","-88.892916","222.2","EARLVILLE 4.8 NNE, IL US","       128","N","        69","N","         7","N","  60.5"," ,N,0716, ","    873.9"," ,N"
+"US1ILDK0029","2023","41.653843","-88.892916","222.2","EARLVILLE 4.8 NNE, IL US","       130","N","        72","N","         4","N","  39.9"," ,N,1012, ","    784.6"," ,N"
+"US1ILDK0029","2024","41.653843","-88.892916","222.2","EARLVILLE 4.8 NNE, IL US","       125","N","        68","N","         4","N","  71.9"," ,N,0715, ","    874.9"," ,N"

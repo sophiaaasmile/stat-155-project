@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00091139","1934","-40.85","145.1",,"SMITHTON LEESVILLE, AS","       234","a","        86","a","         2","a","  36.3"," ,a,1130, ","    861.3"," ,a"
+"ASN00091139","1936","-40.85","145.1",,"SMITHTON LEESVILLE, AS","       247","a","       115","a","         5","a","  39.1"," ,a,0805, ","   1142.2"," ,a"
+"ASN00091139","1937","-40.85","145.1",,"SMITHTON LEESVILLE, AS","       244","a","        93","a","         7","a","  67.1"," ,a,0902, ","   1041.4"," ,a"
+"ASN00091139","1939","-40.85","145.1",,"SMITHTON LEESVILLE, AS","       245","a","       133","a","         3","a","  49.5"," ,a,1104, ","   1304.3"," ,a"

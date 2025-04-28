@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASD0207","2021","33.159","-117.266","124.4","OCEANSIDE 5.2 SSE, CA US","        47","N","        23","N","         3","N","  35.6"," ,N,1215, ","    272.5"," ,N"
+"US1CASD0207","2022","33.159","-117.266","124.4","OCEANSIDE 5.2 SSE, CA US","        29","N","        12","N","         1","N","  30.2"," ,N,1109, ","    157.9"," ,N"
+"US1CASD0207","2023","33.159","-117.266","124.4","OCEANSIDE 5.2 SSE, CA US","        64","N","        42","N","        10","N","  63.0"," ,N,0821, ","    690.3"," ,N"
+"US1CASD0207","2024","33.159","-117.266","124.4","OCEANSIDE 5.2 SSE, CA US","        54","N","        26","N","         4","N","  68.1"," ,N,0206, ","    380.3"," ,N"

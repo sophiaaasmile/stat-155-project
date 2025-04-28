@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TAVG","TAVG_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"EGM00062305","2009","31.567","25.133","6.0","SALLUM PLATEAU, EG","","","","","         0","S","       241","S","        26","S","","","   38.9","S,0623, ","","","     24.86","S","",""
+"EGM00062305","2010","31.567","25.133","6.0","SALLUM PLATEAU, EG","","","","","         0","S","       266","S","        48","S","","","   41.5","S,0621, ","","","     25.82","S","",""
+"EGM00062305","2011","31.567","25.133","6.0","SALLUM PLATEAU, EG","","","","","         0","S","       198","S","        33","S","","","   41.6","S,0724, ","","","     24.07","S","",""
+"EGM00062305","2015","31.567","25.133","6.0","SALLUM PLATEAU, EG","         0","S","         0","S","         0","S","       235","S","        28","S","    2.0","S,0103, ","   37.0","S,0428, ","     19.57","S","     24.60","S","     14.55","S"

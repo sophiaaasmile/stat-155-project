@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040699","1981","-25.2833","152.8367","5.0","PIALBA RAILWAY STATION, AS","       103","a","        78","a","        11","a"," 113.0"," ,a,1103, ","   1186.9"," ,a"
+"ASN00040699","1982","-25.2833","152.8367","5.0","PIALBA RAILWAY STATION, AS","       102","a","        55","a","         8","a","  40.4"," ,a,0120, ","    669.5"," ,a"
+"ASN00040699","1984","-25.2833","152.8367","5.0","PIALBA RAILWAY STATION, AS","","","","","","","","","   1067.1"," ,a"
+"ASN00040699","1985","-25.2833","152.8367","5.0","PIALBA RAILWAY STATION, AS","","","","","","","","","   1038.6"," ,a"
+"ASN00040699","1986","-25.2833","152.8367","5.0","PIALBA RAILWAY STATION, AS","","","","","","","","","    790.4"," ,a"

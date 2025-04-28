@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","FZF0","FZF0_ATTRIBUTES","FZF1","FZF1_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"ARM00087289","1997","-29.689","-57.152","70.1","PASO DE LOS LIBRES, AR","        94","S","        70","S","        29","S","","","","","",""," 119.1"," ,S,0205, ","","","","","   1806.4"," ,S","",""
+"ARM00087289","2008","-29.689","-57.152","70.1","PASO DE LOS LIBRES, AR","","","","","","","         0","S","         2","S","   -0.2","S,0530, ","","","-0.2","S,0530","","","","","     14.47","S"
+"ARM00087289","2009","-29.689","-57.152","70.1","PASO DE LOS LIBRES, AR","","","","","","","         0","S","         4","S","   -2.6","S,0724, ","","","-2.6","S,0724","-2.6","S,0724","","","     14.10","S"
+"ARM00087289","2011","-29.689","-57.152","70.1","PASO DE LOS LIBRES, AR","","","","","","","         0","S","         5","S","   -4.0","S,0627, ","","","-4.0","S,0627","-4.0","S,0627","","","     14.17","S"

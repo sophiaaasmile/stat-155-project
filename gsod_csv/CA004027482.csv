@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004027482","1953","49.75","-108.4167","908.0","SHAUNAVON CDA EPF, SK CA","        72","C","        48","C","         2","C","        25","C","   127"," ,C,0313, ","  38.9"," ,C,0602, ","    423.5"," ,C","     1410"," ,C"
+"CA004027482","1954","49.75","-108.4167","908.0","SHAUNAVON CDA EPF, SK CA","        76","C","        55","C","         3","C","        22","C","    76"," ,C,0311,+","  36.3"," ,C,0610, ","    453.7"," ,C","     1067"," ,C"
+"CA004027482","1955","49.75","-108.4167","908.0","SHAUNAVON CDA EPF, SK CA","        74","C","        43","C","         4","C","        21","C","   127"," ,C,0415, ","  38.1"," ,C,0712, ","    398.6"," ,C","     1170"," ,C"
+"CA004027482","1956","49.75","-108.4167","908.0","SHAUNAVON CDA EPF, SK CA","        68","C","        46","C","         1","C","        22","C","   127"," ,C,1027, ","  28.4"," ,C,0703, ","    331.3"," ,C","     1083"," ,C"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00061033","1946","-33.35","151.0",,"LOWER MC DONALD, AS","        48","a","        36","a","        12","a"," 185.2"," ,a,0416, ","    957.1"," ,a"
+"ASN00061033","1947","-33.35","151.0",,"LOWER MC DONALD, AS","        77","a","        67","a","        10","a","  86.4"," ,a,1209, ","   1054.5"," ,a"
+"ASN00061033","1948","-33.35","151.0",,"LOWER MC DONALD, AS","        54","a","        52","a","         7","a","  79.8"," ,a,0116, ","    799.0"," ,a"
+"ASN00061033","1949","-33.35","151.0",,"LOWER MC DONALD, AS","        63","a","        61","a","        19","a"," 141.0"," ,a,0618, ","   1390.8"," ,a"
+"ASN00061033","1950","-33.35","151.0",,"LOWER MC DONALD, AS","       120","a","        99","a","        18","a"," 126.2"," ,a,0119, ","   1745.2"," ,a"

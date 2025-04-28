@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040315","1962","-26.7833","152.5667","168.0","MOUNT KILCOY, AS","        93","a","        85","a","         7","a","  41.7"," ,a,1117, ","   1096.0"," ,a"
+"ASN00040315","1963","-26.7833","152.5667","168.0","MOUNT KILCOY, AS","        91","a","        87","a","        16","a"," 208.3"," ,a,0317, ","   1654.9"," ,a"
+"ASN00040315","1964","-26.7833","152.5667","168.0","MOUNT KILCOY, AS","        88","a","        81","a","        12","a"," 101.6"," ,a,0327, ","   1197.4"," ,a"

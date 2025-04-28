@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001255001","1977","-12.67","-55.79","0.0","TELES PIRES, BR","       125","I","        84","I","        23","I","  72.1"," ,I,1225, ","   1677.7"," ,I"
+"BR001255001","1988","-12.67","-55.79","0.0","TELES PIRES, BR","        89","I","        79","I","        18","I"," 104.0"," ,I,0113, ","   1832.0"," ,I"
+"BR001255001","1997","-12.67","-55.79","0.0","TELES PIRES, BR","       105","I","        94","I","        14","I","  79.0"," ,I,0323, ","   1491.2"," ,I"

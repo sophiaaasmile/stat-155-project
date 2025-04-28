@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10gage044","2019","40.491446","-96.520371",,"ADAMS 2.3 NNW, NE US","        87","N","        70","N","        11","N","  65.5"," ,N,0524, ","   1083.0"," ,N"
+"US10gage044","2020","40.491446","-96.520371",,"ADAMS 2.3 NNW, NE US","        69","N","        46","N","         3","N","  57.2"," ,N,0619, ","    585.1"," ,N"
+"US10gage044","2022","40.491446","-96.520371",,"ADAMS 2.3 NNW, NE US","        55","N","        40","N","         3","N","  35.8"," ,N,0617, ","    484.9"," ,N"

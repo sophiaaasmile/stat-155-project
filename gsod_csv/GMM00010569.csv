@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"GMM00010569","1955","50.483","12.133","389.0","PLAUEN AUT, GM","","","","","","","        51","S","        58","S","         0","S","","","   30.0","S,0718, ","","","     10.86","S"
+"GMM00010569","1956","50.483","12.133","389.0","PLAUEN AUT, GM","","","","","","","        57","S","        55","S","         0","S","","","   27.8","S,0710, ","","","     10.08","S"
+"GMM00010569","1992","50.483","12.133","389.0","PLAUEN AUT, GM","       147","S","        56","S","         0","S","        12","S","        89","S","         2","S","  22.4"," ,S,0726, ","   34.9","S,0809, ","    464.7"," ,S","     13.50","S"

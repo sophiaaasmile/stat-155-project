@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00074160","1933","-35.1","146.6",,"MARILLA, AS","        69","a","        42","a","         5","a","  33.5"," ,a,1214, ","    463.1"," ,a"
+"ASN00074160","1935","-35.1","146.6",,"MARILLA, AS","        48","a","        39","a","         1","a","  63.5"," ,a,0114, ","    411.0"," ,a"
+"ASN00074160","1936","-35.1","146.6",,"MARILLA, AS","        43","a","        37","a","         3","a","  50.8"," ,a,0624, ","    463.6"," ,a"
+"ASN00074160","1941","-35.1","146.6",,"MARILLA, AS","        29","a","        24","a","         3","a","  34.3"," ,a,0103, ","    282.8"," ,a"

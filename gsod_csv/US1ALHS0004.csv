@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALHS0004","2009","31.217215","-85.4172","91.1","DOTHAN 1.5 SSW, AL US","       109","N","        81","N","        26","N"," 130.0"," ,N,0328, ","   1943.4"," ,N"
+"US1ALHS0004","2010","31.217215","-85.4172","91.1","DOTHAN 1.5 SSW, AL US","        74","N","        61","N","        13","N"," 121.2"," ,N,0121, ","   1121.1"," ,N"
+"US1ALHS0004","2011","31.217215","-85.4172","91.1","DOTHAN 1.5 SSW, AL US","        79","N","        62","N","        11","N","  47.0"," ,N,0310, ","    902.0"," ,N"

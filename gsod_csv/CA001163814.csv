@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001163814","1971","50.6833","-120.5833","556.0","KAMLOOPS CHERRY CREEK, BC CA","        84","C","        42","C","         0","C","        23","C","   157"," ,C,1216, ","  15.7"," ,C,1216, ","    363.0"," ,C","     2057"," ,C"
+"CA001163814","1972","50.6833","-120.5833","556.0","KAMLOOPS CHERRY CREEK, BC CA","        69","C","        31","C","         0","C","        14","C","   124"," ,C,0118, ","  13.7"," ,C,0817, ","    208.1"," ,C","      918"," ,C"
+"CA001163814","1973","50.6833","-120.5833","556.0","KAMLOOPS CHERRY CREEK, BC CA","        62","C","        21","C","         0","C","         7","C","   117"," ,C,1122, ","  17.0"," ,C,0922, ","    195.0"," ,C","      582"," ,C"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"GMM00010635","1976","50.217","8.45","805.0","KLEINER FELDBERG, GM","       140","S","        70","S","         2","S","  29.0"," ,S,0721, ","    565.1"," ,S"
+"GMM00010635","1980","50.217","8.45","805.0","KLEINER FELDBERG, GM","       181","S","        95","S","         3","S","  35.1"," ,S,0711, ","    982.4"," ,S"
+"GMM00010635","1991","50.217","8.45","805.0","KLEINER FELDBERG, GM","       158","S","        82","S","         1","S","  25.4"," ,S,0501, ","    733.9"," ,S"
+"GMM00010635","1992","50.217","8.45","805.0","KLEINER FELDBERG, GM","       180","S","       102","S","         2","S","  39.6"," ,S,0604, ","    953.4"," ,S"

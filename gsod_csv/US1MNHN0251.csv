@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNHN0251","2021","45.11592","-93.31954","262.7","BROOKLYN PARK 1.5 ENE, MN US","        99","N","        50","N","         2","N","  63.2"," ,N,0827, ","    574.0"," ,N"
+"US1MNHN0251","2023","45.11592","-93.31954","262.7","BROOKLYN PARK 1.5 ENE, MN US","       103","N","        64","N","        13","N","  62.2"," ,N,0926, ","    915.7"," ,N"
+"US1MNHN0251","2024","45.11592","-93.31954","262.7","BROOKLYN PARK 1.5 ENE, MN US","        97","N","        63","N","        11","N","  72.4"," ,N,0806, ","    941.1"," ,N"

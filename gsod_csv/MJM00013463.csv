@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"MJM00013463","2008","42.433","19.283","50.0","PODGORICA GRAD, MJ","","","","","","","         0","S","       184","S","        76","S","","","   39.3","S,0814, ","","","     22.01","S"
+"MJM00013463","2012","42.433","19.283","50.0","PODGORICA GRAD, MJ","","","","","","","         0","S","       185","S","        87","S","","","   43.9","S,0807, ","","","     22.54","S"
+"MJM00013463","2019","42.433","19.283","50.0","PODGORICA GRAD, MJ","       107","S","        74","S","        20","S","","","","","",""," 143.0"," ,S,1104, ","","","   1775.9"," ,S","",""

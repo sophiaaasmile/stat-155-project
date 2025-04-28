@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00080104","1931","-36.2","145.05","121.9","WYUNA STATE SCHOOL, AS","        84","a","        53","a","         2","a","  34.3"," ,a,0414, ","    470.5"," ,a"
+"ASN00080104","1932","-36.2","145.05","121.9","WYUNA STATE SCHOOL, AS","        72","a","        45","a","         2","a","  33.0"," ,a,0704, ","    453.1"," ,a"
+"ASN00080104","1933","-36.2","145.05","121.9","WYUNA STATE SCHOOL, AS","        58","a","        44","a","         3","a","  44.5"," ,a,1201, ","    423.2"," ,a"

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00091027","1951","-41.1833","146.3167",,"HAWTHORN DON, AS","       127","a","        80","a","         5","a","  50.5"," ,a,1209, ","    845.0"," ,a"
+"ASN00091027","1952","-41.1833","146.3167",,"HAWTHORN DON, AS","       139","a","        97","a","        11","a","  53.6"," ,a,0418, ","   1150.6"," ,a"

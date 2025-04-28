@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10clay017","2007","40.4517","-97.9066","527.0","EDGAR 6.5 NE, NE US","        54","N","        46","N","        10","N","  73.2"," ,N,0829, ","    712.2"," ,N"
+"US10clay017","2008","40.4517","-97.9066","527.0","EDGAR 6.5 NE, NE US","        56","N","        36","N","        10","N","  53.1"," ,N,1022, ","    598.7"," ,N"

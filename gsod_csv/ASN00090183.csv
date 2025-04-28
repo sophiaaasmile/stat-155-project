@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00090183","2002","-38.6286","143.7306","583.0","HAINES JUNCTION MOUNT SABINE, AS","       193","a","       112","a","        10","a","  51.2"," ,a,0628, ","   1346.8"," ,a"
+"ASN00090183","2003","-38.6286","143.7306","583.0","HAINES JUNCTION MOUNT SABINE, AS","       195","a","       125","a","        11","a","  43.8"," ,a,0701, ","   1537.2"," ,a"
+"ASN00090183","2021","-38.6286","143.7306","583.0","HAINES JUNCTION MOUNT SABINE, AS","       212","a","       132","a","        20","a"," 194.4"," ,a,0104, ","   2109.7"," ,a"
+"ASN00090183","2022","-38.6286","143.7306","583.0","HAINES JUNCTION MOUNT SABINE, AS","       226","a","       157","a","        15","a","  98.2"," ,a,0305, ","   1915.2"," ,a"
+"ASN00090183","2023","-38.6286","143.7306","583.0","HAINES JUNCTION MOUNT SABINE, AS","       214","a","       120","a","         7","a"," 111.0"," ,a,1226, ","   1514.8"," ,a"
+"ASN00090183","2024","-38.6286","143.7306","583.0","HAINES JUNCTION MOUNT SABINE, AS","       189","a","       110","a","         5","a"," 100.4"," ,a,0716, ","   1130.3"," ,a"

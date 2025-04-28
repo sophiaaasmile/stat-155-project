@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILWL0175","2022","41.52991","-88.136046","194.5","JOLIET 0.7 WNW, IL US","       118","N","        77","N","        10","N","  52.8"," ,N,0331, ","    961.4"," ,N"
+"US1ILWL0175","2023","41.52991","-88.136046","194.5","JOLIET 0.7 WNW, IL US","       141","N","        83","N","         5","N","  89.2"," ,N,0906, ","   1079.0"," ,N"
+"US1ILWL0175","2024","41.52991","-88.136046","194.5","JOLIET 0.7 WNW, IL US","       127","N","        80","N","        15","N","  51.3"," ,N,0428, ","   1166.0"," ,N"

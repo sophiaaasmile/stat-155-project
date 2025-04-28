@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00054115","1965","-30.2167","150.9833","701.0","BULLAMA, AS","        47","a","        39","a","         4","a","  46.2"," ,a,1130, ","    420.2"," ,a"
+"ASN00054115","1966","-30.2167","150.9833","701.0","BULLAMA, AS","        71","a","        54","a","         8","a","  70.6"," ,a,1108, ","    772.1"," ,a"
+"ASN00054115","1967","-30.2167","150.9833","701.0","BULLAMA, AS","        50","a","        36","a","         5","a","  77.5"," ,a,0309, ","    531.6"," ,a"

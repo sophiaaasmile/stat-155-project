@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00079067","1906","-37.0667","142.2333","231.3","STAWELL NATTA WALLA, AS","        93","a","        55","a","         2","a","  38.9"," ,a,0626, ","    552.5"," ,a"
+"ASN00079067","1907","-37.0667","142.2333","231.3","STAWELL NATTA WALLA, AS","        82","a","        42","a","         2","a","  33.8"," ,a,1227, ","    422.1"," ,a"
+"ASN00079067","1908","-37.0667","142.2333","231.3","STAWELL NATTA WALLA, AS","        65","a","        45","a","         5","a","  40.1"," ,a,0901, ","    471.4"," ,a"
+"ASN00079067","1909","-37.0667","142.2333","231.3","STAWELL NATTA WALLA, AS","        68","a","        51","a","         2","a","  59.7"," ,a,0819, ","    521.1"," ,a"
+"ASN00079067","1910","-37.0667","142.2333","231.3","STAWELL NATTA WALLA, AS","        65","a","        52","a","         4","a","  77.5"," ,a,0306, ","    554.6"," ,a"

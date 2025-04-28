@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMDA0002","2011","32.3223","-106.7881","1186.9","LAS CRUCES 2.1 WSW, NM US","        31","N","        20","N","         1","N","  25.9"," ,N,0816, ","    170.7"," ,N"
+"US1NMDA0002","2013","32.3223","-106.7881","1186.9","LAS CRUCES 2.1 WSW, NM US","        36","N","        20","N","         0","N","  21.1"," ,N,0811, ","    194.5"," ,N"
+"US1NMDA0002","2014","32.3223","-106.7881","1186.9","LAS CRUCES 2.1 WSW, NM US","        48","N","        23","N","         4","N","  50.8"," ,N,0801, ","    326.3"," ,N"

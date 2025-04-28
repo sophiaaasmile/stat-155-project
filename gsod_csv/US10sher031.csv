@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10sher031","2018","42.73136","-102.0857",,"GORDON 8.0 ESE, NE US","       103","N","        51","N","         2","N","  49.5"," ,N,0701, ","    553.5"," ,N"
+"US10sher031","2019","42.73136","-102.0857",,"GORDON 8.0 ESE, NE US","       123","N","        65","N","         7","N","  55.9"," ,N,0705, ","    771.3"," ,N"
+"US10sher031","2020","42.73136","-102.0857",,"GORDON 8.0 ESE, NE US","        64","N","        24","N","         0","N","  19.6"," ,N,0524, ","    211.5"," ,N"

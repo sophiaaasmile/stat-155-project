@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00068087","1962","-34.4333","150.5",,"SPRING HILL WARANA, AS","       119","a","        70","a","         9","a","  61.0"," ,a,0112, ","    950.7"," ,a"
+"ASN00068087","1963","-34.4333","150.5",,"SPRING HILL WARANA, AS","       124","a","        87","a","        14","a"," 120.1"," ,a,0830, ","   1436.0"," ,a"
+"ASN00068087","1964","-34.4333","150.5",,"SPRING HILL WARANA, AS","","","","","","","","","   1044.3"," ,a"
+"ASN00068087","1965","-34.4333","150.5",,"SPRING HILL WARANA, AS","       103","a","        52","a","         6","a","  51.6"," ,a,1017, ","    603.6"," ,a"

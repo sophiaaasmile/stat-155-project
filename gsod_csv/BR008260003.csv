@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR008260003","1990","2.76","-60.33","0.0","FAZENDA CASTELAO, BR","       139","I","       106","I","        19","I"," 113.1"," ,I,0701, ","   1692.8"," ,I"
+"BR008260003","1996","2.76","-60.33","0.0","FAZENDA CASTELAO, BR","       147","I","       116","I","        22","I","  73.7"," ,I,0502, ","   1745.1"," ,I"
+"BR008260003","1997","2.76","-60.33","0.0","FAZENDA CASTELAO, BR","       117","I","        78","I","        24","I","  89.9"," ,I,0526, ","   1611.9"," ,I"
+"BR008260003","1998","2.76","-60.33","0.0","FAZENDA CASTELAO, BR","       147","I","       118","I","        32","I","  67.7"," ,I,0530,+","   2136.3"," ,I"

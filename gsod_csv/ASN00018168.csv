@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00018168","1970","-33.4228","137.1517","171.0","MIDGEE ROCKS, AS","","","","","","","","","    248.3"," ,a"
+"ASN00018168","1971","-33.4228","137.1517","171.0","MIDGEE ROCKS, AS","        96","a","        33","a","         0","a","  20.3"," ,a,0416, ","    275.4"," ,a"
+"ASN00018168","1972","-33.4228","137.1517","171.0","MIDGEE ROCKS, AS","        51","a","        17","a","         1","a","  45.5"," ,a,0111, ","    167.2"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INPT0157","2021","41.619426","-87.196292","188.1","PORTAGE 2.4 NNW, IN US","","","","","","","","","    833.7"," ,N"
+"US1INPT0157","2022","41.619426","-87.196292","188.1","PORTAGE 2.4 NNW, IN US","","","","","","","","","    810.5"," ,N"
+"US1INPT0157","2023","41.619426","-87.196292","188.1","PORTAGE 2.4 NNW, IN US","       129","N","        75","N","         4","N","  46.7"," ,N,0729, ","    836.2"," ,N"
+"US1INPT0157","2024","41.619426","-87.196292","188.1","PORTAGE 2.4 NNW, IN US","       115","N","        80","N","         9","N","  50.8"," ,N,03  ,2","    943.1"," ,N"

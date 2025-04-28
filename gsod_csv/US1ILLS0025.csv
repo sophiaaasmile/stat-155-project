@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILLS0025","2010","41.3569","-88.7883","173.1","MARSEILLES 5.6 WNW, IL US","       120","N","        81","N","         8","N","  42.7"," ,N,0624, ","   1031.9"," ,N"
+"US1ILLS0025","2011","41.3569","-88.7883","173.1","MARSEILLES 5.6 WNW, IL US","       146","N","        81","N","        16","N","  76.7"," ,N,0620, ","   1250.8"," ,N"
+"US1ILLS0025","2012","41.3569","-88.7883","173.1","MARSEILLES 5.6 WNW, IL US","        97","N","        59","N","         6","N","  56.6"," ,N,0507, ","    706.2"," ,N"
+"US1ILLS0025","2013","41.3569","-88.7883","173.1","MARSEILLES 5.6 WNW, IL US","       130","N","        75","N","        13","N"," 128.0"," ,N,0418, ","   1188.6"," ,N"

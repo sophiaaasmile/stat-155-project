@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000462000","1976","-4.73","-62.13","0.0","ARUMA MONTANTE, BR","       178","I","       138","I","        26","I"," 131.4"," ,I,1218, ","   2470.1"," ,I"
+"BR000462000","1977","-4.73","-62.13","0.0","ARUMA MONTANTE, BR","       187","I","       152","I","        37","I","  69.6"," ,I,1204, ","   2849.4"," ,I"
+"BR000462000","1978","-4.73","-62.13","0.0","ARUMA MONTANTE, BR","       160","I","       141","I","        36","I","  91.6"," ,I,0102, ","   2798.8"," ,I"
+"BR000462000","1981","-4.73","-62.13","0.0","ARUMA MONTANTE, BR","       125","I","       117","I","        28","I","  94.6"," ,I,1109, ","   2291.4"," ,I"

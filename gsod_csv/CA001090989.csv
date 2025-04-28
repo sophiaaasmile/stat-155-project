@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001090989","1924","50.85","-122.4333","610.0","BRIDGE RIVER, BC CA","        91","C","        41","C","         3","C","         7","C","   305"," ,C,0214, ","  40.4"," ,C,0922, ","    475.6"," ,C","      836"," ,C"
+"CA001090989","1925","50.85","-122.4333","610.0","BRIDGE RIVER, BC CA","","","","","","","        12","C","   203"," ,C,0130, ","","","","","      741"," ,C"
+"CA001090989","1928","50.85","-122.4333","610.0","BRIDGE RIVER, BC CA","        50","C","        24","C","         0","C","         9","C","    64"," ,C,0101, ","  17.8"," ,C,0105, ","    166.1"," ,C","      394"," ,C"

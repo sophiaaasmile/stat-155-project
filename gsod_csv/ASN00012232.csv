@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00012232","1926","-30.9833","118.9667",,"BRISCOE VALE, AS","        62","a","        41","a","         2","a","  39.6"," ,a,0417, ","    330.4"," ,a"
+"ASN00012232","1927","-30.9833","118.9667",,"BRISCOE VALE, AS","        81","a","        37","a","         3","a","  63.5"," ,a,0315, ","    426.0"," ,a"
+"ASN00012232","1928","-30.9833","118.9667",,"BRISCOE VALE, AS","        54","a","        26","a","         0","a","  19.6"," ,a,0516, ","    217.9"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMED0034","2010","32.43634","-104.23414","951.9","CARLSBAD 2.2 N, NM US","","","","","","","","","    411.2"," ,N"
+"US1NMED0034","2013","32.43634","-104.23414","951.9","CARLSBAD 2.2 N, NM US","        39","N","        22","N","         3","N","  67.3"," ,N,0718, ","    413.7"," ,N"
+"US1NMED0034","2014","32.43634","-104.23414","951.9","CARLSBAD 2.2 N, NM US","        62","N","        29","N","         6","N","  71.4"," ,N,0922, ","    429.1"," ,N"

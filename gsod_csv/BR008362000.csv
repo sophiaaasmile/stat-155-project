@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR008362000","1993","3.63","-62.4","0.0","MALOCA DO ERICO, BR","       215","I","       162","I","        25","I","  54.3"," ,I,0503, ","   2295.7"," ,I"
+"BR008362000","1994","3.63","-62.4","0.0","MALOCA DO ERICO, BR","       197","I","       149","I","        41","I"," 146.0"," ,I,0123, ","   3303.5"," ,I"
+"BR008362000","1996","3.63","-62.4","0.0","MALOCA DO ERICO, BR","       200","I","       156","I","        32","I","  83.4"," ,I,0227, ","   2640.6"," ,I"
+"BR008362000","1998","3.63","-62.4","0.0","MALOCA DO ERICO, BR","       161","I","       144","I","        30","I"," 126.2"," ,I,0501, ","   2745.7"," ,I"

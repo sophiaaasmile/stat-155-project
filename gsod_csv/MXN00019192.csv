@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00019192","2009","25.2333","-99.5667","274.9","PRESA VAQUERIAS, MX","        29","m","        25","m","         8","m","  70.9"," ,m,0527, ","    471.6"," ,m"
+"MXN00019192","2010","25.2333","-99.5667","274.9","PRESA VAQUERIAS, MX","        41","m","        38","m","         9","m"," 108.0"," ,m,0630, ","    735.4"," ,m"
+"MXN00019192","2011","25.2333","-99.5667","274.9","PRESA VAQUERIAS, MX","        25","m","        21","m","         5","m","  78.0"," ,m,0630, ","    371.9"," ,m"

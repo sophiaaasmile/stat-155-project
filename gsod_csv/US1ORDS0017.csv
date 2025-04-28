@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1ORDS0017","2015","44.0729","-121.3564","1154.0","BEND 2.3 WNW, OR US","        70","N","        29","N","         2","N","","","","","  36.6"," ,N,1125, ","    348.1"," ,N","",""
+"US1ORDS0017","2021","44.0729","-121.3564","1154.0","BEND 2.3 WNW, OR US","        78","N","        33","N","         0","N","        12","N","   127"," ,N,0123, ","  15.7"," ,N,1212, ","    245.4"," ,N","      899"," ,N"
+"US1ORDS0017","2022","44.0729","-121.3564","1154.0","BEND 2.3 WNW, OR US","        79","N","        36","N","         1","N","        12","N","   267"," ,N,0104, ","  27.2"," ,N,0703, ","    350.8"," ,N","     1034"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10perk023","2015","40.7571","-101.6272","1022.0","MADRID 7.8 SW, NE US","        93","N","        46","N","         4","N","  39.6"," ,N,0510, ","    562.0"," ,N"
+"US10perk023","2020","40.7571","-101.6272","1022.0","MADRID 7.8 SW, NE US","        87","N","        45","N","         3","N","  76.7"," ,N,0725, ","    443.3"," ,N"
+"US10perk023","2021","40.7571","-101.6272","1022.0","MADRID 7.8 SW, NE US","        60","N","        30","N","         3","N","  77.2"," ,N,0820, ","    405.0"," ,N"

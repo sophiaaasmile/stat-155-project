@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00015558","1920","-21.9833","137.1333","328.0","BATHURST DOWNS, AS","        44","a","        34","a","         5","a","  71.6"," ,a,0202, ","    437.0"," ,a"
+"ASN00015558","1921","-21.9833","137.1333","328.0","BATHURST DOWNS, AS","        44","a","        34","a","         5","a","  52.6"," ,a,0607, ","    473.7"," ,a"
+"ASN00015558","1922","-21.9833","137.1333","328.0","BATHURST DOWNS, AS","        31","a","        18","a","         0","a","  19.1"," ,a,1216, ","    163.4"," ,a"

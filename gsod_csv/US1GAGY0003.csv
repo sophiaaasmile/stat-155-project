@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GAGY0003","2015","30.85975","-84.14739","64.3","CAIRO 3.7 ESE, GA US","       109","N","        75","N","        15","N","  53.8"," ,N,0723, ","   1235.1"," ,N"
+"US1GAGY0003","2017","30.85975","-84.14739","64.3","CAIRO 3.7 ESE, GA US","        86","N","        64","N","        14","N"," 118.4"," ,N,0122, ","   1210.5"," ,N"
+"US1GAGY0003","2020","30.85975","-84.14739","64.3","CAIRO 3.7 ESE, GA US","        92","N","        70","N","        19","N"," 153.9"," ,N,0424, ","   1486.6"," ,N"

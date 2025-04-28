@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COLP0048","2011","37.18962","-107.72041","2053.4","IGNACIO 6.9 NW, CO US","        67","N","        32","N","         0","N","  23.4"," ,N,1005, ","    250.5"," ,N"
+"US1COLP0048","2022","37.18962","-107.72041","2053.4","IGNACIO 6.9 NW, CO US","        76","N","        36","N","         1","N","  36.8"," ,N,0627, ","    384.0"," ,N"
+"US1COLP0048","2024","37.18962","-107.72041","2053.4","IGNACIO 6.9 NW, CO US","        83","N","        43","N","         2","N","  40.1"," ,N,0701, ","    421.9"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASD0157","2018","32.735752","-117.048259","135.3","LEMON GROVE 0.9 W, CA US","        33","N","        14","N","         4","N","  67.8"," ,N,1207, ","    267.9"," ,N"
+"US1CASD0157","2022","32.735752","-117.048259","135.3","LEMON GROVE 0.9 W, CA US","        29","N","        13","N","         0","N","  20.8"," ,N,1228, ","    159.5"," ,N"
+"US1CASD0157","2023","32.735752","-117.048259","135.3","LEMON GROVE 0.9 W, CA US","        59","N","        35","N","         7","N","  68.6"," ,N,0116, ","    547.4"," ,N"

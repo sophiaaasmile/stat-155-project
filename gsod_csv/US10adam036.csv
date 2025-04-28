@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10adam036","2012","40.56091","-98.401952",,"HASTINGS 1.9 SSW, NE US","        55","N","        30","N","         6","N","  58.4"," ,N,0503, ","    512.4"," ,N"
+"US10adam036","2013","40.56091","-98.401952",,"HASTINGS 1.9 SSW, NE US","        76","N","        47","N","         7","N"," 114.6"," ,N,1003, ","    670.1"," ,N"
+"US10adam036","2018","40.56091","-98.401952",,"HASTINGS 1.9 SSW, NE US","        86","N","        64","N","         9","N","  52.6"," ,N,0701, ","    794.8"," ,N"
+"US10adam036","2021","40.56091","-98.401952",,"HASTINGS 1.9 SSW, NE US","        67","N","        52","N","         9","N"," 116.8"," ,N,0314, ","    688.5"," ,N"

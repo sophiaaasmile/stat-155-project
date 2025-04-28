@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003044930","2003","49.5","-110.8167","944.0","ORION, AB CA","        59","C","        33","C","         0","C","        11","C","   140"," ,C,0504, ","  22.0"," ,C,0512, ","    320.0"," ,C","     1056"," ,C"
+"CA003044930","2004","49.5","-110.8167","944.0","ORION, AB CA","        53","C","        39","C","         0","C","         9","C","   140"," ,C,0124, ","  24.8"," ,C,0823, ","    326.1"," ,C","      808"," ,C"
+"CA003044930","2005","49.5","-110.8167","944.0","ORION, AB CA","        36","C","        31","C","         2","C","         5","C","   110"," ,C,0106, ","  41.0"," ,C,0602, ","    265.0"," ,C","      235"," ,C"

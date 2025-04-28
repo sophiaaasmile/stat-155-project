@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10linc024","2005","41.2074","-100.7222","908.0","NORTH PLATTE 6.2 NNE, NE US","        74","N","        34","N","         6","N","  55.9"," ,N,0602, ","    501.3"," ,N"
+"US10linc024","2006","41.2074","-100.7222","908.0","NORTH PLATTE 6.2 NNE, NE US","        59","N","        29","N","         4","N","  40.9"," ,N,0708, ","    426.2"," ,N"
+"US10linc024","2007","41.2074","-100.7222","908.0","NORTH PLATTE 6.2 NNE, NE US","        90","N","        49","N","         4","N","  39.9"," ,N,0729, ","    614.1"," ,N"
+"US10linc024","2008","41.2074","-100.7222","908.0","NORTH PLATTE 6.2 NNE, NE US","        80","N","        47","N","         9","N","  49.5"," ,N,1006, ","    672.4"," ,N"

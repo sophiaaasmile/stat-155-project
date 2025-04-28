@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FIE00146448","1970","67.7167","24.85","197.0","KITTILA HUKKAKUMPU, FI","       143","E","        58","E","         0","E","  21.1"," ,E,0705, ","    486.9"," ,E"
+"FIE00146448","1971","67.7167","24.85","197.0","KITTILA HUKKAKUMPU, FI","       139","E","        65","E","         1","E","  29.8"," ,E,0808, ","    466.8"," ,E"
+"FIE00146448","1972","67.7167","24.85","197.0","KITTILA HUKKAKUMPU, FI","       161","E","        67","E","         0","E","  24.1"," ,E,1011, ","    553.5"," ,E"

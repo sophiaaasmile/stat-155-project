@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GASV0008","2021","32.7237","-81.8255","64.0","ROCKY FORD 4.2 N, GA US","       131","N","        84","N","        20","N","  63.2"," ,N,0917, ","   1425.4"," ,N"
+"US1GASV0008","2022","32.7237","-81.8255","64.0","ROCKY FORD 4.2 N, GA US","       110","N","        75","N","         5","N","  78.0"," ,N,0103, ","    966.8"," ,N"
+"US1GASV0008","2023","32.7237","-81.8255","64.0","ROCKY FORD 4.2 N, GA US","       118","N","        81","N","        14","N"," 150.1"," ,N,0831, ","   1451.3"," ,N"
+"US1GASV0008","2024","32.7237","-81.8255","64.0","ROCKY FORD 4.2 N, GA US","       106","N","        61","N","        18","N"," 206.5"," ,N,1107, ","   1556.4"," ,N"

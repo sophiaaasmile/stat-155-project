@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"KZ000038162","1962","43.6","61.933","64.0","CABANKAZGAN, KZ","        32","I","        10","I","         0","I","  11.1"," ,I,0330, ","     77.5"," ,I"
+"KZ000038162","1963","43.6","61.933","64.0","CABANKAZGAN, KZ","        32","I","        15","I","         0","I","  10.0"," ,I,0414, ","     94.6"," ,I"
+"KZ000038162","1989","43.6","61.933","64.0","CABANKAZGAN, KZ","        37","I","        13","I","         0","I","  12.6"," ,I,0120, ","    103.7"," ,I"
+"KZ000038162","1990","43.6","61.933","64.0","CABANKAZGAN, KZ","        45","I","        16","I","         0","I","  12.2"," ,I,1102, ","    129.0"," ,I"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA1NB000015","2014","45.963056","-65.969444","4.9","CUMBERLAND BAY 11.4 SW, NB CA","       165","N","        94","N","        16","N","        20","N","   284"," ,N,0313, ","  66.3"," ,N,0706, ","   1458.6"," ,N","     1941"," ,N"
+"CA1NB000015","2015","45.963056","-65.969444","4.9","CUMBERLAND BAY 11.4 SW, NB CA","       158","N","        86","N","         8","N","","","",""," 125.5"," ,N,1001, ","   1238.5"," ,N","",""
+"CA1NB000015","2016","45.963056","-65.969444","4.9","CUMBERLAND BAY 11.4 SW, NB CA","       166","N","        96","N","         4","N","","","","","  30.5"," ,N,0708, ","    980.3"," ,N","",""

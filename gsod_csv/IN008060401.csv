@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN008060401","1956","34.25","77.75","4771.0","DIGAR OBSERVATORY, IN","        46","I","        14","I","         0","I","  23.9"," ,I,0718, ","    173.3"," ,I"
+"IN008060401","1957","34.25","77.75","4771.0","DIGAR OBSERVATORY, IN","        48","I","        25","I","         0","I","  12.7"," ,I,0424, ","    139.2"," ,I"
+"IN008060401","1958","34.25","77.75","4771.0","DIGAR OBSERVATORY, IN","        42","I","        16","I","         0","I","  18.3"," ,I,0717, ","    131.3"," ,I"
+"IN008060401","1960","34.25","77.75","4771.0","DIGAR OBSERVATORY, IN","        28","I","         5","I","         0","I","   4.2"," ,I,0408, ","     37.0"," ,I"

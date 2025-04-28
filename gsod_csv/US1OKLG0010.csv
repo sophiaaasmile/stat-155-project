@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKLG0010","2012","35.75367","-97.37918","382.2","EDMOND 5.8 NNE, OK US","","","","","","","","","    673.7"," ,N"
+"US1OKLG0010","2016","35.75367","-97.37918","382.2","EDMOND 5.8 NNE, OK US","        58","N","        40","N","         5","N","  67.3"," ,N,0411, ","    598.9"," ,N"
+"US1OKLG0010","2018","35.75367","-97.37918","382.2","EDMOND 5.8 NNE, OK US","        54","N","        45","N","        10","N","  79.2"," ,N,0922, ","   1027.2"," ,N"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00023376","2006","-34.5795","138.9672","260.0","ROWLAND FLAT JACOBS CREEK, AS","        87","a","        38","a","         2","a","  47.0"," ,a,0327, ","    413.6"," ,a"
+"ASN00023376","2007","-34.5795","138.9672","260.0","ROWLAND FLAT JACOBS CREEK, AS","        92","a","        45","a","         3","a","  48.2"," ,a,0427, ","    503.4"," ,a"
+"ASN00023376","2008","-34.5795","138.9672","260.0","ROWLAND FLAT JACOBS CREEK, AS","       105","a","        43","a","         1","a","  34.0"," ,a,0517, ","    403.2"," ,a"
+"ASN00023376","2009","-34.5795","138.9672","260.0","ROWLAND FLAT JACOBS CREEK, AS","        99","a","        55","a","         2","a","  30.0"," ,a,0609, ","    514.4"," ,a"
+"ASN00023376","2010","-34.5795","138.9672","260.0","ROWLAND FLAT JACOBS CREEK, AS","       100","a","        53","a","         4","a","  46.8"," ,a,0904, ","    634.2"," ,a"

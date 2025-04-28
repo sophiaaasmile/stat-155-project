@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COEP0429","2021","38.993308","-104.771956","2093.7","GLENEAGLE 4.5 SE, CO US","        87","N","        45","N","         1","N","  51.6"," ,N,0801, ","    421.4"," ,N"
+"US1COEP0429","2022","38.993308","-104.771956","2093.7","GLENEAGLE 4.5 SE, CO US","        84","N","        28","N","         1","N","  32.8"," ,N,0727, ","    320.8"," ,N"
+"US1COEP0429","2023","38.993308","-104.771956","2093.7","GLENEAGLE 4.5 SE, CO US","       108","N","        55","N","         5","N","  58.4"," ,N,0512, ","    624.4"," ,N"
+"US1COEP0429","2024","38.993308","-104.771956","2093.7","GLENEAGLE 4.5 SE, CO US","        82","N","        39","N","         1","N","  27.9"," ,N,0314, ","    366.3"," ,N"

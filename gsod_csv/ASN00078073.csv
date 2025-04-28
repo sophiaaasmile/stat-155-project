@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00078073","2022","-36.1","142.3",,"YALLANGIP, AS","       114","a","        59","a","         2","a","  30.4"," ,a,0228, ","    560.4"," ,a"
+"ASN00078073","2023","-36.1","142.3",,"YALLANGIP, AS","       106","a","        44","a","         4","a","  48.0"," ,a,1125, ","    471.6"," ,a"
+"ASN00078073","2024","-36.1","142.3",,"YALLANGIP, AS","        85","a","        34","a","         0","a","  20.2"," ,a,1018, ","    298.8"," ,a"

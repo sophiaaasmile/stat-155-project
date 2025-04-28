@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10york039","2012","41.007875","-97.605011",,"BENEDICT 0.2 NE, NE US","        64","N","        32","N","         5","N","         5","N","   178"," ,N,0204, ","  44.7"," ,N,0415, ","    461.8"," ,N","      466"," ,N"
+"US10york039","2013","41.007875","-97.605011",,"BENEDICT 0.2 NE, NE US","        73","N","        47","N","         8","N","         8","N","   152"," ,N,0222, ","  58.2"," ,N,0530, ","    683.6"," ,N","      576"," ,N"
+"US10york039","2014","41.007875","-97.605011",,"BENEDICT 0.2 NE, NE US","        82","N","        46","N","        10","N","         6","N","    76"," ,N,1116, ","  60.5"," ,N,0424, ","    792.8"," ,N","      411"," ,N"

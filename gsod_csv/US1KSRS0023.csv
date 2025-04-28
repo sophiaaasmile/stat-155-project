@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSRS0023","2011","39.115581","-98.691989","482.5","LURAY 0.2 S, KS US","        45","N","        41","N","         9","N","  69.9"," ,N,0520, ","    687.8"," ,N"
+"US1KSRS0023","2012","39.115581","-98.691989","482.5","LURAY 0.2 S, KS US","        34","N","        31","N","         5","N","  38.1"," ,N,0615, ","    424.4"," ,N"
+"US1KSRS0023","2015","39.115581","-98.691989","482.5","LURAY 0.2 S, KS US","","","","","","","","","    667.1"," ,N"

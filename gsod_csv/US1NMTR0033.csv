@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMTR0033","2022","35.036867","-106.178565","2040.0","EDGEWOOD 1.8 SSE, NM US","        58","N","        41","N","         7","N","  35.6"," ,N,1017, ","    562.9"," ,N"
+"US1NMTR0033","2023","35.036867","-106.178565","2040.0","EDGEWOOD 1.8 SSE, NM US","        53","N","        30","N","         2","N","  40.6"," ,N,0520, ","    284.4"," ,N"
+"US1NMTR0033","2024","35.036867","-106.178565","2040.0","EDGEWOOD 1.8 SSE, NM US","        50","N","        35","N","         3","N","  71.1"," ,N,0722, ","    490.1"," ,N"

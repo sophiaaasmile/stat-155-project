@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056058","2001","-29.9475","151.0369","753.0","HOWELL WATTLEGROVE, AS","        97","a","        56","a","        10","a","  60.8"," ,a,0326, ","    912.5"," ,a"
+"ASN00056058","2002","-29.9475","151.0369","753.0","HOWELL WATTLEGROVE, AS","        65","a","        40","a","         8","a","  90.3"," ,a,0329, ","    581.5"," ,a"
+"ASN00056058","2006","-29.9475","151.0369","753.0","HOWELL WATTLEGROVE, AS","        85","a","        51","a","        10","a","  59.0"," ,a,0116, ","    730.1"," ,a"
+"ASN00056058","2007","-29.9475","151.0369","753.0","HOWELL WATTLEGROVE, AS","","","","","","","","","    787.2"," ,a"

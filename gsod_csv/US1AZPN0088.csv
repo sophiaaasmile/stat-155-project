@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZPN0088","2022","33.296135","-111.287878","631.9","QUEEN VALLEY 0.2 SSW, AZ US","        51","N","        28","N","         3","N","  54.9"," ,N,1204, ","    366.0"," ,N"
+"US1AZPN0088","2023","33.296135","-111.287878","631.9","QUEEN VALLEY 0.2 SSW, AZ US","        44","N","        22","N","         1","N","  42.4"," ,N,0102, ","    275.2"," ,N"
+"US1AZPN0088","2024","33.296135","-111.287878","631.9","QUEEN VALLEY 0.2 SSW, AZ US","        33","N","        19","N","         1","N","  37.1"," ,N,0202, ","    218.5"," ,N"

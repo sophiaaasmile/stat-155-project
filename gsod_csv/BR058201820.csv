@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR058201820","1967","-16.07","-39.6","180.0","ITAJIMIRIM, BR","        81","I","        70","I","        17","I","  62.3"," ,I,1201, ","   1274.2"," ,I"
+"BR058201820","1970","-16.07","-39.6","180.0","ITAJIMIRIM, BR","       135","I","       104","I","         6","I","  58.0"," ,I,1110, ","   1158.1"," ,I"
+"BR058201820","1971","-16.07","-39.6","180.0","ITAJIMIRIM, BR","        98","I","        77","I","         6","I","  38.2"," ,I,0408, ","    871.5"," ,I"

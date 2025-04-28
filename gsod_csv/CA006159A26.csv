@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006159A26","1984","44.1","-79.1167","274.0","UXBRIDGE, ON CA","       150","C","        83","C","         0","C","        21","C","   150"," ,C,0228, ","  21.2"," ,C,0720, ","    678.3"," ,C","     1273"," ,C"
+"CA006159A26","1985","44.1","-79.1167","274.0","UXBRIDGE, ON CA","","","","","","","        21","C","   100"," ,C,0128,+","","","","","     1452"," ,C"
+"CA006159A26","1986","44.1","-79.1167","274.0","UXBRIDGE, ON CA","       134","C","        70","C","         6","C","        11","C","   100"," ,C,0201, ","  46.9"," ,C,0910, ","    817.2"," ,C","      806"," ,C"

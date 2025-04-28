@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNHN0241","2020","45.104511","-93.489502","279.5","MAPLE GROVE 1.4 WSW, MN US","       110","N","        51","N","         5","N","  59.4"," ,N,0810, ","    643.0"," ,N"
+"US1MNHN0241","2021","45.104511","-93.489502","279.5","MAPLE GROVE 1.4 WSW, MN US","       102","N","        56","N","         4","N","  68.6"," ,N,0715, ","    683.5"," ,N"
+"US1MNHN0241","2023","45.104511","-93.489502","279.5","MAPLE GROVE 1.4 WSW, MN US","       101","N","        56","N","        10","N","  81.8"," ,N,0924, ","    916.2"," ,N"
+"US1MNHN0241","2024","45.104511","-93.489502","279.5","MAPLE GROVE 1.4 WSW, MN US","       111","N","        68","N","        10","N","  71.6"," ,N,0806, ","    964.6"," ,N"

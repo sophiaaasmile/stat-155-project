@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ORJC0014","2011","42.17565","-122.6955","769.0","ASHLAND 1.0 SSE, OR US","       120","N","        71","N","         0","N","  24.9"," ,N,0405, ","    581.9"," ,N"
+"US1ORJC0014","2012","42.17565","-122.6955","769.0","ASHLAND 1.0 SSE, OR US","       139","N","        60","N","         2","N","  69.9"," ,N,1202, ","    703.4"," ,N"
+"US1ORJC0014","2014","42.17565","-122.6955","769.0","ASHLAND 1.0 SSE, OR US","       124","N","        60","N","         5","N","  37.6"," ,N,0215, ","    650.8"," ,N"

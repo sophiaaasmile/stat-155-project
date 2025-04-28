@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COAD0252","2022","39.77209","-104.33135","1620.9","STRASBURG 3.1 NNW, CO US","        65","N","        18","N","         0","N","  21.8"," ,N,0601, ","    200.7"," ,N"
+"US1COAD0252","2023","39.77209","-104.33135","1620.9","STRASBURG 3.1 NNW, CO US","        84","N","        40","N","         5","N","  86.9"," ,N,0512, ","    534.2"," ,N"
+"US1COAD0252","2024","39.77209","-104.33135","1620.9","STRASBURG 3.1 NNW, CO US","        71","N","        29","N","         1","N","  48.0"," ,N,0427, ","    293.2"," ,N"

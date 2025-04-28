@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCBK0013","2016","35.95204","-81.891753","1107.9","JONAS RIDGE 1.4 S, NC US","       135","N","        76","N","        18","N","  92.7"," ,N,0804, ","   1322.3"," ,N"
+"US1NCBK0013","2018","35.95204","-81.891753","1107.9","JONAS RIDGE 1.4 S, NC US","       188","N","       136","N","        47","N"," 189.7"," ,N,0917, ","   3479.9"," ,N"
+"US1NCBK0013","2019","35.95204","-81.891753","1107.9","JONAS RIDGE 1.4 S, NC US","       159","N","       107","N","        21","N"," 157.5"," ,N,0609, ","   2033.1"," ,N"
+"US1NCBK0013","2021","35.95204","-81.891753","1107.9","JONAS RIDGE 1.4 S, NC US","       150","N","        87","N","        15","N"," 147.3"," ,N,0818, ","   1603.9"," ,N"

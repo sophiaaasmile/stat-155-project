@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00012161","1930","-31.7","119.1",,"MARCHLAND FARM, AS","        74","a","        37","a","         2","a","  38.6"," ,a,0418, ","    340.0"," ,a"
+"ASN00012161","1931","-31.7","119.1",,"MARCHLAND FARM, AS","        60","a","        31","a","         4","a","  68.1"," ,a,1228, ","    448.8"," ,a"
+"ASN00012161","1932","-31.7","119.1",,"MARCHLAND FARM, AS","        70","a","        42","a","         3","a","  35.6"," ,a,0716, ","    371.5"," ,a"
+"ASN00012161","1933","-31.7","119.1",,"MARCHLAND FARM, AS","        61","a","        34","a","         1","a","  25.4"," ,a,1115, ","    294.7"," ,a"

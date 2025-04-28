@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSSA0049","2021","38.9013","-97.531728","374.0","NEW CAMBRIA 2.1 NW, KS US","        79","N","        41","N","         9","N"," 136.7"," ,N,0516, ","    840.1"," ,N"
+"US1KSSA0049","2022","38.9013","-97.531728","374.0","NEW CAMBRIA 2.1 NW, KS US","        73","N","        43","N","         6","N","  82.0"," ,N,0702, ","    702.0"," ,N"
+"US1KSSA0049","2023","38.9013","-97.531728","374.0","NEW CAMBRIA 2.1 NW, KS US","        80","N","        48","N","         8","N","  42.2"," ,N,0614, ","    684.5"," ,N"
+"US1KSSA0049","2024","38.9013","-97.531728","374.0","NEW CAMBRIA 2.1 NW, KS US","        88","N","        52","N","         5","N","  52.1"," ,N,0605, ","    627.9"," ,N"

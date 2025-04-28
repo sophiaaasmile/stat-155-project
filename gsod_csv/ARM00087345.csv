@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","FZF0","FZF0_ATTRIBUTES","FZF1","FZF1_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"ARM00087345","2021","-31.4","-64.183","426.0","CORDOBA OBSERVATORIO, AR","         0","S","         8","S","   -2.2","S,0629, ","-2.0","S,0628","-2.2","S,0629","     12.47","S"
+"ARM00087345","2022","-31.4","-64.183","426.0","CORDOBA OBSERVATORIO, AR","         0","S","         0","S","    0.2","S,0518, ","","","","","     12.19","S"
+"ARM00087345","2023","-31.4","-64.183","426.0","CORDOBA OBSERVATORIO, AR","         0","S","         2","S","   -1.0","S,0614, ","-0.6","S,0613","","","     14.02","S"

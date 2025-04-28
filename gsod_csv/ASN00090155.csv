@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00090155","1889","-38.35","142.9667",,"COBRICO SUNNYSIDE, AS","       164","a","        97","a","         9","a","  49.3"," ,a,0101, ","   1172.6"," ,a"
+"ASN00090155","1890","-38.35","142.9667",,"COBRICO SUNNYSIDE, AS","       168","a","       102","a","         4","a","  40.4"," ,a,1012, ","    920.9"," ,a"
+"ASN00090155","1891","-38.35","142.9667",,"COBRICO SUNNYSIDE, AS","       150","a","        81","a","         2","a","  56.4"," ,a,0625, ","    740.5"," ,a"
+"ASN00090155","1892","-38.35","142.9667",,"COBRICO SUNNYSIDE, AS","       163","a","        94","a","         5","a","  33.5"," ,a,0522, ","    998.4"," ,a"
+"ASN00090155","1893","-38.35","142.9667",,"COBRICO SUNNYSIDE, AS","       174","a","        96","a","         5","a","  58.4"," ,a,0924, ","    994.5"," ,a"

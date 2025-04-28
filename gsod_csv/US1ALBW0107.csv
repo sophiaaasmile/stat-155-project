@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALBW0107","2022","30.232251","-87.978457","1.2","FORT MORGAN 2.5 E, AL US","        94","N","        86","N","        23","N"," 106.7"," ,N,1030,+","   1815.0"," ,N"
+"US1ALBW0107","2023","30.232251","-87.978457","1.2","FORT MORGAN 2.5 E, AL US","        65","N","        61","N","        21","N","  95.3"," ,N,0413, ","   1270.5"," ,N"
+"US1ALBW0107","2024","30.232251","-87.978457","1.2","FORT MORGAN 2.5 E, AL US","        83","N","        77","N","        22","N"," 116.8"," ,N,0514, ","   1641.6"," ,N"

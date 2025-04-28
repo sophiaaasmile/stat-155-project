@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10cust011","2008","41.5008","-100.0225","919.9","ANSELMO 11.5 SW, NE US","       103","N","        54","N","         9","N","         0","N","     0"," ,N,1231,+","  64.0"," ,N,0524, ","    716.5"," ,N","        0"," ,N"
+"US10cust011","2009","41.5008","-100.0225","919.9","ANSELMO 11.5 SW, NE US","       128","N","        70","N","         3","N","         0","N","     0"," ,N,1231,+","  38.1"," ,N,0606, ","    679.5"," ,N","        0"," ,N"
+"US10cust011","2010","41.5008","-100.0225","919.9","ANSELMO 11.5 SW, NE US","        97","N","        50","N","         7","N","         0","N","     0"," ,N,1231,+","  34.3"," ,N,0614, ","    662.6"," ,N","        0"," ,N"
+"US10cust011","2011","41.5008","-100.0225","919.9","ANSELMO 11.5 SW, NE US","       100","N","        53","N","         8","N","         0","N","     0"," ,N,1231,+","  64.5"," ,N,0620, ","    698.0"," ,N","        0"," ,N"

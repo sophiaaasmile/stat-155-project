@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALBW0039","2009","30.467498","-87.911498","6.1","POINT CLEAR 1.6 SSW, AL US","       124","N","        84","N","        17","N"," 148.3"," ,N,0214, ","   1833.6"," ,N"
+"US1ALBW0039","2010","30.467498","-87.911498","6.1","POINT CLEAR 1.6 SSW, AL US","       111","N","        77","N","        25","N","  65.5"," ,N,0302, ","   1472.5"," ,N"
+"US1ALBW0039","2011","30.467498","-87.911498","6.1","POINT CLEAR 1.6 SSW, AL US","        84","N","        52","N","        11","N","  96.5"," ,N,0310, ","   1027.7"," ,N"
+"US1ALBW0039","2012","30.467498","-87.911498","6.1","POINT CLEAR 1.6 SSW, AL US","       119","N","        70","N","        21","N"," 124.5"," ,N,0503, ","   1572.5"," ,N"

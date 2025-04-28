@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILHY0008","2014","41.46726","-90.18185","191.1","GENESEO 2.0 NW, IL US","       123","N","        63","N","         7","N","  53.6"," ,N,0701, ","    932.8"," ,N"
+"US1ILHY0008","2015","41.46726","-90.18185","191.1","GENESEO 2.0 NW, IL US","       110","N","        67","N","        13","N","  62.5"," ,N,0707, ","   1058.4"," ,N"
+"US1ILHY0008","2017","41.46726","-90.18185","191.1","GENESEO 2.0 NW, IL US","","","","","","","","","    970.0"," ,N"
+"US1ILHY0008","2020","41.46726","-90.18185","191.1","GENESEO 2.0 NW, IL US","       111","N","        67","N","         7","N","  77.5"," ,N,0906, ","    923.5"," ,N"

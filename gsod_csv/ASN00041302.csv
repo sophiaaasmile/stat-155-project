@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00041302","1959","-27.3333","151.25","335.3","COONEAH, AS","        56","a","        51","a","         8","a","  60.7"," ,a,0218, ","    755.2"," ,a"
+"ASN00041302","1960","-27.3333","151.25","335.3","COONEAH, AS","        41","a","        36","a","         2","a","  53.8"," ,a,0315, ","    445.0"," ,a"
+"ASN00041302","1963","-27.3333","151.25","335.3","COONEAH, AS","        49","a","        34","a","         8","a","  57.2"," ,a,1116, ","    581.0"," ,a"

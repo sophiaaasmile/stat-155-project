@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"PAM00086255","2018","-26.85","-58.317","56.0","PILAR, PA","         0"," ","         0","S","    2.0","S,0822, ","     16.59","S"
+"PAM00086255","2022","-26.85","-58.317","56.0","PILAR, PA","         0","S","         0","S","    1.8","S,0820,+","     15.54","S"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"IDM00096559","2012","0.064","111.473","29.9","SUSILO, ID","         0","S","       347","S","       247","S","   35.6","S,0929, ","     32.76","S"
+"IDM00096559","2016","0.064","111.473","29.9","SUSILO, ID","         0","S","       337","S","       248","S","   35.8","S,0830,+","     33.10","S"
+"IDM00096559","2022","0.064","111.473","29.9","SUSILO, ID","         0","S","       347","S","       217","S","   35.5","S,0314, ","     32.35","S"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILCK0321","2021","42.03303","-87.69777","182.9","EVANSTON 0.9 S, IL US","       126","N","        63","N","         9","N","  65.5"," ,N,1025, ","    838.8"," ,N"
+"US1ILCK0321","2022","42.03303","-87.69777","182.9","EVANSTON 0.9 S, IL US","       128","N","        75","N","         9","N","  71.1"," ,N,0912, ","    988.6"," ,N"
+"US1ILCK0321","2023","42.03303","-87.69777","182.9","EVANSTON 0.9 S, IL US","       139","N","        80","N","         6","N","  70.1"," ,N,0703, ","    961.4"," ,N"

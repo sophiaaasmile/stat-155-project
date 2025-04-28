@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00091191","1964","-41.2667","146.25","24.4","PALOONA HEC PUMPING STATION, AS","       129","a","        93","a","        12","a","  52.3"," ,a,0212, ","   1287.2"," ,a"
+"ASN00091191","1965","-41.2667","146.25","24.4","PALOONA HEC PUMPING STATION, AS","        96","a","        58","a","         8","a","  56.9"," ,a,0509, ","    786.0"," ,a"
+"ASN00091191","1967","-41.2667","146.25","24.4","PALOONA HEC PUMPING STATION, AS","        97","a","        62","a","         4","a","  62.5"," ,a,1006, ","    744.9"," ,a"
+"ASN00091191","1968","-41.2667","146.25","24.4","PALOONA HEC PUMPING STATION, AS","       146","a","        96","a","        12","a","  69.8"," ,a,0221, ","   1310.2"," ,a"
+"ASN00091191","1970","-41.2667","146.25","24.4","PALOONA HEC PUMPING STATION, AS","       114","a","        66","a","         5","a","  71.3"," ,a,0826, ","    797.0"," ,a"

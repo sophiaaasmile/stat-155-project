@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"IDM00096087","2015","1.117","104.117","24.0","BATAM HANG NADIM, ID","         0","S","       343","S","       132","S","   34.9","S,0928, ","     31.66","S"
+"IDM00096087","2016","1.117","104.117","24.0","BATAM HANG NADIM, ID","         0","S","       346","S","       162","S","   34.6","S,0509,+","     31.78","S"
+"IDM00096087","2018","1.117","104.117","24.0","BATAM HANG NADIM, ID","         0","S","       343","S","       111","S","   34.6","S,1005, ","     31.37","S"
+"IDM00096087","2019","1.117","104.117","24.0","BATAM HANG NADIM, ID","         0","S","       348","S","       202","S","   34.6","S,0501, ","     32.09","S"

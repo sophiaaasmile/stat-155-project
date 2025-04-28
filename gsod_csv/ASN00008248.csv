@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00008248","1971","-29.5333","115.3667","243.8","SUNDALARA, AS","        90","a","        47","a","         3","a","  61.0"," ,a,0328, ","    461.1"," ,a"
+"ASN00008248","1972","-29.5333","115.3667","243.8","SUNDALARA, AS","        35","a","        28","a","         3","a","  48.3"," ,a,0622, ","    382.0"," ,a"
+"ASN00008248","1973","-29.5333","115.3667","243.8","SUNDALARA, AS","        52","a","        36","a","         2","a","  43.7"," ,a,0718, ","    536.5"," ,a"

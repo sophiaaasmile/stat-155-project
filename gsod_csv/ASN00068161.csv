@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"ASN00068161","1967","-34.7333","150.6167","130.0","WATTAMOLLA, AS","       120","a","        93","a","        15","a","","","","","","","  77.5"," ,a,0906, ","","","   1308.5"," ,a","",""
+"ASN00068161","1968","-34.7333","150.6167","130.0","WATTAMOLLA, AS","        66","a","        48","a","         6","a","","","","","","","  88.9"," ,a,0515, ","","","    715.0"," ,a","",""
+"ASN00068161","1973","-34.7333","150.6167","130.0","WATTAMOLLA, AS","       146","a","       102","a","        15","a","         0","a","       180","a","        13","a"," 179.3"," ,a,1128, ","   40.0","a,0206, ","   1495.5"," ,a","     22.17","a"

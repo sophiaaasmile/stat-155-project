@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00068237","1995","-34.4724","150.8178","7.0","KEMBLA GRANGE RACECOURSE, AS","        58","a","        48","a","        18","a"," 115.2"," ,a,0518, ","   1256.0"," ,a"
+"ASN00068237","1996","-34.4724","150.8178","7.0","KEMBLA GRANGE RACECOURSE, AS","        51","a","        41","a","        11","a"," 130.0"," ,a,0831, ","    929.0"," ,a"
+"ASN00068237","1997","-34.4724","150.8178","7.0","KEMBLA GRANGE RACECOURSE, AS","        51","a","        42","a","         8","a"," 102.0"," ,a,0627, ","    879.5"," ,a"

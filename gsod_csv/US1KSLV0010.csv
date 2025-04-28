@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSLV0010","2019","39.23365","-95.136637","303.9","MCLOUTH 4.7 NE, KS US","       111","N","        77","N","        16","N","  87.9"," ,N,0623, ","   1304.4"," ,N"
+"US1KSLV0010","2020","39.23365","-95.136637","303.9","MCLOUTH 4.7 NE, KS US","        94","N","        59","N","         9","N","  78.2"," ,N,0526, ","    888.3"," ,N"
+"US1KSLV0010","2021","39.23365","-95.136637","303.9","MCLOUTH 4.7 NE, KS US","       100","N","        59","N","        13","N","  89.2"," ,N,1011, ","    978.3"," ,N"
+"US1KSLV0010","2022","39.23365","-95.136637","303.9","MCLOUTH 4.7 NE, KS US","        88","N","        53","N","         8","N","  61.5"," ,N,0531, ","    769.1"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OHCM0009","2014","38.930208","-84.14204","276.8","BETHEL 3.8 SW, OH US","       135","N","        82","N","        12","N","  47.8"," ,N,0404, ","   1081.5"," ,N"
+"US1OHCM0009","2016","38.930208","-84.14204","276.8","BETHEL 3.8 SW, OH US","","","","","","","","","   1056.2"," ,N"
+"US1OHCM0009","2017","38.930208","-84.14204","276.8","BETHEL 3.8 SW, OH US","","","","","","","","","   1264.1"," ,N"
+"US1OHCM0009","2020","38.930208","-84.14204","276.8","BETHEL 3.8 SW, OH US","       141","N","        94","N","        12","N","  68.1"," ,N,0903, ","   1253.4"," ,N"

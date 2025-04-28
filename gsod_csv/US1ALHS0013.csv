@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALHS0013","2021","31.095","-85.464","72.8","REHOBETH 2.1 SSW, AL US","       111","N","        89","N","        20","N"," 117.1"," ,N,0425, ","   1776.6"," ,N"
+"US1ALHS0013","2022","31.095","-85.464","72.8","REHOBETH 2.1 SSW, AL US","        98","N","        62","N","        15","N"," 135.6"," ,N,0319, ","   1089.7"," ,N"
+"US1ALHS0013","2024","31.095","-85.464","72.8","REHOBETH 2.1 SSW, AL US","        87","N","        66","N","        21","N"," 136.9"," ,N,0212, ","   1661.4"," ,N"

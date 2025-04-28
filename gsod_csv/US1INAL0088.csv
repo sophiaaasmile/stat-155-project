@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INAL0088","2021","40.971313","-84.86365","240.8","MONROEVILLE 0.2 ESE, IN US","       129","N","        82","N","         9","N"," 159.0"," ,N,0717, ","   1222.4"," ,N"
+"US1INAL0088","2022","40.971313","-84.86365","240.8","MONROEVILLE 0.2 ESE, IN US","       102","N","        64","N","         8","N","  93.5"," ,N,0706, ","    909.1"," ,N"
+"US1INAL0088","2023","40.971313","-84.86365","240.8","MONROEVILLE 0.2 ESE, IN US","       113","N","        68","N","         4","N","  50.5"," ,N,0323, ","    801.1"," ,N"
+"US1INAL0088","2024","40.971313","-84.86365","240.8","MONROEVILLE 0.2 ESE, IN US","       109","N","        81","N","         8","N","  38.4"," ,N,0803, ","    937.7"," ,N"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IDEL0003","2020","43.130673","-115.704048","958.9","MOUNTAIN HOME 0.9 SW, ID US","        85","N","        33","N","         0","N","  14.0"," ,N,0520, ","    226.6"," ,N"
+"US1IDEL0003","2021","43.130673","-115.704048","958.9","MOUNTAIN HOME 0.9 SW, ID US","        77","N","        30","N","         1","N","  39.1"," ,N,1025, ","    277.0"," ,N"
+"US1IDEL0003","2022","43.130673","-115.704048","958.9","MOUNTAIN HOME 0.9 SW, ID US","        68","N","        29","N","         0","N","  23.9"," ,N,1212, ","    262.8"," ,N"
+"US1IDEL0003","2023","43.130673","-115.704048","958.9","MOUNTAIN HOME 0.9 SW, ID US","        95","N","        31","N","         1","N","  33.5"," ,N,0804, ","    266.3"," ,N"
+"US1IDEL0003","2024","43.130673","-115.704048","958.9","MOUNTAIN HOME 0.9 SW, ID US","        81","N","        41","N","         0","N","  16.5"," ,N,0114, ","    280.8"," ,N"

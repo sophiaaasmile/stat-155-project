@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006150397","1972","43.9833","-79.4667","282.0","AURORA PAYMENT, ON CA","       150","C","        84","C","         3","C","        33","C","   201"," ,C,0203, ","  40.9"," ,C,0823, ","    779.4"," ,C","     2672"," ,C"
+"CA006150397","1973","43.9833","-79.4667","282.0","AURORA PAYMENT, ON CA","","","","","","","        18","C","   122"," ,C,1220, ","","","","","     1151"," ,C"
+"CA006150397","1974","43.9833","-79.4667","282.0","AURORA PAYMENT, ON CA","","","","","","","        20","C","   117"," ,C,0108, ","","","","","     1503"," ,C"

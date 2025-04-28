@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1LASB0002","2016","29.86914","-89.814","0.9","ST. BERNARD 2.7 E, LA US","","","","","","","","","   1975.6"," ,N"
+"US1LASB0002","2019","29.86914","-89.814","0.9","ST. BERNARD 2.7 E, LA US","","","","","","","","","   1889.6"," ,N"
+"US1LASB0002","2021","29.86914","-89.814","0.9","ST. BERNARD 2.7 E, LA US","","","","","","","","","   2358.1"," ,N"
+"US1LASB0002","2022","29.86914","-89.814","0.9","ST. BERNARD 2.7 E, LA US","       126","N","        85","N","        20","N","  58.9"," ,N,0811, ","   1382.4"," ,N"

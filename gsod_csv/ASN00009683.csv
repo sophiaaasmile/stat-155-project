@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009683","1907","-35.0333","117.9167","49.0","POINT KING, AS","       123","a","        94","a","         8","a","  33.0"," ,a,0809,+","   1092.5"," ,a"
+"ASN00009683","1908","-35.0333","117.9167","49.0","POINT KING, AS","       105","a","        76","a","         4","a","  30.5"," ,a,1206, ","    789.3"," ,a"
+"ASN00009683","1909","-35.0333","117.9167","49.0","POINT KING, AS","       103","a","        87","a","         2","a","  33.0"," ,a,0513, ","    977.3"," ,a"

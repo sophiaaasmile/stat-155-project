@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00030135","1914","-20.7833","142.5",,"BUNDORAN STATION, AS","        39","a","        32","a","         5","a","  54.9"," ,a,0226, ","    474.5"," ,a"
+"ASN00030135","1915","-20.7833","142.5",,"BUNDORAN STATION, AS","        22","a","        18","a","         7","a","  89.2"," ,a,1229, ","    390.8"," ,a"
+"ASN00030135","1916","-20.7833","142.5",,"BUNDORAN STATION, AS","        50","a","        38","a","         7","a","  52.8"," ,a,0126, ","    559.4"," ,a"
+"ASN00030135","1917","-20.7833","142.5",,"BUNDORAN STATION, AS","        39","a","        30","a","        10","a","  99.1"," ,a,0101, ","    826.1"," ,a"
+"ASN00030135","1918","-20.7833","142.5",,"BUNDORAN STATION, AS","        39","a","        29","a","        10","a","  99.6"," ,a,0110, ","    679.9"," ,a"

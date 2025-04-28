@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10chas034","2010","40.4309","-101.4868","930.9","WAUNETA 6.1 W, NE US","        67","N","        41","N","         6","N","  42.9"," ,N,0817, ","    563.1"," ,N"
+"US10chas034","2012","40.4309","-101.4868","930.9","WAUNETA 6.1 W, NE US","        51","N","        34","N","         1","N","  44.5"," ,N,0708, ","    300.6"," ,N"
+"US10chas034","2013","40.4309","-101.4868","930.9","WAUNETA 6.1 W, NE US","        66","N","        35","N","         1","N","  26.7"," ,N,0409, ","    337.2"," ,N"

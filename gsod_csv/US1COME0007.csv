@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COME0007","2009","39.2222","-108.7063","1427.1","FRUITA 4.5 NNE, CO US","        60","N","        31","N","         1","N","  25.4"," ,N,0603, ","    228.9"," ,N"
+"US1COME0007","2011","39.2222","-108.7063","1427.1","FRUITA 4.5 NNE, CO US","        72","N","        30","N","         0","N","  19.3"," ,N,0709, ","    257.4"," ,N"
+"US1COME0007","2017","39.2222","-108.7063","1427.1","FRUITA 4.5 NNE, CO US","        48","N","        22","N","         0","N","  13.0"," ,N,1003, ","    158.5"," ,N"

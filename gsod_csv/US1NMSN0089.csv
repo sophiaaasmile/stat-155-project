@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMSN0089","2020","35.695211","-106.755291","1800.8","JEMEZ PUEBLO 5.7 NNW, NM US","        52","N","        25","N","         0","N","  15.2"," ,N,0117, ","    184.9"," ,N"
+"US1NMSN0089","2021","35.695211","-106.755291","1800.8","JEMEZ PUEBLO 5.7 NNW, NM US","        72","N","        33","N","         0","N","  25.1"," ,N,1001, ","    230.0"," ,N"
+"US1NMSN0089","2022","35.695211","-106.755291","1800.8","JEMEZ PUEBLO 5.7 NNW, NM US","        85","N","        51","N","         2","N","  35.8"," ,N,0618, ","    490.0"," ,N"
+"US1NMSN0089","2023","35.695211","-106.755291","1800.8","JEMEZ PUEBLO 5.7 NNW, NM US","","","","","","","","","    236.4"," ,N"
+"US1NMSN0089","2024","35.695211","-106.755291","1800.8","JEMEZ PUEBLO 5.7 NNW, NM US","        73","N","        42","N","         1","N","  34.8"," ,N,0317, ","    386.3"," ,N"

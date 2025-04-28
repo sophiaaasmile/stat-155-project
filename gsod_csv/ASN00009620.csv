@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009620","1956","-34.3","115.95",,"WILLOW SPRINGS, AS","       135","a","        84","a","        12","a","  60.7"," ,a,0305, ","   1132.9"," ,a"
+"ASN00009620","1957","-34.3","115.95",,"WILLOW SPRINGS, AS","       164","a","        88","a","         8","a","  49.0"," ,a,0421, ","   1140.7"," ,a"
+"ASN00009620","1958","-34.3","115.95",,"WILLOW SPRINGS, AS","       145","a","        86","a","         9","a","  63.8"," ,a,0603, ","   1098.1"," ,a"
+"ASN00009620","1959","-34.3","115.95",,"WILLOW SPRINGS, AS","       162","a","        88","a","         6","a","  39.1"," ,a,0617, ","    969.9"," ,a"

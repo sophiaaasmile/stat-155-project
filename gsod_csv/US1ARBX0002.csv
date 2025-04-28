@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ARBX0002","2016","36.393","-92.302","230.1","MOUNTAIN HOME 5.8 NE, AR US","       130","N","        61","N","        11","N","  90.4"," ,N,0806, ","   1127.5"," ,N"
+"US1ARBX0002","2018","36.393","-92.302","230.1","MOUNTAIN HOME 5.8 NE, AR US","       126","N","        74","N","        13","N","  48.0"," ,N,0328, ","   1171.8"," ,N"
+"US1ARBX0002","2021","36.393","-92.302","230.1","MOUNTAIN HOME 5.8 NE, AR US","       143","N","        72","N","         7","N","  66.0"," ,N,0429, ","   1059.8"," ,N"

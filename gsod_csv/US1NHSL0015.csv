@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NHSL0015","2021","43.4697","-72.349","192.3","CORNISH 1.1 ENE, NH US","       142","N","        76","N","         7","N","  47.8"," ,N,0802, ","   1012.7"," ,N"
+"US1NHSL0015","2022","43.4697","-72.349","192.3","CORNISH 1.1 ENE, NH US","       142","N","        79","N","         7","N","  46.5"," ,N,1014, ","   1004.6"," ,N"
+"US1NHSL0015","2023","43.4697","-72.349","192.3","CORNISH 1.1 ENE, NH US","       151","N","        90","N","        10","N","  62.7"," ,N,0722, ","   1203.7"," ,N"
+"US1NHSL0015","2024","43.4697","-72.349","192.3","CORNISH 1.1 ENE, NH US","       130","N","        78","N","         7","N","  48.5"," ,N,0110, ","    896.8"," ,N"

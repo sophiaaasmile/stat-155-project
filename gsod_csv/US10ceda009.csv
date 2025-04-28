@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10ceda009","2008","42.5654","-97.1363","474.9","COLERIDGE 5.4 NE, NE US","        74","N","        45","N","         8","N","  64.8"," ,N,0529, ","    722.7"," ,N"
+"US10ceda009","2009","42.5654","-97.1363","474.9","COLERIDGE 5.4 NE, NE US","        90","N","        58","N","         4","N","  72.9"," ,N,0710, ","    611.8"," ,N"
+"US10ceda009","2018","42.5654","-97.1363","474.9","COLERIDGE 5.4 NE, NE US","        54","N","        45","N","        16","N"," 114.0"," ,N,0626, ","   1127.4"," ,N"
+"US10ceda009","2022","42.5654","-97.1363","474.9","COLERIDGE 5.4 NE, NE US","        39","N","        30","N","         4","N","  45.0"," ,N,0816, ","    370.6"," ,N"

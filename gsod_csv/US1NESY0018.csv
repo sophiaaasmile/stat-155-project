@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NESY0018","2022","41.153189","-96.055809","323.4","PAPILLION 0.8 WSW, NE US","        82","N","        44","N","         3","N","  43.9"," ,N,0615, ","    592.8"," ,N"
+"US1NESY0018","2023","41.153189","-96.055809","323.4","PAPILLION 0.8 WSW, NE US","       103","N","        44","N","         7","N","  52.3"," ,N,0415, ","    663.0"," ,N"
+"US1NESY0018","2024","41.153189","-96.055809","323.4","PAPILLION 0.8 WSW, NE US","        79","N","        51","N","         6","N"," 157.2"," ,N,0702, ","    844.8"," ,N"

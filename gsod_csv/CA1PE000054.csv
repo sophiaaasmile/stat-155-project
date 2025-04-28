@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA1PE000054","2020","46.693","-64.0188","4.6","FOXLEY RIVER 0.6 W MCPEI, PE CA","       147","N","        76","N","         7","N","","","","","  43.7"," ,N,0731, ","    846.5"," ,N","",""
+"CA1PE000054","2021","46.693","-64.0188","4.6","FOXLEY RIVER 0.6 W MCPEI, PE CA","       154","N","        86","N","         8","N","        15","N","   211"," ,N,0203, ","  86.1"," ,N,0903, ","   1130.1"," ,N","     1587"," ,N"
+"CA1PE000054","2022","46.693","-64.0188","4.6","FOXLEY RIVER 0.6 W MCPEI, PE CA","       156","N","       103","N","        10","N","        28","N","   259"," ,N,0205, ","  35.8"," ,N,0205, ","   1316.5"," ,N","     2861"," ,N"
+"CA1PE000054","2023","46.693","-64.0188","4.6","FOXLEY RIVER 0.6 W MCPEI, PE CA","       159","N","        86","N","        10","N","        23","N","   259"," ,N,0124, ","  51.3"," ,N,1119, ","   1104.6"," ,N","     1918"," ,N"
+"CA1PE000054","2024","46.693","-64.0188","4.6","FOXLEY RIVER 0.6 W MCPEI, PE CA","       146","N","        80","N","         9","N","        23","N","   239"," ,N,0308, ","  70.4"," ,N,0624, ","   1034.9"," ,N","     1620"," ,N"

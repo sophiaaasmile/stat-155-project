@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COLA0063","2020","37.326779","-104.128357","1632.8","MODEL 5.6 E, CO US","        38","N","        21","N","         2","N","  34.8"," ,N,0619, ","    209.9"," ,N"
+"US1COLA0063","2021","37.326779","-104.128357","1632.8","MODEL 5.6 E, CO US","        49","N","        39","N","         2","N","  74.2"," ,N,0801, ","    416.2"," ,N"
+"US1COLA0063","2022","37.326779","-104.128357","1632.8","MODEL 5.6 E, CO US","        55","N","        33","N","         2","N","  63.5"," ,N,0808, ","    358.1"," ,N"

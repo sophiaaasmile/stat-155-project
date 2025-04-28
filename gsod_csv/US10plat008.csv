@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10plat008","2007","41.5407","-97.6344","524.9","MONROE 4.9 NNW, NE US","        75","N","        65","N","        14","N","  92.7"," ,N,0325,+","   1159.5"," ,N"
+"US10plat008","2008","41.5407","-97.6344","524.9","MONROE 4.9 NNW, NE US","        75","N","        68","N","         9","N"," 136.7"," ,N,0530, ","   1081.5"," ,N"

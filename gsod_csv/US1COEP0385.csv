@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COEP0385","2018","38.85598","-104.8191","1855.3","COLORADO SPRINGS 1.5 N, CO US","        73","N","        37","N","         2","N","","","","","  35.6"," ,N,0724, ","    370.3"," ,N","",""
+"US1COEP0385","2020","38.85598","-104.8191","1855.3","COLORADO SPRINGS 1.5 N, CO US","        78","N","        36","N","         0","N","","","","","  22.9"," ,N,0705, ","    280.5"," ,N","",""
+"US1COEP0385","2021","38.85598","-104.8191","1855.3","COLORADO SPRINGS 1.5 N, CO US","        80","N","        33","N","         1","N","        11","N","   160"," ,N,0225, ","  42.9"," ,N,0801, ","    365.4"," ,N","      882"," ,N"
+"US1COEP0385","2022","38.85598","-104.8191","1855.3","COLORADO SPRINGS 1.5 N, CO US","        74","N","        28","N","         1","N","         8","N","   254"," ,N,0521, ","  30.5"," ,N,0521, ","    278.0"," ,N","      842"," ,N"
+"US1COEP0385","2024","38.85598","-104.8191","1855.3","COLORADO SPRINGS 1.5 N, CO US","","","","","","","","","","","","","    347.7"," ,N","",""

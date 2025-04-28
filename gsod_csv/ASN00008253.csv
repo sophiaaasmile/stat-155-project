@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00008253","1921","-29.75","115.8833",,"LAKE VIEW, AS","        71","a","        41","a","         0","a","  20.8"," ,a,0917, ","    389.3"," ,a"
+"ASN00008253","1922","-29.75","115.8833",,"LAKE VIEW, AS","        53","a","        27","a","         1","a","  25.7"," ,a,0416, ","    239.9"," ,a"
+"ASN00008253","1923","-29.75","115.8833",,"LAKE VIEW, AS","        74","a","        41","a","         1","a","  40.1"," ,a,0605, ","    418.1"," ,a"

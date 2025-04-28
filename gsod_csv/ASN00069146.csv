@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00069146","1997","-36.7535","149.7696","110.0","KANOONA BRINDABELLA, AS","","","","","","","","","    929.6"," ,a"
+"ASN00069146","1998","-36.7535","149.7696","110.0","KANOONA BRINDABELLA, AS","        64","a","        38","a","         5","a","  60.0"," ,a,0808, ","    624.8"," ,a"
+"ASN00069146","1999","-36.7535","149.7696","110.0","KANOONA BRINDABELLA, AS","        78","a","        48","a","         3","a","  68.4"," ,a,1025, ","    652.4"," ,a"
+"ASN00069146","2000","-36.7535","149.7696","110.0","KANOONA BRINDABELLA, AS","        66","a","        49","a","         6","a","  93.6"," ,a,0310, ","    630.2"," ,a"
+"ASN00069146","2002","-36.7535","149.7696","110.0","KANOONA BRINDABELLA, AS","        54","a","        35","a","         3","a","  45.6"," ,a,0205, ","    445.2"," ,a"

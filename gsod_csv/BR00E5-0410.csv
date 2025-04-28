@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00E5-0410","1969","-23.08","-48.63","780.0","ITATINGA E5 041, BR","        82","I","        73","I","        16","I","  56.0"," ,I,0302, ","   1264.9"," ,I"
+"BR00E5-0410","1971","-23.08","-48.63","780.0","ITATINGA E5 041, BR","        69","I","        66","I","        11","I","  44.7"," ,I,1008, ","    964.7"," ,I"
+"BR00E5-0410","1972","-23.08","-48.63","780.0","ITATINGA E5 041, BR","       100","I","        88","I","        20","I","  95.3"," ,I,0713, ","   1797.0"," ,I"

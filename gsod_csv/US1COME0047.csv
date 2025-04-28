@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COME0047","2005","39.0721","-108.6066","1414.0","GRAND JUNCTION 2.4 W, CO US","","","","","","","","","","","","","    285.2"," ,N","",""
+"US1COME0047","2006","39.0721","-108.6066","1414.0","GRAND JUNCTION 2.4 W, CO US","        78","N","        36","N","         0","N","         5","N","    76"," ,N,1129, ","  20.8"," ,N,1007, ","    249.0"," ,N","      316"," ,N"
+"US1COME0047","2009","39.0721","-108.6066","1414.0","GRAND JUNCTION 2.4 W, CO US","        61","N","        23","N","         0","N","","","","","  19.3"," ,N,1208, ","    195.8"," ,N","",""
+"US1COME0047","2010","39.0721","-108.6066","1414.0","GRAND JUNCTION 2.4 W, CO US","        76","N","        37","N","         1","N","","","","","  25.7"," ,N,0817, ","    310.3"," ,N","",""

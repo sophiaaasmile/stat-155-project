@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00014600","2000","-13.9521","133.9637","162.0","MAINORU OUTSTATION STORE, AS","","","","","","","","","   1368.8"," ,a"
+"ASN00014600","2014","-13.9521","133.9637","162.0","MAINORU OUTSTATION STORE, AS","        83","a","        55","a","         7","a","  86.7"," ,a,0304, ","    815.6"," ,a"
+"ASN00014600","2016","-13.9521","133.9637","162.0","MAINORU OUTSTATION STORE, AS","        75","a","        46","a","        14","a"," 168.2"," ,a,0919, ","   1062.3"," ,a"
+"ASN00014600","2022","-13.9521","133.9637","162.0","MAINORU OUTSTATION STORE, AS","        49","a","        36","a","         5","a","  62.0"," ,a,1129, ","    489.4"," ,a"

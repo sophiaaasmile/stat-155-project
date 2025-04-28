@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INLG0018","2022","41.59362","-85.243898","304.5","LAGRANGE 9.6 ESE, IN US","       137","N","        77","N","         6","N","  78.5"," ,N,0706, ","    966.2"," ,N"
+"US1INLG0018","2023","41.59362","-85.243898","304.5","LAGRANGE 9.6 ESE, IN US","       155","N","        86","N","         6","N","  66.8"," ,N,0223, ","    942.1"," ,N"
+"US1INLG0018","2024","41.59362","-85.243898","304.5","LAGRANGE 9.6 ESE, IN US","       154","N","        87","N","         4","N","  52.3"," ,N,0710, ","   1004.9"," ,N"

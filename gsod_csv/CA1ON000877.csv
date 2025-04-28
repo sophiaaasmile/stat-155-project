@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1ON000877","2022","42.982204","-80.596239","260.6","NORWICH 0.7 S, ON CA","       144","N","        73","N","         2","N","  41.1"," ,N,0913, ","    712.8"," ,N"
+"CA1ON000877","2023","42.982204","-80.596239","260.6","NORWICH 0.7 S, ON CA","       151","N","        84","N","         5","N","  56.6"," ,N,0401, ","    964.3"," ,N"
+"CA1ON000877","2024","42.982204","-80.596239","260.6","NORWICH 0.7 S, ON CA","       160","N","        79","N","         8","N","  40.9"," ,N,0717, ","    974.8"," ,N"

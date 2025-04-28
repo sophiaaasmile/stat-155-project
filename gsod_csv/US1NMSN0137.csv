@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMSN0137","2021","35.284515","-106.711075","1701.4","RIO RANCHO 3.0 WNW, NM US","        61","N","        21","N","         0","N","  17.3"," ,N,0715, ","    184.6"," ,N"
+"US1NMSN0137","2022","35.284515","-106.711075","1701.4","RIO RANCHO 3.0 WNW, NM US","        68","N","        30","N","         0","N","  16.3"," ,N,0618, ","    232.0"," ,N"
+"US1NMSN0137","2023","35.284515","-106.711075","1701.4","RIO RANCHO 3.0 WNW, NM US","        71","N","        18","N","         0","N","  10.4"," ,N,0317, ","    134.7"," ,N"

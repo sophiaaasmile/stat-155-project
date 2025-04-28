@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMBR0376","2022","35.149394","-106.358339","2141.5","CEDAR CREST 3.0 NNE, NM US","        89","N","        49","N","         5","N","  50.5"," ,N,0808, ","    624.8"," ,N"
+"US1NMBR0376","2023","35.149394","-106.358339","2141.5","CEDAR CREST 3.0 NNE, NM US","        83","N","        48","N","         3","N","  31.0"," ,N,0317, ","    447.9"," ,N"
+"US1NMBR0376","2024","35.149394","-106.358339","2141.5","CEDAR CREST 3.0 NNE, NM US","        84","N","        44","N","         0","N","  24.9"," ,N,1107, ","    426.0"," ,N"

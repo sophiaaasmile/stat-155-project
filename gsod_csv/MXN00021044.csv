@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00021044","1977","20.1667","-98.05","1536.8","HUAUCHINANGO CLFC, MX","       135","m","       105","m","        19","m","  82.3"," ,m,1011, ","   1660.8"," ,m"
+"MXN00021044","1980","20.1667","-98.05","1536.8","HUAUCHINANGO CLFC, MX","       144","m","       114","m","        22","m","  80.8"," ,m,0925, ","   1884.5"," ,m"
+"MXN00021044","1982","20.1667","-98.05","1536.8","HUAUCHINANGO CLFC, MX","       147","m","       102","m","         8","m"," 116.8"," ,m,0719, ","   1467.8"," ,m"

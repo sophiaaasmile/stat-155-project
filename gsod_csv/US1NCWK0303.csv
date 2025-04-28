@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCWK0303","2020","35.988055","-78.483333","114.9","WAKE FOREST 2.4 ENE, NC US","       127","N","        83","N","        19","N","  65.8"," ,N,0901, ","   1576.7"," ,N"
+"US1NCWK0303","2021","35.988055","-78.483333","114.9","WAKE FOREST 2.4 ENE, NC US","       125","N","        82","N","        12","N"," 104.1"," ,N,0709, ","   1183.5"," ,N"
+"US1NCWK0303","2022","35.988055","-78.483333","114.9","WAKE FOREST 2.4 ENE, NC US","       120","N","        81","N","        15","N","  78.2"," ,N,1001, ","   1381.9"," ,N"
+"US1NCWK0303","2023","35.988055","-78.483333","114.9","WAKE FOREST 2.4 ENE, NC US","       102","N","        64","N","        13","N","  87.1"," ,N,1211, ","   1187.4"," ,N"

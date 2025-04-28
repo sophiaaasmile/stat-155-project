@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NJHN0004","2010","40.605478","-74.922444","77.4","FRANKLIN TWP 2.8 NNE, NJ US","       124","N","        71","N","        16","N"," 122.4"," ,N,1001, ","   1286.9"," ,N"
+"US1NJHN0004","2011","40.605478","-74.922444","77.4","FRANKLIN TWP 2.8 NNE, NJ US","       163","N","       106","N","        20","N"," 184.9"," ,N,0828, ","   2023.6"," ,N"
+"US1NJHN0004","2012","40.605478","-74.922444","77.4","FRANKLIN TWP 2.8 NNE, NJ US","       158","N","        77","N","        11","N","  64.3"," ,N,0423, ","   1068.9"," ,N"
+"US1NJHN0004","2014","40.605478","-74.922444","77.4","FRANKLIN TWP 2.8 NNE, NJ US","       148","N","        90","N","        14","N","  88.4"," ,N,0501, ","   1253.7"," ,N"

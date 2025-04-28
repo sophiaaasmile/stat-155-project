@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004017816","1952","51.0833","-104.9833","548.0","STRASBOURG EXPERIMENTAL ST, SK CA","        57","C","        36","C","         3","C","         5","C","    51"," ,C,0117, ","  47.5"," ,C,0910, ","    369.4"," ,C","      303"," ,C"
+"CA004017816","1954","51.0833","-104.9833","548.0","STRASBOURG EXPERIMENTAL ST, SK CA","        76","C","        49","C","         6","C","         9","C","   127"," ,C,0123, ","  73.4"," ,C,0821, ","    563.2"," ,C","      617"," ,C"
+"CA004017816","1956","51.0833","-104.9833","548.0","STRASBOURG EXPERIMENTAL ST, SK CA","        70","C","        54","C","         1","C","        26","C","   152"," ,C,0502, ","  36.1"," ,C,0622, ","    425.7"," ,C","     1307"," ,C"
+"CA004017816","1957","51.0833","-104.9833","548.0","STRASBOURG EXPERIMENTAL ST, SK CA","        65","C","        43","C","         1","C","","","","","  30.5"," ,C,1222, ","    346.1"," ,C","",""

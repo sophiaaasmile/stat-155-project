@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000147018","1992","-1.65","-47.49","0.0","SANTA MARIA DO PARA, BR","       154","I","       128","I","        18","I","  83.2"," ,I,0223, ","   2026.2"," ,I"
+"BR000147018","1993","-1.65","-47.49","0.0","SANTA MARIA DO PARA, BR","       235","I","       189","I","        23","I","  71.5"," ,I,0316, ","   2499.0"," ,I"
+"BR000147018","1995","-1.65","-47.49","0.0","SANTA MARIA DO PARA, BR","       178","I","       147","I","        34","I","  90.3"," ,I,0212, ","   2748.3"," ,I"
+"BR000147018","1999","-1.65","-47.49","0.0","SANTA MARIA DO PARA, BR","       217","I","       195","I","        28","I","  65.0"," ,I,0303, ","   2867.0"," ,I"

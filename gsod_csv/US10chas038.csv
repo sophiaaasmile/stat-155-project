@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10chas038","2018","40.470453","-101.745998",,"CHAMPION 0.1 ENE, NE US","        82","N","        44","N","         6","N","  47.2"," ,N,0717, ","    565.2"," ,N"
+"US10chas038","2019","40.470453","-101.745998",,"CHAMPION 0.1 ENE, NE US","        92","N","        44","N","         4","N","  44.2"," ,N,0618, ","    526.3"," ,N"
+"US10chas038","2020","40.470453","-101.745998",,"CHAMPION 0.1 ENE, NE US","        59","N","        28","N","         1","N","  59.7"," ,N,0725, ","    284.8"," ,N"
+"US10chas038","2021","40.470453","-101.745998",,"CHAMPION 0.1 ENE, NE US","        53","N","        29","N","         3","N"," 114.3"," ,N,0820, ","    504.6"," ,N"
+"US10chas038","2022","40.470453","-101.745998",,"CHAMPION 0.1 ENE, NE US","        57","N","        27","N","         6","N","  50.0"," ,N,0729, ","    345.9"," ,N"

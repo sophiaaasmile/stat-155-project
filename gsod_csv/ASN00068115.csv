@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00068115","1963","-34.5667","150.6167","792.5","OCEAN VIEW ROBERTSON, AS","       140","a","       105","a","        24","a"," 159.8"," ,a,0429, ","   2443.0"," ,a"
+"ASN00068115","1964","-34.5667","150.6167","792.5","OCEAN VIEW ROBERTSON, AS","        83","a","        64","a","        12","a"," 158.2"," ,a,0420, ","   1367.4"," ,a"
+"ASN00068115","1965","-34.5667","150.6167","792.5","OCEAN VIEW ROBERTSON, AS","        86","a","        57","a","        10","a","  62.2"," ,a,1017, ","    803.3"," ,a"

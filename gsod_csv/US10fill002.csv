@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10fill002","2014","40.634","-97.5841","501.1","FAIRMONT 0.2 SSE, NE US","        73","N","        47","N","         9","N","         0","N","     0"," ,N,1231,+","  98.6"," ,N,0828, ","    832.2"," ,N","        0"," ,N"
+"US10fill002","2018","40.634","-97.5841","501.1","FAIRMONT 0.2 SSE, NE US","       118","N","        51","N","         9","N","","","","","  58.2"," ,N,0902, ","    780.6"," ,N","",""
+"US10fill002","2019","40.634","-97.5841","501.1","FAIRMONT 0.2 SSE, NE US","       130","N","        68","N","         9","N","","","","","  74.4"," ,N,0721, ","   1013.8"," ,N","",""
+"US10fill002","2020","40.634","-97.5841","501.1","FAIRMONT 0.2 SSE, NE US","        85","N","        47","N","         4","N","","","","","  71.6"," ,N,0523, ","    570.8"," ,N","",""
+"US10fill002","2022","40.634","-97.5841","501.1","FAIRMONT 0.2 SSE, NE US","        71","N","        38","N","         6","N","","","",""," 101.6"," ,N,0923, ","    658.9"," ,N","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSSG0123","2019","37.702683","-97.206687","423.7","WICHITA 7.5 E, KS US","       105","N","        69","N","        18","N","  85.1"," ,N,0521, ","   1270.8"," ,N"
+"US1KSSG0123","2020","37.702683","-97.206687","423.7","WICHITA 7.5 E, KS US","        88","N","        57","N","         6","N","  59.7"," ,N,0515, ","    779.0"," ,N"
+"US1KSSG0123","2021","37.702683","-97.206687","423.7","WICHITA 7.5 E, KS US","        87","N","        51","N","         9","N","  86.4"," ,N,0904, ","    963.0"," ,N"

@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"NOE00133674","2009","63.1253","7.7042","39.0","KRISTIANSUND KARIHOLA, NO","         0","E","         0","E","         0","E","   0.2"," ,E,1231, ","      0.2"," ,E"
+"NOE00133674","2010","63.1253","7.7042","39.0","KRISTIANSUND KARIHOLA, NO","       169","E","       109","E","         5","E","  50.8"," ,E,0318, ","   1030.3"," ,E"
+"NOE00133674","2011","63.1253","7.7042","39.0","KRISTIANSUND KARIHOLA, NO","       227","E","       139","E","         2","E","  37.6"," ,E,1010, ","   1161.6"," ,E"
+"NOE00133674","2014","63.1253","7.7042","39.0","KRISTIANSUND KARIHOLA, NO","       153","E","        92","E","         4","E","  43.8"," ,E,1026, ","    904.1"," ,E"
+"NOE00133674","2015","63.1253","7.7042","39.0","KRISTIANSUND KARIHOLA, NO","       240","E","       138","E","         2","E","  40.0"," ,E,1127, ","   1235.1"," ,E"
+"NOE00133674","2016","63.1253","7.7042","39.0","KRISTIANSUND KARIHOLA, NO","       210","E","       124","E","         3","E","  34.7"," ,E,1210, ","   1160.2"," ,E"

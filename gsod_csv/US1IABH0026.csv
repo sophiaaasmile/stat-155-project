@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IABH0026","2021","42.5049515","-92.2199326","280.4","WATERLOO 6.7 E, IA US","        73","N","        51","N","         6","N","  53.3"," ,N,0124, ","    775.0"," ,N"
+"US1IABH0026","2022","42.5049515","-92.2199326","280.4","WATERLOO 6.7 E, IA US","        77","N","        58","N","        12","N"," 123.2"," ,N,0625, ","   1062.4"," ,N"
+"US1IABH0026","2023","42.5049515","-92.2199326","280.4","WATERLOO 6.7 E, IA US","        61","N","        43","N","         4","N"," 127.0"," ,N,0128, ","    618.2"," ,N"

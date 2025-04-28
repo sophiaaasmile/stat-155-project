@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CARV0003","2022","33.8212","-116.3978","77.4","THOUSAND PALMS 0.7 W, CA US","        11","N","         2","N","         0","N","         0","N","     0"," ,N,1231,+","  16.5"," ,N,0910, ","     33.3"," ,N","        0"," ,N"
+"US1CARV0003","2023","33.8212","-116.3978","77.4","THOUSAND PALMS 0.7 W, CA US","        21","N","        13","N","         2","N","         0","N","     0"," ,N,1231,+","  85.3"," ,N,0820, ","    205.8"," ,N","        0"," ,N"
+"US1CARV0003","2024","33.8212","-116.3978","77.4","THOUSAND PALMS 0.7 W, CA US","        16","N","         4","N","         0","N","","","","","  22.9"," ,N,0123, ","     50.5"," ,N","",""

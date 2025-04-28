@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INHN0040","2021","39.948967","-85.869023","260.9","FORTVILLE 1.5 NW, IN US","       140","N","        87","N","        10","N","  68.1"," ,N,1025, ","   1153.3"," ,N"
+"US1INHN0040","2022","39.948967","-85.869023","260.9","FORTVILLE 1.5 NW, IN US","       119","N","        76","N","         8","N","  54.6"," ,N,0307, ","    982.2"," ,N"
+"US1INHN0040","2023","39.948967","-85.869023","260.9","FORTVILLE 1.5 NW, IN US","       132","N","        83","N","        10","N","  52.1"," ,N,0810, ","    989.5"," ,N"
+"US1INHN0040","2024","39.948967","-85.869023","260.9","FORTVILLE 1.5 NW, IN US","       130","N","        81","N","        10","N","  69.9"," ,N,0802, ","   1102.8"," ,N"

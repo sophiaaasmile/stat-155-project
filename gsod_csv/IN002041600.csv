@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN002041600","1966","27.58","94.83","1572.0","ZERO OBSERVATORY SR, IN","       145","I","       103","I","         8","I","  49.8"," ,I,0610, ","   1125.7"," ,I"
+"IN002041600","1967","27.58","94.83","1572.0","ZERO OBSERVATORY SR, IN","       140","I","       109","I","         8","I","  52.8"," ,I,0603, ","   1306.7"," ,I"
+"IN002041600","1968","27.58","94.83","1572.0","ZERO OBSERVATORY SR, IN","       169","I","       124","I","        13","I","  99.2"," ,I,0619, ","   1560.0"," ,I"
+"IN002041600","1970","27.58","94.83","1572.0","ZERO OBSERVATORY SR, IN","       141","I","       106","I","         7","I","  49.0"," ,I,1024, ","   1237.8"," ,I"

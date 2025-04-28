@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001455006","1983","-14.92","-55.82","0.0","FAZENDA SAO JOSE DOS CAMPOS E1, BR","       124","I","        90","I","        20","I","  79.4"," ,I,1201, ","   1479.4"," ,I"
+"BR001455006","1987","-14.92","-55.82","0.0","FAZENDA SAO JOSE DOS CAMPOS E1, BR","       109","I","        81","I","         8","I","  76.0"," ,I,1221, ","   1125.1"," ,I"
+"BR001455006","1988","-14.92","-55.82","0.0","FAZENDA SAO JOSE DOS CAMPOS E1, BR","       105","I","        84","I","        27","I"," 112.0"," ,I,1026, ","   1846.3"," ,I"
+"BR001455006","1989","-14.92","-55.82","0.0","FAZENDA SAO JOSE DOS CAMPOS E1, BR","       131","I","       102","I","        25","I"," 115.8"," ,I,0411, ","   1887.5"," ,I"
+"BR001455006","1990","-14.92","-55.82","0.0","FAZENDA SAO JOSE DOS CAMPOS E1, BR","       113","I","        78","I","        15","I"," 114.8"," ,I,0924, ","   1355.3"," ,I"

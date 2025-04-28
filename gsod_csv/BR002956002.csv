@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002956002","1952","-29.77","-56.03","100.0","ESTANCIA POSTO VELHO, BR","        76","I","        63","I","        18","I"," 120.9"," ,I,0330, ","   1244.0"," ,I"
+"BR002956002","1953","-29.77","-56.03","100.0","ESTANCIA POSTO VELHO, BR","        62","I","        49","I","        16","I","  77.1"," ,I,0930, ","   1126.3"," ,I"
+"BR002956002","1954","-29.77","-56.03","100.0","ESTANCIA POSTO VELHO, BR","        78","I","        63","I","        22","I","  90.0"," ,I,0603, ","   1471.8"," ,I"
+"BR002956002","1955","-29.77","-56.03","100.0","ESTANCIA POSTO VELHO, BR","        65","I","        55","I","        16","I","  71.3"," ,I,0414, ","    985.9"," ,I"
+"BR002956002","1958","-29.77","-56.03","100.0","ESTANCIA POSTO VELHO, BR","        57","I","        55","I","        14","I"," 138.3"," ,I,0215, ","   1394.7"," ,I"

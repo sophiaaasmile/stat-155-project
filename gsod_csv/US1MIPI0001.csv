@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MIPI0001","2018","45.4174","-83.8106","183.5","ROGERS CITY 0.2 WSW, MI US","       147","N","        65","N","         2","N","  80.8"," ,N,1004, ","    721.9"," ,N"
+"US1MIPI0001","2020","45.4174","-83.8106","183.5","ROGERS CITY 0.2 WSW, MI US","       151","N","        76","N","         6","N","  67.6"," ,N,1023, ","    904.9"," ,N"
+"US1MIPI0001","2022","45.4174","-83.8106","183.5","ROGERS CITY 0.2 WSW, MI US","       148","N","        73","N","         5","N","  42.9"," ,N,0423, ","    795.0"," ,N"
+"US1MIPI0001","2023","45.4174","-83.8106","183.5","ROGERS CITY 0.2 WSW, MI US","       144","N","        65","N","         5","N","  32.8"," ,N,0401, ","    753.7"," ,N"

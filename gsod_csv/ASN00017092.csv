@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00017092","1884","-31.3333","138.2333",,"WINTABATINGANA, AS","        25","a","        17","a","         0","a","  22.9"," ,a,1115, ","    143.8"," ,a"
+"ASN00017092","1885","-31.3333","138.2333",,"WINTABATINGANA, AS","        27","a","        14","a","         1","a","  34.3"," ,a,0327, ","    162.3"," ,a"
+"ASN00017092","1886","-31.3333","138.2333",,"WINTABATINGANA, AS","        31","a","        12","a","         1","a","  30.7"," ,a,0819, ","    167.9"," ,a"
+"ASN00017092","1887","-31.3333","138.2333",,"WINTABATINGANA, AS","        29","a","        20","a","         1","a","  30.5"," ,a,0331, ","    226.0"," ,a"
+"ASN00017092","1888","-31.3333","138.2333",,"WINTABATINGANA, AS","         8","a","         6","a","         0","a","   8.1"," ,a,0503, ","     43.2"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1Dodg4129","2020","41.43601498","-96.49041807",,"FREMONT 0.36 S, NE US","        73","N","        48","N","         3","N","  63.2"," ,N,0909, ","    591.0"," ,N"
+"US1Dodg4129","2021","41.43601498","-96.49041807",,"FREMONT 0.36 S, NE US","        85","N","        51","N","        11","N","  90.7"," ,N,0831, ","    893.7"," ,N"
+"US1Dodg4129","2022","41.43601498","-96.49041807",,"FREMONT 0.36 S, NE US","        87","N","        40","N","         2","N","  33.5"," ,N,0503, ","    423.3"," ,N"

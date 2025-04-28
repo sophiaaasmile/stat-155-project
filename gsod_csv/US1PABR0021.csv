@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1PABR0021","2019","40.46515","-75.668171","305.4","ALBURTIS 4.7 SW, PA US","","","","","","","","","   1749.5"," ,N"
+"US1PABR0021","2020","40.46515","-75.668171","305.4","ALBURTIS 4.7 SW, PA US","       139","N","        82","N","        13","N"," 159.5"," ,N,0805, ","   1477.3"," ,N"
+"US1PABR0021","2023","40.46515","-75.668171","305.4","ALBURTIS 4.7 SW, PA US","       131","N","        79","N","        12","N","  85.9"," ,N,1218, ","   1308.5"," ,N"
+"US1PABR0021","2024","40.46515","-75.668171","305.4","ALBURTIS 4.7 SW, PA US","       129","N","        76","N","        15","N","  77.5"," ,N,0110, ","   1284.4"," ,N"

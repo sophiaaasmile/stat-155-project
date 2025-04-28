@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN019090900","1975","24.92","75.58","351.0","CHAMBAL OBSERVATORY SR, IN","        64","I","        53","I","        20","I"," 112.8"," ,I,0819, ","   1457.1"," ,I"
+"IN019090900","1977","24.92","75.58","351.0","CHAMBAL OBSERVATORY SR, IN","        68","I","        57","I","        22","I"," 172.7"," ,I,0808, ","   1888.9"," ,I"
+"IN019090900","1979","24.92","75.58","351.0","CHAMBAL OBSERVATORY SR, IN","        55","I","        44","I","        18","I"," 218.4"," ,I,1119, ","   2176.1"," ,I"
+"IN019090900","1982","24.92","75.58","351.0","CHAMBAL OBSERVATORY SR, IN","        57","I","        47","I","        20","I"," 330.2"," ,I,0725, ","   2142.5"," ,I"

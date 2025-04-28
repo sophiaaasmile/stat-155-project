@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00E3-1050","1962","-23.52","-46.17","760.0","MOGI DAS CRUZES BOMBA RECALQUE, BR","       120","I","        73","I","        11","I"," 121.2"," ,I,1230, ","   1164.2"," ,I"
+"BR00E3-1050","1963","-23.52","-46.17","760.0","MOGI DAS CRUZES BOMBA RECALQUE, BR","        89","I","        59","I","        21","I"," 225.0"," ,I,0221, ","   2118.4"," ,I"
+"BR00E3-1050","1965","-23.52","-46.17","760.0","MOGI DAS CRUZES BOMBA RECALQUE, BR","       137","I","        95","I","        12","I","  68.0"," ,I,0420, ","   1245.5"," ,I"
+"BR00E3-1050","1966","-23.52","-46.17","760.0","MOGI DAS CRUZES BOMBA RECALQUE, BR","       126","I","        80","I","        12","I","  67.2"," ,I,1224, ","   1150.0"," ,I"
+"BR00E3-1050","1967","-23.52","-46.17","760.0","MOGI DAS CRUZES BOMBA RECALQUE, BR","       115","I","        84","I","         6","I","  48.3"," ,I,0310, ","   1055.9"," ,I"
+"BR00E3-1050","1968","-23.52","-46.17","760.0","MOGI DAS CRUZES BOMBA RECALQUE, BR","       102","I","        64","I","         7","I","  38.4"," ,I,0516,+","    934.6"," ,I"
+"BR00E3-1050","1970","-23.52","-46.17","760.0","MOGI DAS CRUZES BOMBA RECALQUE, BR","       120","I","        96","I","        18","I","  65.8"," ,I,0117, ","   1561.9"," ,I"

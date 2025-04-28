@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010258","1969","-30.7833","117.9833","305.0","ABERVON, AS","        29","a","        13","a","         0","a","  17.0"," ,a,0614, ","    125.7"," ,a"
+"ASN00010258","1970","-30.7833","117.9833","305.0","ABERVON, AS","        66","a","        25","a","         1","a","  58.4"," ,a,0217, ","    255.0"," ,a"
+"ASN00010258","1972","-30.7833","117.9833","305.0","ABERVON, AS","        67","a","        26","a","         0","a","  25.1"," ,a,0727, ","    233.8"," ,a"

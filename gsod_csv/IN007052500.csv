@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN007052500","1965","31.83","77.17","1067.0","BHUNTAR AERO OBSERVATORY, IN","       100","I","        59","I","        10","I","  44.9"," ,I,0120, ","    860.4"," ,I"
+"IN007052500","1966","31.83","77.17","1067.0","BHUNTAR AERO OBSERVATORY, IN","       106","I","        71","I","         6","I","  53.9"," ,I,0731, ","    834.0"," ,I"
+"IN007052500","1967","31.83","77.17","1067.0","BHUNTAR AERO OBSERVATORY, IN","       111","I","        71","I","         9","I","  53.0"," ,I,0826, ","    952.9"," ,I"
+"IN007052500","1968","31.83","77.17","1067.0","BHUNTAR AERO OBSERVATORY, IN","        95","I","        59","I","         8","I","  78.8"," ,I,1226, ","    909.0"," ,I"
+"IN007052500","1969","31.83","77.17","1067.0","BHUNTAR AERO OBSERVATORY, IN","        88","I","        58","I","         4","I"," 106.0"," ,I,0803, ","    840.9"," ,I"
+"IN007052500","1970","31.83","77.17","1067.0","BHUNTAR AERO OBSERVATORY, IN","        84","I","        58","I","         8","I","  44.0"," ,I,0817, ","    692.8"," ,I"

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10lanc066","2013","40.693378","-96.489251",,"BENNET 1.3 NE, NE US","        79","N","        54","N","         8","N","         0","N","     0","T,N,1122, ","  59.4"," ,N,0530, ","    788.3"," ,N","        0","T,N"
+"US10lanc066","2015","40.693378","-96.489251",,"BENNET 1.3 NE, NE US","       105","N","        67","N","        13","N","         0","N","     0"," ,N,1231,+","  86.4"," ,N,0507, ","   1084.7"," ,N","        0"," ,N"

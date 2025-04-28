@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MDAA0035","2022","39.2082","-76.6586","53.0","LINTHICUM 0.4 ENE, MD US","       130","N","        79","N","        14","N","  53.8"," ,N,0507, ","   1224.3"," ,N"
+"US1MDAA0035","2023","39.2082","-76.6586","53.0","LINTHICUM 0.4 ENE, MD US","       118","N","        68","N","        11","N","  67.8"," ,N,1218, ","   1066.8"," ,N"
+"US1MDAA0035","2024","39.2082","-76.6586","53.0","LINTHICUM 0.4 ENE, MD US","       126","N","        80","N","        11","N","  72.9"," ,N,0110, ","   1080.6"," ,N"

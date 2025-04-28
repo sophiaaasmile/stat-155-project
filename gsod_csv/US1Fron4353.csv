@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1Fron4353","2022","40.36582237","-100.21251501",,"CAMBRIDGE 6.15 NNW, NE US","        61","N","        39","N","         1","N","  30.0"," ,N,0502, ","    394.4"," ,N"
+"US1Fron4353","2023","40.36582237","-100.21251501",,"CAMBRIDGE 6.15 NNW, NE US","        82","N","        45","N","         4","N","  38.1"," ,N,0803,+","    516.7"," ,N"
+"US1Fron4353","2024","40.36582237","-100.21251501",,"CAMBRIDGE 6.15 NNW, NE US","        70","N","        43","N","         6","N","  47.0"," ,N,0426, ","    604.6"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ORCY0004","2010","42.7393","-124.3987166","73.5","PORT ORFORD 5.0 E, OR US","       188","N","       150","N","        59","N"," 124.5"," ,N,0101, ","   3942.2"," ,N"
+"US1ORCY0004","2011","42.7393","-124.3987166","73.5","PORT ORFORD 5.0 E, OR US","       173","N","       123","N","        42","N"," 154.9"," ,N,1230, ","   3038.4"," ,N"
+"US1ORCY0004","2012","42.7393","-124.3987166","73.5","PORT ORFORD 5.0 E, OR US","       182","N","       145","N","        51","N"," 239.5"," ,N,0119, ","   4158.4"," ,N"
+"US1ORCY0004","2014","42.7393","-124.3987166","73.5","PORT ORFORD 5.0 E, OR US","       161","N","       114","N","        44","N"," 152.9"," ,N,1221, ","   3304.5"," ,N"

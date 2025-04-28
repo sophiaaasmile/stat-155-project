@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00039209","1973","-24.25","151.5","57.0","BOROREN POST OFFICE, AS","        40","a","        39","a","        24","a"," 310.4"," ,a,1218, ","   1801.2"," ,a"
+"ASN00039209","1974","-24.25","151.5","57.0","BOROREN POST OFFICE, AS","        25","a","        22","a","         9","a"," 104.6"," ,a,0126, ","    810.5"," ,a"
+"ASN00039209","1975","-24.25","151.5","57.0","BOROREN POST OFFICE, AS","        31","a","        29","a","        11","a","  55.8"," ,a,0419, ","    615.2"," ,a"
+"ASN00039209","1977","-24.25","151.5","57.0","BOROREN POST OFFICE, AS","        12","a","        11","a","         6","a"," 165.0"," ,a,0305, ","    482.4"," ,a"

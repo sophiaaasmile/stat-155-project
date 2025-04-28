@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA005011762","1980","49.45","-100.05","477.0","MINTO, MB CA","        94","C","        43","C","         3","C","        16","C","   200"," ,C,1016, ","  63.0"," ,C,0803, ","    510.8"," ,C","     1296"," ,C"
+"CA005011762","1983","49.45","-100.05","477.0","MINTO, MB CA","        88","C","        37","C","         3","C","         9","C","    80"," ,C,0306, ","  42.0"," ,C,0715, ","    405.0"," ,C","      630"," ,C"
+"CA005011762","1984","49.45","-100.05","477.0","MINTO, MB CA","       102","C","        53","C","         2","C","        18","C","   200"," ,C,1125, ","  39.2"," ,C,1015, ","    518.4"," ,C","     1637"," ,C"

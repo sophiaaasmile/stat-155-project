@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"PEM00084425","1977","-5.894","-76.118","178.9","MOISES BENZAQUEN RENGIFO, PE","       138","S","       127","S","        25","S","         0","S","         0","S","   18.0","S,0820,+","  80.0"," ,S,0816,+","   2116.2"," ,S","     22.47","S"
+"PEM00084425","1978","-5.894","-76.118","178.9","MOISES BENZAQUEN RENGIFO, PE","       146","S","       127","S","        29","S","","","","","",""," 300.0"," ,S,0601, ","   2759.9"," ,S","",""
+"PEM00084425","1980","-5.894","-76.118","178.9","MOISES BENZAQUEN RENGIFO, PE","       102","S","        91","S","        27","S","","","","","",""," 130.0"," ,S,0304, ","   2075.8"," ,S","",""
+"PEM00084425","1996","-5.894","-76.118","178.9","MOISES BENZAQUEN RENGIFO, PE","       135","S","       124","S","        21","S","","","","","","","  83.1"," ,S,0319,+","   2091.6"," ,S","",""
+"PEM00084425","1997","-5.894","-76.118","178.9","MOISES BENZAQUEN RENGIFO, PE","       147","S","       135","S","        27","S","         0","S","         0","S","   15.8","S,0327, "," 360.9"," ,S,0502, ","   2360.1"," ,S","     21.67","S"

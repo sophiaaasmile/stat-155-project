@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MSHR0022","2011","30.659225","-89.129681","59.1","SAUCIER 1.7 NNE, MS US","       114","N","        61","N","        16","N"," 132.6"," ,N,0904, ","   1292.7"," ,N"
+"US1MSHR0022","2021","30.659225","-89.129681","59.1","SAUCIER 1.7 NNE, MS US","","","","","","","","","   2736.0"," ,N"
+"US1MSHR0022","2022","30.659225","-89.129681","59.1","SAUCIER 1.7 NNE, MS US","       162","N","        88","N","        30","N"," 106.4"," ,N,0706, ","   1975.9"," ,N"
+"US1MSHR0022","2024","30.659225","-89.129681","59.1","SAUCIER 1.7 NNE, MS US","       131","N","        79","N","        18","N"," 131.1"," ,N,0514, ","   1896.8"," ,N"

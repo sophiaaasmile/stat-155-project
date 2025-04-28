@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKCN0032","2020","35.6205","-97.7647","361.2","PIEDMONT 3.8 S, OK US","        87","N","        49","N","        11","N"," 137.7"," ,N,0728, ","    927.9"," ,N"
+"US1OKCN0032","2022","35.6205","-97.7647","361.2","PIEDMONT 3.8 S, OK US","        81","N","        46","N","         8","N"," 122.4"," ,N,0524, ","    762.6"," ,N"
+"US1OKCN0032","2023","35.6205","-97.7647","361.2","PIEDMONT 3.8 S, OK US","        92","N","        59","N","        11","N","  67.1"," ,N,0709, ","    944.2"," ,N"
+"US1OKCN0032","2024","35.6205","-97.7647","361.2","PIEDMONT 3.8 S, OK US","        76","N","        48","N","         8","N"," 142.0"," ,N,1103, ","    802.0"," ,N"

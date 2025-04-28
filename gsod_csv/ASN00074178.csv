@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00074178","1914","-35.6833","144.35","80.8","CALWELL THULE, AS","        39","a","        19","a","         0","a","  19.1"," ,a,0513, ","    150.0"," ,a"
+"ASN00074178","1916","-35.6833","144.35","80.8","CALWELL THULE, AS","       102","a","        53","a","         2","a","  37.6"," ,a,0924, ","    499.3"," ,a"
+"ASN00074178","1917","-35.6833","144.35","80.8","CALWELL THULE, AS","        98","a","        58","a","         2","a","  29.2"," ,a,1021, ","    569.0"," ,a"
+"ASN00074178","1918","-35.6833","144.35","80.8","CALWELL THULE, AS","        77","a","        46","a","         4","a","  39.1"," ,a,0516, ","    435.6"," ,a"

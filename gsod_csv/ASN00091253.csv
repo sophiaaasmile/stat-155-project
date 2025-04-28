@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00091253","1991","-41.075","147.1844","110.0","PIPERS BROOK PIPERS BROOK ROA, AS","        85","a","        74","a","         5","a","  56.8"," ,a,0629, ","    843.8"," ,a"
+"ASN00091253","1992","-41.075","147.1844","110.0","PIPERS BROOK PIPERS BROOK ROA, AS","        92","a","        81","a","        14","a","  72.2"," ,a,1009, ","   1163.0"," ,a"
+"ASN00091253","1993","-41.075","147.1844","110.0","PIPERS BROOK PIPERS BROOK ROA, AS","        59","a","        51","a","         6","a","  50.8"," ,a,1223, ","    810.0"," ,a"

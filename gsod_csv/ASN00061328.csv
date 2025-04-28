@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00061328","1973","-32.4333","151.55","91.0","GRESFORD EAST DURHAM RD, AS","        98","a","        72","a","         8","a","  95.5"," ,a,0210, ","    898.3"," ,a"
+"ASN00061328","1974","-32.4333","151.55","91.0","GRESFORD EAST DURHAM RD, AS","        80","a","        58","a","        12","a","  51.0"," ,a,0604, ","    923.0"," ,a"
+"ASN00061328","1975","-32.4333","151.55","91.0","GRESFORD EAST DURHAM RD, AS","        75","a","        62","a","        10","a","  67.2"," ,a,0223, ","    945.9"," ,a"

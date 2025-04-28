@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"IDM00096837","2009","-6.967","110.417","3.0","SEMARANG, ID","         0","S","       344","S","       189","S","   36.6","S,0913, ","     32.29","S"
+"IDM00096837","2010","-6.967","110.417","3.0","SEMARANG, ID","         0","S","       338","S","       138","S","   34.8","S,0622, ","     31.81","S"
+"IDM00096837","2019","-6.967","110.417","3.0","SEMARANG, ID","         0","S","       331","S","       275","S","   37.8","S,1023, ","     33.51","S"

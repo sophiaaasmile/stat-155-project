@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00031202","1996","-17.3975","145.3667","980.0","HERBERTON FLETCHER, AS","       129","a","        70","a","        10","a","  93.0"," ,a,1121, ","   1116.4"," ,a"
+"ASN00031202","1997","-17.3975","145.3667","980.0","HERBERTON FLETCHER, AS","       137","a","        73","a","        11","a"," 204.0"," ,a,0323, ","   1259.2"," ,a"
+"ASN00031202","1998","-17.3975","145.3667","980.0","HERBERTON FLETCHER, AS","       144","a","        70","a","        11","a","  68.0"," ,a,1222, ","   1070.5"," ,a"
+"ASN00031202","1999","-17.3975","145.3667","980.0","HERBERTON FLETCHER, AS","       137","a","        76","a","        19","a"," 244.0"," ,a,0212, ","   1673.0"," ,a"

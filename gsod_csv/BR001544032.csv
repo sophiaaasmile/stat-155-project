@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001544032","1994","-15.48","-44.77","0.0","USINA DO PANDEIROS, BR","        56","I","        50","I","         7","I","  64.9"," ,I,0305, ","    747.0"," ,I"
+"BR001544032","1999","-15.48","-44.77","0.0","USINA DO PANDEIROS, BR","        53","I","        49","I","        12","I","  57.8"," ,I,1224, ","    853.8"," ,I"
+"BR001544032","2000","-15.48","-44.77","0.0","USINA DO PANDEIROS, BR","        56","I","        51","I","        15","I","  74.7"," ,I,1106, ","    987.6"," ,I"

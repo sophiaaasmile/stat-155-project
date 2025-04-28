@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSSN0032","2018","39.171668","-95.607809","298.1","TOPEKA 10.3 NNE, KS US","        99","N","        51","N","         4","N","  57.2"," ,N,1009, ","    715.2"," ,N"
+"US1KSSN0032","2019","39.171668","-95.607809","298.1","TOPEKA 10.3 NNE, KS US","       112","N","        80","N","        15","N","  96.5"," ,N,0801, ","   1332.0"," ,N"
+"US1KSSN0032","2020","39.171668","-95.607809","298.1","TOPEKA 10.3 NNE, KS US","        92","N","        65","N","         9","N","  38.4"," ,N,0627, ","    821.5"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXM00076695","2011","19.817","-90.5","10.4","INGENIERO ALBERTO ACUNA ONGAY, MX","        78","S","        49","S","         7","S"," 155.4"," ,S,1013, ","    846.9"," ,S"
+"MXM00076695","2013","19.817","-90.5","10.4","INGENIERO ALBERTO ACUNA ONGAY, MX","       105","S","        76","S","        20","S","  76.7"," ,S,0810, ","   1460.7"," ,S"
+"MXM00076695","2014","19.817","-90.5","10.4","INGENIERO ALBERTO ACUNA ONGAY, MX","        80","S","        51","S","         8","S","  64.0"," ,S,0604, ","    800.9"," ,S"
+"MXM00076695","2016","19.817","-90.5","10.4","INGENIERO ALBERTO ACUNA ONGAY, MX","       108","S","        61","S","        14","S","  99.1"," ,S,0122, ","   1204.2"," ,S"

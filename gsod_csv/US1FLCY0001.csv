@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLCY0001","2016","30.0785","-81.6956","3.0","FLEMING ISLAND 1.7 SE, FL US","       114","N","        69","N","        11","N"," 142.5"," ,N,1008, ","   1252.4"," ,N"
+"US1FLCY0001","2017","30.0785","-81.6956","3.0","FLEMING ISLAND 1.7 SE, FL US","       101","N","        71","N","        15","N"," 264.2"," ,N,0911, ","   1623.5"," ,N"
+"US1FLCY0001","2018","30.0785","-81.6956","3.0","FLEMING ISLAND 1.7 SE, FL US","       138","N","        96","N","        18","N","  60.5"," ,N,1215, ","   1502.8"," ,N"
+"US1FLCY0001","2019","30.0785","-81.6956","3.0","FLEMING ISLAND 1.7 SE, FL US","","","","","","","","","   1182.8"," ,N"
+"US1FLCY0001","2021","30.0785","-81.6956","3.0","FLEMING ISLAND 1.7 SE, FL US","       100","N","        74","N","        12","N","  81.0"," ,N,0207, ","   1450.1"," ,N"
+"US1FLCY0001","2022","30.0785","-81.6956","3.0","FLEMING ISLAND 1.7 SE, FL US","","","","","","","","","   1024.7"," ,N"

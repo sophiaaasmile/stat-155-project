@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00021062","1971","20.2333","-97.85","351.7","PATLA CLFC, MX","       146","m","       116","m","        48","m"," 159.8"," ,m,0923, ","   3633.2"," ,m"
+"MXN00021062","1977","20.2333","-97.85","351.7","PATLA CLFC, MX","       129","m","        92","m","        25","m"," 135.9"," ,m,1028, ","   2097.8"," ,m"
+"MXN00021062","1980","20.2333","-97.85","351.7","PATLA CLFC, MX","       123","m","       100","m","        33","m"," 104.9"," ,m,0925, ","   2302.4"," ,m"

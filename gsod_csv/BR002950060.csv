@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002950060","1992","-29.82","-50.51","0.0","SANTO ANTONIO DA PATRULHA, BR","       125","I","        95","I","        15","I","  51.3"," ,I,0925, ","   1307.1"," ,I"
+"BR002950060","1993","-29.82","-50.51","0.0","SANTO ANTONIO DA PATRULHA, BR","       131","I","       101","I","        12","I","  74.5"," ,I,0221, ","   1480.1"," ,I"
+"BR002950060","1995","-29.82","-50.51","0.0","SANTO ANTONIO DA PATRULHA, BR","        98","I","        79","I","        22","I","  76.8"," ,I,0717, ","   1578.6"," ,I"
+"BR002950060","1997","-29.82","-50.51","0.0","SANTO ANTONIO DA PATRULHA, BR","       139","I","        98","I","        20","I","  80.8"," ,I,1225, ","   1649.1"," ,I"
+"BR002950060","1998","-29.82","-50.51","0.0","SANTO ANTONIO DA PATRULHA, BR","       134","I","        97","I","        13","I","  61.3"," ,I,0815, ","   1420.0"," ,I"
+"BR002950060","1999","-29.82","-50.51","0.0","SANTO ANTONIO DA PATRULHA, BR","       110","I","        81","I","        15","I"," 100.3"," ,I,1105, ","   1388.2"," ,I"

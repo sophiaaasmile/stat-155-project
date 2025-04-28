@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00057076","1965","-29.7667","152.2167","426.7","GLEN INNES ABBY GREEN, AS","        76","a","        50","a","         7","a","  63.5"," ,a,0721, ","    688.3"," ,a"
+"ASN00057076","1966","-29.7667","152.2167","426.7","GLEN INNES ABBY GREEN, AS","        79","a","        60","a","         4","a","  75.2"," ,a,1108, ","    699.6"," ,a"
+"ASN00057076","1967","-29.7667","152.2167","426.7","GLEN INNES ABBY GREEN, AS","       100","a","        76","a","        11","a"," 139.4"," ,a,0613, ","   1198.0"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR008460002","1985","4.37","-60.45","0.0","SAO JOAO DO COTINGO, BR","       106","I","        87","I","        16","I","  77.0"," ,I,0912, ","   1497.4"," ,I"
+"BR008460002","1986","4.37","-60.45","0.0","SAO JOAO DO COTINGO, BR","        84","I","        70","I","        14","I","  70.2"," ,I,0513, ","   1080.3"," ,I"
+"BR008460002","1989","4.37","-60.45","0.0","SAO JOAO DO COTINGO, BR","        54","I","        15","I","         0","I","   6.3"," ,I,0727,+","    105.8"," ,I"
+"BR008460002","1992","4.37","-60.45","0.0","SAO JOAO DO COTINGO, BR","        97","I","        84","I","         0","I","  22.1"," ,I,0730,+","    616.8"," ,I"

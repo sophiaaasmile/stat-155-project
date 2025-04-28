@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCBC0161","2021","35.688195","-82.565183","642.8","WEAVERVILLE 0.7 SW, NC US","       141","N","        72","N","         5","N","  77.2"," ,N,0818, ","    983.4"," ,N"
+"US1NCBC0161","2022","35.688195","-82.565183","642.8","WEAVERVILLE 0.7 SW, NC US","       151","N","        75","N","         7","N","  49.8"," ,N,0527, ","    981.3"," ,N"
+"US1NCBC0161","2023","35.688195","-82.565183","642.8","WEAVERVILLE 0.7 SW, NC US","       143","N","        74","N","         7","N","  52.1"," ,N,0528, ","    943.8"," ,N"
+"US1NCBC0161","2024","35.688195","-82.565183","642.8","WEAVERVILLE 0.7 SW, NC US","       153","N","        86","N","        13","N"," 165.9"," ,N,0926, ","   1365.9"," ,N"

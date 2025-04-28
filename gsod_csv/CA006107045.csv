@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006107045","1957","44.55","-76.2333","101.0","RIDEAU CANAL JONES FALLS, ON CA","        80","C","        63","C","         0","C","         6","C","    76"," ,C,0123, ","  24.9"," ,C,0911, ","    663.3"," ,C","      457"," ,C"
+"CA006107045","1967","44.55","-76.2333","101.0","RIDEAU CANAL JONES FALLS, ON CA","        86","C","        77","C","         5","C","        20","C","   102"," ,C,1114,+","  66.8"," ,C,1019, ","    727.6"," ,C","     1041"," ,C"

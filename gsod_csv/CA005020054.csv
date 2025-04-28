@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA005020054","1985","49.05","-97.5667","250.0","ALTONA SOUTH, MB CA","        88","C","        45","C","         6","C","        10","C","   180"," ,C,1118, ","  43.8"," ,C,0624, ","    605.2"," ,C","     1113"," ,C"
+"CA005020054","1986","49.05","-97.5667","250.0","ALTONA SOUTH, MB CA","        82","C","        44","C","         1","C","         9","C","    70"," ,C,0123,+","  32.6"," ,C,0710, ","    400.0"," ,C","      575"," ,C"
+"CA005020054","1988","49.05","-97.5667","250.0","ALTONA SOUTH, MB CA","        55","C","        22","C","         0","C","         9","C","   211"," ,C,1114, ","  23.5"," ,C,0813, ","    251.7"," ,C","      922"," ,C"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IABT0016","2021","42.050912","-91.870088","259.4","SHELLSBURG 2.9 S, IA US","        98","N","        50","N","         7","N","  54.6"," ,N,0825, ","    715.0"," ,N"
+"US1IABT0016","2022","42.050912","-91.870088","259.4","SHELLSBURG 2.9 S, IA US","       104","N","        58","N","         8","N","  71.1"," ,N,1105, ","    759.1"," ,N"
+"US1IABT0016","2023","42.050912","-91.870088","259.4","SHELLSBURG 2.9 S, IA US","        96","N","        53","N","         4","N","  52.1"," ,N,1014, ","    612.3"," ,N"
+"US1IABT0016","2024","42.050912","-91.870088","259.4","SHELLSBURG 2.9 S, IA US","       115","N","        70","N","         9","N","  69.9"," ,N,1031, ","    993.0"," ,N"

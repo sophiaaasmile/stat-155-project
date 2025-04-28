@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CORT0022","2009","40.70784","-106.929039","2201.0","CLARK 0.7 NW, CO US","       107","N","        73","N","         1","N","  27.9"," ,N,0417, ","    658.6"," ,N"
+"US1CORT0022","2010","40.70784","-106.929039","2201.0","CLARK 0.7 NW, CO US","        99","N","        70","N","         6","N","  38.1"," ,N,1022,+","    882.8"," ,N"
+"US1CORT0022","2012","40.70784","-106.929039","2201.0","CLARK 0.7 NW, CO US","        88","N","        54","N","         0","N","  24.6"," ,N,0716, ","    432.3"," ,N"

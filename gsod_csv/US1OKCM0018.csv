@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKCM0018","2020","36.530626","-101.783234","1047.6","TEXHOMA 1.8 N, OK US","        62","N","        36","N","         3","N","  43.2"," ,N,0706, ","    376.2"," ,N"
+"US1OKCM0018","2022","36.530626","-101.783234","1047.6","TEXHOMA 1.8 N, OK US","        33","N","        20","N","         2","N","  38.6"," ,N,0729, ","    257.6"," ,N"
+"US1OKCM0018","2023","36.530626","-101.783234","1047.6","TEXHOMA 1.8 N, OK US","        70","N","        40","N","         4","N","  41.4"," ,N,0721, ","    499.2"," ,N"

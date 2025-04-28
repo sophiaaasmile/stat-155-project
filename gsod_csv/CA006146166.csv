@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006146166","1962","43.1","-80.6833","297.0","OXFORD CENTRE, ON CA","       125","C","        81","C","         9","C","        20","C","   142"," ,C,0223, ","  54.9"," ,C,0611, ","    979.7"," ,C","     1524"," ,C"
+"CA006146166","1963","43.1","-80.6833","297.0","OXFORD CENTRE, ON CA","       111","C","        69","C","         2","C","        18","C","    84"," ,C,1101, ","  34.3"," ,C,0628, ","    594.4"," ,C","      944"," ,C"
+"CA006146166","1964","43.1","-80.6833","297.0","OXFORD CENTRE, ON CA","       123","C","        75","C","         7","C","        10","C","   102"," ,C,1120, ","  64.5"," ,C,0802, ","    897.7"," ,C","      718"," ,C"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00066149","1908","-33.8667","151.1833","15.2","GLEBE POINT SYD. WATER SUPPLY, AS","       132","a","        73","a","        11","a"," 141.7"," ,a,0728, ","   1138.3"," ,a"
+"ASN00066149","1909","-33.8667","151.1833","15.2","GLEBE POINT SYD. WATER SUPPLY, AS","       113","a","        62","a","         6","a","  43.9"," ,a,1223, ","    801.5"," ,a"
+"ASN00066149","1910","-33.8667","151.1833","15.2","GLEBE POINT SYD. WATER SUPPLY, AS","       125","a","        64","a","        13","a"," 118.6"," ,a,1213, ","   1207.5"," ,a"
+"ASN00066149","1911","-33.8667","151.1833","15.2","GLEBE POINT SYD. WATER SUPPLY, AS","       124","a","        75","a","        15","a"," 186.7"," ,a,0113, ","   1254.0"," ,a"
+"ASN00066149","1913","-33.8667","151.1833","15.2","GLEBE POINT SYD. WATER SUPPLY, AS","       107","a","        65","a","        15","a"," 191.5"," ,a,0309, ","   1440.9"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009863","1968","-33.7167","116.7333",,"BROOKWOOD, AS","       130","a","        67","a","         3","a","  35.3"," ,a,0910, ","    557.6"," ,a"
+"ASN00009863","1969","-33.7167","116.7333",,"BROOKWOOD, AS","        78","a","        39","a","         3","a","  30.2"," ,a,1103, ","    408.6"," ,a"
+"ASN00009863","1970","-33.7167","116.7333",,"BROOKWOOD, AS","       112","a","        59","a","         1","a","  38.1"," ,a,0207, ","    497.5"," ,a"

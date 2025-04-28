@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00C5-0710","1942","-21.22","-48.58","610.0","TABARANA EFMA, BR","        70","I","        51","I","         9","I","  84.1"," ,I,0405, ","    893.3"," ,I"
+"BR00C5-0710","1945","-21.22","-48.58","610.0","TABARANA EFMA, BR","        91","I","        48","I","        12","I","  60.5"," ,I,0222, ","    982.3"," ,I"
+"BR00C5-0710","1951","-21.22","-48.58","610.0","TABARANA EFMA, BR","        60","I","        50","I","         9","I","  50.0"," ,I,0122,+","    839.9"," ,I"
+"BR00C5-0710","1952","-21.22","-48.58","610.0","TABARANA EFMA, BR","        64","I","        49","I","         3","I","  50.5"," ,I,1201, ","    686.5"," ,I"

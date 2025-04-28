@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00070170","1963","-34.7167","150.0167",,"MEDWAY MARULAN 575, AS","       190","a","        80","a","         8","a","  82.6"," ,a,0429, ","   1057.4"," ,a"
+"ASN00070170","1964","-34.7167","150.0167",,"MEDWAY MARULAN 575, AS","       148","a","        49","a","         9","a","  57.2"," ,a,0307, ","    751.1"," ,a"
+"ASN00070170","1965","-34.7167","150.0167",,"MEDWAY MARULAN 575, AS","       125","a","        38","a","         4","a","  47.2"," ,a,1017, ","    461.0"," ,a"
+"ASN00070170","1966","-34.7167","150.0167",,"MEDWAY MARULAN 575, AS","       152","a","        63","a","         4","a","  43.9"," ,a,1109, ","    663.2"," ,a"

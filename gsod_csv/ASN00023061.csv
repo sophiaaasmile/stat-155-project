@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00023061","1963","-34.75","138.6833","121.9","SALISBURY HILLBANKS, AS","        86","a","        57","a","         3","a","  38.1"," ,a,0113, ","    631.3"," ,a"
+"ASN00023061","1964","-34.75","138.6833","121.9","SALISBURY HILLBANKS, AS","       100","a","        63","a","         2","a","  47.0"," ,a,1118, ","    542.5"," ,a"
+"ASN00023061","1965","-34.75","138.6833","121.9","SALISBURY HILLBANKS, AS","        80","a","        38","a","         0","a","  20.6"," ,a,1110, ","    333.6"," ,a"

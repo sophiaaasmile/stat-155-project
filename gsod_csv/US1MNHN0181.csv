@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MNHN0181","2018","44.96708","-93.26222","258.5","MINNEAPOLIS 0.4 NE, MN US","       110","N","        67","N","         8","N","","","","","","","","","  75.2"," ,N,0921, ","    844.7"," ,N","",""
+"US1MNHN0181","2019","44.96708","-93.26222","258.5","MINNEAPOLIS 0.4 NE, MN US","       136","N","        84","N","        11","N","","","","","","","","","  66.5"," ,N,0818, ","   1196.3"," ,N","",""
+"US1MNHN0181","2020","44.96708","-93.26222","258.5","MINNEAPOLIS 0.4 NE, MN US","       112","N","        56","N","         7","N","       89","","        13","N","   330"," ,N,0218, ","   152"," ,N,1224, ","  49.8"," ,N,0517, ","    663.6"," ,N","     1016"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000749002","1985","-7.1","-49.96","0.0","XINGUARA, BR","       204","I","       197","I","        21","I","  49.2"," ,I,0424,+","   2561.7"," ,I"
+"BR000749002","1986","-7.1","-49.96","0.0","XINGUARA, BR","       140","I","       133","I","        22","I","  46.0"," ,I,1120,+","   2152.3"," ,I"
+"BR000749002","1987","-7.1","-49.96","0.0","XINGUARA, BR","        73","I","        69","I","        11","I","  90.0"," ,I,0226, ","   1179.2"," ,I"

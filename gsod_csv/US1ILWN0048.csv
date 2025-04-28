@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILWN0048","2021","42.320038","-89.092808","231.6","ROCKFORD 3.8 NNW, IL US","       113","N","        53","N","         4","N","  73.4"," ,N,0810, ","    712.0"," ,N"
+"US1ILWN0048","2022","42.320038","-89.092808","231.6","ROCKFORD 3.8 NNW, IL US","       129","N","        71","N","        13","N","  73.2"," ,N,0808, ","   1115.1"," ,N"
+"US1ILWN0048","2023","42.320038","-89.092808","231.6","ROCKFORD 3.8 NNW, IL US","       128","N","        70","N","         8","N","  59.9"," ,N,0729, ","    913.1"," ,N"
+"US1ILWN0048","2024","42.320038","-89.092808","231.6","ROCKFORD 3.8 NNW, IL US","       132","N","        80","N","         8","N"," 123.7"," ,N,0714, ","   1078.6"," ,N"

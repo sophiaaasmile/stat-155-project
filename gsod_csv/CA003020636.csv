@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003020636","1984","51.0167","-111.0333","732.0","BERRY CREEK, AB CA","        96","C","        42","C","         1","C","        13","C","    52"," ,C,0313, ","  37.4"," ,C,0729, ","    339.7"," ,C","      800"," ,C"
+"CA003020636","1986","51.0167","-111.0333","732.0","BERRY CREEK, AB CA","        89","C","        32","C","         2","C","         5","C","    84"," ,C,0215, ","  65.8"," ,C,0925, ","    367.0"," ,C","      395"," ,C"
+"CA003020636","1989","51.0167","-111.0333","732.0","BERRY CREEK, AB CA","","","","","","","        11","C","   152"," ,C,1214, ","","","","","      782"," ,C"

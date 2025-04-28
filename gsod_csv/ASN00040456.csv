@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040456","1972","-26.05","152.05",,"TANSEY POST OFFICE, AS","        70","a","        51","a","         7","a"," 109.5"," ,a,0403, ","    760.9"," ,a"
+"ASN00040456","1973","-26.05","152.05",,"TANSEY POST OFFICE, AS","        74","a","        52","a","         8","a","  49.0"," ,a,0706, ","    717.9"," ,a"
+"ASN00040456","1974","-26.05","152.05",,"TANSEY POST OFFICE, AS","        75","a","        61","a","        12","a","  64.6"," ,a,0127, ","    954.2"," ,a"

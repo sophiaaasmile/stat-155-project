@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CAMT0022","2011","36.5218","-121.81","40.5","CARMEL VALLEY VILLAGE 5.4 WNW, CA US","        81","N","        36","N","         4","N","  44.5"," ,N,0320, ","    483.6"," ,N"
+"US1CAMT0022","2012","36.5218","-121.81","40.5","CARMEL VALLEY VILLAGE 5.4 WNW, CA US","        82","N","        39","N","         4","N","  32.5"," ,N,0325, ","    434.1"," ,N"
+"US1CAMT0022","2013","36.5218","-121.81","40.5","CARMEL VALLEY VILLAGE 5.4 WNW, CA US","        40","N","        15","N","         0","N","  22.9"," ,N,0106, ","    140.5"," ,N"

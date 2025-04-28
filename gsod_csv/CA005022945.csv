@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA005022945","1980","49.0833","-99.9333","579.0","TURTLE MOUNTAIN 10, MB CA","        79","C","        61","C","         5","C","        19","C","   150"," ,C,1016, ","  72.0"," ,C,0820, ","    658.1"," ,C","     1267"," ,C"
+"CA005022945","1981","49.0833","-99.9333","579.0","TURTLE MOUNTAIN 10, MB CA","        62","C","        47","C","         3","C","        14","C","   152"," ,C,0125, ","  27.4"," ,C,0804, ","    429.0"," ,C","      948"," ,C"
+"CA005022945","1983","49.0833","-99.9333","579.0","TURTLE MOUNTAIN 10, MB CA","        56","C","        31","C","         3","C","         9","C","    80"," ,C,0306, ","  34.8"," ,C,0914, ","    348.3"," ,C","      610"," ,C"

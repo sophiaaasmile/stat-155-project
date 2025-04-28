@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002553001","1983","-25.55","-53.77","185.0","ESTREITO DO IGUACU, BR","       113","I","        99","I","        37","I"," 141.0"," ,I,1022, ","   2684.4"," ,I"
+"BR002553001","1985","-25.55","-53.77","185.0","ESTREITO DO IGUACU, BR","        79","I","        70","I","        11","I","  86.8"," ,I,0213, ","   1126.9"," ,I"
+"BR002553001","1986","-25.55","-53.77","185.0","ESTREITO DO IGUACU, BR","       111","I","        98","I","        26","I","  68.5"," ,I,0104, ","   1915.2"," ,I"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ORCK0013","2022","44.160472","-121.056865","984.5","POWELL BUTTE 6.4 SSW, OR US","        81","N","        23","N","         0","N","  16.5"," ,N,1212, ","    191.6"," ,N"
+"US1ORCK0013","2023","44.160472","-121.056865","984.5","POWELL BUTTE 6.4 SSW, OR US","        81","N","        21","N","         2","N","  39.9"," ,N,0822, ","    244.0"," ,N"
+"US1ORCK0013","2024","44.160472","-121.056865","984.5","POWELL BUTTE 6.4 SSW, OR US","        82","N","        27","N","         0","N","  16.3"," ,N,1229, ","    200.5"," ,N"

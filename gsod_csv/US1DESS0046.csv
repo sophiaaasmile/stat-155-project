@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1DESS0046","2020","38.645","-75.6261","8.5","SEAFORD 0.6 WSW, DE US","       152","N","        87","N","        16","N","  79.8"," ,N,0930, ","   1485.6"," ,N"
+"US1DESS0046","2022","38.645","-75.6261","8.5","SEAFORD 0.6 WSW, DE US","       120","N","        79","N","        15","N","  66.0"," ,N,0722, ","   1123.2"," ,N"
+"US1DESS0046","2024","38.645","-75.6261","8.5","SEAFORD 0.6 WSW, DE US","       109","N","        65","N","        12","N","  89.9"," ,N,0808, ","   1014.5"," ,N"

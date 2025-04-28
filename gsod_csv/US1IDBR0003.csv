@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IDBR0003","2011","48.23575","-116.5447","682.8","SAGLE 1.8 NNE, ID US","","","","","","","","","    712.8"," ,N"
+"US1IDBR0003","2013","48.23575","-116.5447","682.8","SAGLE 1.8 NNE, ID US","       121","N","        65","N","         3","N","  36.3"," ,N,0522, ","    694.3"," ,N"
+"US1IDBR0003","2018","48.23575","-116.5447","682.8","SAGLE 1.8 NNE, ID US","","","","","","","","","    721.2"," ,N"
+"US1IDBR0003","2020","48.23575","-116.5447","682.8","SAGLE 1.8 NNE, ID US","","","","","","","","","    771.8"," ,N"

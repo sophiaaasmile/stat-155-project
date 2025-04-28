@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00026072","1971","-37.3","140.0667","11.0","BEACHPORT BRAEMOOR, AS","       191","a","        99","a","         5","a","  38.9"," ,a,1104, ","    958.6"," ,a"
+"ASN00026072","1972","-37.3","140.0667","11.0","BEACHPORT BRAEMOOR, AS","       145","a","        66","a","         1","a","  26.4"," ,a,0112, ","    603.7"," ,a"
+"ASN00026072","1973","-37.3","140.0667","11.0","BEACHPORT BRAEMOOR, AS","       167","a","        89","a","         2","a","  59.7"," ,a,0318, ","    830.3"," ,a"
+"ASN00026072","1974","-37.3","140.0667","11.0","BEACHPORT BRAEMOOR, AS","       160","a","        90","a","         3","a","  45.0"," ,a,0201, ","    849.0"," ,a"
+"ASN00026072","1975","-37.3","140.0667","11.0","BEACHPORT BRAEMOOR, AS","       174","a","        97","a","         2","a","  42.0"," ,a,0628, ","    839.7"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006105980","1971","45.4333","-75.7","56.0","OTTAWA CITY HALL, ON CA","       122","C","        82","C","         5","C","        41","C","   297"," ,C,0208, ","  70.6"," ,C,0705, ","    882.8"," ,C","     3360"," ,C"
+"CA006105980","1973","45.4333","-75.7","56.0","OTTAWA CITY HALL, ON CA","       135","C","        91","C","         8","C","        19","C","   193"," ,C,1220, ","  74.2"," ,C,0808, ","    974.5"," ,C","     1645"," ,C"
+"CA006105980","1974","45.4333","-75.7","56.0","OTTAWA CITY HALL, ON CA","","","","","","","        22","C","   356"," ,C,1216, ","","","","","     1832"," ,C"

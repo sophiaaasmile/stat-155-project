@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00029172","2014","-19.9064","139.107","351.7","LADY ANNIE COPPER MINE, AS","        48","a","        25","a","         6","a","  60.0"," ,a,1130, ","    476.7"," ,a"
+"ASN00029172","2015","-19.9064","139.107","351.7","LADY ANNIE COPPER MINE, AS","        47","a","        29","a","         7","a","  70.3"," ,a,0107, ","    582.8"," ,a"
+"ASN00029172","2016","-19.9064","139.107","351.7","LADY ANNIE COPPER MINE, AS","        58","a","        32","a","         4","a","  61.0"," ,a,0131, ","    456.0"," ,a"
+"ASN00029172","2017","-19.9064","139.107","351.7","LADY ANNIE COPPER MINE, AS","        37","a","        25","a","         7","a","  98.3"," ,a,0116, ","    504.4"," ,a"

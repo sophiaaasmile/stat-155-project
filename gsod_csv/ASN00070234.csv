@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00070234","1971","-35.2667","149.3333","783.0","BUNGENDORE OLD KOWEN, AS","       101","a","        63","a","         2","a","  26.4"," ,a,0211, ","    601.8"," ,a"
+"ASN00070234","1972","-35.2667","149.3333","783.0","BUNGENDORE OLD KOWEN, AS","        87","a","        50","a","         4","a","  31.5"," ,a,0511, ","    524.2"," ,a"
+"ASN00070234","1973","-35.2667","149.3333","783.0","BUNGENDORE OLD KOWEN, AS","       116","a","        66","a","         7","a","  38.1"," ,a,0207, ","    877.3"," ,a"
+"ASN00070234","1974","-35.2667","149.3333","783.0","BUNGENDORE OLD KOWEN, AS","       115","a","        76","a","        11","a","  65.0"," ,a,0111, ","   1038.1"," ,a"

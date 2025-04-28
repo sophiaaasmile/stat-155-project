@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN019092700","1975","24.88","74.63","404.0","CHITTORGARH OBSERVATORY, IN","        76","I","        67","I","        32","I"," 222.0"," ,I,0913, ","   3167.3"," ,I"
+"IN019092700","1977","24.88","74.63","404.0","CHITTORGARH OBSERVATORY, IN","        71","I","        53","I","        23","I"," 259.1"," ,I,0802, ","   2068.4"," ,I"
+"IN019092700","1978","24.88","74.63","404.0","CHITTORGARH OBSERVATORY, IN","        58","I","        44","I","        20","I"," 203.2"," ,I,0817, ","   1912.0"," ,I"
+"IN019092700","1981","24.88","74.63","404.0","CHITTORGARH OBSERVATORY, IN","        55","I","        46","I","        15","I"," 181.1"," ,I,0924, ","   1208.1"," ,I"
+"IN019092700","1983","24.88","74.63","404.0","CHITTORGARH OBSERVATORY, IN","        59","I","        55","I","        23","I"," 306.3"," ,I,0821, ","   2036.5"," ,I"

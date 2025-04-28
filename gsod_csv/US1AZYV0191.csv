@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZYV0191","2021","34.565453","-112.450648","1685.5","PRESCOTT 1.8 NNE, AZ US","        69","N","        43","N","         3","N","  54.6"," ,N,0811, ","    523.4"," ,N"
+"US1AZYV0191","2022","34.565453","-112.450648","1685.5","PRESCOTT 1.8 NNE, AZ US","        70","N","        43","N","         2","N","  26.2"," ,N,0731,+","    523.6"," ,N"
+"US1AZYV0191","2023","34.565453","-112.450648","1685.5","PRESCOTT 1.8 NNE, AZ US","        67","N","        32","N","         3","N","  32.0"," ,N,0102, ","    393.0"," ,N"

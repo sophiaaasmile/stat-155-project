@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001105661","1961","49.35","-123.0333","152.0","N VANCOUVER LYNN VALLEY, BC CA","       185","C","       149","C","        42","C","         7","C","    64"," ,C,1217, "," 109.5"," ,C,0110, ","   2976.5"," ,C","      322"," ,C"
+"CA001105661","1962","49.35","-123.0333","152.0","N VANCOUVER LYNN VALLEY, BC CA","       194","C","       157","C","        20","C","        10","C","   203"," ,C,0301, ","  98.8"," ,C,0102, ","   2389.5"," ,C","      900"," ,C"
+"CA001105661","1963","49.35","-123.0333","152.0","N VANCOUVER LYNN VALLEY, BC CA","       170","C","       131","C","        25","C","         1","C","    38"," ,C,0131, "," 101.9"," ,C,1222, ","   2193.2"," ,C","       71"," ,C"
+"CA001105661","1964","49.35","-123.0333","152.0","N VANCOUVER LYNN VALLEY, BC CA","       207","C","       166","C","        28","C","        16","C","   254"," ,C,1231, ","  90.2"," ,C,1129, ","   2632.3"," ,C","     1607"," ,C"

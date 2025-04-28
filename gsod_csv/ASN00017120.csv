@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00017120","1991","-30.2369","139.0003","415.0","GAMMON RANGES MOUNT PAINTER, AS","        20","a","        12","a","         0","a","  21.0"," ,a,0607, ","    105.3"," ,a"
+"ASN00017120","1992","-30.2369","139.0003","415.0","GAMMON RANGES MOUNT PAINTER, AS","        26","a","        19","a","         3","a","  30.0"," ,a,0511, ","    315.6"," ,a"
+"ASN00017120","1994","-30.2369","139.0003","415.0","GAMMON RANGES MOUNT PAINTER, AS","         5","a","         4","a","         1","a","  32.5"," ,a,0609, ","    132.5"," ,a"
+"ASN00017120","1995","-30.2369","139.0003","415.0","GAMMON RANGES MOUNT PAINTER, AS","        18","a","        14","a","         1","a"," 161.5"," ,a,0116, ","    376.7"," ,a"
+"ASN00017120","1996","-30.2369","139.0003","415.0","GAMMON RANGES MOUNT PAINTER, AS","        14","a","        12","a","         3","a","  65.0"," ,a,0316, ","    207.9"," ,a"
+"ASN00017120","2000","-30.2369","139.0003","415.0","GAMMON RANGES MOUNT PAINTER, AS","        21","a","        12","a","         1","a","  75.0"," ,a,0212, ","    263.2"," ,a"
+"ASN00017120","2001","-30.2369","139.0003","415.0","GAMMON RANGES MOUNT PAINTER, AS","        13","a","         8","a","         1","a","  29.8"," ,a,0127, ","    168.3"," ,a"

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"FGM00081408","2011","3.883","-51.8","7.0","SAINT GEORGES, FG","       223","S","       170","S","        39","S","         0","S","         0","S","   19.6","S,1205, "," 110.0"," ,S,0505, ","   3290.6"," ,S","     22.35","S"
+"FGM00081408","2013","3.883","-51.8","7.0","SAINT GEORGES, FG","       281","S","       171","S","        34","S","         0","S","         0","S","   20.0","S,1121, ","  87.9"," ,S,0224, ","   3068.8"," ,S","     22.59","S"

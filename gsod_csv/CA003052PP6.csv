@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA003052PP6","2003","51.3","-115.1333","1600.0","GHOST DIVERSION, AB CA","       119","C","        49","C","         2","C","  55.1"," ,C,0425, ","    522.8"," ,C"
+"CA003052PP6","2004","51.3","-115.1333","1600.0","GHOST DIVERSION, AB CA","       198","C","        65","C","         3","C","  35.4"," ,C,0806, ","    700.9"," ,C"
+"CA003052PP6","2005","51.3","-115.1333","1600.0","GHOST DIVERSION, AB CA","       236","C","        61","C","         7","C","  70.6"," ,C,0617, ","    849.3"," ,C"

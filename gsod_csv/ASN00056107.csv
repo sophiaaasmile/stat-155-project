@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056107","1959","-29.7833","151.1833","609.6","INVERELL LAURISTON, AS","        76","a","        62","a","        10","a","  58.4"," ,a,1208, ","    919.6"," ,a"
+"ASN00056107","1960","-29.7833","151.1833","609.6","INVERELL LAURISTON, AS","        54","a","        39","a","         5","a","  35.3"," ,a,0802, ","    523.7"," ,a"
+"ASN00056107","1964","-29.7833","151.1833","609.6","INVERELL LAURISTON, AS","        55","a","        47","a","        11","a","  44.5"," ,a,0307, ","    681.4"," ,a"
+"ASN00056107","1966","-29.7833","151.1833","609.6","INVERELL LAURISTON, AS","        52","a","        46","a","         9","a","  63.8"," ,a,1108, ","    697.9"," ,a"

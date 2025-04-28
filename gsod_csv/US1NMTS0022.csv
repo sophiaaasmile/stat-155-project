@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMTS0022","2013","36.7389","-105.5743","2430.2","QUESTA 2.2 NNE, NM US","        82","N","        40","N","         1","N","  30.2"," ,N,0914, ","    404.0"," ,N"
+"US1NMTS0022","2014","36.7389","-105.5743","2430.2","QUESTA 2.2 NNE, NM US","        77","N","        37","N","         0","N","  21.6"," ,N,0827,+","    309.4"," ,N"
+"US1NMTS0022","2016","36.7389","-105.5743","2430.2","QUESTA 2.2 NNE, NM US","        90","N","        43","N","         0","N","  18.8"," ,N,1223, ","    402.6"," ,N"

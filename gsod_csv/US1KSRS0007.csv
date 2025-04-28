@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSRS0007","2009","38.8648166","-98.553688","520.3","DORRANCE 2.3 ENE, KS US","        98","N","        55","N","         7","N","  41.7"," ,N,0826, ","    656.4"," ,N"
+"US1KSRS0007","2010","38.8648166","-98.553688","520.3","DORRANCE 2.3 ENE, KS US","        75","N","        41","N","         6","N","  65.3"," ,N,0705, ","    662.7"," ,N"
+"US1KSRS0007","2011","38.8648166","-98.553688","520.3","DORRANCE 2.3 ENE, KS US","        54","N","        38","N","         5","N","  83.8"," ,N,0525, ","    575.0"," ,N"
+"US1KSRS0007","2012","38.8648166","-98.553688","520.3","DORRANCE 2.3 ENE, KS US","        47","N","        29","N","         2","N","  41.7"," ,N,0615, ","    381.1"," ,N"

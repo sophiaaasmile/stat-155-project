@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSEL0031","2009","38.8379722","-99.2183305","611.1","MUNJOR 3.4 NE, KS US","        83","N","        47","N","         5","N","  55.9"," ,N,0826, ","    592.5"," ,N"
+"US1KSEL0031","2011","38.8379722","-99.2183305","611.1","MUNJOR 3.4 NE, KS US","        61","N","        37","N","         5","N","  67.8"," ,N,0810, ","    526.8"," ,N"
+"US1KSEL0031","2012","38.8379722","-99.2183305","611.1","MUNJOR 3.4 NE, KS US","        36","N","        26","N","         4","N","  46.5"," ,N,0526, ","    379.0"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010241","1912","-31.85","117.25",,"YOOLELLA, AS","        72","a","        38","a","         3","a","  41.1"," ,a,0704, ","    361.0"," ,a"
+"ASN00010241","1913","-31.85","117.25",,"YOOLELLA, AS","        69","a","        43","a","         1","a","  40.1"," ,a,1220, ","    341.6"," ,a"
+"ASN00010241","1914","-31.85","117.25",,"YOOLELLA, AS","        46","a","        18","a","         0","a","  13.2"," ,a,1023, ","    163.6"," ,a"
+"ASN00010241","1915","-31.85","117.25",,"YOOLELLA, AS","        83","a","        47","a","         3","a","  34.8"," ,a,0226, ","    472.2"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00039136","1895","-24.1333","150.3333",,"NETLEY, AS","        93","a","        45","a","         8","a"," 105.7"," ,a,0125, ","    726.4"," ,a"
+"ASN00039136","1896","-24.1333","150.3333",,"NETLEY, AS","        91","a","        48","a","        14","a"," 299.0"," ,a,0129, ","   1559.8"," ,a"
+"ASN00039136","1898","-24.1333","150.3333",,"NETLEY, AS","       107","a","        62","a","        14","a"," 152.1"," ,a,0203, ","   1331.0"," ,a"

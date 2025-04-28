@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN023321600","1964","26.45","80.35","128.0","KANPUR D.R.L. OBSERVATORY SR, IN","        52","I","        41","I","        11","I","  86.0"," ,I,0925, ","    783.1"," ,I"
+"IN023321600","1965","26.45","80.35","128.0","KANPUR D.R.L. OBSERVATORY SR, IN","        31","I","        24","I","         6","I"," 167.6"," ,I,0725, ","    656.3"," ,I"
+"IN023321600","1966","26.45","80.35","128.0","KANPUR D.R.L. OBSERVATORY SR, IN","        49","I","        31","I","         9","I"," 128.0"," ,I,0806, ","    902.0"," ,I"
+"IN023321600","1967","26.45","80.35","128.0","KANPUR D.R.L. OBSERVATORY SR, IN","        69","I","        46","I","        11","I"," 126.8"," ,I,0808, ","   1023.2"," ,I"
+"IN023321600","1968","26.45","80.35","128.0","KANPUR D.R.L. OBSERVATORY SR, IN","        58","I","        37","I","        10","I","  85.5"," ,I,0822, ","    737.7"," ,I"
+"IN023321600","1969","26.45","80.35","128.0","KANPUR D.R.L. OBSERVATORY SR, IN","        54","I","        38","I","         6","I","  93.5"," ,I,0705, ","    656.5"," ,I"

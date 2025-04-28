@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00076114","1930","-34.2833","141.5833",,"CULLULLERAINE, AS","        64","a","        31","a","         3","a","  49.5"," ,a,1206, ","    389.6"," ,a"
+"ASN00076114","1947","-34.2833","141.5833",,"CULLULLERAINE, AS","        24","a","        22","a","         2","a","  31.0"," ,a,0329, ","    215.9"," ,a"
+"ASN00076114","1948","-34.2833","141.5833",,"CULLULLERAINE, AS","        27","a","        23","a","         0","a","  21.6"," ,a,1011, ","    185.0"," ,a"

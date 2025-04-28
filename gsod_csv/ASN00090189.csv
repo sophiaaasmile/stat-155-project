@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00090189","2006","-38.4467","143.7283",,"BARWON DOWNS GERANGAMETE, AS","       118","a","        43","a","         0","a","  17.4"," ,a,0130, ","    369.8"," ,a"
+"ASN00090189","2007","-38.4467","143.7283",,"BARWON DOWNS GERANGAMETE, AS","       133","a","        62","a","         3","a","  38.2"," ,a,1104, ","    549.0"," ,a"
+"ASN00090189","2008","-38.4467","143.7283",,"BARWON DOWNS GERANGAMETE, AS","       118","a","        49","a","         1","a","  27.0"," ,a,1213, ","    405.4"," ,a"

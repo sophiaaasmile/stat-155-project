@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA1NL000017","2014","51.52017","-56.836933","33.5","L ANSE AU LOUP 0.7 SSW, NL CA","       174","N","       107","N","        12","N","        43","N","   269"," ,N,0217, ","  55.1"," ,N,0923, ","   1339.3"," ,N","     4121"," ,N"
+"CA1NL000017","2015","51.52017","-56.836933","33.5","L ANSE AU LOUP 0.7 SSW, NL CA","       184","N","       109","N","         7","N","","","","","  38.6"," ,N,1002, ","   1275.4"," ,N","",""
+"CA1NL000017","2016","51.52017","-56.836933","33.5","L ANSE AU LOUP 0.7 SSW, NL CA","       178","N","       108","N","         8","N","        41","N","   320"," ,N,0222, ","  67.6"," ,N,0807, ","   1242.6"," ,N","     3483"," ,N"
+"CA1NL000017","2018","51.52017","-56.836933","33.5","L ANSE AU LOUP 0.7 SSW, NL CA","       190","N","       116","N","        10","N","        64","N","   241"," ,N,0101, ","  60.5"," ,N,1223, ","   1445.1"," ,N","     5162"," ,N"

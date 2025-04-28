@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALLS0034","2021","34.78075","-86.8642","219.2","ATHENS 5.4 E, AL US","       129","N","        95","N","        21","N","  77.7"," ,N,0920, ","   1716.0"," ,N"
+"US1ALLS0034","2022","34.78075","-86.8642","219.2","ATHENS 5.4 E, AL US","       103","N","        82","N","        18","N","  67.1"," ,N,0323, ","   1454.6"," ,N"
+"US1ALLS0034","2023","34.78075","-86.8642","219.2","ATHENS 5.4 E, AL US","       119","N","        86","N","        11","N","  91.7"," ,N,0302, ","   1294.5"," ,N"

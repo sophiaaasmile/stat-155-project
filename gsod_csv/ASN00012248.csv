@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00012248","1907","-33.2667","121.65",,"SWAN LAGOON, AS","        62","a","        34","a","         0","a","  20.8"," ,a,0319, ","    254.6"," ,a"
+"ASN00012248","1908","-33.2667","121.65",,"SWAN LAGOON, AS","        68","a","        47","a","         0","a","  24.9"," ,a,0810, ","    412.5"," ,a"
+"ASN00012248","1909","-33.2667","121.65",,"SWAN LAGOON, AS","        75","a","        50","a","         2","a","  32.5"," ,a,0407, ","    438.0"," ,a"
+"ASN00012248","1910","-33.2667","121.65",,"SWAN LAGOON, AS","        71","a","        48","a","         0","a","  23.6"," ,a,1030, ","    379.7"," ,a"

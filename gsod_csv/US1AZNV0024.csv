@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZNV0024","2017","34.397","-110.529","2025.7","OVERGAARD 1.4 ENE, AZ US","        49","N","        23","N","         1","N","  43.2"," ,N,0301, ","    256.8"," ,N"
+"US1AZNV0024","2020","34.397","-110.529","2025.7","OVERGAARD 1.4 ENE, AZ US","        49","N","        23","N","         1","N","  41.1"," ,N,0223, ","    223.5"," ,N"
+"US1AZNV0024","2021","34.397","-110.529","2025.7","OVERGAARD 1.4 ENE, AZ US","        86","N","        51","N","         2","N","  32.8"," ,N,0724, ","    488.6"," ,N"
+"US1AZNV0024","2022","34.397","-110.529","2025.7","OVERGAARD 1.4 ENE, AZ US","        92","N","        44","N","         1","N","  54.6"," ,N,0726, ","    511.2"," ,N"

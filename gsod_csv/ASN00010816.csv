@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010816","2004","-33.2064","117.6994","315.0","BEAUMONT, AS","        53","a","        30","a","         0","a","  24.0"," ,a,1103, ","    310.2"," ,a"
+"ASN00010816","2007","-33.2064","117.6994","315.0","BEAUMONT, AS","        61","a","        38","a","         0","a","  17.6"," ,a,0416, ","    305.0"," ,a"
+"ASN00010816","2020","-33.2064","117.6994","315.0","BEAUMONT, AS","        64","a","        32","a","         0","a","  24.2"," ,a,0618, ","    343.2"," ,a"

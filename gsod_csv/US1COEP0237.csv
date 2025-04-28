@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COEP0237","2012","38.96213","-104.605968","2140.6","FALCON 2.3 NNE, CO US","        76","N","        22","N","         1","N","  25.9"," ,N,0709, ","    246.0"," ,N"
+"US1COEP0237","2013","38.96213","-104.605968","2140.6","FALCON 2.3 NNE, CO US","        89","N","        49","N","         5","N","  64.0"," ,N,0913, ","    604.1"," ,N"
+"US1COEP0237","2014","38.96213","-104.605968","2140.6","FALCON 2.3 NNE, CO US","       102","N","        39","N","         4","N","  34.0"," ,N,1010, ","    420.1"," ,N"

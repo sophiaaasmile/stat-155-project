@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1OHHM0031","2018","39.089314","-84.38652","234.4","CINCINNATI 6.7 E, OH US","       155","N","        97","N","        14","N","","","","","  87.6"," ,N,0909, ","   1462.7"," ,N","",""
+"US1OHHM0031","2019","39.089314","-84.38652","234.4","CINCINNATI 6.7 E, OH US","       155","N","       104","N","        14","N","         5","N","    69"," ,N,0120, ","  99.8"," ,N,0616, ","   1478.6"," ,N","      255"," ,N"
+"US1OHHM0031","2020","39.089314","-84.38652","234.4","CINCINNATI 6.7 E, OH US","       163","N","        92","N","         9","N","         1","N","    25"," ,N,1201, ","  88.6"," ,N,0519, ","   1232.8"," ,N","       75"," ,N"

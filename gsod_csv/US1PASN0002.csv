@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1PASN0002","2020","40.817309","-76.9097029","178.6","SELINSGROVE 2.6 WNW, PA US","       139","N","        81","N","         9","N","","","","","  69.1"," ,N,1225, ","   1067.9"," ,N","",""
+"US1PASN0002","2021","40.817309","-76.9097029","178.6","SELINSGROVE 2.6 WNW, PA US","       139","N","        76","N","        12","N","         7","N","   203"," ,N,0202, "," 116.6"," ,N,0902, ","   1229.1"," ,N","      797"," ,N"
+"US1PASN0002","2023","40.817309","-76.9097029","178.6","SELINSGROVE 2.6 WNW, PA US","       129","N","        67","N","         9","N","         2","N","    30"," ,N,0307, ","  58.4"," ,N,1218, ","   1041.7"," ,N","      137"," ,N"
+"US1PASN0002","2024","40.817309","-76.9097029","178.6","SELINSGROVE 2.6 WNW, PA US","","","","","","","","","","","","","   1096.2"," ,N","",""

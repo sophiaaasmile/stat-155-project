@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ARST0020","2016","35.932394","-92.219174","163.4","MOUNTAIN VIEW 7.4 NW, AR US","        95","N","        75","N","        18","N","  84.6"," ,N,0814, ","   1313.3"," ,N"
+"US1ARST0020","2017","35.932394","-92.219174","163.4","MOUNTAIN VIEW 7.4 NW, AR US","       104","N","        81","N","        17","N","  65.3"," ,N,0430, ","   1408.0"," ,N"
+"US1ARST0020","2018","35.932394","-92.219174","163.4","MOUNTAIN VIEW 7.4 NW, AR US","        99","N","        80","N","        18","N","  88.9"," ,N,1101, ","   1520.9"," ,N"
+"US1ARST0020","2021","35.932394","-92.219174","163.4","MOUNTAIN VIEW 7.4 NW, AR US","       106","N","        91","N","        18","N"," 203.2"," ,N,0214, ","   1692.1"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00023341","1960","-34.6","139.05","475.0","EDEN VALLEY SEIBOTHS, AS","        98","a","        64","a","         3","a","  46.2"," ,a,0505, ","    775.8"," ,a"
+"ASN00023341","1961","-34.6","139.05","475.0","EDEN VALLEY SEIBOTHS, AS","        97","a","        54","a","         2","a","  50.5"," ,a,1117, ","    552.6"," ,a"
+"ASN00023341","1962","-34.6","139.05","475.0","EDEN VALLEY SEIBOTHS, AS","        97","a","        63","a","         2","a","  48.3"," ,a,0523, ","    674.4"," ,a"
+"ASN00023341","1963","-34.6","139.05","475.0","EDEN VALLEY SEIBOTHS, AS","       105","a","        60","a","         5","a","  46.7"," ,a,0515, ","    740.2"," ,a"

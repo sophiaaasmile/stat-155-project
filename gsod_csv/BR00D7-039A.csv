@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00D7-039A","1946","-22.73","-50.78","350.0","CRUZALIA, BR","        92","I","        82","I","        11","I","  53.0"," ,I,0601, ","   1044.2"," ,I"
+"BR00D7-039A","1947","-22.73","-50.78","350.0","CRUZALIA, BR","        69","I","        58","I","         8","I","  50.0"," ,I,0502, ","    754.3"," ,I"
+"BR00D7-039A","1949","-22.73","-50.78","350.0","CRUZALIA, BR","        39","I","        37","I","         1","I","  30.0"," ,I,0306, ","    416.8"," ,I"

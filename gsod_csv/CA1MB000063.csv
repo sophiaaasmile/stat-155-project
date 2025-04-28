@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1MB000063","2013","49.519642","-96.679398","263.3","STEINBACH 0.8 SSE, MB CA","       109","N","        55","N","         3","N","  37.8"," ,N,0901, ","    557.4"," ,N"
+"CA1MB000063","2014","49.519642","-96.679398","263.3","STEINBACH 0.8 SSE, MB CA","","","","","","","","","    616.6"," ,N"
+"CA1MB000063","2015","49.519642","-96.679398","263.3","STEINBACH 0.8 SSE, MB CA","       116","N","        54","N","         7","N","  82.8"," ,N,0823, ","    771.9"," ,N"
+"CA1MB000063","2017","49.519642","-96.679398","263.3","STEINBACH 0.8 SSE, MB CA","       122","N","        46","N","         1","N","  27.4"," ,N,0614, ","    420.2"," ,N"

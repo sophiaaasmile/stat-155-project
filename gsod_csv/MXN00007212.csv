@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00007212","1967","16.7833","-92.6667","2299.7","ZINACANTAN, MX","       121","m","        92","m","        11","m","  49.8"," ,m,1104, ","   1203.6"," ,m"
+"MXN00007212","1968","16.7833","-92.6667","2299.7","ZINACANTAN, MX","        91","m","        72","m","        11","m","  84.8"," ,m,0502, ","   1273.4"," ,m"

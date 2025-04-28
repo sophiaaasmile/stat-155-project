@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GACL0021","2017","33.48228","-85.08082","342.6","CARROLLTON 7.0 S, GA US","       152","N","       104","N","        22","N"," 105.4"," ,N,0912, ","   1751.6"," ,N"
+"US1GACL0021","2018","33.48228","-85.08082","342.6","CARROLLTON 7.0 S, GA US","       146","N","       100","N","        19","N"," 122.9"," ,N,1011, ","   1730.1"," ,N"
+"US1GACL0021","2023","33.48228","-85.08082","342.6","CARROLLTON 7.0 S, GA US","       130","N","        80","N","        14","N","  54.9"," ,N,0408, ","   1338.2"," ,N"
+"US1GACL0021","2024","33.48228","-85.08082","342.6","CARROLLTON 7.0 S, GA US","       127","N","        72","N","        16","N"," 108.5"," ,N,0927, ","   1524.4"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00032058","1960","-18.6667","146.25","13.0","INGHAM CSIRO FIELD STATION, AS","        95","a","        66","a","        19","a"," 123.7"," ,a,1228, ","   1638.3"," ,a"
+"ASN00032058","1961","-18.6667","146.25","13.0","INGHAM CSIRO FIELD STATION, AS","        99","a","        69","a","         8","a","  61.5"," ,a,0304, ","    846.1"," ,a"
+"ASN00032058","1962","-18.6667","146.25","13.0","INGHAM CSIRO FIELD STATION, AS","       106","a","        83","a","        23","a"," 158.5"," ,a,0130, ","   2261.1"," ,a"
+"ASN00032058","1963","-18.6667","146.25","13.0","INGHAM CSIRO FIELD STATION, AS","       105","a","        81","a","        28","a"," 168.9"," ,a,0125, ","   2289.4"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CAMD0045","2021","39.31342","-123.79274","75.9","MENDOCINO 0.5 NE, CA US","       123","N","        56","N","        10","N","  82.6"," ,N,1024, ","    903.0"," ,N"
+"US1CAMD0045","2022","39.31342","-123.79274","75.9","MENDOCINO 0.5 NE, CA US","       116","N","        43","N","         7","N","  68.3"," ,N,0919, ","    705.6"," ,N"
+"US1CAMD0045","2023","39.31342","-123.79274","75.9","MENDOCINO 0.5 NE, CA US","       124","N","        77","N","         9","N","  60.2"," ,N,0108, ","   1118.9"," ,N"
+"US1CAMD0045","2024","39.31342","-123.79274","75.9","MENDOCINO 0.5 NE, CA US","       119","N","        80","N","        20","N","  92.2"," ,N,1125, ","   1587.6"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00074134","1914","-36.0","146.9",,"JINDERA MURRUMBATEMAN, AS","       141","a","        49","a","         2","a","  35.1"," ,a,0321, ","    527.8"," ,a"
+"ASN00074134","1917","-36.0","146.9",,"JINDERA MURRUMBATEMAN, AS","       195","a","        77","a","         7","a","  45.5"," ,a,0917, ","    911.6"," ,a"
+"ASN00074134","1918","-36.0","146.9",,"JINDERA MURRUMBATEMAN, AS","       145","a","        52","a","         3","a","  35.8"," ,a,0220, ","    478.8"," ,a"

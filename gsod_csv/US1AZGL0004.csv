@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZGL0004","2018","34.318061","-111.292201","1488.6","PAYSON 6.3 NNE, AZ US","        70","N","        37","N","         4","N","  37.8"," ,N,1003, ","    524.2"," ,N"
+"US1AZGL0004","2021","34.318061","-111.292201","1488.6","PAYSON 6.3 NNE, AZ US","        80","N","        37","N","         5","N","  43.2"," ,N,0723, ","    556.8"," ,N"
+"US1AZGL0004","2022","34.318061","-111.292201","1488.6","PAYSON 6.3 NNE, AZ US","        74","N","        49","N","         2","N","  33.5"," ,N,0224, ","    514.6"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010763","1914","-32.2","116.9833",,"MOUNT KOKEBY, AS","        49","a","        22","a","         0","a","  19.1"," ,a,0218, ","    178.2"," ,a"
+"ASN00010763","1915","-32.2","116.9833",,"MOUNT KOKEBY, AS","       110","a","        53","a","         5","a","  40.4"," ,a,0614, ","    553.5"," ,a"
+"ASN00010763","1916","-32.2","116.9833",,"MOUNT KOKEBY, AS","        82","a","        42","a","         2","a","  42.7"," ,a,0129, ","    477.6"," ,a"
+"ASN00010763","1918","-32.2","116.9833",,"MOUNT KOKEBY, AS","        85","a","        57","a","         4","a","  38.1"," ,a,0217, ","    558.1"," ,a"

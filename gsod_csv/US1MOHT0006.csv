@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MOHT0006","2018","40.080378","-95.164077","324.6","FOREST CITY 6.9 N, MO US","        86","N","        62","N","        12","N","  80.3"," ,N,0815, ","   1009.8"," ,N"
+"US1MOHT0006","2020","40.080378","-95.164077","324.6","FOREST CITY 6.9 N, MO US","        70","N","        60","N","        11","N"," 128.3"," ,N,0715, ","    999.5"," ,N"
+"US1MOHT0006","2021","40.080378","-95.164077","324.6","FOREST CITY 6.9 N, MO US","        66","N","        58","N","        14","N"," 111.0"," ,N,0625, ","   1027.6"," ,N"
+"US1MOHT0006","2022","40.080378","-95.164077","324.6","FOREST CITY 6.9 N, MO US","        54","N","        46","N","         9","N","  78.5"," ,N,0708, ","    757.0"," ,N"

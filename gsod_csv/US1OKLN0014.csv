@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKLN0014","2020","35.585102","-97.112294","297.2","WELLSTON 7.7 SSW, OK US","        98","N","        55","N","        13","N","  69.6"," ,N,0901, ","    964.8"," ,N"
+"US1OKLN0014","2022","35.585102","-97.112294","297.2","WELLSTON 7.7 SSW, OK US","        79","N","        46","N","        13","N","  56.4"," ,N,0829, ","    863.1"," ,N"
+"US1OKLN0014","2023","35.585102","-97.112294","297.2","WELLSTON 7.7 SSW, OK US","        91","N","        58","N","        11","N","  77.5"," ,N,0706, ","   1009.0"," ,N"
+"US1OKLN0014","2024","35.585102","-97.112294","297.2","WELLSTON 7.7 SSW, OK US","        79","N","        52","N","         9","N","  61.0"," ,N,0707, ","    816.3"," ,N"

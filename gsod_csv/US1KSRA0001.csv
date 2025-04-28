@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1KSRA0001","2006","39.9761","-101.0579","919.0","ATWOOD 11 N, KS US","        77","N","        42","N","         8","N","         5","N","   406"," ,N,1230, ","  59.4"," ,N,1231, ","    680.7"," ,N","      798"," ,N"
+"US1KSRA0001","2008","39.9761","-101.0579","919.0","ATWOOD 11 N, KS US","        60","N","        43","N","         4","N","","","","","  72.4"," ,N,0524, ","    492.5"," ,N","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00081126","1977","-36.7383","144.255",,"LONG GULLY, AS","        83","a","        43","a","         1","a","  29.2"," ,a,0408, ","    370.4"," ,a"
+"ASN00081126","1979","-36.7383","144.255",,"LONG GULLY, AS","       102","a","        55","a","         3","a","  33.6"," ,a,0817, ","    634.2"," ,a"
+"ASN00081126","1980","-36.7383","144.255",,"LONG GULLY, AS","        77","a","        49","a","         4","a","  40.2"," ,a,0423, ","    526.8"," ,a"

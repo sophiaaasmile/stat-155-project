@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"MGM00044292","1969","47.843","106.767","1330.1","CHINGGIS KHAAN INTERNATIONAL, MG","       138","S","        63","S","         2","S","   33.9","S,0620, ","      3.98","S"
+"MGM00044292","1970","47.843","106.767","1330.1","CHINGGIS KHAAN INTERNATIONAL, MG","       136","S","        69","S","         2","S","   32.2","S,0727,+","      4.53","S"
+"MGM00044292","1980","47.843","106.767","1330.1","CHINGGIS KHAAN INTERNATIONAL, MG","       144","S","        80","S","         3","S","   34.0","S,0624, ","      5.07","S"
+"MGM00044292","1981","47.843","106.767","1330.1","CHINGGIS KHAAN INTERNATIONAL, MG","       138","S","        66","S","         3","S","   34.0","S,0705, ","      5.77","S"
+"MGM00044292","1988","47.843","106.767","1330.1","CHINGGIS KHAAN INTERNATIONAL, MG","       124","S","        59","S","         1","S","   32.6","S,0724, ","      5.40","S"
+"MGM00044292","1995","47.843","106.767","1330.1","CHINGGIS KHAAN INTERNATIONAL, MG","       127","S","        58","S","         0","S","   31.2","S,0705, ","      6.04","S"
+"MGM00044292","1998","47.843","106.767","1330.1","CHINGGIS KHAAN INTERNATIONAL, MG","       106","S","        64","S","         1","S","   32.3","S,0703, ","      6.40","S"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMGR0037","2013","32.80016667","-108.1271167","1929.1","BAYARD 2.8 N, NM US","        67","N","        47","N","         4","N","  51.1"," ,N,0830, ","    488.9"," ,N"
+"US1NMGR0037","2016","32.80016667","-108.1271167","1929.1","BAYARD 2.8 N, NM US","        83","N","        50","N","         5","N"," 104.1"," ,N,1104, ","    666.0"," ,N"
+"US1NMGR0037","2023","32.80016667","-108.1271167","1929.1","BAYARD 2.8 N, NM US","        66","N","        33","N","         1","N","  27.7"," ,N,0514, ","    320.3"," ,N"

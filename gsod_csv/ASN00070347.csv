@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00070347","2005","-35.4422","149.187","755.0","GOOGONG FERNLEIGH DVE, AS","        95","a","        49","a","         6","a","  42.4"," ,a,1108, ","    617.6"," ,a"
+"ASN00070347","2007","-35.4422","149.187","755.0","GOOGONG FERNLEIGH DVE, AS","       100","a","        58","a","         2","a","  36.6"," ,a,1223, ","    588.0"," ,a"
+"ASN00070347","2008","-35.4422","149.187","755.0","GOOGONG FERNLEIGH DVE, AS","        81","a","        47","a","         3","a","  44.4"," ,a,1213, ","    560.4"," ,a"
+"ASN00070347","2009","-35.4422","149.187","755.0","GOOGONG FERNLEIGH DVE, AS","        94","a","        48","a","         1","a","  25.8"," ,a,0923, ","    446.9"," ,a"
+"ASN00070347","2010","-35.4422","149.187","755.0","GOOGONG FERNLEIGH DVE, AS","       101","a","        64","a","        13","a","  64.4"," ,a,1209, ","   1058.4"," ,a"

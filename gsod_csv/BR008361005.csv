@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR008361005","1993","3.76","-61.72","0.0","TEPEQUEM, BR","       118","I","       104","I","        39","I","  73.0"," ,I,1124, ","   2120.2"," ,I"
+"BR008361005","1995","3.76","-61.72","0.0","TEPEQUEM, BR","       137","I","       109","I","        27","I","  80.0"," ,I,1216, ","   2002.2"," ,I"
+"BR008361005","1999","3.76","-61.72","0.0","TEPEQUEM, BR","       159","I","       133","I","        45","I","  93.0"," ,I,0402, ","   2727.8"," ,I"

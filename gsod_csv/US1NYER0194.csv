@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYER0194","2022","42.6074","-78.6461","402.6","GLENWOOD 1.0 SE, NY US","       199","N","       115","N","        11","N","  57.9"," ,N,1112, ","   1398.3"," ,N"
+"US1NYER0194","2023","42.6074","-78.6461","402.6","GLENWOOD 1.0 SE, NY US","       191","N","       120","N","         4","N","  65.0"," ,N,0703, ","   1276.5"," ,N"
+"US1NYER0194","2024","42.6074","-78.6461","402.6","GLENWOOD 1.0 SE, NY US","       193","N","       129","N","         6","N","  42.4"," ,N,0907, ","   1156.9"," ,N"

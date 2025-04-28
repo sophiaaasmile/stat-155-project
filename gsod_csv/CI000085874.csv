@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CI000085874","1979","-45.917","-71.7","525.0","BALMACEDA, CI","        86","I","        53","I","         4","I","  38.1"," ,I,0618, ","    548.7"," ,I"
+"CI000085874","2020","-45.917","-71.7","525.0","BALMACEDA, CI","       102","S","        36","S","         1","S","  32.0"," ,S,0719, ","    352.5"," ,S"
+"CI000085874","2023","-45.917","-71.7","525.0","BALMACEDA, CI","        49","S","        16","S","         0","S","  14.2"," ,S,0728, ","    145.4"," ,S"

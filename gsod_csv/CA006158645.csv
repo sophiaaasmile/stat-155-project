@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006158645","1957","43.6333","-79.5","84.0","TORONTO HUMBER BAY, ON CA","       118","C","        70","C","         6","C","        15","C","   102"," ,C,0214, ","  68.1"," ,C,0628, ","    808.3"," ,C","      888"," ,C"
+"CA006158645","1958","43.6333","-79.5","84.0","TORONTO HUMBER BAY, ON CA","","","","","","","        13","C","   137"," ,C,1128, ","","","","","      898"," ,C"
+"CA006158645","1959","43.6333","-79.5","84.0","TORONTO HUMBER BAY, ON CA","","","","","","","        22","C","   102"," ,C,0326, ","","","","","     1173"," ,C"
+"CA006158645","1960","43.6333","-79.5","84.0","TORONTO HUMBER BAY, ON CA","       111","C","        63","C","         3","C","        14","C","   254"," ,C,0225, ","  37.1"," ,C,0507, ","    668.8"," ,C","     1208"," ,C"

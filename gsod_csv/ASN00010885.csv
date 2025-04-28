@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010885","1929","-32.0167","116.6667",,"TALBOT BROOK, AS","        60","a","        46","a","         3","a","  30.2"," ,a,0627, ","    454.7"," ,a"
+"ASN00010885","1930","-32.0167","116.6667",,"TALBOT BROOK, AS","        94","a","        56","a","         3","a","  76.2"," ,a,0703, ","    608.1"," ,a"
+"ASN00010885","1931","-32.0167","116.6667",,"TALBOT BROOK, AS","        78","a","        58","a","         4","a","  33.5"," ,a,0504, ","    581.5"," ,a"
+"ASN00010885","1933","-32.0167","116.6667",,"TALBOT BROOK, AS","        59","a","        40","a","         6","a","  31.5"," ,a,0703, ","    499.8"," ,a"

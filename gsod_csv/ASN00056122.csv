@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056122","1959","-29.8833","151.4667","799.8","ELSMORE PARADISE EAST OUTSTAT, AS","        98","a","        76","a","        11","a","  61.7"," ,a,1110, ","   1094.8"," ,a"
+"ASN00056122","1960","-29.8833","151.4667","799.8","ELSMORE PARADISE EAST OUTSTAT, AS","        73","a","        58","a","         6","a","  38.1"," ,a,0512, ","    724.0"," ,a"
+"ASN00056122","1961","-29.8833","151.4667","799.8","ELSMORE PARADISE EAST OUTSTAT, AS","        82","a","        65","a","         9","a","  58.4"," ,a,1125, ","    842.9"," ,a"
+"ASN00056122","1962","-29.8833","151.4667","799.8","ELSMORE PARADISE EAST OUTSTAT, AS","        80","a","        68","a","        14","a","  53.3"," ,a,0725, ","   1021.8"," ,a"
+"ASN00056122","1963","-29.8833","151.4667","799.8","ELSMORE PARADISE EAST OUTSTAT, AS","        84","a","        71","a","         6","a","  77.2"," ,a,0508, ","    911.5"," ,a"

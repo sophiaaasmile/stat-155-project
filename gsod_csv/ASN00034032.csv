@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00034032","1972","-20.55","146.1",,"WAMBIANA, AS","        28","a","        27","a","        10","a","  59.7"," ,a,0307, ","    559.0"," ,a"
+"ASN00034032","1973","-20.55","146.1",,"WAMBIANA, AS","        42","a","        33","a","         4","a","  73.7"," ,a,0222, ","    493.0"," ,a"
+"ASN00034032","1974","-20.55","146.1",,"WAMBIANA, AS","        53","a","        46","a","        13","a","  94.6"," ,a,0211, ","   1081.4"," ,a"
+"ASN00034032","1976","-20.55","146.1",,"WAMBIANA, AS","        46","a","        42","a","         5","a","  51.0"," ,a,0201, ","    619.9"," ,a"

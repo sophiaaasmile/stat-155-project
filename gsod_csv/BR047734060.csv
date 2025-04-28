@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR047734060","1966","-13.68","-43.48","450.0","FAZENDA PASSAGEM DA AREIA, BR","        63","I","        48","I","        10","I","  65.0"," ,I,0406, ","    834.5"," ,I"
+"BR047734060","1968","-13.68","-43.48","450.0","FAZENDA PASSAGEM DA AREIA, BR","        60","I","        51","I","        11","I","  63.8"," ,I,0304, ","    909.0"," ,I"
+"BR047734060","1969","-13.68","-43.48","450.0","FAZENDA PASSAGEM DA AREIA, BR","        71","I","        56","I","        11","I","  72.2"," ,I,1228, ","    969.4"," ,I"

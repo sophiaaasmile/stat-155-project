@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1RINW0019","2019","41.567425","-71.247846","52.4","PORTSMOUTH 2.3 S, RI US","       171","N","       100","N","        14","N","  50.0"," ,N,1017, ","   1388.9"," ,N"
+"US1RINW0019","2020","41.567425","-71.247846","52.4","PORTSMOUTH 2.3 S, RI US","       150","N","        85","N","         7","N","  59.9"," ,N,1206, ","    936.9"," ,N"
+"US1RINW0019","2021","41.567425","-71.247846","52.4","PORTSMOUTH 2.3 S, RI US","       124","N","        73","N","         9","N","  78.5"," ,N,0805, ","    994.4"," ,N"

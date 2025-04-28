@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00017022","2003","-28.1696","139.6105","20.0","MOOMBA TANTANNA, AS","         8","a","         4","a","         2","a","  84.0"," ,a,0216, ","    287.2"," ,a"
+"ASN00017022","2004","-28.1696","139.6105","20.0","MOOMBA TANTANNA, AS","        10","a","         7","a","         0","a","  16.0"," ,a,0429, ","     60.3"," ,a"
+"ASN00017022","2013","-28.1696","139.6105","20.0","MOOMBA TANTANNA, AS","        15","a","         6","a","         1","a","  55.0"," ,a,0307, ","    113.9"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002056004","1966","-20.35","-56.7","0.0","TAPERA PARTICULAR, BR","        35","I","        35","I","        13","I","  68.0"," ,I,0511, ","    859.0"," ,I"
+"BR002056004","1967","-20.35","-56.7","0.0","TAPERA PARTICULAR, BR","        57","I","        57","I","        21","I","  72.0"," ,I,0104, ","   1563.0"," ,I"
+"BR002056004","1968","-20.35","-56.7","0.0","TAPERA PARTICULAR, BR","        47","I","        47","I","        19","I"," 100.0"," ,I,0110, ","   1272.0"," ,I"
+"BR002056004","1969","-20.35","-56.7","0.0","TAPERA PARTICULAR, BR","        61","I","        61","I","        24","I"," 130.0"," ,I,0430, ","   1826.0"," ,I"

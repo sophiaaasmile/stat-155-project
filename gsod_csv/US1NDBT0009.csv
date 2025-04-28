@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NDBT0009","2021","48.91363","-101.01682","456.0","WESTHOPE 0.1 N, ND US","        55","N","        26","N","         5","N","  85.9"," ,N,0821, ","    413.1"," ,N"
+"US1NDBT0009","2022","48.91363","-101.01682","456.0","WESTHOPE 0.1 N, ND US","        76","N","        36","N","         4","N","  51.6"," ,N,0424, ","    461.1"," ,N"
+"US1NDBT0009","2023","48.91363","-101.01682","456.0","WESTHOPE 0.1 N, ND US","        74","N","        35","N","         4","N","  50.3"," ,N,0513, ","    406.4"," ,N"
+"US1NDBT0009","2024","48.91363","-101.01682","456.0","WESTHOPE 0.1 N, ND US","        66","N","        34","N","         5","N","  42.4"," ,N,0628, ","    484.1"," ,N"

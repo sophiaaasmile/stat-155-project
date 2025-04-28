@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMLU0067","2016","32.113194","-107.673088","1376.5","DEMING 11.2 SSE, NM US","        50","N","        24","N","         1","N","  43.2"," ,N,0629, ","    239.2"," ,N"
+"US1NMLU0067","2018","32.113194","-107.673088","1376.5","DEMING 11.2 SSE, NM US","        49","N","        26","N","         2","N","  29.5"," ,N,0616, ","    265.7"," ,N"
+"US1NMLU0067","2020","32.113194","-107.673088","1376.5","DEMING 11.2 SSE, NM US","        35","N","        18","N","         0","N","  18.5"," ,N,0212, ","    175.7"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CACC0016","2014","37.978325","-122.013418","37.8","CONCORD 0.8 WNW, CA US","        58","N","        35","N","         3","N","  75.4"," ,N,1212, ","    448.9"," ,N"
+"US1CACC0016","2016","37.978325","-122.013418","37.8","CONCORD 0.8 WNW, CA US","        74","N","        41","N","         4","N","  33.0"," ,N,0306, ","    543.3"," ,N"
+"US1CACC0016","2018","37.978325","-122.013418","37.8","CONCORD 0.8 WNW, CA US","        53","N","        33","N","         3","N","  42.9"," ,N,0109, ","    414.5"," ,N"
+"US1CACC0016","2019","37.978325","-122.013418","37.8","CONCORD 0.8 WNW, CA US","        67","N","        44","N","         2","N","  40.1"," ,N,0117, ","    496.3"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"TUM00017282","2020","37.929","41.117","555.3","BATMAN, TU","        82","S","        54","S","         3","S","  40.9"," ,S,0201, ","    578.3"," ,S"
+"TUM00017282","2023","37.929","41.117","555.3","BATMAN, TU","        70","S","        39","S","         1","S","  69.6"," ,S,1120, ","    373.4"," ,S"
+"TUM00017282","2024","37.929","41.117","555.3","BATMAN, TU","        87","S","        42","S","         2","S","  32.8"," ,S,0319, ","    474.3"," ,S"

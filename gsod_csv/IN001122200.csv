@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN001122200","1955","15.55","77.17","422.0","HEBBALAM, IN","        54","I","        53","I","         7","I","  63.5"," ,I,0927, ","    701.5"," ,I"
+"IN001122200","1958","15.55","77.17","422.0","HEBBALAM, IN","        20","I","        18","I","         2","I","  33.0"," ,I,0530, ","    265.9"," ,I"
+"IN001122200","1960","15.55","77.17","422.0","HEBBALAM, IN","        22","I","        22","I","         5","I","  68.0"," ,I,0923, ","    466.2"," ,I"

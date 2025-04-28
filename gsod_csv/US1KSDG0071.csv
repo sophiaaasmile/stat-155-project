@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSDG0071","2022","38.980298","-95.28725","304.5","LAWRENCE 2.1 NW, KS US","        94","N","        61","N","        10","N","  64.3"," ,N,1105, ","    885.2"," ,N"
+"US1KSDG0071","2023","38.980298","-95.28725","304.5","LAWRENCE 2.1 NW, KS US","        94","N","        59","N","         6","N","  96.0"," ,N,0531, ","    843.4"," ,N"
+"US1KSDG0071","2024","38.980298","-95.28725","304.5","LAWRENCE 2.1 NW, KS US","       105","N","        60","N","        11","N","  77.2"," ,N,0702, ","    926.4"," ,N"

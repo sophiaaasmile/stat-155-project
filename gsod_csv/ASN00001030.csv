@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00001030","1998","-14.5786","125.9133","3.0","KIMBERLEY COASTAL CAMP, AS","        73","a","        62","a","        18","a"," 134.2"," ,a,0420, ","   1625.6"," ,a"
+"ASN00001030","2000","-14.5786","125.9133","3.0","KIMBERLEY COASTAL CAMP, AS","       102","a","        85","a","        29","a"," 300.0"," ,a,0101, ","   2380.6"," ,a"
+"ASN00001030","2001","-14.5786","125.9133","3.0","KIMBERLEY COASTAL CAMP, AS","        67","a","        55","a","        13","a"," 132.5"," ,a,0112, ","   1133.5"," ,a"

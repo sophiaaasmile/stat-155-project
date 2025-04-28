@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001040400","1976","50.1167","-123.1","1006.0","ALTA LAKE NORTHAIR MINE, BC CA","       189","C","       144","C","        21","C","        67","C","   610"," ,C,0211, ","  61.0"," ,C,0211, ","   1966.5"," ,C","    10800"," ,C"
+"CA001040400","1977","50.1167","-123.1","1006.0","ALTA LAKE NORTHAIR MINE, BC CA","","","","","","","        59","C","   430"," ,C,1113, ","","","","","     7813"," ,C"
+"CA001040400","1978","50.1167","-123.1","1006.0","ALTA LAKE NORTHAIR MINE, BC CA","","","","","","","        36","C","   640"," ,C,0103, ","","","   1440.0"," ,C","     6078"," ,C"
+"CA001040400","1979","50.1167","-123.1","1006.0","ALTA LAKE NORTHAIR MINE, BC CA","","","","","","","        51","C","   900"," ,C,0225, ","","","   1764.7"," ,C","     7859"," ,C"
+"CA001040400","1980","50.1167","-123.1","1006.0","ALTA LAKE NORTHAIR MINE, BC CA","","","","","","","        43","C","   380"," ,C,0312, ","","","","","     6632"," ,C"

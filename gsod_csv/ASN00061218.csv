@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00061218","1963","-33.35","151.25","243.8","SOMERSBY SILVESTERS ROAD, AS","       109","a","        78","a","        20","a"," 112.8"," ,a,0428, ","   1863.6"," ,a"
+"ASN00061218","1964","-33.35","151.25","243.8","SOMERSBY SILVESTERS ROAD, AS","        71","a","        50","a","        13","a"," 135.6"," ,a,0610, ","   1202.1"," ,a"
+"ASN00061218","1965","-33.35","151.25","243.8","SOMERSBY SILVESTERS ROAD, AS","       105","a","        59","a","        13","a","  73.7"," ,a,1018, ","    920.1"," ,a"

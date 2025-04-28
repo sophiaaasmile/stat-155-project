@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00074101","1940","-34.5","146.1333",,"STONEY POINT, AS","        44","a","        23","a","         2","a","  34.0"," ,a,0425, ","    225.2"," ,a"
+"ASN00074101","1941","-34.5","146.1333",,"STONEY POINT, AS","        52","a","        27","a","         2","a","  27.2"," ,a,0126,+","    297.7"," ,a"
+"ASN00074101","1945","-34.5","146.1333",,"STONEY POINT, AS","        43","a","        31","a","         0","a","  21.3"," ,a,0621, ","    272.1"," ,a"
+"ASN00074101","1946","-34.5","146.1333",,"STONEY POINT, AS","        34","a","        25","a","         1","a","  30.0"," ,a,0218, ","    270.2"," ,a"

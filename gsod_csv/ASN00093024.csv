@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00093024","1962","-42.345","147.1906","280.0","LOWER MARSHES JORDAN RIVER, AS","       120","a","        58","a","         1","a","  34.5"," ,a,0429, ","    490.0"," ,a"
+"ASN00093024","1964","-42.345","147.1906","280.0","LOWER MARSHES JORDAN RIVER, AS","        87","a","        56","a","         2","a","  43.2"," ,a,0222, ","    471.8"," ,a"
+"ASN00093024","1965","-42.345","147.1906","280.0","LOWER MARSHES JORDAN RIVER, AS","        67","a","        40","a","         1","a","  39.1"," ,a,0419, ","    354.8"," ,a"
+"ASN00093024","1966","-42.345","147.1906","280.0","LOWER MARSHES JORDAN RIVER, AS","        52","a","        40","a","         4","a","  43.7"," ,a,0716, ","    383.1"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCNH0007","2011","34.1527","-77.8842","7.9","WILMINGTON 4.4 SSE, NC US","       106","N","        60","N","         9","N","  43.7"," ,N,0806, ","   1032.6"," ,N"
+"US1NCNH0007","2012","34.1527","-77.8842","7.9","WILMINGTON 4.4 SSE, NC US","       118","N","        71","N","        11","N"," 149.9"," ,N,0711, ","   1309.7"," ,N"
+"US1NCNH0007","2015","34.1527","-77.8842","7.9","WILMINGTON 4.4 SSE, NC US","       119","N","        77","N","        15","N"," 156.2"," ,N,1005, ","   1858.5"," ,N"
+"US1NCNH0007","2016","34.1527","-77.8842","7.9","WILMINGTON 4.4 SSE, NC US","","","","","","","","","   1697.0"," ,N"

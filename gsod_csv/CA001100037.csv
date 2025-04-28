@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001100037","1969","49.0333","-122.3","61.0","ABBOTSFORD KING ROAD, BC CA","       156","C","       111","C","         6","C","        10","C","   244"," ,C,0110, ","  46.7"," ,C,0922, ","   1257.5"," ,C","      906"," ,C"
+"CA001100037","1970","49.0333","-122.3","61.0","ABBOTSFORD KING ROAD, BC CA","       141","C","        99","C","         8","C","         8","C","    81"," ,C,1218, ","  41.1"," ,C,1123, ","   1192.5"," ,C","      515"," ,C"
+"CA001100037","1971","49.0333","-122.3","61.0","ABBOTSFORD KING ROAD, BC CA","       176","C","       125","C","        20","C","        12","C","   320"," ,C,0110, ","  77.5"," ,C,1216, ","   1800.6"," ,C","     1453"," ,C"
+"CA001100037","1972","49.0333","-122.3","61.0","ABBOTSFORD KING ROAD, BC CA","       162","C","       128","C","        21","C","        10","C","   168"," ,C,0110, ","  75.7"," ,C,1225, ","   1899.7"," ,C","      700"," ,C"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COLR0806","2021","40.627302","-105.143731","1546.6","LAPORTE 0.3 WNW, CO US","        67","N","        28","N","         3","N","  65.5"," ,N,0314, ","    343.6"," ,N"
+"US1COLR0806","2022","40.627302","-105.143731","1546.6","LAPORTE 0.3 WNW, CO US","        80","N","        35","N","         1","N","  27.2"," ,N,0728, ","    319.4"," ,N"
+"US1COLR0806","2023","40.627302","-105.143731","1546.6","LAPORTE 0.3 WNW, CO US","        96","N","        45","N","         4","N","  39.4"," ,N,0803, ","    518.4"," ,N"
+"US1COLR0806","2024","40.627302","-105.143731","1546.6","LAPORTE 0.3 WNW, CO US","        80","N","        30","N","         3","N","  36.1"," ,N,0204, ","    324.0"," ,N"

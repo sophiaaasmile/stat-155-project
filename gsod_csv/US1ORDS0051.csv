@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ORDS0051","2020","44.300412","-121.182438","901.6","REDMOND 2.9 NNW, OR US","        83","N","        23","N","         0","N","  16.3"," ,N,1115, ","    174.5"," ,N"
+"US1ORDS0051","2021","44.300412","-121.182438","901.6","REDMOND 2.9 NNW, OR US","","","","","","","","","    182.8"," ,N"
+"US1ORDS0051","2022","44.300412","-121.182438","901.6","REDMOND 2.9 NNW, OR US","        77","N","        28","N","         0","N","  15.7"," ,N,0104, ","    199.7"," ,N"
+"US1ORDS0051","2023","44.300412","-121.182438","901.6","REDMOND 2.9 NNW, OR US","        71","N","        25","N","         1","N","  32.3"," ,N,0507, ","    180.7"," ,N"

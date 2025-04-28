@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00059079","1967","-30.15","152.4833","870.0","TYRINGHAM SHADY ACRES, AS","       117","a","        91","a","        19","a"," 196.9"," ,a,0613, ","   1900.1"," ,a"
+"ASN00059079","1968","-30.15","152.4833","870.0","TYRINGHAM SHADY ACRES, AS","        89","a","        65","a","         9","a"," 221.0"," ,a,0113, ","   1207.9"," ,a"
+"ASN00059079","1969","-30.15","152.4833","870.0","TYRINGHAM SHADY ACRES, AS","","","","","","","","","   1583.0"," ,a"
+"ASN00059079","1970","-30.15","152.4833","870.0","TYRINGHAM SHADY ACRES, AS","        80","a","        68","a","        15","a","  84.8"," ,a,1209, ","   1033.2"," ,a"
+"ASN00059079","1971","-30.15","152.4833","870.0","TYRINGHAM SHADY ACRES, AS","       107","a","        82","a","        14","a","  88.9"," ,a,0218, ","   1341.5"," ,a"

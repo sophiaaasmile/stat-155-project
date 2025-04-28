@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00092116","2000","-41.8023","148.011","242.4","ROSEMOUNT FLAT, AS","        85","a","        33","a","         4","a","  88.8"," ,a,0105, ","    575.0"," ,a"
+"ASN00092116","2002","-41.8023","148.011","242.4","ROSEMOUNT FLAT, AS","        89","a","        44","a","         1","a","  34.2"," ,a,0208, ","    400.4"," ,a"
+"ASN00092116","2003","-41.8023","148.011","242.4","ROSEMOUNT FLAT, AS","       107","a","        59","a","         7","a","  56.0"," ,a,0824, ","    726.6"," ,a"

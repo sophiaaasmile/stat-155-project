@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1PAAD0006","2016","39.8896","-77.3756","360.6","ORRTANNA 3.2 NNW, PA US","       132","N","        79","N","         7","N","  71.9"," ,N,0929, ","    996.9"," ,N"
+"US1PAAD0006","2020","39.8896","-77.3756","360.6","ORRTANNA 3.2 NNW, PA US","       138","N","        83","N","         9","N","  63.0"," ,N,0501, ","   1090.7"," ,N"
+"US1PAAD0006","2024","39.8896","-77.3756","360.6","ORRTANNA 3.2 NNW, PA US","       135","N","        75","N","        13","N","  72.1"," ,N,0110, ","   1297.5"," ,N"

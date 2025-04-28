@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010275","1907","-31.0","117.0",,"UBERIN, AS","        69","a","        51","a","         3","a","  45.7"," ,a,0729, ","    466.9"," ,a"
+"ASN00010275","1908","-31.0","117.0",,"UBERIN, AS","        41","a","        35","a","         4","a","  54.9"," ,a,0519, ","    412.4"," ,a"
+"ASN00010275","1909","-31.0","117.0",,"UBERIN, AS","        64","a","        50","a","         1","a","  26.7"," ,a,0611, ","    469.4"," ,a"

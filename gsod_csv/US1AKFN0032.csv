@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1AKFN0032","2005","64.839853","-147.863861","138.7","FAIRBANKS 6.3 W, AK US","       125","N","        38","N","         0","N","        14","N","   163"," ,N,0115, ","  17.5"," ,N,0619, ","    329.6"," ,N","     1329"," ,N"
+"US1AKFN0032","2009","64.839853","-147.863861","138.7","FAIRBANKS 6.3 W, AK US","        99","N","        34","N","         0","N","        19","N","   132"," ,N,0228, ","  17.8"," ,N,0624, ","    268.6"," ,N","     1425"," ,N"
+"US1AKFN0032","2014","64.839853","-147.863861","138.7","FAIRBANKS 6.3 W, AK US","","","","","","","","","","","","","    438.1"," ,N","",""
+"US1AKFN0032","2020","64.839853","-147.863861","138.7","FAIRBANKS 6.3 W, AK US","       154","N","        51","N","         1","N","        19","N","   318"," ,N,1106, ","  28.4"," ,N,0621, ","    435.6"," ,N","     1952"," ,N"

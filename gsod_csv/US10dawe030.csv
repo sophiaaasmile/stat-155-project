@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10dawe030","2018","42.454872","-103.233418",,"MARSLAND 3.5 E, NE US","        83","N","        48","N","         3","N","  42.9"," ,N,0528, ","    468.7"," ,N"
+"US10dawe030","2021","42.454872","-103.233418",,"MARSLAND 3.5 E, NE US","        59","N","        32","N","         1","N","  25.4"," ,N,0614, ","    266.5"," ,N"
+"US10dawe030","2022","42.454872","-103.233418",,"MARSLAND 3.5 E, NE US","        61","N","        33","N","         3","N","  62.2"," ,N,0815, ","    414.9"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00090131","1915","-38.35","144.0",,"WENSLEY DALE STATE SCHOOL, AS","       163","a","        83","a","         0","a","  20.6"," ,a,0113, ","    609.8"," ,a"
+"ASN00090131","1916","-38.35","144.0",,"WENSLEY DALE STATE SCHOOL, AS","        98","a","        73","a","         6","a","  37.1"," ,a,0922, ","    681.6"," ,a"
+"ASN00090131","1923","-38.35","144.0",,"WENSLEY DALE STATE SCHOOL, AS","       109","a","        74","a","         5","a","  41.9"," ,a,1121,+","    733.6"," ,a"
+"ASN00090131","1927","-38.35","144.0",,"WENSLEY DALE STATE SCHOOL, AS","        78","a","        59","a","         2","a","  32.8"," ,a,0725, ","    544.5"," ,a"

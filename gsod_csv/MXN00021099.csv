@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00021099","1968","19.9333","-97.9333","1678.8","TOMA VEINTISEIS CLFC, MX","       150","m","        80","m","         3","m","  36.1"," ,m,0923, ","    795.2"," ,m"
+"MXN00021099","1971","19.9333","-97.9333","1678.8","TOMA VEINTISEIS CLFC, MX","       136","m","        88","m","        14","m","  66.5"," ,m,1109, ","   1179.5"," ,m"
+"MXN00021099","1977","19.9333","-97.9333","1678.8","TOMA VEINTISEIS CLFC, MX","       102","m","        50","m","         2","m","  32.3"," ,m,1003, ","    475.9"," ,m"
+"MXN00021099","1980","19.9333","-97.9333","1678.8","TOMA VEINTISEIS CLFC, MX","       129","m","        75","m","         4","m"," 103.4"," ,m,0926, ","    802.7"," ,m"

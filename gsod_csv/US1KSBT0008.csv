@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSBT0008","2009","38.368705","-98.772271","562.1","GREAT BEND 2.1 ENE, KS US","       106","N","        52","N","         9","N","  54.6"," ,N,0818, ","    745.8"," ,N"
+"US1KSBT0008","2010","38.368705","-98.772271","562.1","GREAT BEND 2.1 ENE, KS US","        87","N","        44","N","         7","N","  76.7"," ,N,0520, ","    706.5"," ,N"
+"US1KSBT0008","2011","38.368705","-98.772271","562.1","GREAT BEND 2.1 ENE, KS US","        75","N","        33","N","         3","N","  57.4"," ,N,0525, ","    471.0"," ,N"
+"US1KSBT0008","2012","38.368705","-98.772271","562.1","GREAT BEND 2.1 ENE, KS US","        64","N","        36","N","         2","N","  33.0"," ,N,1111, ","    383.5"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010907","1972","-32.4842","116.7042",,"THORNTON PARK, AS","        71","a","        35","a","         4","a","  36.8"," ,a,0723, ","    395.2"," ,a"
+"ASN00010907","1973","-32.4842","116.7042",,"THORNTON PARK, AS","       107","a","        60","a","         3","a","  33.8"," ,a,0610, ","    580.5"," ,a"
+"ASN00010907","1978","-32.4842","116.7042",,"THORNTON PARK, AS","        79","a","        52","a","         3","a","  40.8"," ,a,0715, ","    569.6"," ,a"

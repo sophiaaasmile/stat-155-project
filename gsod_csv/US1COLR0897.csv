@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COLR0897","2019","40.720613","-105.414993","2303.4","LIVERMORE 9.9 WSW, CO US","","","","","","","","","    412.6"," ,N"
+"US1COLR0897","2021","40.720613","-105.414993","2303.4","LIVERMORE 9.9 WSW, CO US","        85","N","        40","N","         3","N","  70.4"," ,N,0314, ","    451.2"," ,N"
+"US1COLR0897","2022","40.720613","-105.414993","2303.4","LIVERMORE 9.9 WSW, CO US","        91","N","        46","N","         1","N","  25.4"," ,N,0808, ","    426.3"," ,N"
+"US1COLR0897","2023","40.720613","-105.414993","2303.4","LIVERMORE 9.9 WSW, CO US","        93","N","        51","N","         1","N","  28.7"," ,N,0605, ","    531.6"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASN0159","2020","38.789416","-123.024785","117.0","CLOVERDALE 0.8 SSW, CA US","        48","N","        33","N","         1","N","  29.5"," ,N,0116, ","    349.8"," ,N"
+"US1CASN0159","2021","38.789416","-123.024785","117.0","CLOVERDALE 0.8 SSW, CA US","        76","N","        45","N","         8","N","  99.8"," ,N,1024, ","    788.2"," ,N"
+"US1CASN0159","2022","38.789416","-123.024785","117.0","CLOVERDALE 0.8 SSW, CA US","        52","N","        33","N","         4","N","  79.5"," ,N,1227, ","    524.1"," ,N"
+"US1CASN0159","2024","38.789416","-123.024785","117.0","CLOVERDALE 0.8 SSW, CA US","        82","N","        64","N","        12","N"," 125.5"," ,N,1122, ","   1311.1"," ,N"

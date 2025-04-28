@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NCCH0055","2022","35.64555556","-79.44333333","162.2","SILER CITY 5.6 S, NC US","       112","N","        70","N","        12","N","         2","N","    76"," ,N,0122, "," 113.3"," ,N,0708, ","   1228.9"," ,N","      104"," ,N"
+"US1NCCH0055","2023","35.64555556","-79.44333333","162.2","SILER CITY 5.6 S, NC US","       123","N","        75","N","        14","N","         0","N","     0","T,N,0114, ","  67.1"," ,N,1218, ","   1184.3"," ,N","        0","T,N"
+"US1NCCH0055","2024","35.64555556","-79.44333333","162.2","SILER CITY 5.6 S, NC US","       112","N","        73","N","        16","N","         0","N","     0","T,N,1203, ","  92.2"," ,N,0917, ","   1323.3"," ,N","        0","T,N"

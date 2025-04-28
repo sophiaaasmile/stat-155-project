@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MAHS0045","2022","42.301837","-72.774175","185.9","WESTHAMPTON 0.4 WNW, MA US","       132","N","        77","N","        12","N","        15","N","   165"," ,N,1212, ","  57.2"," ,N,1223, ","   1193.4"," ,N","      944"," ,N"
+"US1MAHS0045","2023","42.301837","-72.774175","185.9","WESTHAMPTON 0.4 WNW, MA US","       142","N","        95","N","        23","N","        14","N","   381"," ,N,0223, ","  86.1"," ,N,1218, ","   1742.9"," ,N","     1529"," ,N"
+"US1MAHS0045","2024","42.301837","-72.774175","185.9","WESTHAMPTON 0.4 WNW, MA US","       128","N","        82","N","        15","N","        11","N","   203"," ,N,0107, ","  72.9"," ,N,0110, ","   1339.9"," ,N","      989"," ,N"

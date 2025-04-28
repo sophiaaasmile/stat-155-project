@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00017122","1996","-30.4456","138.9481","518.0","GAMMON RANGES OWIEANDANA, AS","        21","a","        13","a","         3","a","  84.0"," ,a,0316, ","    273.3"," ,a"
+"ASN00017122","1998","-30.4456","138.9481","518.0","GAMMON RANGES OWIEANDANA, AS","        44","a","        27","a","         1","a","  30.0"," ,a,1111, ","    248.4"," ,a"
+"ASN00017122","1999","-30.4456","138.9481","518.0","GAMMON RANGES OWIEANDANA, AS","        18","a","        16","a","         0","a","  24.2"," ,a,0212, ","    116.1"," ,a"
+"ASN00017122","2000","-30.4456","138.9481","518.0","GAMMON RANGES OWIEANDANA, AS","        37","a","        28","a","         3","a","  47.0"," ,a,0212, ","    338.1"," ,a"

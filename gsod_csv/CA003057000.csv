@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003057000","1944","49.05","-113.7","1372.0","WATERTON LAKES BELLY R, AB CA","","","","","","","","","","","","","    772.0"," ,C","     2947"," ,C"
+"CA003057000","1946","49.05","-113.7","1372.0","WATERTON LAKES BELLY R, AB CA","","","","","","","        37","C","   533"," ,C,1117, ","","","   1103.3"," ,C","     5181"," ,C"
+"CA003057000","1947","49.05","-113.7","1372.0","WATERTON LAKES BELLY R, AB CA","       107","C","        75","C","         4","C","        44","C","   508"," ,C,0917, ","  57.4"," ,C,0822, ","    754.7"," ,C","     4128"," ,C"
+"CA003057000","1948","49.05","-113.7","1372.0","WATERTON LAKES BELLY R, AB CA","       105","C","        80","C","         9","C","        44","C","   394"," ,C,0124, ","  56.4"," ,C,0616, ","    967.7"," ,C","     4207"," ,C"
+"CA003057000","1950","49.05","-113.7","1372.0","WATERTON LAKES BELLY R, AB CA","       127","C","        88","C","         6","C","        58","C","   279"," ,C,0122, ","  39.1"," ,C,0606, ","    929.1"," ,C","     6198"," ,C"

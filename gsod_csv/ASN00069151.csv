@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00069151","2009","-36.8531","149.9344","55.0","TURA BEACH JAMES COOK COURT, AS","       101","a","        47","a","         3","a","  34.6"," ,a,0414, ","    470.6"," ,a"
+"ASN00069151","2010","-36.8531","149.9344","55.0","TURA BEACH JAMES COOK COURT, AS","       111","a","        57","a","         9","a","  95.0"," ,a,0215, ","    979.5"," ,a"
+"ASN00069151","2011","-36.8531","149.9344","55.0","TURA BEACH JAMES COOK COURT, AS","       121","a","        66","a","         4","a"," 115.0"," ,a,0322, ","    839.4"," ,a"

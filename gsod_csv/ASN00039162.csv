@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00039162","1969","-24.8167","152.1667","6.1","SMITH CROSSING, AS","        64","a","        51","a","        12","a","  49.5"," ,a,0827, ","    743.7"," ,a"
+"ASN00039162","1970","-24.8167","152.1667","6.1","SMITH CROSSING, AS","        70","a","        61","a","        12","a"," 105.2"," ,a,0129, ","   1132.1"," ,a"
+"ASN00039162","1971","-24.8167","152.1667","6.1","SMITH CROSSING, AS","        63","a","        59","a","        21","a","  90.4"," ,a,0131, ","   1504.3"," ,a"
+"ASN00039162","1972","-24.8167","152.1667","6.1","SMITH CROSSING, AS","        29","a","        27","a","         7","a"," 121.9"," ,a,0402, ","    642.4"," ,a"

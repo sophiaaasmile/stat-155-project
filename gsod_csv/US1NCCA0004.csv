@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCCA0004","2015","36.44363","-76.328896","2.7","SOUTH MILLS 0.1 SW, NC US","       150","N","        83","N","        15","N","  99.1"," ,N,0807, ","   1354.4"," ,N"
+"US1NCCA0004","2016","36.44363","-76.328896","2.7","SOUTH MILLS 0.1 SW, NC US","       129","N","        79","N","        16","N"," 132.6"," ,N,0921, ","   1773.6"," ,N"
+"US1NCCA0004","2022","36.44363","-76.328896","2.7","SOUTH MILLS 0.1 SW, NC US","        97","N","        66","N","        10","N","  68.1"," ,N,0117, ","    982.3"," ,N"

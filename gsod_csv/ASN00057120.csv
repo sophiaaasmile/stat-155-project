@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00057120","1988","-29.1961","152.72","270.0","BARYULGIL MOOKIMA, AS","       133","a","        92","a","        24","a"," 109.0"," ,a,1219, ","   2083.4"," ,a"
+"ASN00057120","1990","-29.1961","152.72","270.0","BARYULGIL MOOKIMA, AS","       130","a","        92","a","        11","a"," 152.4"," ,a,0204, ","   1501.2"," ,a"
+"ASN00057120","1991","-29.1961","152.72","270.0","BARYULGIL MOOKIMA, AS","        93","a","        60","a","        12","a"," 118.8"," ,a,1213, ","   1072.6"," ,a"

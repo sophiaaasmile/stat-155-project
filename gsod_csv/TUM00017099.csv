@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"TUM00017099","2017","39.733","43.05","1632.0","AGRI, TU","       109","S","        49","S","         3","S","  37.1"," ,S,1028, ","    439.6"," ,S"
+"TUM00017099","2023","39.733","43.05","1632.0","AGRI, TU","       127","S","        64","S","         1","S","  36.1"," ,S,0421, ","    554.1"," ,S"
+"TUM00017099","2024","39.733","43.05","1632.0","AGRI, TU","       139","S","        68","S","         2","S","  67.8"," ,S,1018, ","    614.8"," ,S"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CAHM0006","2020","41.078333","-124.151667","61.3","TRINIDAD 1.5 NNW, CA US","       114","N","        76","N","         8","N","  54.1"," ,N,1217, ","    971.0"," ,N"
+"US1CAHM0006","2021","41.078333","-124.151667","61.3","TRINIDAD 1.5 NNW, CA US","       138","N","        75","N","        12","N","  71.1"," ,N,1022, ","   1274.4"," ,N"
+"US1CAHM0006","2023","41.078333","-124.151667","61.3","TRINIDAD 1.5 NNW, CA US","","","","","","","","","   1380.9"," ,N"
+"US1CAHM0006","2024","41.078333","-124.151667","61.3","TRINIDAD 1.5 NNW, CA US","       159","N","       107","N","        23","N","  80.0"," ,N,0504, ","   1928.9"," ,N"

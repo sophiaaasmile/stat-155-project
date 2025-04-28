@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010789","2009","-34.4019","118.1019","260.0","MOINGUP SPRINGS, AS","","","","","","","","","    497.2"," ,a"
+"ASN00010789","2010","-34.4019","118.1019","260.0","MOINGUP SPRINGS, AS","       124","a","        63","a","         1","a","  45.4"," ,a,0210, ","    490.5"," ,a"
+"ASN00010789","2011","-34.4019","118.1019","260.0","MOINGUP SPRINGS, AS","","","","","","","","","    748.6"," ,a"
+"ASN00010789","2015","-34.4019","118.1019","260.0","MOINGUP SPRINGS, AS","","","","","","","","","    580.1"," ,a"

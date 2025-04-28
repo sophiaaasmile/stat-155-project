@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001109004","1961","49.0667","-122.0667","99.0","YARROW, BC CA","       179","C","       137","C","        10","C","         7","C","    76"," ,C,1218,+","  41.9"," ,C,1109, ","   1605.3"," ,C","      346"," ,C"
+"CA001109004","1962","49.0667","-122.0667","99.0","YARROW, BC CA","       189","C","       128","C","        11","C","        13","C","   343"," ,C,0116, ","  50.0"," ,C,0102, ","   1445.6"," ,C","     1204"," ,C"
+"CA001109004","1963","49.0667","-122.0667","99.0","YARROW, BC CA","       184","C","       123","C","        12","C","         5","C","    76"," ,C,0130, ","  47.5"," ,C,1223, ","   1459.2"," ,C","      220"," ,C"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COMT0020","2006","38.634648","-107.961926","1620.3","OLATHE 2.3 NNE, CO US","        63","N","        30","N","         0","N","         7","N","   356"," ,N,1129, ","  17.3"," ,N,1004, ","    215.9"," ,N","      698"," ,N"
+"US1COMT0020","2007","38.634648","-107.961926","1620.3","OLATHE 2.3 NNE, CO US","        60","N","        28","N","         0","N","         6","N","   102"," ,N,0228, ","  23.4"," ,N,0917, ","    210.1"," ,N","      352"," ,N"
+"US1COMT0020","2008","38.634648","-107.961926","1620.3","OLATHE 2.3 NNE, CO US","        49","N","        20","N","         0","N","         9","N","    97"," ,N,1223, ","  20.1"," ,N,0808, ","    144.3"," ,N","      644"," ,N"

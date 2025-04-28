@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00014846","1980","-16.5478","131.7883","200.0","TOP SPRINGS DTW, AS","        41","a","        37","a","         9","a","  80.0"," ,a,0213, ","    761.0"," ,a"
+"ASN00014846","1981","-16.5478","131.7883","200.0","TOP SPRINGS DTW, AS","        58","a","        46","a","         9","a","  78.0"," ,a,0131, ","    753.4"," ,a"
+"ASN00014846","1982","-16.5478","131.7883","200.0","TOP SPRINGS DTW, AS","        55","a","        46","a","        10","a","  58.0"," ,a,1225, ","    820.6"," ,a"

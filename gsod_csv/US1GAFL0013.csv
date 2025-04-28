@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GAFL0013","2013","34.084999","-85.3379148","224.0","CAVE SPRING 1.7 S, GA US","       135","N","        87","N","        22","N","  78.0"," ,N,1209, ","   1767.3"," ,N"
+"US1GAFL0013","2014","34.084999","-85.3379148","224.0","CAVE SPRING 1.7 S, GA US","       135","N","        83","N","        13","N","  86.1"," ,N,0407, ","   1263.2"," ,N"
+"US1GAFL0013","2015","34.084999","-85.3379148","224.0","CAVE SPRING 1.7 S, GA US","       158","N","        97","N","        12","N","  73.2"," ,N,1202, ","   1496.0"," ,N"
+"US1GAFL0013","2016","34.084999","-85.3379148","224.0","CAVE SPRING 1.7 S, GA US","        96","N","        62","N","         8","N","  54.4"," ,N,0224, ","    898.9"," ,N"

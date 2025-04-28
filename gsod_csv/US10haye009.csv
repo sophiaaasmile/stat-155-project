@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10haye009","2010","40.4232","-101.211","864.1","HAYES CENTER 11.7 WSW, NE US","        62","N","        41","N","         8","N","         3","N","   127"," ,N,0221, ","  53.3"," ,N,0817, ","    576.4"," ,N","      254"," ,N"
+"US10haye009","2011","40.4232","-101.211","864.1","HAYES CENTER 11.7 WSW, NE US","        61","N","        45","N","         7","N","         3","N","   102"," ,N,0208, ","  69.9"," ,N,0620, ","    584.7"," ,N","      204"," ,N"
+"US10haye009","2013","40.4232","-101.211","864.1","HAYES CENTER 11.7 WSW, NE US","        57","N","        37","N","         2","N","         0","N","     0"," ,N,1231,+","  35.6"," ,N,0530, ","    391.5"," ,N","        0"," ,N"

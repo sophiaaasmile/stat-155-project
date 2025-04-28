@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NMED0020","2007","32.626975","-104.38326","1007.1","ARTESIA 15.5 S LEWIS, NM US","        40","N","        29","N","         6","N","         0","N","     0"," ,N,1231,+","  33.0"," ,N,0930, ","    415.2"," ,N","        0"," ,N"
+"US1NMED0020","2008","32.626975","-104.38326","1007.1","ARTESIA 15.5 S LEWIS, NM US","        33","N","        18","N","         2","N","         0","N","     0"," ,N,1231,+","  57.2"," ,N,0710, ","    234.7"," ,N","        0"," ,N"
+"US1NMED0020","2013","32.626975","-104.38326","1007.1","ARTESIA 15.5 S LEWIS, NM US","        32","N","        17","N","         4","N","","","","","  39.4"," ,N,0718, ","    269.5"," ,N","",""
+"US1NMED0020","2014","32.626975","-104.38326","1007.1","ARTESIA 15.5 S LEWIS, NM US","        26","N","        24","N","         4","N","","","","","  42.9"," ,N,0731, ","    322.7"," ,N","",""

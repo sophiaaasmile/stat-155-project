@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006160822","1982","44.5833","-78.5167","248.0","BOBCAYGEON, ON CA","       164","C","        97","C","         1","C","        27","C","   200"," ,C,0203, ","  34.2"," ,C,0615, ","    979.0"," ,C","     1992"," ,C"
+"CA006160822","1983","44.5833","-78.5167","248.0","BOBCAYGEON, ON CA","       143","C","        87","C","         2","C","        27","C","   270"," ,C,1206, ","  27.0"," ,C,1206,+","    850.4"," ,C","     2230"," ,C"
+"CA006160822","1984","44.5833","-78.5167","248.0","BOBCAYGEON, ON CA","","","","","","","        26","C","   220"," ,C,0228, ","","","","","     2096"," ,C"

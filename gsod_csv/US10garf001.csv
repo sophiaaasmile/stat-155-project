@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10garf001","2005","41.7952","-99.1076","676.0","BURWELL 1.6 ENE, NE US","        74","N","        40","N","         5","N","  74.2"," ,N,0811, ","    549.5"," ,N"
+"US10garf001","2006","41.7952","-99.1076","676.0","BURWELL 1.6 ENE, NE US","        54","N","        23","N","         4","N","  30.2"," ,N,0922, ","    331.6"," ,N"

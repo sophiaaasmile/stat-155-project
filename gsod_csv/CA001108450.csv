@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001108450","1956","49.25","-123.0833","66.0","VANCOUVER KINGCREST, BC CA","       159","C","       124","C","         8","C","         7","C","   114"," ,C,0215, ","  77.2"," ,C,1019, ","   1608.2"," ,C","      535"," ,C"
+"CA001108450","1957","49.25","-123.0833","66.0","VANCOUVER KINGCREST, BC CA","","","","","","","         5","C","   137"," ,C,0222, ","","","","","      450"," ,C"
+"CA001108450","1958","49.25","-123.0833","66.0","VANCOUVER KINGCREST, BC CA","       171","C","       120","C","         8","C","         3","C","   165"," ,C,1206, ","  51.8"," ,C,1217, ","   1454.5"," ,C","      272"," ,C"
+"CA001108450","1959","49.25","-123.0833","66.0","VANCOUVER KINGCREST, BC CA","","","","","","","         4","C","    71"," ,C,1114, ","","","","","      206"," ,C"
+"CA001108450","1960","49.25","-123.0833","66.0","VANCOUVER KINGCREST, BC CA","       179","C","       123","C","         9","C","         3","C","    69"," ,C,0110, ","  52.6"," ,C,1211, ","   1488.2"," ,C","      270"," ,C"

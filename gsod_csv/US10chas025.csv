@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10chas025","2005","40.4213","-101.7182","1015.9","CHAMPION 3.7 SSE, NE US","        64","N","        38","N","         3","N","  75.4"," ,N,0611, ","    491.8"," ,N"
+"US10chas025","2006","40.4213","-101.7182","1015.9","CHAMPION 3.7 SSE, NE US","        53","N","        34","N","         3","N","  38.1"," ,N,0705, ","    356.3"," ,N"
+"US10chas025","2012","40.4213","-101.7182","1015.9","CHAMPION 3.7 SSE, NE US","        45","N","        27","N","         2","N","  33.3"," ,N,0427, ","    268.5"," ,N"

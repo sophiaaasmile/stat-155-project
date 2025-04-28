@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CALA0044","2014","33.833958","-118.328091","28.0","TORRANCE 0.7 E, CA US","        22","N","        17","N","         2","N","  59.4"," ,N,1217, ","    238.6"," ,N"
+"US1CALA0044","2015","33.833958","-118.328091","28.0","TORRANCE 0.7 E, CA US","        26","N","        14","N","         0","N","  24.9"," ,N,0111, ","    155.1"," ,N"
+"US1CALA0044","2016","33.833958","-118.328091","28.0","TORRANCE 0.7 E, CA US","        25","N","        16","N","         1","N","  28.4"," ,N,0107, ","    225.8"," ,N"

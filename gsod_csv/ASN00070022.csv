@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00070022","1911","-35.3","148.8",,"CONDORE FARM, AS","        86","a","        71","a","        10","a","  68.6"," ,a,0511, ","   1138.1"," ,a"
+"ASN00070022","1912","-35.3","148.8",,"CONDORE FARM, AS","        92","a","        70","a","        15","a","  65.0"," ,a,0724, ","   1137.2"," ,a"
+"ASN00070022","1913","-35.3","148.8",,"CONDORE FARM, AS","        71","a","        61","a","         4","a","  38.1"," ,a,0306, ","    706.0"," ,a"
+"ASN00070022","1914","-35.3","148.8",,"CONDORE FARM, AS","        53","a","        48","a","        10","a","  52.1"," ,a,1228, ","    713.9"," ,a"

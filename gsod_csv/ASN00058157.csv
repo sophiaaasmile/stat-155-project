@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00058157","1973","-29.0","153.05","38.0","ELLANGOWAN EAGLEHAWK, AS","        80","a","        66","a","        12","a","  95.3"," ,a,0214, ","   1055.6"," ,a"
+"ASN00058157","1977","-29.0","153.05","38.0","ELLANGOWAN EAGLEHAWK, AS","        39","a","        35","a","         9","a"," 131.2"," ,a,0408, ","   1001.0"," ,a"
+"ASN00058157","1978","-29.0","153.05","38.0","ELLANGOWAN EAGLEHAWK, AS","        60","a","        58","a","        10","a","  74.8"," ,a,0319, ","   1012.3"," ,a"
+"ASN00058157","1979","-29.0","153.05","38.0","ELLANGOWAN EAGLEHAWK, AS","        42","a","        38","a","         9","a","  82.0"," ,a,0621, ","    798.7"," ,a"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00F5-0030","1960","-24.0","-48.0","0.0","SALTO GRANDE DO GUARAU F5 003, BR","       185","I","       118","I","        21","I"," 195.2"," ,I,0229, ","   2256.9"," ,I"
+"BR00F5-0030","1961","-24.0","-48.0","0.0","SALTO GRANDE DO GUARAU F5 003, BR","       190","I","       121","I","        30","I"," 197.9"," ,I,0217, ","   2434.4"," ,I"
+"BR00F5-0030","1962","-24.0","-48.0","0.0","SALTO GRANDE DO GUARAU F5 003, BR","       222","I","       120","I","        18","I"," 125.5"," ,I,0130, ","   1746.7"," ,I"
+"BR00F5-0030","1963","-24.0","-48.0","0.0","SALTO GRANDE DO GUARAU F5 003, BR","       175","I","       112","I","        19","I"," 100.2"," ,I,0112, ","   1995.9"," ,I"
+"BR00F5-0030","1964","-24.0","-48.0","0.0","SALTO GRANDE DO GUARAU F5 003, BR","       198","I","       116","I","        14","I"," 106.4"," ,I,0308, ","   1661.0"," ,I"

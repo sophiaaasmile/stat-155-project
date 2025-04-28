@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00033089","1945","-21.15","148.7167",,"MOUNT CASTOR, AS","       103","a","        79","a","        11","a"," 128.0"," ,a,1019, ","   1377.0"," ,a"
+"ASN00033089","1946","-21.15","148.7167",,"MOUNT CASTOR, AS","        65","a","        57","a","        14","a"," 325.1"," ,a,0304, ","   1742.1"," ,a"

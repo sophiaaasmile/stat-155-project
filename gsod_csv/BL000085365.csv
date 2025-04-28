@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"BL000085365","2009","-21.95","-63.65",,"YACUIBA, BL","         0","S","       299","S","       106","S","   41.5","S,1101, ","     28.64","S"
+"BL000085365","2010","-21.95","-63.65",,"YACUIBA, BL","         0","S","       271","S","       112","S","   42.8","S,1029, ","     27.92","S"
+"BL000085365","2018","-21.95","-63.65",,"YACUIBA, BL","         0","S","       283","S","        86","S","   40.1","S,0923, ","     27.32","S"

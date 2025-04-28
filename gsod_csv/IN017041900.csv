@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN017041900","1978","20.3","86.68","8.0","PRADEEP CWR OBSERVATORY, IN","       110","I","        85","I","        34","I"," 474.7"," ,I,0827, ","   3185.8"," ,I"
+"IN017041900","1979","20.3","86.68","8.0","PRADEEP CWR OBSERVATORY, IN","        72","I","        63","I","        30","I"," 334.8"," ,I,0808, ","   2567.2"," ,I"
+"IN017041900","1981","20.3","86.68","8.0","PRADEEP CWR OBSERVATORY, IN","       108","I","        78","I","        35","I"," 216.4"," ,I,0813, ","   3482.9"," ,I"
+"IN017041900","1982","20.3","86.68","8.0","PRADEEP CWR OBSERVATORY, IN","        90","I","        69","I","        27","I"," 220.2"," ,I,0603, ","   2230.4"," ,I"
+"IN017041900","1984","20.3","86.68","8.0","PRADEEP CWR OBSERVATORY, IN","        94","I","        69","I","        33","I"," 421.6"," ,I,0816, ","   2971.1"," ,I"

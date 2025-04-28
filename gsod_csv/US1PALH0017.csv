@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1PALH0017","2021","40.6848","-75.5887","199.6","SCHNECKSVILLE 1.7 ENE, PA US","       111","N","        78","N","        15","N","         8","N","   508"," ,N,0202, "," 112.8"," ,N,0909, ","   1378.6"," ,N","     1050"," ,N"
+"US1PALH0017","2022","40.6848","-75.5887","199.6","SCHNECKSVILLE 1.7 ENE, PA US","       119","N","        81","N","        15","N","         7","N","   114"," ,N,0213, ","  69.1"," ,N,0823, ","   1328.3"," ,N","      595"," ,N"
+"US1PALH0017","2023","40.6848","-75.5887","199.6","SCHNECKSVILLE 1.7 ENE, PA US","       112","N","        84","N","        17","N","         2","N","    66"," ,N,0228, ","  76.2"," ,N,1218, ","   1378.3"," ,N","      126"," ,N"
+"US1PALH0017","2024","40.6848","-75.5887","199.6","SCHNECKSVILLE 1.7 ENE, PA US","       103","N","        80","N","        10","N","         8","N","   160"," ,N,0107, ","  67.6"," ,N,0110, ","   1163.8"," ,N","      785"," ,N"

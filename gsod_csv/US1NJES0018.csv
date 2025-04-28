@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NJES0018","2016","40.724466","-74.259542","72.5","MAPLEWOOD TWP 0.9 SE, NJ US","       118","N","        74","N","        10","N","  58.9"," ,N,1130, ","   1000.7"," ,N"
+"US1NJES0018","2018","40.724466","-74.259542","72.5","MAPLEWOOD TWP 0.9 SE, NJ US","       152","N","       100","N","        14","N","  51.6"," ,N,0926, ","   1639.8"," ,N"
+"US1NJES0018","2020","40.724466","-74.259542","72.5","MAPLEWOOD TWP 0.9 SE, NJ US","       143","N","        83","N","         8","N","  77.2"," ,N,0711, ","   1093.4"," ,N"
+"US1NJES0018","2024","40.724466","-74.259542","72.5","MAPLEWOOD TWP 0.9 SE, NJ US","       131","N","        85","N","        12","N","  88.1"," ,N,0819, ","   1296.4"," ,N"

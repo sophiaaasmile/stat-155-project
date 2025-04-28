@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004075840","1951","53.5167","-105.5333","485.0","PADDOCKWOOD EXPERIMENTAL ST, SK CA","        80","C","        49","C","         0","C","        24","C","   140"," ,C,0316, ","  14.0"," ,C,0316, ","    276.5"," ,C","     1336"," ,C"
+"CA004075840","1952","53.5167","-105.5333","485.0","PADDOCKWOOD EXPERIMENTAL ST, SK CA","","","","","","","         6","C","    76"," ,C,0305, ","","","    324.4"," ,C","      371"," ,C"
+"CA004075840","1954","53.5167","-105.5333","485.0","PADDOCKWOOD EXPERIMENTAL ST, SK CA","        62","C","        53","C","         3","C","        15","C","   152"," ,C,0406, ","  90.2"," ,C,0821, ","    602.0"," ,C","     1149"," ,C"
+"CA004075840","1956","53.5167","-105.5333","485.0","PADDOCKWOOD EXPERIMENTAL ST, SK CA","        39","C","        33","C","         2","C","        14","C","   178"," ,C,0326, ","  25.4"," ,C,0902,+","    309.4"," ,C","     1173"," ,C"

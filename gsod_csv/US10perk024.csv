@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10perk024","2009","40.9773","-101.4284","1008.9","ELSIE 9.2 NNW, NE US","        95","N","        55","N","         4","N","  45.7"," ,N,0524, ","    622.9"," ,N"
+"US10perk024","2011","40.9773","-101.4284","1008.9","ELSIE 9.2 NNW, NE US","        98","N","        51","N","         7","N","  46.7"," ,N,1008, ","    646.6"," ,N"
+"US10perk024","2013","40.9773","-101.4284","1008.9","ELSIE 9.2 NNW, NE US","        75","N","        50","N","         3","N","  53.3"," ,N,0520, ","    454.5"," ,N"
+"US10perk024","2014","40.9773","-101.4284","1008.9","ELSIE 9.2 NNW, NE US","        65","N","        38","N","         4","N","  76.7"," ,N,0607, ","    544.7"," ,N"

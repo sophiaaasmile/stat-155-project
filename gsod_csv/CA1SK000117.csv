@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1SK000117","2021","50.98528","-106.93333","584.3","LUCKY LAKE 2.7 ESE, SK CA","        49","N","        32","N","         1","N","  29.2"," ,N,0524, ","    238.0"," ,N"
+"CA1SK000117","2022","50.98528","-106.93333","584.3","LUCKY LAKE 2.7 ESE, SK CA","        73","N","        36","N","         0","N","  17.3"," ,N,0514, ","    256.6"," ,N"
+"CA1SK000117","2023","50.98528","-106.93333","584.3","LUCKY LAKE 2.7 ESE, SK CA","        46","N","        24","N","         2","N","  52.1"," ,N,0822, ","    280.9"," ,N"

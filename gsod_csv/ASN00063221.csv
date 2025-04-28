@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00063221","1910","-33.6833","150.1333",,"DURAL DEMONSTRATION ORCHARD, AS","        99","a","        71","a","        13","a"," 170.2"," ,a,0718, ","   1206.8"," ,a"
+"ASN00063221","1911","-33.6833","150.1333",,"DURAL DEMONSTRATION ORCHARD, AS","       121","a","        71","a","        15","a"," 107.4"," ,a,0113, ","   1242.3"," ,a"
+"ASN00063221","1912","-33.6833","150.1333",,"DURAL DEMONSTRATION ORCHARD, AS","       101","a","        61","a","        12","a","  72.4"," ,a,0524, ","   1100.5"," ,a"
+"ASN00063221","1913","-33.6833","150.1333",,"DURAL DEMONSTRATION ORCHARD, AS","        94","a","        61","a","        21","a"," 108.0"," ,a,0515,+","   1551.1"," ,a"
+"ASN00063221","1914","-33.6833","150.1333",,"DURAL DEMONSTRATION ORCHARD, AS","       110","a","        72","a","        18","a"," 144.8"," ,a,0324, ","   1509.7"," ,a"

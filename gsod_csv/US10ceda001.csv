@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10ceda001","2007","42.628","-97.27","417.0","HARTINGTON 0.5 NW, NE US","        80","N","        52","N","         7","N","  49.8"," ,N,1015, ","    648.2"," ,N"
+"US10ceda001","2008","42.628","-97.27","417.0","HARTINGTON 0.5 NW, NE US","        93","N","        59","N","         8","N","  84.3"," ,N,1007, ","    834.3"," ,N"

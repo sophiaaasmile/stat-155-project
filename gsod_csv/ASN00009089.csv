@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009089","1911","-32.4","116.0167",,"JARRAHDALE MILL, AS","       127","a","        68","a","        11","a","  97.0"," ,a,0427, ","    983.9"," ,a"
+"ASN00009089","1912","-32.4","116.0167",,"JARRAHDALE MILL, AS","       125","a","        82","a","        14","a","  85.6"," ,a,0508, ","   1289.7"," ,a"
+"ASN00009089","1913","-32.4","116.0167",,"JARRAHDALE MILL, AS","       144","a","        86","a","        14","a","  48.3"," ,a,0801, ","   1295.0"," ,a"
+"ASN00009089","1914","-32.4","116.0167",,"JARRAHDALE MILL, AS","       114","a","        72","a","         3","a","  56.1"," ,a,0604, ","    761.1"," ,a"
+"ASN00009089","1915","-32.4","116.0167",,"JARRAHDALE MILL, AS","       171","a","       125","a","        18","a","  64.8"," ,a,0415, ","   1834.9"," ,a"

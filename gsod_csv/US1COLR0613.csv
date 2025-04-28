@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COLR0613","2005","40.6391","-105.0424","1549.0","FORT COLLINS 4.2 NNE, CO US","        35","N","        31","N","         5","N","         6","N","   102"," ,N,0105, ","  39.1"," ,N,0610, ","    410.3"," ,N","      393"," ,N"
+"US1COLR0613","2006","40.6391","-105.0424","1549.0","FORT COLLINS 4.2 NNE, CO US","        30","N","        21","N","         2","N","         5","N","   419"," ,N,1220, ","  47.5"," ,N,1220, ","    259.2"," ,N","      896"," ,N"
+"US1COLR0613","2007","40.6391","-105.0424","1549.0","FORT COLLINS 4.2 NNE, CO US","        66","N","        34","N","         1","N","         8","N","    89"," ,N,1211, ","  26.9"," ,N,1014, ","    317.2"," ,N","      494"," ,N"
+"US1COLR0613","2010","40.6391","-105.0424","1549.0","FORT COLLINS 4.2 NNE, CO US","        50","N","        31","N","         4","N","","","","","  36.6"," ,N,0422, ","    341.9"," ,N","",""

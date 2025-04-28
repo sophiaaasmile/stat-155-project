@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INBW0024","2021","39.349215","-85.842153","209.7","HOPE 5.2 NW, IN US","       139","N","        92","N","        10","N"," 101.3"," ,N,0619, ","   1303.1"," ,N"
+"US1INBW0024","2023","39.349215","-85.842153","209.7","HOPE 5.2 NW, IN US","       119","N","        73","N","         6","N","  59.7"," ,N,0304, ","    869.0"," ,N"
+"US1INBW0024","2024","39.349215","-85.842153","209.7","HOPE 5.2 NW, IN US","       126","N","        81","N","        12","N","  60.2"," ,N,0508, ","   1166.0"," ,N"

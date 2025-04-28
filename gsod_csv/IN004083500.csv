@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN004083500","1964","25.87","85.58","38.0","PATEPUR, IN","        57","I","        55","I","        14","I","  97.8"," ,I,0904, ","   1112.5"," ,I"
+"IN004083500","1965","25.87","85.58","38.0","PATEPUR, IN","        31","I","        31","I","        11","I"," 110.5"," ,I,0730, ","    777.2"," ,I"
+"IN004083500","1966","25.87","85.58","38.0","PATEPUR, IN","        32","I","        25","I","         5","I","  61.5"," ,I,0806, ","    405.5"," ,I"

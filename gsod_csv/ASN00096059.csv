@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00096059","1937","-42.1333","146.2167",,"DERWENT BRIDGE, AS","       183","a","       122","a","        11","a","  40.1"," ,a,0102, ","   1451.5"," ,a"
+"ASN00096059","1938","-42.1333","146.2167",,"DERWENT BRIDGE, AS","       196","a","       130","a","         8","a","  64.3"," ,a,1211, ","   1553.2"," ,a"
+"ASN00096059","1941","-42.1333","146.2167",,"DERWENT BRIDGE, AS","       194","a","       116","a","         7","a","  44.5"," ,a,1020, ","   1299.4"," ,a"

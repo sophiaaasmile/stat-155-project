@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00030157","1993","-18.2817","143.1828","200.0","RIVERVIEW GILBERT RV, AS","        34","a","        28","a","         7","a","  70.0"," ,a,0219,+","    547.6"," ,a"
+"ASN00030157","1995","-18.2817","143.1828","200.0","RIVERVIEW GILBERT RV, AS","        38","a","        38","a","         8","a","  93.0"," ,a,0210, ","    791.0"," ,a"
+"ASN00030157","2020","-18.2817","143.1828","200.0","RIVERVIEW GILBERT RV, AS","         1","a","         1","a","         1","a"," 109.0"," ,a,1231, ","    109.0"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CASD0132","2017","32.908253","-116.622739","1014.1","DESCANSO 3.7N, CA US","        44","N","        31","N","         6","N","         0","N","    13"," ,N,0124, ","  84.8"," ,N,0228, ","    573.4"," ,N","       13"," ,N"
+"US1CASD0132","2018","32.908253","-116.622739","1014.1","DESCANSO 3.7N, CA US","        42","N","        28","N","         3","N","","","","","  80.8"," ,N,0110, ","    421.9"," ,N","",""
+"US1CASD0132","2019","32.908253","-116.622739","1014.1","DESCANSO 3.7N, CA US","        80","N","        56","N","        12","N","","","","","  97.0"," ,N,0215, ","   1016.2"," ,N","",""

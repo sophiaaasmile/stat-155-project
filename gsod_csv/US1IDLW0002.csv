@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IDLW0002","2011","46.235032","-116.24292","983.0","NEZPERCE 0.2 WNW, ID US","       146","N","        72","N","         0","N","  22.1"," ,N,0608, ","    546.4"," ,N"
+"US1IDLW0002","2012","46.235032","-116.24292","983.0","NEZPERCE 0.2 WNW, ID US","       138","N","        71","N","         0","N","  23.1"," ,N,0522, ","    627.3"," ,N"
+"US1IDLW0002","2013","46.235032","-116.24292","983.0","NEZPERCE 0.2 WNW, ID US","       109","N","        58","N","         0","N","  24.4"," ,N,0619, ","    448.7"," ,N"
+"US1IDLW0002","2015","46.235032","-116.24292","983.0","NEZPERCE 0.2 WNW, ID US","       123","N","        60","N","         0","N","  25.1"," ,N,0714, ","    506.1"," ,N"

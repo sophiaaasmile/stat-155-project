@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCHN0047","2018","35.2852","-82.50115","709.3","HENDERSONVILLE 3.3 SW, NC US","       177","N","       111","N","        31","N"," 102.4"," ,N,1011, ","   2448.4"," ,N"
+"US1NCHN0047","2019","35.2852","-82.50115","709.3","HENDERSONVILLE 3.3 SW, NC US","       162","N","       104","N","        25","N"," 121.9"," ,N,0420, ","   2038.3"," ,N"
+"US1NCHN0047","2020","35.2852","-82.50115","709.3","HENDERSONVILLE 3.3 SW, NC US","       192","N","       109","N","        24","N","  97.5"," ,N,0413, ","   2186.3"," ,N"
+"US1NCHN0047","2021","35.2852","-82.50115","709.3","HENDERSONVILLE 3.3 SW, NC US","       141","N","        92","N","        17","N"," 129.5"," ,N,0326, ","   1684.3"," ,N"
+"US1NCHN0047","2023","35.2852","-82.50115","709.3","HENDERSONVILLE 3.3 SW, NC US","       151","N","        90","N","        16","N"," 120.4"," ,N,1226, ","   1369.2"," ,N"

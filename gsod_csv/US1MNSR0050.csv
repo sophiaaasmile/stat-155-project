@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNSR0050","2021","45.4538","-95.0067","387.1","BELGRADE 0.4 WNW, MN US","       104","N","        51","N","         6","N","  50.0"," ,N,0917, ","    676.9"," ,N"
+"US1MNSR0050","2022","45.4538","-95.0067","387.1","BELGRADE 0.4 WNW, MN US","       107","N","        55","N","         5","N","  81.0"," ,N,0512, ","    609.5"," ,N"
+"US1MNSR0050","2023","45.4538","-95.0067","387.1","BELGRADE 0.4 WNW, MN US","       110","N","        49","N","         5","N","  72.6"," ,N,0726, ","    682.7"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NJAT0017","2018","39.531434","-74.647077","17.4","EGG HARBOR CITY 3.6 SW, NJ US","       138","N","        93","N","        18","N","  75.2"," ,N,1125, ","   1590.4"," ,N"
+"US1NJAT0017","2020","39.531434","-74.647077","17.4","EGG HARBOR CITY 3.6 SW, NJ US","       145","N","        89","N","        16","N","  66.8"," ,N,0711, ","   1424.6"," ,N"
+"US1NJAT0017","2022","39.531434","-74.647077","17.4","EGG HARBOR CITY 3.6 SW, NJ US","       121","N","        70","N","        12","N"," 111.3"," ,N,1003, ","   1183.3"," ,N"
+"US1NJAT0017","2024","39.531434","-74.647077","17.4","EGG HARBOR CITY 3.6 SW, NJ US","       111","N","        75","N","        11","N","  84.1"," ,N,0110, ","   1093.0"," ,N"

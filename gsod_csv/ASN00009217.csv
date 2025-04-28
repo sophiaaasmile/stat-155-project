@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009217","1991","-31.8097","115.8183","50.0","KINGSLEY, AS","       108","a","        82","a","         8","a","  37.8"," ,a,0410, ","    992.4"," ,a"
+"ASN00009217","1993","-31.8097","115.8183","50.0","KINGSLEY, AS","        93","a","        51","a","         6","a"," 102.4"," ,a,0502, ","    813.4"," ,a"
+"ASN00009217","1994","-31.8097","115.8183","50.0","KINGSLEY, AS","        76","a","        48","a","         4","a","  53.8"," ,a,0804, ","    575.2"," ,a"

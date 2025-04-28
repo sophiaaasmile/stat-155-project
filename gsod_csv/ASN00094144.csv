@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00094144","1973","-42.6667","147.2667","53.3","PONTVILLE SHENE, AS","        83","a","        51","a","         3","a","  39.6"," ,a,0228, ","    576.4"," ,a"
+"ASN00094144","1974","-42.6667","147.2667","53.3","PONTVILLE SHENE, AS","        87","a","        61","a","         3","a","  37.6"," ,a,1226, ","    580.6"," ,a"
+"ASN00094144","1975","-42.6667","147.2667","53.3","PONTVILLE SHENE, AS","       106","a","        75","a","         6","a","  52.2"," ,a,0706, ","    785.2"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COGN0059","2017","38.5985","-106.5313","2785.6","PITKIN 1.1 SW, CO US","","","","","","","","","","","","","    613.0"," ,N","",""
+"US1COGN0059","2023","38.5985","-106.5313","2785.6","PITKIN 1.1 SW, CO US","","","","","","","","","","","","","    496.2"," ,N","",""
+"US1COGN0059","2024","38.5985","-106.5313","2785.6","PITKIN 1.1 SW, CO US","       144","N","        70","N","         1","N","        58","N","   432"," ,N,1127, ","  37.6"," ,N,1127, ","    582.0"," ,N","     4859"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00007316","1981","16.0833","-92.8333","549.9","EL AMBAR DE ECHEVERRIA, MX","        79","m","        70","m","        16","m","  81.8"," ,m,0826, ","   1084.2"," ,m"
+"MXN00007316","1982","16.0833","-92.8333","549.9","EL AMBAR DE ECHEVERRIA, MX","        89","m","        85","m","        29","m"," 105.9"," ,m,0625, ","   2006.3"," ,m"
+"MXN00007316","1984","16.0833","-92.8333","549.9","EL AMBAR DE ECHEVERRIA, MX","        57","m","        57","m","        21","m","  61.0"," ,m,0616, ","   1261.7"," ,m"
+"MXN00007316","1985","16.0833","-92.8333","549.9","EL AMBAR DE ECHEVERRIA, MX","        54","m","        47","m","        20","m"," 111.0"," ,m,0621, ","   1182.5"," ,m"

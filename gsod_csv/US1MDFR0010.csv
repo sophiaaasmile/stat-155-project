@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MDFR0010","2020","39.6125","-77.405","152.7","THURMONT 0.8 SSE, MD US","       125","N","        78","N","        12","N","  58.2"," ,N,1225, ","   1051.4"," ,N"
+"US1MDFR0010","2022","39.6125","-77.405","152.7","THURMONT 0.8 SSE, MD US","        95","N","        67","N","         8","N","  74.9"," ,N,0507, ","    972.6"," ,N"
+"US1MDFR0010","2023","39.6125","-77.405","152.7","THURMONT 0.8 SSE, MD US","       101","N","        54","N","         6","N","  69.1"," ,N,1122, ","    790.1"," ,N"

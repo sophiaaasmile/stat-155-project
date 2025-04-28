@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MTLY0017","2022","48.9867","-110.9885","1056.4","WHITLASH 13.2 ENE, MT US","        68","N","        41","N","         1","N","  30.7"," ,N,0704, ","    316.1"," ,N"
+"US1MTLY0017","2023","48.9867","-110.9885","1056.4","WHITLASH 13.2 ENE, MT US","        59","N","        33","N","         1","N","  25.4"," ,N,0822, ","    291.6"," ,N"
+"US1MTLY0017","2024","48.9867","-110.9885","1056.4","WHITLASH 13.2 ENE, MT US","        73","N","        38","N","         3","N","  72.4"," ,N,0508, ","    434.6"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCCR0120","2020","34.6987","-76.7497","3.4","ATLANTIC BEACH 0.6 W, NC US","       138","N","        95","N","        24","N","  81.8"," ,N,1130, ","   1768.4"," ,N"
+"US1NCCR0120","2021","34.6987","-76.7497","3.4","ATLANTIC BEACH 0.6 W, NC US","       127","N","        84","N","        15","N"," 177.3"," ,N,0804, ","   1554.1"," ,N"
+"US1NCCR0120","2022","34.6987","-76.7497","3.4","ATLANTIC BEACH 0.6 W, NC US","       111","N","        75","N","        15","N","  67.3"," ,N,0717, ","   1239.0"," ,N"

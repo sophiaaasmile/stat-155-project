@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002750022","1989","-27.12","-50.46","0.0","PONTE ALTA DO NORTE CIFSUL, BR","       129","I","       106","I","        20","I","  58.6"," ,I,0912, ","   1620.7"," ,I"
+"BR002750022","1990","-27.12","-50.46","0.0","PONTE ALTA DO NORTE CIFSUL, BR","       158","I","       117","I","        32","I","  89.7"," ,I,0101, ","   2305.6"," ,I"
+"BR002750022","1991","-27.12","-50.46","0.0","PONTE ALTA DO NORTE CIFSUL, BR","       119","I","        79","I","        19","I","  83.7"," ,I,1006, ","   1375.1"," ,I"
+"BR002750022","1992","-27.12","-50.46","0.0","PONTE ALTA DO NORTE CIFSUL, BR","       148","I","       116","I","        17","I","  88.2"," ,I,0701, ","   1912.3"," ,I"
+"BR002750022","1996","-27.12","-50.46","0.0","PONTE ALTA DO NORTE CIFSUL, BR","       154","I","       103","I","        24","I","  74.1"," ,I,1221, ","   1889.3"," ,I"

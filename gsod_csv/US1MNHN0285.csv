@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNHN0285","2021","44.905744","-93.207883","255.1","MINNEAPOLIS 4.9 SE, MN US","        85","N","        59","N","         5","N","  57.2"," ,N,0827, ","    687.3"," ,N"
+"US1MNHN0285","2022","44.905744","-93.207883","255.1","MINNEAPOLIS 4.9 SE, MN US","       102","N","        54","N","         2","N","  47.5"," ,N,0512, ","    586.9"," ,N"
+"US1MNHN0285","2023","44.905744","-93.207883","255.1","MINNEAPOLIS 4.9 SE, MN US","        93","N","        48","N","         5","N","  50.8"," ,N,0924, ","    695.4"," ,N"
+"US1MNHN0285","2024","44.905744","-93.207883","255.1","MINNEAPOLIS 4.9 SE, MN US","       112","N","        72","N","        13","N","  47.8"," ,N,0522, ","   1042.4"," ,N"

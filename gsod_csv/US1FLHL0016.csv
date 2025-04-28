@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLHL0016","2009","27.316927","-81.429714","27.1","LAKE PLACID 3.9 WNW, FL US","       116","N","        75","N","        16","N","  87.1"," ,N,0604, ","   1287.5"," ,N"
+"US1FLHL0016","2010","27.316927","-81.429714","27.1","LAKE PLACID 3.9 WNW, FL US","       114","N","        75","N","        17","N","  86.1"," ,N,0518, ","   1266.5"," ,N"
+"US1FLHL0016","2011","27.316927","-81.429714","27.1","LAKE PLACID 3.9 WNW, FL US","       112","N","        72","N","        18","N","  53.8"," ,N,1009, ","   1156.7"," ,N"
+"US1FLHL0016","2014","27.316927","-81.429714","27.1","LAKE PLACID 3.9 WNW, FL US","       130","N","        96","N","        16","N","  48.5"," ,N,0709, ","   1371.1"," ,N"

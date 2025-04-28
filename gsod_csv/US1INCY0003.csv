@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1INCY0003","2007","39.276373","-87.110448","184.1","CLAY CITY 0.1 ESE, IN US","","","","","","","","","","","","","   1275.4"," ,N","",""
+"US1INCY0003","2008","39.276373","-87.110448","184.1","CLAY CITY 0.1 ESE, IN US","       146","N","        87","N","        18","N","         7","N","    51"," ,N,1206, "," 206.2"," ,N,0607, ","   1654.4"," ,N","      294"," ,N"
+"US1INCY0003","2009","39.276373","-87.110448","184.1","CLAY CITY 0.1 ESE, IN US","","","","","","","","","","","","","   1340.7"," ,N","",""
+"US1INCY0003","2010","39.276373","-87.110448","184.1","CLAY CITY 0.1 ESE, IN US","       122","N","        73","N","         7","N","        10","N","   140"," ,N,0215, ","  57.4"," ,N,1125, ","    999.3"," ,N","      707"," ,N"

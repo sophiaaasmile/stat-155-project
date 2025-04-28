@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00073027","2001","-34.79","148.2631","290.0","JUGIONG MYRELLA, AS","        86","a","        47","a","         5","a","  82.0"," ,a,0312, ","    564.6"," ,a"
+"ASN00073027","2002","-34.79","148.2631","290.0","JUGIONG MYRELLA, AS","        71","a","        36","a","         2","a","  38.6"," ,a,0205, ","    406.8"," ,a"
+"ASN00073027","2003","-34.79","148.2631","290.0","JUGIONG MYRELLA, AS","        94","a","        53","a","         3","a","  46.4"," ,a,1203, ","    549.4"," ,a"

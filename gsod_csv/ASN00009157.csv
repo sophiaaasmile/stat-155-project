@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009157","1930","-30.9667","115.8",,"MORAY, AS","       111","a","        61","a","         1","a","  42.9"," ,a,0708, ","    646.1"," ,a"
+"ASN00009157","1931","-30.9667","115.8",,"MORAY, AS","       108","a","        65","a","         5","a","  44.7"," ,a,0509, ","    710.9"," ,a"
+"ASN00009157","1932","-30.9667","115.8",,"MORAY, AS","       110","a","        61","a","         8","a","  45.5"," ,a,0529, ","    759.7"," ,a"

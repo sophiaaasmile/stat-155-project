@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00D5-0560","1968","-22.97","-48.1","470.0","JUQUIRATIBA EFS, BR","        58","I","        45","I","        10","I","  83.5"," ,I,0420, ","    752.4"," ,I"
+"BR00D5-0560","1970","-22.97","-48.1","470.0","JUQUIRATIBA EFS, BR","        72","I","        66","I","        14","I","  69.0"," ,I,0222, ","   1268.1"," ,I"
+"BR00D5-0560","1971","-22.97","-48.1","470.0","JUQUIRATIBA EFS, BR","        75","I","        68","I","         7","I","  71.3"," ,I,1012, ","    934.7"," ,I"
+"BR00D5-0560","1972","-22.97","-48.1","470.0","JUQUIRATIBA EFS, BR","       103","I","        87","I","        21","I","  72.3"," ,I,1201, ","   1581.3"," ,I"

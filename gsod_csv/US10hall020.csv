@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10hall020","2005","40.8873","-98.7113","616.9","GRAND ISLAND 19.4 W, NE US","        48","N","        34","N","         6","N","  87.6"," ,N,0512, ","    484.3"," ,N"
+"US10hall020","2012","40.8873","-98.7113","616.9","GRAND ISLAND 19.4 W, NE US","        31","N","        18","N","         2","N","  37.1"," ,N,0413, ","    225.0"," ,N"

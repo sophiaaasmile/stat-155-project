@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002052004","1987","-20.6","-52.22","0.0","GARCIAS, BR","       102","I","        73","I","         9","I","  60.0"," ,I,1108, ","   1031.2"," ,I"
+"BR002052004","1988","-20.6","-52.22","0.0","GARCIAS, BR","        85","I","        68","I","        15","I","  70.0"," ,I,1226, ","   1100.5"," ,I"
+"BR002052004","1991","-20.6","-52.22","0.0","GARCIAS, BR","        74","I","        54","I","        14","I","  76.6"," ,I,0203, ","   1023.3"," ,I"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALSC0003","2008","33.488501","-86.325154","142.0","PELL CITY 5.8 SSW, AL US","       112","N","        66","N","        18","N"," 104.4"," ,N,0826, ","   1362.3"," ,N"
+"US1ALSC0003","2009","33.488501","-86.325154","142.0","PELL CITY 5.8 SSW, AL US","       147","N","       102","N","        27","N","  91.9"," ,N,0927, ","   2075.8"," ,N"
+"US1ALSC0003","2010","33.488501","-86.325154","142.0","PELL CITY 5.8 SSW, AL US","        98","N","        68","N","        14","N","  87.6"," ,N,0311, ","   1198.4"," ,N"
+"US1ALSC0003","2011","33.488501","-86.325154","142.0","PELL CITY 5.8 SSW, AL US","        96","N","        74","N","        17","N","  82.6"," ,N,0309, ","   1401.3"," ,N"

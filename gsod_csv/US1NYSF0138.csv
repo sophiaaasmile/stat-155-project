@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NYSF0138","2021","40.745169","-73.083736","7.9","SAYVILLE, NY US","       134","N","        78","N","        14","N","","","","","  76.2"," ,N,1027, ","   1173.5"," ,N","",""
+"US1NYSF0138","2022","40.745169","-73.083736","7.9","SAYVILLE, NY US","       132","N","        80","N","         5","N","         4","N","   216"," ,N,0130, ","  38.6"," ,N,0117, ","    919.7"," ,N","      585"," ,N"
+"US1NYSF0138","2023","40.745169","-73.083736","7.9","SAYVILLE, NY US","       125","N","        78","N","        15","N","         0","N","     0"," ,N,1231,+","  81.5"," ,N,0717, ","   1156.7"," ,N","        0"," ,N"
+"US1NYSF0138","2024","40.745169","-73.083736","7.9","SAYVILLE, NY US","       123","N","        67","N","        13","N","         2","N","    61"," ,N,0217, ","  60.7"," ,N,0110, ","   1073.4"," ,N","      104"," ,N"

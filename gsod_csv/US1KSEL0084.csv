@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSEL0084","2019","38.883662","-99.308059","616.6","HAYS 0.7 ENE, KS US","        89","N","        57","N","         8","N","  83.8"," ,N,0818, ","    922.5"," ,N"
+"US1KSEL0084","2020","38.883662","-99.308059","616.6","HAYS 0.7 ENE, KS US","        74","N","        33","N","         5","N","  64.8"," ,N,0829, ","    555.1"," ,N"
+"US1KSEL0084","2021","38.883662","-99.308059","616.6","HAYS 0.7 ENE, KS US","        63","N","        41","N","         8","N","  62.2"," ,N,0813, ","    630.0"," ,N"

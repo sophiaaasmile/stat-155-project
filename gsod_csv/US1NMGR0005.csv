@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NMGR0005","2007","32.8083","-108.28614","1873.0","SILVER CITY 2.1 NNW, NM US","        96","N","        53","N","         3","N","         8","N","   254"," ,N,0122, ","  42.7"," ,N,0713, ","    559.7"," ,N","      674"," ,N"
+"US1NMGR0005","2008","32.8083","-108.28614","1873.0","SILVER CITY 2.1 NNW, NM US","        73","N","        49","N","         2","N","         5","N","   117"," ,N,0216, ","  38.4"," ,N,0711, ","    543.8"," ,N","      335"," ,N"
+"US1NMGR0005","2009","32.8083","-108.28614","1873.0","SILVER CITY 2.1 NNW, NM US","        66","N","        36","N","         1","N","","","","","  25.4"," ,N,0823, ","    305.2"," ,N","",""
+"US1NMGR0005","2011","32.8083","-108.28614","1873.0","SILVER CITY 2.1 NNW, NM US","        42","N","        30","N","         1","N","","","","","  43.4"," ,N,1213, ","    301.7"," ,N","",""
+"US1NMGR0005","2012","32.8083","-108.28614","1873.0","SILVER CITY 2.1 NNW, NM US","        48","N","        26","N","         0","N","","","","","  22.4"," ,N,0820, ","    213.7"," ,N","",""

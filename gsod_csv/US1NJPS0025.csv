@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NJPS0025","2015","41.020218","-74.3289","110.3","BLOOMINGDALE 0.7 SSE, NJ US","       116","N","        63","N","         9","N","  74.4"," ,N,0930, ","    983.9"," ,N"
+"US1NJPS0025","2016","41.020218","-74.3289","110.3","BLOOMINGDALE 0.7 SSE, NJ US","       135","N","        74","N","         9","N","  84.8"," ,N,0801, ","   1060.6"," ,N"
+"US1NJPS0025","2017","41.020218","-74.3289","110.3","BLOOMINGDALE 0.7 SSE, NJ US","       168","N","        72","N","        10","N","  71.9"," ,N,1030, ","    990.3"," ,N"
+"US1NJPS0025","2018","41.020218","-74.3289","110.3","BLOOMINGDALE 0.7 SSE, NJ US","       203","N","       102","N","        15","N","  66.8"," ,N,0113, ","   1647.4"," ,N"

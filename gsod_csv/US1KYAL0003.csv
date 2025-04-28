@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1KYAL0003","2008","36.80217","-86.1373","217.0","SCOTTSVILLE 4.9 NE, KY US","       136","N","        82","N","        12","N","","","","","  75.4"," ,N,0404, ","   1313.8"," ,N","",""
+"US1KYAL0003","2009","36.80217","-86.1373","217.0","SCOTTSVILLE 4.9 NE, KY US","       154","N","        99","N","        14","N","","","","","  95.8"," ,N,0128, ","   1540.8"," ,N","",""
+"US1KYAL0003","2010","36.80217","-86.1373","217.0","SCOTTSVILLE 4.9 NE, KY US","       128","N","        75","N","        13","N","         5","N","   147"," ,N,0130, "," 121.9"," ,N,0503, ","   1326.5"," ,N","      450"," ,N"
+"US1KYAL0003","2012","36.80217","-86.1373","217.0","SCOTTSVILLE 4.9 NE, KY US","       125","N","        78","N","        16","N","","","","","  69.3"," ,N,1210, ","   1201.4"," ,N","",""
+"US1KYAL0003","2015","36.80217","-86.1373","217.0","SCOTTSVILLE 4.9 NE, KY US","","","","","","","","","","","","","   1482.5"," ,N","",""

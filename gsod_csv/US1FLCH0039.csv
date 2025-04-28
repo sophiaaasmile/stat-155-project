@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLCH0039","2021","26.930229","-82.285098","4.0","GROVE CITY 2.8 NE, FL US","        81","N","        74","N","        20","N"," 224.8"," ,N,0707, ","   1451.0"," ,N"
+"US1FLCH0039","2023","26.930229","-82.285098","4.0","GROVE CITY 2.8 NE, FL US","        80","N","        50","N","        15","N","  88.6"," ,N,0619, ","   1013.6"," ,N"
+"US1FLCH0039","2024","26.930229","-82.285098","4.0","GROVE CITY 2.8 NE, FL US","       109","N","        73","N","        21","N"," 110.0"," ,N,0623, ","   1709.0"," ,N"

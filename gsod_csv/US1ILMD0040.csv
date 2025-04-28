@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILMD0040","2021","38.8041","-89.9477","171.3","EDWARDSVILLE 1.1 ENE, IL US","       149","N","        83","N","        10","N","  60.2"," ,N,0318, ","   1267.6"," ,N"
+"US1ILMD0040","2022","38.8041","-89.9477","171.3","EDWARDSVILLE 1.1 ENE, IL US","       134","N","        80","N","        15","N","  80.5"," ,N,0727, ","   1246.4"," ,N"
+"US1ILMD0040","2023","38.8041","-89.9477","171.3","EDWARDSVILLE 1.1 ENE, IL US","       129","N","        71","N","        11","N","  72.1"," ,N,0730, ","   1011.1"," ,N"
+"US1ILMD0040","2024","38.8041","-89.9477","171.3","EDWARDSVILLE 1.1 ENE, IL US","       132","N","        83","N","        20","N"," 137.4"," ,N,1105, ","   1496.0"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MDWR0005","2008","38.3985","-75.1762","9.1","OCEAN PINES 1.8 NW, MD US","       137","N","        76","N","        15","N"," 114.3"," ,N,1212, ","   1269.8"," ,N"
+"US1MDWR0005","2009","38.3985","-75.1762","9.1","OCEAN PINES 1.8 NW, MD US","       169","N","        94","N","        17","N"," 123.4"," ,N,0911, ","   1636.0"," ,N"
+"US1MDWR0005","2010","38.3985","-75.1762","9.1","OCEAN PINES 1.8 NW, MD US","        92","N","        67","N","        12","N","  64.3"," ,N,0819, ","   1047.0"," ,N"

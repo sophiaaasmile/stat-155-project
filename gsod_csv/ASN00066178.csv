@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00066178","1905","-33.85","151.1833","10.0","BIRCHGROVE SCHOOL, AS","       131","a","        61","a","        11","a","  59.7"," ,a,0402, ","    925.2"," ,a"
+"ASN00066178","1906","-33.85","151.1833","10.0","BIRCHGROVE SCHOOL, AS","       126","a","        58","a","         6","a","  97.3"," ,a,0831, ","    730.2"," ,a"
+"ASN00066178","1907","-33.85","151.1833","10.0","BIRCHGROVE SCHOOL, AS","       103","a","        51","a","         7","a","  79.2"," ,a,0316, ","    689.5"," ,a"
+"ASN00066178","1908","-33.85","151.1833","10.0","BIRCHGROVE SCHOOL, AS","       136","a","        63","a","        14","a"," 158.8"," ,a,0728, ","   1111.7"," ,a"

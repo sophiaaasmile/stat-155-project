@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASD0062","2012","33.118667","-117.30435","51.2","CARLSBAD 3.8SE, CA US","        47","N","        20","N","         1","N","  29.2"," ,N,1213, ","    201.7"," ,N"
+"US1CASD0062","2013","33.118667","-117.30435","51.2","CARLSBAD 3.8SE, CA US","        25","N","        14","N","         0","N","  20.8"," ,N,0308, ","    107.4"," ,N"
+"US1CASD0062","2014","33.118667","-117.30435","51.2","CARLSBAD 3.8SE, CA US","        29","N","        18","N","         1","N","  26.2"," ,N,0301, ","    196.3"," ,N"
+"US1CASD0062","2015","33.118667","-117.30435","51.2","CARLSBAD 3.8SE, CA US","        33","N","        14","N","         0","N","  24.9"," ,N,0301, ","    137.9"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00094093","1961","-42.7667","147.1833",,"GRANTON ALTAMONT, AS","       120","a","        50","a","         1","a","  32.3"," ,a,0424, ","    374.9"," ,a"
+"ASN00094093","1962","-42.7667","147.1833",,"GRANTON ALTAMONT, AS","       125","a","        67","a","         3","a","  30.5"," ,a,0725, ","    538.7"," ,a"
+"ASN00094093","1969","-42.7667","147.1833",,"GRANTON ALTAMONT, AS","       152","a","       131","a","         9","a","  45.7"," ,a,0222, ","   1396.7"," ,a"
+"ASN00094093","1970","-42.7667","147.1833",,"GRANTON ALTAMONT, AS","       181","a","       148","a","         8","a","  87.1"," ,a,0321, ","   1626.5"," ,a"

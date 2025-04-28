@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","FZF0","FZF0_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"PAM00086097","1996","-22.6","-55.833","652.0","PEDRO JUAN CABALLERO, PA","       120","S","        82","S","        21","S","","","","","","","  69.1"," ,S,1217, ","","","   1518.2"," ,S","",""
+"PAM00086097","2010","-22.6","-55.833","652.0","PEDRO JUAN CABALLERO, PA","","","","","","","         0","S","         0","S","    2.6","S,0805, ","","","","","","","     17.32","S"
+"PAM00086097","2013","-22.6","-55.833","652.0","PEDRO JUAN CABALLERO, PA","","","","","","","         0","S","         1","S","   -0.8","S,0724, ","","","-0.8","S,0724","","","     17.40","S"
+"PAM00086097","2014","-22.6","-55.833","652.0","PEDRO JUAN CABALLERO, PA","","","","","","","         0","S","         0","S","    2.0","S,0725, ","","","","","","","     18.27","S"

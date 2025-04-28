@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA00104LC3N","1988","49.7333","-124.1833","26.0","HARDY ISLAND, BC CA","","","         0","C","","","    18"," ,C,0202, ","       18"," ,C"
+"CA00104LC3N","1989","49.7333","-124.1833","26.0","HARDY ISLAND, BC CA","","","         1","C","","","    60"," ,C,0218, ","       82"," ,C"
+"CA00104LC3N","1991","49.7333","-124.1833","26.0","HARDY ISLAND, BC CA","       12","","","","   270"," ,C,0109, ","","","",""
+"CA00104LC3N","1992","49.7333","-124.1833","26.0","HARDY ISLAND, BC CA","","","         2","C","","","    68"," ,C,1228, ","      170"," ,C"

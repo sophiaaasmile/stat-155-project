@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001844004","1977","-18.76","-44.4","0.0","GRANJA SANTA BRANCA, BR","        53","I","        51","I","        10","I","  65.0"," ,I,1006, ","    936.5"," ,I"
+"BR001844004","1980","-18.76","-44.4","0.0","GRANJA SANTA BRANCA, BR","        66","I","        61","I","        17","I","  71.8"," ,I,0218, ","   1142.3"," ,I"
+"BR001844004","1983","-18.76","-44.4","0.0","GRANJA SANTA BRANCA, BR","       111","I","       106","I","        19","I","  95.8"," ,I,0106, ","   1627.7"," ,I"
+"BR001844004","1984","-18.76","-44.4","0.0","GRANJA SANTA BRANCA, BR","        73","I","        71","I","        10","I","  47.8"," ,I,0405, ","    997.7"," ,I"

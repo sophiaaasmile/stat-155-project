@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001168667","1963","50.9333","-120.25","357.0","VINSULLA, BC CA","       100","C","        51","C","         0","C","        15","C","    84"," ,C,1214, ","  18.0"," ,C,0629, ","    323.5"," ,C","      726"," ,C"
+"CA001168667","1964","50.9333","-120.25","357.0","VINSULLA, BC CA","        98","C","        57","C","         0","C","        23","C","   188"," ,C,0115, ","  24.6"," ,C,0907, ","    374.7"," ,C","     1427"," ,C"
+"CA001168667","1965","50.9333","-120.25","357.0","VINSULLA, BC CA","        83","C","        45","C","         1","C","        16","C","   147"," ,C,1227,+","  30.2"," ,C,0823, ","    356.9"," ,C","     1324"," ,C"

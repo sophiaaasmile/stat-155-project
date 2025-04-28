@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALTP0011","2008","32.8875","-85.9338","150.0","ALEXANDER CITY 2.7 S, AL US","        97","N","        70","N","        16","N"," 113.5"," ,N,0824, ","   1477.9"," ,N"
+"US1ALTP0011","2009","32.8875","-85.9338","150.0","ALEXANDER CITY 2.7 S, AL US","       136","N","       105","N","        29","N","  81.8"," ,N,1111, ","   2162.0"," ,N"
+"US1ALTP0011","2010","32.8875","-85.9338","150.0","ALEXANDER CITY 2.7 S, AL US","        80","N","        52","N","        16","N","  84.6"," ,N,0311, ","   1125.4"," ,N"
+"US1ALTP0011","2011","32.8875","-85.9338","150.0","ALEXANDER CITY 2.7 S, AL US","        79","N","        61","N","        16","N","  91.2"," ,N,0721, ","   1206.8"," ,N"

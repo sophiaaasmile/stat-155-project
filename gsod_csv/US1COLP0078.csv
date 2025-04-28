@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COLP0078","2014","37.18044","-108.03632","2217.7","HESPERUS 6.9 S, CO US","        73","N","        37","N","         0","N","  21.8"," ,N,1020, ","    332.9"," ,N"
+"US1COLP0078","2016","37.18044","-108.03632","2217.7","HESPERUS 6.9 S, CO US","       103","N","        52","N","         1","N","  26.7"," ,N,0806, ","    504.2"," ,N"
+"US1COLP0078","2018","37.18044","-108.03632","2217.7","HESPERUS 6.9 S, CO US","","","","","","","","","    302.6"," ,N"
+"US1COLP0078","2021","37.18044","-108.03632","2217.7","HESPERUS 6.9 S, CO US","        89","N","        48","N","         3","N","  32.3"," ,N,1210, ","    514.1"," ,N"

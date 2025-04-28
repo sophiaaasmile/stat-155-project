@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TAVG","TAVG_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"LAM00048938","2015","19.233","101.733","326.0","SAYABOURY, LA","","","","","         0","S","       330","S","       160","S","","","   39.0","S,0421,+","","","     31.68","S","",""
+"LAM00048938","2022","19.233","101.733","326.0","SAYABOURY, LA","         0","S","         0","S","         0","S","       335","S","       179","S","    9.5","S,1219, ","   37.2","S,0428, ","     26.22","S","     31.90","S","     20.53","S"
+"LAM00048938","2023","19.233","101.733","326.0","SAYABOURY, LA","         0","S","         0","S","","","","","","","    9.2","S,0131, ","","","","","","","     20.42","S"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILCP0072","2020","40.06131","-87.951129","201.5","HOMER 2.1 NNE, IL US","       120","N","        77","N","        10","N","  81.3"," ,N,0604, ","   1015.5"," ,N"
+"US1ILCP0072","2021","40.06131","-87.951129","201.5","HOMER 2.1 NNE, IL US","       135","N","        81","N","        10","N","  91.9"," ,N,0619, ","   1139.5"," ,N"
+"US1ILCP0072","2023","40.06131","-87.951129","201.5","HOMER 2.1 NNE, IL US","       113","N","        65","N","         7","N","  57.4"," ,N,0708, ","    884.9"," ,N"

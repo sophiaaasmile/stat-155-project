@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001017329","1970","48.6833","-123.4","18.0","SIDNEY DEEP COVE, BC CA","        97","C","        73","C","         4","C","         1","C","    76"," ,C,1120, ","  36.8"," ,C,0408, ","    825.7"," ,C","       76"," ,C"
+"CA001017329","1972","48.6833","-123.4","18.0","SIDNEY DEEP COVE, BC CA","","","","","","","         5","C","   127"," ,C,1211, ","","","","","      425"," ,C"

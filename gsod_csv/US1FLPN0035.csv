@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLPN0035","2021","27.758823","-82.71644","5.8","GULFPORT 0.9 NNW, FL US","        85","N","        69","N","        15","N","  71.1"," ,N,1106, ","   1242.0"," ,N"
+"US1FLPN0035","2022","27.758823","-82.71644","5.8","GULFPORT 0.9 NNW, FL US","       104","N","        92","N","        22","N","  82.3"," ,N,1111, ","   1537.6"," ,N"
+"US1FLPN0035","2023","27.758823","-82.71644","5.8","GULFPORT 0.9 NNW, FL US","        71","N","        49","N","         8","N","  94.0"," ,N,0601, ","    803.7"," ,N"
+"US1FLPN0035","2024","27.758823","-82.71644","5.8","GULFPORT 0.9 NNW, FL US","        87","N","        71","N","        21","N"," 194.3"," ,N,0805, ","   1667.1"," ,N"

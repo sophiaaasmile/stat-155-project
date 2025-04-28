@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CODG0158","2017","39.498424","-104.798791","1836.4","PARKER 2.0 WSW, CO US","        83","N","        42","N","         3","N","  39.4"," ,N,0715, ","    450.9"," ,N"
+"US1CODG0158","2018","39.498424","-104.798791","1836.4","PARKER 2.0 WSW, CO US","        75","N","        36","N","         0","N","  24.9"," ,N,0716,+","    333.7"," ,N"
+"US1CODG0158","2021","39.498424","-104.798791","1836.4","PARKER 2.0 WSW, CO US","        72","N","        33","N","         2","N","  49.8"," ,N,0626, ","    410.6"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCSN0002","2008","35.1755","-80.3967","152.4","STANFIELD 4.5 SSE, NC US","       116","N","        73","N","         9","N","  91.2"," ,N,0827, ","   1150.6"," ,N"
+"US1NCSN0002","2009","35.1755","-80.3967","152.4","STANFIELD 4.5 SSE, NC US","       128","N","        79","N","        15","N","  68.1"," ,N,1111, ","   1128.0"," ,N"
+"US1NCSN0002","2010","35.1755","-80.3967","152.4","STANFIELD 4.5 SSE, NC US","        97","N","        62","N","        12","N","  77.0"," ,N,0601, ","    983.5"," ,N"
+"US1NCSN0002","2011","35.1755","-80.3967","152.4","STANFIELD 4.5 SSE, NC US","       107","N","        69","N","        11","N","  47.5"," ,N,1019, ","    967.5"," ,N"

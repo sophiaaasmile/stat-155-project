@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1LAST0020","2018","30.342602","-89.749331","7.0","PEARL RIVER 2.0 S, LA US","       146","N","        95","N","        19","N"," 119.9"," ,N,0415, ","   1834.4"," ,N"
+"US1LAST0020","2019","30.342602","-89.749331","7.0","PEARL RIVER 2.0 S, LA US","       136","N","        81","N","        24","N"," 173.7"," ,N,1026, ","   1743.9"," ,N"
+"US1LAST0020","2020","30.342602","-89.749331","7.0","PEARL RIVER 2.0 S, LA US","       153","N","        88","N","        23","N","  97.5"," ,N,1029, ","   1805.4"," ,N"
+"US1LAST0020","2023","30.342602","-89.749331","7.0","PEARL RIVER 2.0 S, LA US","        96","N","        51","N","        12","N","  71.9"," ,N,0905, ","   1168.6"," ,N"

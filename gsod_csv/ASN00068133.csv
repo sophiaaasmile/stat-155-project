@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00068133","1964","-34.2167","150.6","269.7","TAHMOOR POST OFFICE, AS","        44","a","        34","a","         8","a"," 127.3"," ,a,0612, ","    751.6"," ,a"
+"ASN00068133","1965","-34.2167","150.6","269.7","TAHMOOR POST OFFICE, AS","        62","a","        42","a","         6","a","  47.0"," ,a,1017, ","    538.9"," ,a"
+"ASN00068133","1969","-34.2167","150.6","269.7","TAHMOOR POST OFFICE, AS","        97","a","        71","a","        14","a"," 153.9"," ,a,0416, ","   1293.0"," ,a"
+"ASN00068133","1970","-34.2167","150.6","269.7","TAHMOOR POST OFFICE, AS","        95","a","        67","a","         5","a","  46.7"," ,a,1210, ","    679.1"," ,a"
+"ASN00068133","1971","-34.2167","150.6","269.7","TAHMOOR POST OFFICE, AS","        89","a","        53","a","         7","a","  49.8"," ,a,1208, ","    730.9"," ,a"

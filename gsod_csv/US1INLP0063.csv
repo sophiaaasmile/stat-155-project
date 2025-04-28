@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INLP0063","2020","41.3176","-86.9129","207.3","LA CROSSE 1.2 W, IN US","       124","N","        70","N","         3","N","  48.3"," ,N,0111, ","    785.8"," ,N"
+"US1INLP0063","2021","41.3176","-86.9129","207.3","LA CROSSE 1.2 W, IN US","       120","N","        67","N","         9","N","  60.2"," ,N,0626, ","   1002.8"," ,N"
+"US1INLP0063","2022","41.3176","-86.9129","207.3","LA CROSSE 1.2 W, IN US","       118","N","        61","N","         3","N","  58.4"," ,N,1026, ","    720.4"," ,N"

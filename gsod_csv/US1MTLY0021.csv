@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MTLY0021","2022","48.7122","-110.7731","990.0","JOPLIN 11.0 N, MT US","        53","N","        26","N","         0","N","  18.3"," ,N,1023, ","    183.9"," ,N"
+"US1MTLY0021","2023","48.7122","-110.7731","990.0","JOPLIN 11.0 N, MT US","        46","N","        27","N","         2","N","  30.5"," ,N,0528, ","    247.6"," ,N"
+"US1MTLY0021","2024","48.7122","-110.7731","990.0","JOPLIN 11.0 N, MT US","        49","N","        33","N","         1","N","  30.5"," ,N,0919, ","    274.3"," ,N"

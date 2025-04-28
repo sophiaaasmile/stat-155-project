@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN009063800","1975","13.25","75.75","1057.0","CHICKMAGALUR OBSERVATORY, IN","       132","I","       102","I","        27","I"," 157.5"," ,I,0529, ","   2221.1"," ,I"
+"IN009063800","1976","13.25","75.75","1057.0","CHICKMAGALUR OBSERVATORY, IN","       105","I","        81","I","        17","I","  99.8"," ,I,1109, ","   1535.5"," ,I"
+"IN009063800","1977","13.25","75.75","1057.0","CHICKMAGALUR OBSERVATORY, IN","       132","I","       104","I","        32","I"," 186.7"," ,I,1008, ","   2689.7"," ,I"
+"IN009063800","1978","13.25","75.75","1057.0","CHICKMAGALUR OBSERVATORY, IN","       138","I","       106","I","        31","I"," 124.0"," ,I,1106, ","   2387.6"," ,I"
+"IN009063800","1980","13.25","75.75","1057.0","CHICKMAGALUR OBSERVATORY, IN","       113","I","        89","I","        27","I"," 192.0"," ,I,1115, ","   2798.1"," ,I"
+"IN009063800","1982","13.25","75.75","1057.0","CHICKMAGALUR OBSERVATORY, IN","        79","I","        75","I","        32","I"," 203.5"," ,I,0531, ","   2311.5"," ,I"
+"IN009063800","1984","13.25","75.75","1057.0","CHICKMAGALUR OBSERVATORY, IN","        81","I","        70","I","        29","I"," 174.2"," ,I,0305, ","   2476.5"," ,I"

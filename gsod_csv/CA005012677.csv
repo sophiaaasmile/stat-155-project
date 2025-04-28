@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA005012677","1979","50.45","-100.5833","555.0","SHOAL LAKE, MB CA","        97","C","        41","C","         0","C","        19","C","   145"," ,C,0407, ","  17.6"," ,C,0910, ","    336.7"," ,C","     1391"," ,C"
+"CA005012677","1980","50.45","-100.5833","555.0","SHOAL LAKE, MB CA","       101","C","        51","C","         6","C","        17","C","   110"," ,C,0221, ","  56.0"," ,C,0719, ","    585.6"," ,C","     1074"," ,C"
+"CA005012677","1982","50.45","-100.5833","555.0","SHOAL LAKE, MB CA","        91","C","        54","C","         4","C","        15","C","   100"," ,C,0316, ","  48.0"," ,C,0715, ","    540.7"," ,C","     1060"," ,C"

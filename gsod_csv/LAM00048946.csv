@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TAVG","TAVG_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"LAM00048946","2015","17.383","104.65","52.0","THAKHEK, LA","","","","","         0","S","       336","S","       208","S","","","   42.0","S,0420, ","","","     32.81","S","",""
+"LAM00048946","2022","17.383","104.65","52.0","THAKHEK, LA","         0","S","         0","S","         0","S","       341","S","       181","S","   10.8","S,1219, ","   37.7","S,0428, ","     27.03","S","     32.05","S","     22.02","S"
+"LAM00048946","2023","17.383","104.65","52.0","THAKHEK, LA","         0","S","         0","S","","","","","","","    7.6","S,0130, ","","","","","","","     22.60","S"

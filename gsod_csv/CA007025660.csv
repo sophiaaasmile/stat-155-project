@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA007025660","1979","45.2833","-71.95","244.0","NORTH HATLEY, QC CA","       138","C","        93","C","         5","C","        20","C","   150"," ,C,0107, ","  38.1"," ,C,0611, ","    949.9"," ,C","     1548"," ,C"
+"CA007025660","1980","45.2833","-71.95","244.0","NORTH HATLEY, QC CA","       132","C","        98","C","         3","C","        24","C","   114"," ,C,0308, ","  30.4"," ,C,0626, ","    945.0"," ,C","     1521"," ,C"
+"CA007025660","1981","45.2833","-71.95","244.0","NORTH HATLEY, QC CA","","","","","","","        25","C","   380"," ,C,1206, ","","","","","     2240"," ,C"

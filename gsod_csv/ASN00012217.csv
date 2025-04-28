@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00012217","1968","-31.5333","119.1",,"GLENGILLY, AS","        71","a","        41","a","         2","a","  36.1"," ,a,0609, ","    366.4"," ,a"
+"ASN00012217","1969","-31.5333","119.1",,"GLENGILLY, AS","        30","a","        13","a","         0","a","  19.3"," ,a,0614, ","    139.7"," ,a"
+"ASN00012217","1970","-31.5333","119.1",,"GLENGILLY, AS","        53","a","        33","a","         1","a","  68.6"," ,a,0217, ","    294.7"," ,a"
+"ASN00012217","1971","-31.5333","119.1",,"GLENGILLY, AS","        50","a","        31","a","         2","a","  61.7"," ,a,0328, ","    315.5"," ,a"

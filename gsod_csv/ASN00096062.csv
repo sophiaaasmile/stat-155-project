@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00096062","1935","-42.0167","146.35",,"BRONTE GOWAN BRAE, AS","       138","a","       113","a","         8","a","  50.8"," ,a,0616, ","   1144.4"," ,a"
+"ASN00096062","1936","-42.0167","146.35",,"BRONTE GOWAN BRAE, AS","       129","a","       113","a","         3","a","  35.6"," ,a,0824, ","   1078.5"," ,a"
+"ASN00096062","1937","-42.0167","146.35",,"BRONTE GOWAN BRAE, AS","       106","a","        86","a","         3","a","  41.9"," ,a,0318, ","    875.0"," ,a"

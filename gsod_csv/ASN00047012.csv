@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00047012","1939","-32.1","141.65",,"JUTLAND, AS","        22","a","        21","a","         2","a","  83.8"," ,a,0227, ","    305.2"," ,a"
+"ASN00047012","1940","-32.1","141.65",,"JUTLAND, AS","         7","a","         4","a","         0","a","  10.2"," ,a,0422, ","     24.3"," ,a"
+"ASN00047012","1941","-32.1","141.65",,"JUTLAND, AS","        13","a","        10","a","         2","a","  33.0"," ,a,0107, ","    113.4"," ,a"
+"ASN00047012","1944","-32.1","141.65",,"JUTLAND, AS","        10","a","         9","a","         0","a","  17.8"," ,a,0206, ","    110.6"," ,a"

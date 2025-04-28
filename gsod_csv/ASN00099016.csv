@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00099016","1998","-40.0289","147.9306","32.0","BLUE ROCKS THE RANCH, AS","       131","a","        55","a","         3","a","  80.6"," ,a,0126, ","    703.5"," ,a"
+"ASN00099016","2000","-40.0289","147.9306","32.0","BLUE ROCKS THE RANCH, AS","       151","a","        82","a","         5","a","  68.4"," ,a,0824, ","    895.9"," ,a"
+"ASN00099016","2001","-40.0289","147.9306","32.0","BLUE ROCKS THE RANCH, AS","       161","a","        84","a","         7","a","  42.4"," ,a,0424, ","    933.1"," ,a"
+"ASN00099016","2002","-40.0289","147.9306","32.0","BLUE ROCKS THE RANCH, AS","       141","a","        72","a","         1","a","  26.0"," ,a,1014, ","    652.1"," ,a"

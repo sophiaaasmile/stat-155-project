@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MTLY0010","2022","48.73575","-110.92677","1068.3","CHESTER 15.6 N, MT US","        67","N","        30","N","         0","N","  13.0"," ,N,1023, ","    209.4"," ,N"
+"US1MTLY0010","2023","48.73575","-110.92677","1068.3","CHESTER 15.6 N, MT US","        64","N","        23","N","         1","N","  32.5"," ,N,0528, ","    239.1"," ,N"
+"US1MTLY0010","2024","48.73575","-110.92677","1068.3","CHESTER 15.6 N, MT US","        74","N","        33","N","         0","N","  22.1"," ,N,0508, ","    281.9"," ,N"

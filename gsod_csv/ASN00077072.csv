@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00077072","1929","-35.4","143.1",,"WAITCHIE CENTRAL, AS","        37","a","        17","a","         0","a","   9.1"," ,a,1112, ","    203.0"," ,a"
+"ASN00077072","1930","-35.4","143.1",,"WAITCHIE CENTRAL, AS","","","","","","","","","    329.6"," ,a"
+"ASN00077072","1933","-35.4","143.1",,"WAITCHIE CENTRAL, AS","        49","a","        31","a","         2","a","  25.7"," ,a,0901, ","    286.8"," ,a"
+"ASN00077072","1934","-35.4","143.1",,"WAITCHIE CENTRAL, AS","        49","a","        31","a","         3","a","  38.6"," ,a,1105, ","    342.1"," ,a"

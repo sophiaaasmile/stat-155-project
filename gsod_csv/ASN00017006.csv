@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00017006","1926","-29.9267","138.7517","123.0","APOLLINARIS WELL, AS","         6","a","         6","a","         1","a","  49.5"," ,a,0321, ","    106.3"," ,a"
+"ASN00017006","1935","-29.9267","138.7517","123.0","APOLLINARIS WELL, AS","         6","a","         5","a","         0","a","  15.2"," ,a,0911, ","     75.2"," ,a"
+"ASN00017006","1938","-29.9267","138.7517","123.0","APOLLINARIS WELL, AS","         7","a","         5","a","         1","a","  50.8"," ,a,0220, ","     77.0"," ,a"
+"ASN00017006","1949","-29.9267","138.7517","123.0","APOLLINARIS WELL, AS","        15","a","        12","a","         0","a","  24.4"," ,a,1009, ","    126.7"," ,a"

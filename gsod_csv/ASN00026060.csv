@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00026060","1970","-37.6833","140.6167","61.0","GLENCOE, AS","       214","a","       101","a","         3","a","  43.7"," ,a,1115, ","    962.0"," ,a"
+"ASN00026060","1971","-37.6833","140.6167","61.0","GLENCOE, AS","       214","a","       107","a","         5","a","  40.4"," ,a,0426, ","   1060.2"," ,a"
+"ASN00026060","1972","-37.6833","140.6167","61.0","GLENCOE, AS","       150","a","        76","a","         1","a","  31.2"," ,a,0112, ","    696.6"," ,a"

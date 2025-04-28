@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ORBN0018","2020","44.5915","-123.2338","64.6","CORVALLIS 2.5 NE, OR US","       159","N","        98","N","         2","N","  48.0"," ,N,1220, ","    964.3"," ,N"
+"US1ORBN0018","2021","44.5915","-123.2338","64.6","CORVALLIS 2.5 NE, OR US","       180","N","        93","N","         7","N","  48.3"," ,N,1220, ","   1043.6"," ,N"
+"US1ORBN0018","2023","44.5915","-123.2338","64.6","CORVALLIS 2.5 NE, OR US","       171","N","        86","N","         2","N","  29.0"," ,N,1106, ","    923.6"," ,N"

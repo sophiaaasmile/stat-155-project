@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00062000","2006","-32.9698","148.9141","550.0","MOLONG FERNLEIGH TM, AS","        55","a","        27","a","         3","a","  39.0"," ,a,0117, ","    315.0"," ,a"
+"ASN00062000","2008","-32.9698","148.9141","550.0","MOLONG FERNLEIGH TM, AS","        85","a","        52","a","         3","a","  44.4"," ,a,0906, ","    579.0"," ,a"
+"ASN00062000","2009","-32.9698","148.9141","550.0","MOLONG FERNLEIGH TM, AS","        90","a","        49","a","         1","a","  68.6"," ,a,1226, ","    475.4"," ,a"
+"ASN00062000","2010","-32.9698","148.9141","550.0","MOLONG FERNLEIGH TM, AS","       105","a","        67","a","        10","a","  54.4"," ,a,1210, ","    933.4"," ,a"

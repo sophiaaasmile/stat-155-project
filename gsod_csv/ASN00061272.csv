@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00061272","1970","-32.45","151.1333","76.2","GLENNIES CREEK SYDENHAM, AS","       119","a","        60","a","         3","a","  63.8"," ,a,1209, ","    711.4"," ,a"
+"ASN00061272","1971","-32.45","151.1333","76.2","GLENNIES CREEK SYDENHAM, AS","       127","a","        58","a","        10","a","  69.9"," ,a,0201, ","    787.9"," ,a"
+"ASN00061272","1972","-32.45","151.1333","76.2","GLENNIES CREEK SYDENHAM, AS","       146","a","        63","a","         8","a","  46.5"," ,a,1001, ","    813.5"," ,a"
+"ASN00061272","1973","-32.45","151.1333","76.2","GLENNIES CREEK SYDENHAM, AS","       111","a","        63","a","         4","a","  57.7"," ,a,0211, ","    688.7"," ,a"

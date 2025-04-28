@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","HDSD","HDSD_ATTRIBUTES","HTDD","HTDD_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003022500","1956","51.5","-110.5667","794.0","EXCEL, AB CA","        84","C","        62","C","         1","C","        28","C","   127"," ,C,1202, ","  35.8"," ,C,0621, ","","","","","    467.8"," ,C","     1435"," ,C"
+"CA003022500","1957","51.5","-110.5667","794.0","EXCEL, AB CA","        67","C","        46","C","         0","C","        17","C","   178"," ,C,1022, ","  20.1"," ,C,0811, ","    5755.7","7","    5755.7","C","    297.0"," ,C","     1004"," ,C"
+"CA003022500","1959","51.5","-110.5667","794.0","EXCEL, AB CA","","","","","","","","","","","","","    5693.8","8","    5693.8","C","","","",""

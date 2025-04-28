@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MEAN0043","2021","44.0232","-70.1055","53.9","LISBON 0.6 S, ME US","       158","N","        84","N","        11","N","","","","","","","","","  74.2"," ,N,1031, ","   1145.7"," ,N","",""
+"US1MEAN0043","2022","44.0232","-70.1055","53.9","LISBON 0.6 S, ME US","       138","N","        89","N","        13","N","","","","","","","","","  56.4"," ,N,1018, ","   1248.5"," ,N","",""
+"US1MEAN0043","2023","44.0232","-70.1055","53.9","LISBON 0.6 S, ME US","       153","N","        91","N","        16","N","       79","","        19","N","   610"," ,N,0305, ","   236"," ,N,0124, "," 114.0"," ,N,0730, ","   1602.8"," ,N","     1897"," ,N"

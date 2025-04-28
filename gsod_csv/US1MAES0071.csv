@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MAES0071","2021","42.60657","-70.93985","19.5","DANVERS 2.5 NNE, MA US","       147","N","        83","N","        12","N","         6","N","   155"," ,N,0220, ","  91.7"," ,N,0902, ","   1532.8"," ,N","      515"," ,N"
+"US1MAES0071","2022","42.60657","-70.93985","19.5","DANVERS 2.5 NNE, MA US","       127","N","        71","N","         3","N","         9","N","   406"," ,N,0130, ","  45.0"," ,N,1014, ","    868.7"," ,N","     1151"," ,N"
+"US1MAES0071","2024","42.60657","-70.93985","19.5","DANVERS 2.5 NNE, MA US","       131","N","        79","N","        10","N","         6","N","   165"," ,N,0108, ","  67.6"," ,N,1212, ","   1119.6"," ,N","      543"," ,N"

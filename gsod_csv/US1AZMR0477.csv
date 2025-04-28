@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZMR0477","2018","33.362882","-111.925358","362.4","TEMPE 3.6 SSW, AZ US","        31","N","        17","N","         3","N","  46.0"," ,N,0810, ","    229.2"," ,N"
+"US1AZMR0477","2019","33.362882","-111.925358","362.4","TEMPE 3.6 SSW, AZ US","        41","N","        25","N","         2","N","  36.8"," ,N,0222, ","    258.7"," ,N"
+"US1AZMR0477","2020","33.362882","-111.925358","362.4","TEMPE 3.6 SSW, AZ US","        14","N","        10","N","         0","N","  14.7"," ,N,0312, ","     98.3"," ,N"

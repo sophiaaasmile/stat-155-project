@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00062086","1948","-32.7","149.2",,"MUMBIL, AS","        51","a","        43","a","         7","a","  43.9"," ,a,0101, ","    575.0"," ,a"
+"ASN00062086","1949","-32.7","149.2",,"MUMBIL, AS","        58","a","        55","a","         7","a","  44.2"," ,a,1121, ","    670.9"," ,a"
+"ASN00062086","1950","-32.7","149.2",,"MUMBIL, AS","        63","a","        59","a","        25","a","  72.9"," ,a,0119, ","   1435.2"," ,a"

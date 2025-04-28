@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSFI0037","2020","37.9911","-100.8513","875.1","GARDEN CITY 1.2 NNE, KS US","","","","","","","","","    389.5"," ,N"
+"US1KSFI0037","2021","37.9911","-100.8513","875.1","GARDEN CITY 1.2 NNE, KS US","        57","N","        33","N","         3","N","  79.8"," ,N,0517, ","    451.6"," ,N"
+"US1KSFI0037","2022","37.9911","-100.8513","875.1","GARDEN CITY 1.2 NNE, KS US","        44","N","        22","N","         2","N","  30.7"," ,N,0519, ","    248.3"," ,N"
+"US1KSFI0037","2023","37.9911","-100.8513","875.1","GARDEN CITY 1.2 NNE, KS US","        67","N","        44","N","         4","N","  86.6"," ,N,0721, ","    656.7"," ,N"
+"US1KSFI0037","2024","37.9911","-100.8513","875.1","GARDEN CITY 1.2 NNE, KS US","        63","N","        33","N","         9","N","  56.6"," ,N,0830, ","    575.3"," ,N"

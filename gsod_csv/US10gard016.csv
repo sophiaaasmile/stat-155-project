@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10gard016","2018","41.237286","-102.42485",,"CHAPPELL 10.3 NNE, NE US","        91","N","        56","N","         6","N","  35.8"," ,N,0528, ","    685.8"," ,N"
+"US10gard016","2019","41.237286","-102.42485",,"CHAPPELL 10.3 NNE, NE US","        91","N","        59","N","         5","N","  86.4"," ,N,0812, ","    701.3"," ,N"
+"US10gard016","2020","41.237286","-102.42485",,"CHAPPELL 10.3 NNE, NE US","        52","N","        34","N","         2","N","  52.6"," ,N,0516, ","    371.7"," ,N"
+"US10gard016","2021","41.237286","-102.42485",,"CHAPPELL 10.3 NNE, NE US","        52","N","        30","N","         2","N","  61.0"," ,N,0314, ","    419.4"," ,N"
+"US10gard016","2022","41.237286","-102.42485",,"CHAPPELL 10.3 NNE, NE US","        50","N","        24","N","         0","N","  23.9"," ,N,0706, ","    290.5"," ,N"

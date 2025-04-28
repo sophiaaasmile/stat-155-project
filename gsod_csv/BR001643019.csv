@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001643019","1970","-16.77","-43.7","600.0","PONTE DE RODAGEM, BR","        53","I","        40","I","        11","I","  45.7"," ,I,0112, ","    751.9"," ,I"
+"BR001643019","1972","-16.77","-43.7","600.0","PONTE DE RODAGEM, BR","        59","I","        51","I","        16","I","  74.0"," ,I,1119, ","   1043.4"," ,I"
+"BR001643019","1976","-16.77","-43.7","600.0","PONTE DE RODAGEM, BR","        48","I","        45","I","        11","I","  60.0"," ,I,0229,+","    813.0"," ,I"

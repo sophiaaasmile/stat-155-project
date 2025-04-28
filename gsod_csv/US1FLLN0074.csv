@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLLN0074","2021","30.42558","-84.19498","21.6","TALLAHASSEE 5.6 ESE, FL US","       137","N","       101","N","        15","N","  94.2"," ,N,0103, ","   1654.4"," ,N"
+"US1FLLN0074","2022","30.42558","-84.19498","21.6","TALLAHASSEE 5.6 ESE, FL US","       114","N","        80","N","        18","N","  79.5"," ,N,0319, ","   1345.4"," ,N"
+"US1FLLN0074","2023","30.42558","-84.19498","21.6","TALLAHASSEE 5.6 ESE, FL US","       113","N","        86","N","        22","N"," 108.0"," ,N,1203, ","   1901.8"," ,N"
+"US1FLLN0074","2024","30.42558","-84.19498","21.6","TALLAHASSEE 5.6 ESE, FL US","       110","N","        65","N","        20","N"," 239.8"," ,N,0411, ","   1488.0"," ,N"

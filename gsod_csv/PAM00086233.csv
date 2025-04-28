@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"PAM00086233","1997","-25.767","-56.433","161.0","VILLARRICA, PA","        77","S","        55","S","        17","S","","","","","","","  81.0"," ,S,0131, ","   1134.1"," ,S","",""
+"PAM00086233","2010","-25.767","-56.433","161.0","VILLARRICA, PA","","","","","","","         0","S","         0","S","    0.8","S,0805, ","","","","","     16.96","S"
+"PAM00086233","2011","-25.767","-56.433","161.0","VILLARRICA, PA","","","","","","","         0","S","         0","S","    0.2","S,0628, ","","","","","     17.39","S"

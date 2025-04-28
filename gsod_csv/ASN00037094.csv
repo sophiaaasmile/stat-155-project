@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00037094","1914","-22.7167","143.5",,"CLYDE, AS","        30","a","        22","a","         5","a","  41.9"," ,a,1225, ","    326.0"," ,a"
+"ASN00037094","1915","-22.7167","143.5",,"CLYDE, AS","        15","a","        12","a","         3","a","  54.9"," ,a,0514, ","    200.9"," ,a"
+"ASN00037094","1916","-22.7167","143.5",,"CLYDE, AS","        27","a","        24","a","         5","a"," 151.6"," ,a,1230, ","    544.8"," ,a"

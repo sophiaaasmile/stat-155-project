@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"GMM00010474","1954","51.883","12.65","106.0","WITTENBERG, GM","","","","","","","        38","S","        72","S","         2","S","","","   33.9","S,0621, ","","","     12.19","S"
+"GMM00010474","1957","51.883","12.65","106.0","WITTENBERG, GM","","","","","","","        13","S","        71","S","         9","S","","","   37.2","S,0707, ","","","     13.30","S"
+"GMM00010474","1959","51.883","12.65","106.0","WITTENBERG, GM","","","","","","","        21","S","       114","S","         3","S","","","   37.8","S,0711, ","","","     14.74","S"
+"GMM00010474","1992","51.883","12.65","106.0","WITTENBERG, GM","       148","S","        66","S","         0","S","        13","S","       108","S","         8","S","  23.4"," ,S,0901, ","   38.5","S,0809, ","    502.5"," ,S","     14.72","S"

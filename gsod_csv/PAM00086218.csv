@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"PAM00086218","1993","-25.24","-57.519","89.0","SILVIO PETTIROSSI INTERNATIONAL, PA","        90","S","        52","S","        10","S"," 126.0"," ,S,1018, ","   1004.2"," ,S"
+"PAM00086218","1994","-25.24","-57.519","89.0","SILVIO PETTIROSSI INTERNATIONAL, PA","        87","S","        66","S","        19","S"," 181.1"," ,S,0301, ","   1282.3"," ,S"
+"PAM00086218","1995","-25.24","-57.519","89.0","SILVIO PETTIROSSI INTERNATIONAL, PA","        96","S","        55","S","        15","S","  65.0"," ,S,0308, ","   1032.7"," ,S"
+"PAM00086218","1996","-25.24","-57.519","89.0","SILVIO PETTIROSSI INTERNATIONAL, PA","       109","S","        78","S","        24","S"," 255.0"," ,S,0228, ","   1961.5"," ,S"
+"PAM00086218","1997","-25.24","-57.519","89.0","SILVIO PETTIROSSI INTERNATIONAL, PA","        88","S","        60","S","        19","S"," 191.0"," ,S,1223, ","   1645.7"," ,S"
+"PAM00086218","1998","-25.24","-57.519","89.0","SILVIO PETTIROSSI INTERNATIONAL, PA","       111","S","        76","S","        29","S"," 103.9"," ,S,0227, ","   2157.7"," ,S"
+"PAM00086218","2004","-25.24","-57.519","89.0","SILVIO PETTIROSSI INTERNATIONAL, PA","        65","S","        51","S","        22","S"," 101.1"," ,S,1110, ","   1386.4"," ,S"

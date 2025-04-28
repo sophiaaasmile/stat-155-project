@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CARV0079","2021","33.674901","-116.306632","13.1","LA QUINTA 0.9 WNW, CA US","        15","N","         4","N","         1","N","","","","","  38.6"," ,N,0726, ","     64.5"," ,N","",""
+"US1CARV0079","2022","33.674901","-116.306632","13.1","LA QUINTA 0.9 WNW, CA US","         7","N","         2","N","         0","N","         0","N","     0"," ,N,1231,+","  21.6"," ,N,0910, ","     41.5"," ,N","        0"," ,N"
+"US1CARV0079","2023","33.674901","-116.306632","13.1","LA QUINTA 0.9 WNW, CA US","        21","N","         7","N","         2","N","","","","","  83.1"," ,N,0821, ","    193.4"," ,N","",""
+"US1CARV0079","2024","33.674901","-116.306632","13.1","LA QUINTA 0.9 WNW, CA US","        16","N","         5","N","         0","N","","","","","  21.8"," ,N,0123, ","     59.3"," ,N","",""

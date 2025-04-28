@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00087145","1973","-37.85","144.9",,"WILLIAMSTOWN BOWLING CLUB, AS","       145","a","        71","a","         5","a","  84.1"," ,a,0206, ","    875.7"," ,a"
+"ASN00087145","1974","-37.85","144.9",,"WILLIAMSTOWN BOWLING CLUB, AS","       137","a","        74","a","         3","a","  49.0"," ,a,0515, ","    761.8"," ,a"
+"ASN00087145","1976","-37.85","144.9",,"WILLIAMSTOWN BOWLING CLUB, AS","       136","a","        50","a","         3","a","  33.2"," ,a,0921, ","    501.2"," ,a"
+"ASN00087145","1980","-37.85","144.9",,"WILLIAMSTOWN BOWLING CLUB, AS","        79","a","        47","a","         5","a","  47.0"," ,a,0424, ","    528.5"," ,a"

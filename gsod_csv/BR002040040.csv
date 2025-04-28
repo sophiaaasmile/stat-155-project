@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002040040","1958","-20.0","-40.0","0.0","DOMINGOS MARTINS DNOS, BR","       158","I","       108","I","        13","I","  84.2"," ,I,1125, ","   1433.3"," ,I"
+"BR002040040","1959","-20.0","-40.0","0.0","DOMINGOS MARTINS DNOS, BR","        99","I","        83","I","        18","I","  80.4"," ,I,1016, ","   1328.2"," ,I"
+"BR002040040","1960","-20.0","-40.0","0.0","DOMINGOS MARTINS DNOS, BR","       172","I","       128","I","        22","I"," 145.8"," ,I,0308, ","   2151.2"," ,I"
+"BR002040040","1962","-20.0","-40.0","0.0","DOMINGOS MARTINS DNOS, BR","       145","I","       108","I","        15","I","  74.6"," ,I,1225, ","   1589.1"," ,I"
+"BR002040040","1963","-20.0","-40.0","0.0","DOMINGOS MARTINS DNOS, BR","       105","I","        68","I","        12","I","  72.6"," ,I,0215, ","   1036.1"," ,I"

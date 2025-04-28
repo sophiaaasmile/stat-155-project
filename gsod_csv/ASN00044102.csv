@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00044102","1967","-26.3167","145.0833",,"MAXVALE, AS","        36","a","        31","a","         6","a","  50.8"," ,a,0306, ","    463.5"," ,a"
+"ASN00044102","1968","-26.3167","145.0833",,"MAXVALE, AS","        25","a","        23","a","         3","a","  59.2"," ,a,0428, ","    348.0"," ,a"
+"ASN00044102","1969","-26.3167","145.0833",,"MAXVALE, AS","        16","a","        14","a","         6","a","  56.4"," ,a,0117, ","    277.6"," ,a"

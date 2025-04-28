@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000969000","1983","-9.35","-69.92","0.0","FAZENDA JUSSARA, BR","       143","I","       117","I","        11","I","  60.4"," ,I,1020, ","   1400.9"," ,I"
+"BR000969000","1984","-9.35","-69.92","0.0","FAZENDA JUSSARA, BR","       205","I","       188","I","        23","I"," 108.1"," ,I,1230, ","   2632.2"," ,I"
+"BR000969000","1985","-9.35","-69.92","0.0","FAZENDA JUSSARA, BR","       184","I","       175","I","        33","I","  71.1"," ,I,1211, ","   3248.4"," ,I"
+"BR000969000","1987","-9.35","-69.92","0.0","FAZENDA JUSSARA, BR","       168","I","       150","I","        24","I","  82.3"," ,I,1204, ","   2517.7"," ,I"

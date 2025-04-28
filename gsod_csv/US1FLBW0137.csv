@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLBW0137","2020","26.25213","-80.1224","5.5","POMPANO BEACH 1.2 NNE, FL US","       178","N","       129","N","        29","N"," 149.6"," ,N,1109, ","   2725.5"," ,N"
+"US1FLBW0137","2021","26.25213","-80.1224","5.5","POMPANO BEACH 1.2 NNE, FL US","       140","N","        83","N","        14","N","  68.8"," ,N,0225, ","   1437.2"," ,N"
+"US1FLBW0137","2022","26.25213","-80.1224","5.5","POMPANO BEACH 1.2 NNE, FL US","       162","N","        81","N","        20","N"," 171.2"," ,N,0604, ","   1781.6"," ,N"
+"US1FLBW0137","2023","26.25213","-80.1224","5.5","POMPANO BEACH 1.2 NNE, FL US","       175","N","       107","N","        30","N"," 146.1"," ,N,1116, ","   2248.6"," ,N"
+"US1FLBW0137","2024","26.25213","-80.1224","5.5","POMPANO BEACH 1.2 NNE, FL US","       175","N","       105","N","        17","N"," 137.7"," ,N,0613, ","   1864.0"," ,N"

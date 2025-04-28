@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004063420","1968","55.45","-107.8667","421.0","ILE A LA CROSSE, SK CA","        70","C","        37","C","         2","C","         9","C","    51"," ,C,1112, ","  35.6"," ,C,0729, ","    315.0"," ,C","      490"," ,C"
+"CA004063420","1973","55.45","-107.8667","421.0","ILE A LA CROSSE, SK CA","        94","C","        64","C","         3","C","        21","C","   152"," ,C,1217,+","  48.3"," ,C,0913, ","    671.8"," ,C","     1499"," ,C"
+"CA004063420","1977","55.45","-107.8667","421.0","ILE A LA CROSSE, SK CA","       105","C","        60","C","         0","C","        14","C","   152"," ,C,0324, ","  22.9"," ,C,0528,+","    486.3"," ,C","      797"," ,C"
+"CA004063420","1980","55.45","-107.8667","421.0","ILE A LA CROSSE, SK CA","        94","C","        38","C","         3","C","         9","C","    63"," ,C,1119, ","  28.0"," ,C,0914, ","    375.1"," ,C","      534"," ,C"

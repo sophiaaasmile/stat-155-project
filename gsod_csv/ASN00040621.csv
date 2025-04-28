@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040621","1957","-28.1667","153.3833","40.0","INGLESIDE, AS","        88","a","        64","a","        11","a"," 101.6"," ,a,0118, ","    963.7"," ,a"
+"ASN00040621","1958","-28.1667","153.3833","40.0","INGLESIDE, AS","       122","a","        86","a","        16","a"," 114.0"," ,a,0211, ","   1629.9"," ,a"

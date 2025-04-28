@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CALA0092","2021","33.827393","-118.388804","0.9","REDONDO BEACH 2.1 SSW, CA US","        41","N","        14","N","         2","N","         0","N","     0"," ,N,1231,+","  57.7"," ,N,1224, ","    223.4"," ,N","        0"," ,N"
+"US1CALA0092","2022","33.827393","-118.388804","0.9","REDONDO BEACH 2.1 SSW, CA US","        26","N","        10","N","         1","N","         0","N","     0"," ,N,1231,+","  33.0"," ,N,0329, ","    139.0"," ,N","        0"," ,N"

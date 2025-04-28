@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNRC0060","2022","44.423","-93.212","296.6","DUNDAS 0.4 SW, MN US","       103","N","        58","N","         4","N","  57.4"," ,N,0828, ","    593.0"," ,N"
+"US1MNRC0060","2023","44.423","-93.212","296.6","DUNDAS 0.4 SW, MN US","       103","N","        60","N","         8","N","  46.2"," ,N,1025, ","    787.6"," ,N"
+"US1MNRC0060","2024","44.423","-93.212","296.6","DUNDAS 0.4 SW, MN US","       109","N","        68","N","        13","N","  77.0"," ,N,0603, ","   1118.6"," ,N"

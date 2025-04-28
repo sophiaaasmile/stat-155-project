@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00018157","1884","-32.6417","136.69","210.0","UNO GAWLER RANGES, AS","        35","a","        12","a","         0","a","  21.1"," ,a,0329, ","    136.6"," ,a"
+"ASN00018157","1888","-32.6417","136.69","210.0","UNO GAWLER RANGES, AS","        33","a","        13","a","         0","a","  19.6"," ,a,0605, ","    143.8"," ,a"
+"ASN00018157","1889","-32.6417","136.69","210.0","UNO GAWLER RANGES, AS","","","","","","","","","    371.5"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00039212","1968","-24.0","150.7667",,"AYRDRIE, AS","        41","a","        38","a","        12","a","  96.0"," ,a,0113, ","    799.1"," ,a"
+"ASN00039212","1969","-24.0","150.7667",,"AYRDRIE, AS","        38","a","        36","a","         4","a","  74.9"," ,a,0512, ","    511.4"," ,a"
+"ASN00039212","1970","-24.0","150.7667",,"AYRDRIE, AS","        30","a","        29","a","         3","a"," 103.1"," ,a,1229, ","    487.5"," ,a"

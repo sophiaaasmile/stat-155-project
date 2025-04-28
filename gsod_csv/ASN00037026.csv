@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00037026","2002","-22.2806","143.22","190.0","ALDINGHAM, AS","         7","a","         6","a","         1","a","  37.0"," ,a,0109, ","     78.8"," ,a"
+"ASN00037026","2003","-22.2806","143.22","190.0","ALDINGHAM, AS","        23","a","        21","a","         4","a","  68.0"," ,a,0301, ","    378.0"," ,a"
+"ASN00037026","2004","-22.2806","143.22","190.0","ALDINGHAM, AS","        27","a","        23","a","         2","a","  26.2"," ,a,0116, ","    259.9"," ,a"

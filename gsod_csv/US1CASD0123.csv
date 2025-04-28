@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASD0123","2021","33.342242","-117.164812","125.0","FALLBROOK 4.6 ESE, CA US","        35","N","        27","N","         2","N","  44.5"," ,N,1224, ","    294.4"," ,N"
+"US1CASD0123","2022","33.342242","-117.164812","125.0","FALLBROOK 4.6 ESE, CA US","        22","N","        16","N","         1","N","  50.3"," ,N,1109, ","    203.7"," ,N"
+"US1CASD0123","2023","33.342242","-117.164812","125.0","FALLBROOK 4.6 ESE, CA US","        51","N","        37","N","         8","N","  74.4"," ,N,0115, ","    712.3"," ,N"
+"US1CASD0123","2024","33.342242","-117.164812","125.0","FALLBROOK 4.6 ESE, CA US","        31","N","        25","N","         5","N","  65.3"," ,N,0206, ","    461.7"," ,N"

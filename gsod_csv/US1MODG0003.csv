@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MODG0003","2007","36.91541","-92.73242","388.9","AVA 4.5 SW, MO US","        96","N","        67","N","        12","N","         2","N","    38"," ,N,0201, ","  59.4"," ,N,0908, ","    999.9"," ,N","       81"," ,N"
+"US1MODG0003","2008","36.91541","-92.73242","388.9","AVA 4.5 SW, MO US","       108","N","        71","N","        23","N","         2","N","    71"," ,N,0212, "," 106.2"," ,N,0319, ","   1522.9"," ,N","      148"," ,N"
+"US1MODG0003","2009","36.91541","-92.73242","388.9","AVA 4.5 SW, MO US","       128","N","        87","N","        14","N","","","","","  87.9"," ,N,1009, ","   1287.7"," ,N","",""

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056182","1965","-30.3","151.2833","730.0","BUNDARRA BINDAWALLA, AS","        33","a","        29","a","         3","a","  35.3"," ,a,1214, ","    336.6"," ,a"
+"ASN00056182","1966","-30.3","151.2833","730.0","BUNDARRA BINDAWALLA, AS","        45","a","        35","a","         5","a","  33.0"," ,a,0819, ","    549.5"," ,a"
+"ASN00056182","1969","-30.3","151.2833","730.0","BUNDARRA BINDAWALLA, AS","        73","a","        56","a","        10","a","  48.5"," ,a,1114, ","    793.5"," ,a"
+"ASN00056182","1971","-30.3","151.2833","730.0","BUNDARRA BINDAWALLA, AS","        49","a","        41","a","         7","a","  54.1"," ,a,1130,+","    699.1"," ,a"

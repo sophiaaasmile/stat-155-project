@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00070228","1921","-36.3833","149.2167","883.9","CANIA PRETORIA COOMA, AS","        83","a","        44","a","         6","a","  43.9"," ,a,0408, ","    514.6"," ,a"
+"ASN00070228","1922","-36.3833","149.2167","883.9","CANIA PRETORIA COOMA, AS","        50","a","        32","a","         3","a","  81.3"," ,a,0725, ","    386.0"," ,a"
+"ASN00070228","1923","-36.3833","149.2167","883.9","CANIA PRETORIA COOMA, AS","        58","a","        33","a","         2","a","  42.2"," ,a,1218, ","    331.8"," ,a"
+"ASN00070228","1924","-36.3833","149.2167","883.9","CANIA PRETORIA COOMA, AS","        86","a","        48","a","         4","a","  65.8"," ,a,1227, ","    540.2"," ,a"
+"ASN00070228","1925","-36.3833","149.2167","883.9","CANIA PRETORIA COOMA, AS","        60","a","        38","a","         6","a"," 146.1"," ,a,1119, ","    612.4"," ,a"

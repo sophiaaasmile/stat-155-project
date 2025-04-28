@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00057088","1930","-30.4167","151.8167","914.4","ARMIDALE HERBERT PARK, AS","       121","a","        62","a","         5","a","  53.3"," ,a,0125, ","    779.5"," ,a"
+"ASN00057088","1931","-30.4167","151.8167","914.4","ARMIDALE HERBERT PARK, AS","       133","a","        75","a","         3","a","  33.8"," ,a,1209, ","    863.2"," ,a"
+"ASN00057088","1932","-30.4167","151.8167","914.4","ARMIDALE HERBERT PARK, AS","       132","a","        61","a","         7","a","  65.3"," ,a,0917, ","    703.5"," ,a"
+"ASN00057088","1933","-30.4167","151.8167","914.4","ARMIDALE HERBERT PARK, AS","       112","a","        75","a","        10","a","  73.9"," ,a,0123, ","   1007.2"," ,a"
+"ASN00057088","1934","-30.4167","151.8167","914.4","ARMIDALE HERBERT PARK, AS","        68","a","        58","a","         8","a","  46.2"," ,a,0901, ","    756.6"," ,a"

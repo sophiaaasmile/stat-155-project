@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COBO0538","2021","40.05865","-105.20835","1586.5","BOULDER 3.1 NE, CO US","        92","N","        34","N","         5","N","  52.8"," ,N,0314, ","    493.8"," ,N"
+"US1COBO0538","2022","40.05865","-105.20835","1586.5","BOULDER 3.1 NE, CO US","        93","N","        40","N","         3","N","  38.4"," ,N,0728, ","    460.5"," ,N"
+"US1COBO0538","2024","40.05865","-105.20835","1586.5","BOULDER 3.1 NE, CO US","        88","N","        35","N","         4","N","  55.9"," ,N,0427, ","    441.1"," ,N"

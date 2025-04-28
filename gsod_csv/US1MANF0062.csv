@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MANF0062","2021","42.074391","-71.408504","92.7","FRANKLIN 1.4 SW, MA US","       140","N","        89","N","        11","N","  98.3"," ,N,0902, ","   1360.2"," ,N"
+"US1MANF0062","2022","42.074391","-71.408504","92.7","FRANKLIN 1.4 SW, MA US","       129","N","        82","N","        11","N","  69.6"," ,N,0906, ","   1178.8"," ,N"
+"US1MANF0062","2023","42.074391","-71.408504","92.7","FRANKLIN 1.4 SW, MA US","       150","N","        89","N","        18","N","  89.2"," ,N,1211, ","   1531.4"," ,N"
+"US1MANF0062","2024","42.074391","-71.408504","92.7","FRANKLIN 1.4 SW, MA US","       144","N","        85","N","        14","N","  84.3"," ,N,0110, ","   1304.9"," ,N"

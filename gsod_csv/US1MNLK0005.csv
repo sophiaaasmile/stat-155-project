@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNLK0005","2017","47.1656","-91.6195","397.2","TWO HARBORS 9.7 NNE, MN US","","","","","","","","","    859.9"," ,N"
+"US1MNLK0005","2018","47.1656","-91.6195","397.2","TWO HARBORS 9.7 NNE, MN US","       121","N","        65","N","         8","N","  72.6"," ,N,0617, ","    867.4"," ,N"
+"US1MNLK0005","2020","47.1656","-91.6195","397.2","TWO HARBORS 9.7 NNE, MN US","       105","N","        53","N","         4","N","  48.8"," ,N,0808, ","    601.7"," ,N"
+"US1MNLK0005","2021","47.1656","-91.6195","397.2","TWO HARBORS 9.7 NNE, MN US","       117","N","        63","N","         6","N","  46.2"," ,N,1111, ","    804.8"," ,N"

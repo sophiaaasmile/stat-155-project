@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CASR0058","2017","34.24683","-117.171314","1682.2","LAKE ARROWHEAD 1.5 SE, CA US","        51","N","        30","N","        11","N","","","",""," 106.4"," ,N,0123, ","    802.8"," ,N","",""
+"US1CASR0058","2018","34.24683","-117.171314","1682.2","LAKE ARROWHEAD 1.5 SE, CA US","        45","N","        31","N","        12","N","","","","","  99.1"," ,N,0109, ","    742.0"," ,N","",""
+"US1CASR0058","2020","34.24683","-117.171314","1682.2","LAKE ARROWHEAD 1.5 SE, CA US","        38","N","        25","N","        14","N","        13","N","   241"," ,N,1229, "," 123.2"," ,N,0407, ","    687.7"," ,N","     1688"," ,N"

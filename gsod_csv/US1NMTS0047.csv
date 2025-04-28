@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMTS0047","2019","36.518164","-105.681737","2171.4","ARROYO HONDO 1.5 S, NM US","        88","N","        43","N","         0","N","  22.6"," ,N,0730, ","    343.5"," ,N"
+"US1NMTS0047","2020","36.518164","-105.681737","2171.4","ARROYO HONDO 1.5 S, NM US","        58","N","        26","N","         0","N","  20.8"," ,N,1027, ","    231.5"," ,N"
+"US1NMTS0047","2021","36.518164","-105.681737","2171.4","ARROYO HONDO 1.5 S, NM US","        78","N","        26","N","         0","N","  18.8"," ,N,0518, ","    213.1"," ,N"

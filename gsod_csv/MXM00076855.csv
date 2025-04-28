@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXM00076855","2013","15.683","-96.483","46.0","PUERTO ANGEL OAX., MX","        59","S","        38","S","         6","S"," 164.3"," ,S,0914, ","    713.0"," ,S"
+"MXM00076855","2016","15.683","-96.483","46.0","PUERTO ANGEL OAX., MX","        47","S","        32","S","        11","S"," 172.0"," ,S,0806, ","    738.0"," ,S"
+"MXM00076855","2017","15.683","-96.483","46.0","PUERTO ANGEL OAX., MX","        61","S","        46","S","        11","S"," 163.6"," ,S,0601, ","   1018.5"," ,S"

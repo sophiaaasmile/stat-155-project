@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00051154","1891","-31.7667","147.7","195.0","NEVERTIRE ALLINGTON, AS","        82","a","        54","a","         7","a","  79.2"," ,a,0530, ","    778.6"," ,a"
+"ASN00051154","1893","-31.7667","147.7","195.0","NEVERTIRE ALLINGTON, AS","        69","a","        55","a","         2","a","  28.4"," ,a,0218, ","    564.2"," ,a"
+"ASN00051154","1894","-31.7667","147.7","195.0","NEVERTIRE ALLINGTON, AS","        69","a","        57","a","         9","a","  84.8"," ,a,0418, ","    802.9"," ,a"
+"ASN00051154","1895","-31.7667","147.7","195.0","NEVERTIRE ALLINGTON, AS","        48","a","        37","a","         4","a","  47.5"," ,a,1211, ","    490.6"," ,a"

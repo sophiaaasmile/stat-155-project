@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00060136","2004","-31.4846","152.7298","15.0","WAUCHOPE COMMERCE ST, AS","        91","a","        62","a","         8","a"," 112.6"," ,a,0225, ","   1134.6"," ,a"
+"ASN00060136","2006","-31.4846","152.7298","15.0","WAUCHOPE COMMERCE ST, AS","       109","a","        71","a","        14","a","  68.6"," ,a,0107, ","   1149.4"," ,a"
+"ASN00060136","2009","-31.4846","152.7298","15.0","WAUCHOPE COMMERCE ST, AS","        81","a","        54","a","        20","a"," 109.8"," ,a,0619, ","   1573.8"," ,a"

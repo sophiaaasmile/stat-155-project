@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN023440300","1962","30.13","80.12","2977.0","GARBYANG OBSERVATORY, IN","       131","I","       109","I","        15","I"," 114.3"," ,I,0305, ","   1839.0"," ,I"
+"IN023440300","1963","30.13","80.12","2977.0","GARBYANG OBSERVATORY, IN","       154","I","       129","I","        14","I"," 118.2"," ,I,0916, ","   1762.4"," ,I"
+"IN023440300","1964","30.13","80.12","2977.0","GARBYANG OBSERVATORY, IN","       135","I","        96","I","        10","I","  50.0"," ,I,0320,+","   1162.3"," ,I"
+"IN023440300","1969","30.13","80.12","2977.0","GARBYANG OBSERVATORY, IN","       131","I","        92","I","        27","I"," 177.8"," ,I,0113, ","   2202.3"," ,I"
+"IN023440300","1970","30.13","80.12","2977.0","GARBYANG OBSERVATORY, IN","       132","I","        86","I","        18","I"," 203.2"," ,I,0126, ","   2222.3"," ,I"

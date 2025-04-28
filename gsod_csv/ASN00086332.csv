@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00086332","1974","-37.7333","144.9167","85.6","ESSENDON 2, AS","       146","a","        81","a","         4","a","  46.0"," ,a,0515, ","    876.3"," ,a"
+"ASN00086332","1975","-37.7333","144.9167","85.6","ESSENDON 2, AS","       139","a","        72","a","         1","a","  27.6"," ,a,0812, ","    686.1"," ,a"

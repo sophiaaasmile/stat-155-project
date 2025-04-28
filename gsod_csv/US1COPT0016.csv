@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COPT0016","2020","39.250794","-107.236587","2084.8","REDSTONE 4.9 N, CO US","        93","N","        43","N","         2","N","  45.7"," ,N,0322, ","    452.3"," ,N"
+"US1COPT0016","2021","39.250794","-107.236587","2084.8","REDSTONE 4.9 N, CO US","       127","N","        71","N","         5","N","  48.3"," ,N,1224, ","    721.7"," ,N"
+"US1COPT0016","2023","39.250794","-107.236587","2084.8","REDSTONE 4.9 N, CO US","       121","N","        77","N","         2","N","  29.0"," ,N,0311, ","    667.8"," ,N"

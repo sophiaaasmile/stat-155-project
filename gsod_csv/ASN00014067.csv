@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00014067","1958","-12.65","131.2333","38.1","HUMPTY DOO CATTLE STATION, AS","        86","a","        62","a","        10","a","  75.7"," ,a,1117, ","   1012.6"," ,a"
+"ASN00014067","1959","-12.65","131.2333","38.1","HUMPTY DOO CATTLE STATION, AS","        84","a","        67","a","        23","a","  94.0"," ,a,0109, ","   1651.9"," ,a"
+"ASN00014067","1960","-12.65","131.2333","38.1","HUMPTY DOO CATTLE STATION, AS","       108","a","        73","a","        19","a"," 134.6"," ,a,0323, ","   1490.7"," ,a"
+"ASN00014067","1971","-12.65","131.2333","38.1","HUMPTY DOO CATTLE STATION, AS","       111","a","        83","a","        20","a"," 118.4"," ,a,1217, ","   1648.9"," ,a"

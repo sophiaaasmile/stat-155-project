@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009107","1964","-31.9167","115.8667",,"MOUNT LAWLEY GOLF CLUB, AS","       124","a","        93","a","         8","a","  42.2"," ,a,0804, ","    988.9"," ,a"
+"ASN00009107","1965","-31.9167","115.8667",,"MOUNT LAWLEY GOLF CLUB, AS","       108","a","        73","a","         4","a","  69.6"," ,a,0627, ","    931.5"," ,a"
+"ASN00009107","1966","-31.9167","115.8667",,"MOUNT LAWLEY GOLF CLUB, AS","        95","a","        60","a","         5","a","  37.3"," ,a,0714, ","    691.3"," ,a"
+"ASN00009107","1967","-31.9167","115.8667",,"MOUNT LAWLEY GOLF CLUB, AS","        92","a","        64","a","        10","a","  69.1"," ,a,0626, ","    956.8"," ,a"

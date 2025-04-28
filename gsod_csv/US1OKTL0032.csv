@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKTL0032","2021","35.949496","-96.002343","221.9","GLENPOOL 0.6 S, OK US","        92","N","        58","N","        13","N","  89.4"," ,N,0627, ","   1118.5"," ,N"
+"US1OKTL0032","2023","35.949496","-96.002343","221.9","GLENPOOL 0.6 S, OK US","        87","N","        62","N","        18","N","  70.9"," ,N,0324, ","   1222.4"," ,N"
+"US1OKTL0032","2024","35.949496","-96.002343","221.9","GLENPOOL 0.6 S, OK US","        80","N","        58","N","        12","N"," 113.3"," ,N,1103, ","   1187.5"," ,N"

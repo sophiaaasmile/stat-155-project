@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00029059","1932","-18.5333","140.65",,"BANG BANG STATION, AS","        21","a","        20","a","         2","a","  30.5"," ,a,1101, ","    236.1"," ,a"
+"ASN00029059","1933","-18.5333","140.65",,"BANG BANG STATION, AS","        36","a","        35","a","         9","a","  78.2"," ,a,0124, ","    692.6"," ,a"
+"ASN00029059","1934","-18.5333","140.65",,"BANG BANG STATION, AS","        24","a","        23","a","         8","a","  66.5"," ,a,0219, ","    513.4"," ,a"
+"ASN00029059","1935","-18.5333","140.65",,"BANG BANG STATION, AS","        34","a","        30","a","         4","a","  48.3"," ,a,0629, ","    420.4"," ,a"

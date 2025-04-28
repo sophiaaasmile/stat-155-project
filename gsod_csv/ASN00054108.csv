@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00054108","1966","-30.0167","150.95","667.5","BUNDARRA GLENORA, AS","        73","a","        53","a","         8","a","  61.7"," ,a,1108, ","    746.6"," ,a"
+"ASN00054108","1967","-30.0167","150.95","667.5","BUNDARRA GLENORA, AS","        72","a","        43","a","         8","a","  46.0"," ,a,0309, ","    571.3"," ,a"
+"ASN00054108","1968","-30.0167","150.95","667.5","BUNDARRA GLENORA, AS","        90","a","        60","a","         4","a"," 168.1"," ,a,0113, ","    864.5"," ,a"

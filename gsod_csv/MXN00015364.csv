@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00015364","1984","18.6667","-100.3167","855.0","SAN FRANCISCO MONZONES, MX","        93","m","        77","m","        19","m","  72.1"," ,m,0710, ","   1287.8"," ,m"
+"MXN00015364","1986","18.6667","-100.3167","855.0","SAN FRANCISCO MONZONES, MX","        77","m","        73","m","        10","m","  40.1"," ,m,1005, ","   1094.8"," ,m"
+"MXN00015364","1987","18.6667","-100.3167","855.0","SAN FRANCISCO MONZONES, MX","        71","m","        67","m","        17","m","  85.3"," ,m,0926, ","   1316.2"," ,m"

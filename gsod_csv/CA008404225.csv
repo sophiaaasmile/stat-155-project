@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA008404225","1966","49.6","-56.0","157.0","WHALESBACK, NL CA","       181","C","       112","C","         4","C","        53","C","   279"," ,C,0104, ","  35.6"," ,C,1005, ","   1097.0"," ,C","     4640"," ,C"
+"CA008404225","1967","49.6","-56.0","157.0","WHALESBACK, NL CA","       179","C","       100","C","         3","C","        42","C","   254"," ,C,0316, ","  33.5"," ,C,1205, ","   1019.0"," ,C","     3679"," ,C"
+"CA008404225","1968","49.6","-56.0","157.0","WHALESBACK, NL CA","       160","C","       103","C","         8","C","        39","C","   216"," ,C,1111, ","  47.8"," ,C,1125, ","   1202.2"," ,C","     3525"," ,C"

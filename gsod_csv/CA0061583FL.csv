@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA0061583FL","1982","43.7","-79.4833","154.0","TORONTO AMESBURY, ON CA","","","","","","","         6","C","   140"," ,C,0122, ","","","","","      644"," ,C"
+"CA0061583FL","1983","43.7","-79.4833","154.0","TORONTO AMESBURY, ON CA","        82","C","        52","C","         3","C","         5","C","   160"," ,C,0321, ","  30.6"," ,C,0916, ","    543.7"," ,C","      423"," ,C"
+"CA0061583FL","1984","43.7","-79.4833","154.0","TORONTO AMESBURY, ON CA","        87","C","        52","C","         4","C","        10","C","   280"," ,C,0228, ","  49.6"," ,C,0814, ","    617.0"," ,C","      963"," ,C"
+"CA0061583FL","1985","43.7","-79.4833","154.0","TORONTO AMESBURY, ON CA","","","","","","","         7","C","   200"," ,C,0304, ","","","","","      714"," ,C"

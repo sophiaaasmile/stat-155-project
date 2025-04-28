@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"TUM00017045","2015","41.183","41.817","628.0","ARTVIN, TU","       150","S","        73","S","         4","S","  80.5"," ,S,1112, ","    806.2"," ,S"
+"TUM00017045","2018","41.183","41.817","628.0","ARTVIN, TU","       151","S","        67","S","         2","S","  43.7"," ,S,0110, ","    590.8"," ,S"
+"TUM00017045","2024","41.183","41.817","628.0","ARTVIN, TU","       132","S","        77","S","         7","S","  77.5"," ,S,0207, ","    958.0"," ,S"

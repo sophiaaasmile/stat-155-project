@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00070288","1979","-36.8667","148.9","720.0","TOMBONG THE FOREST, AS","        50","a","        36","a","         2","a","  35.4"," ,a,0314, ","    376.0"," ,a"
+"ASN00070288","1981","-36.8667","148.9","720.0","TOMBONG THE FOREST, AS","        64","a","        45","a","         2","a","  46.0"," ,a,0526, ","    459.0"," ,a"
+"ASN00070288","1982","-36.8667","148.9","720.0","TOMBONG THE FOREST, AS","        48","a","        38","a","         1","a","  27.6"," ,a,0329, ","    316.0"," ,a"
+"ASN00070288","1983","-36.8667","148.9","720.0","TOMBONG THE FOREST, AS","        66","a","        56","a","         5","a"," 112.0"," ,a,0322, ","    678.8"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NDGF0023","2021","47.9053","-97.6211","347.2","LARIMORE 0.4 SE, ND US","        78","N","        38","N","         5","N","  46.5"," ,N,1010, ","    481.5"," ,N"
+"US1NDGF0023","2022","47.9053","-97.6211","347.2","LARIMORE 0.4 SE, ND US","       112","N","        43","N","         5","N","  54.9"," ,N,0513, ","    595.7"," ,N"
+"US1NDGF0023","2023","47.9053","-97.6211","347.2","LARIMORE 0.4 SE, ND US","        88","N","        44","N","         4","N","  49.8"," ,N,0625, ","    477.8"," ,N"
+"US1NDGF0023","2024","47.9053","-97.6211","347.2","LARIMORE 0.4 SE, ND US","       101","N","        49","N","         4","N","  54.6"," ,N,0618, ","    622.8"," ,N"

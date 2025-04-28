@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00030080","1970","-20.65","142.6167",,"MOLESWORTH STATION, AS","        26","a","        17","a","         4","a","  69.6"," ,a,1220, ","    277.8"," ,a"
+"ASN00030080","1971","-20.65","142.6167",,"MOLESWORTH STATION, AS","        52","a","        36","a","         1","a","  38.6"," ,a,0329, ","    410.0"," ,a"
+"ASN00030080","1972","-20.65","142.6167",,"MOLESWORTH STATION, AS","        35","a","        28","a","         6","a"," 108.0"," ,a,0304, ","    537.0"," ,a"
+"ASN00030080","1973","-20.65","142.6167",,"MOLESWORTH STATION, AS","        41","a","        37","a","        10","a","  55.6"," ,a,0207, ","    686.8"," ,a"

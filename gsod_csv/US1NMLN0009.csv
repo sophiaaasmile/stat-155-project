@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NMLN0009","2011","33.704728","-105.639936","2080.3","CAPITAN 11.7 NNW, NM US","        17","N","        17","N","         1","N","         0","N","     0"," ,N,1231,+","  34.3"," ,N,1213, ","    256.4"," ,N","        0"," ,N"
+"US1NMLN0009","2015","33.704728","-105.639936","2080.3","CAPITAN 11.7 NNW, NM US","        46","N","        39","N","         4","N","","","","","  76.2"," ,N,1227, ","    565.1"," ,N","",""
+"US1NMLN0009","2018","33.704728","-105.639936","2080.3","CAPITAN 11.7 NNW, NM US","        44","N","        40","N","         7","N","","","","","  52.3"," ,N,1023, ","    571.2"," ,N","",""

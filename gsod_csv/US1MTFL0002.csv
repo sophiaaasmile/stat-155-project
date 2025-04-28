@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MTFL0002","2011","46.613802","-104.418843","757.1","BAKER 18.7 NNW, MT US","        99","N","        48","N","         1","N","  30.5"," ,N,0530, ","    478.5"," ,N"
+"US1MTFL0002","2012","46.613802","-104.418843","757.1","BAKER 18.7 NNW, MT US","        78","N","        32","N","         1","N","  45.7"," ,N,0725, ","    325.5"," ,N"
+"US1MTFL0002","2013","46.613802","-104.418843","757.1","BAKER 18.7 NNW, MT US","        94","N","        52","N","         4","N","  62.2"," ,N,0709, ","    581.9"," ,N"

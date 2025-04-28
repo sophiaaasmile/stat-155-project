@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CAMT0007","2009","36.59366","-121.855663","32.9","MONTEREY 1.5 ESE, CA US","        57","N","        31","N","         3","N","  57.9"," ,N,1014, ","    390.5"," ,N"
+"US1CAMT0007","2010","36.59366","-121.855663","32.9","MONTEREY 1.5 ESE, CA US","        72","N","        49","N","         5","N","  33.0"," ,N,0119, ","    524.8"," ,N"
+"US1CAMT0007","2011","36.59366","-121.855663","32.9","MONTEREY 1.5 ESE, CA US","        66","N","        36","N","         2","N","  36.1"," ,N,0319, ","    403.9"," ,N"

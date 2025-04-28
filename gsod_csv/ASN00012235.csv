@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00012235","1926","-33.1167","121.5",,"WYOMING, AS","        73","a","        37","a","         2","a","  35.1"," ,a,0330, ","    331.5"," ,a"
+"ASN00012235","1927","-33.1167","121.5",,"WYOMING, AS","        55","a","        32","a","         2","a","  51.3"," ,a,1008, ","    309.2"," ,a"
+"ASN00012235","1928","-33.1167","121.5",,"WYOMING, AS","        63","a","        32","a","         0","a","  15.2"," ,a,1231, ","    223.7"," ,a"

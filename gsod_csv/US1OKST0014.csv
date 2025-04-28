@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKST0014","2020","34.542577","-97.959206","366.4","DUNCAN 1.6 NNE, OK US","        83","N","        54","N","        12","N","  68.6"," ,N,0516, ","    974.9"," ,N"
+"US1OKST0014","2021","34.542577","-97.959206","366.4","DUNCAN 1.6 NNE, OK US","        71","N","        47","N","         9","N","  69.3"," ,N,0428, ","    784.4"," ,N"
+"US1OKST0014","2022","34.542577","-97.959206","366.4","DUNCAN 1.6 NNE, OK US","        67","N","        42","N","         7","N","  66.8"," ,N,0322, ","    707.6"," ,N"
+"US1OKST0014","2023","34.542577","-97.959206","366.4","DUNCAN 1.6 NNE, OK US","        68","N","        43","N","         6","N","  42.7"," ,N,0616, ","    665.3"," ,N"

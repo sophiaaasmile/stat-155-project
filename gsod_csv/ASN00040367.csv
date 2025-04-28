@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040367","1934","-27.4667","153.0167",,"ST LUCIA TRAINING FARM, AS","       133","a","        77","a","        13","a"," 106.2"," ,a,0201, ","   1435.3"," ,a"
+"ASN00040367","1935","-27.4667","153.0167",,"ST LUCIA TRAINING FARM, AS","       113","a","        71","a","        15","a","  54.9"," ,a,1018, ","   1091.0"," ,a"
+"ASN00040367","1936","-27.4667","153.0167",,"ST LUCIA TRAINING FARM, AS","        96","a","        53","a","         4","a","  56.9"," ,a,0301, ","    671.2"," ,a"
+"ASN00040367","1937","-27.4667","153.0167",,"ST LUCIA TRAINING FARM, AS","       104","a","        62","a","        11","a","  76.2"," ,a,0316, ","    948.4"," ,a"

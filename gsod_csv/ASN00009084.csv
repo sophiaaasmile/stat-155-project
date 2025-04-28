@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009084","1914","-32.05","115.75",,"FREMANTLE NORTH, AS","        67","a","        39","a","         2","a","  37.6"," ,a,0625, ","    411.5"," ,a"
+"ASN00009084","1915","-32.05","115.75",,"FREMANTLE NORTH, AS","       126","a","        85","a","         5","a","  53.3"," ,a,0226, ","    937.4"," ,a"
+"ASN00009084","1916","-32.05","115.75",,"FREMANTLE NORTH, AS","       109","a","        69","a","         6","a","  41.7"," ,a,0529, ","    789.5"," ,a"
+"ASN00009084","1917","-32.05","115.75",,"FREMANTLE NORTH, AS","       136","a","        97","a","         9","a","  42.2"," ,a,0716, ","   1128.8"," ,a"
+"ASN00009084","1918","-32.05","115.75",,"FREMANTLE NORTH, AS","       116","a","        70","a","         6","a","  47.8"," ,a,0608, ","    893.8"," ,a"

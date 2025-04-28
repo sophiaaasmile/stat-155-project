@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10sher001","2008","42.8153","-102.1032","1079.9","GORDON 5.3 E, NE US","        93","N","        44","N","         3","N","  37.8"," ,N,0523, ","    480.9"," ,N"
+"US10sher001","2011","42.8153","-102.1032","1079.9","GORDON 5.3 E, NE US","       104","N","        53","N","         4","N","  54.4"," ,N,0520, ","    622.7"," ,N"
+"US10sher001","2012","42.8153","-102.1032","1079.9","GORDON 5.3 E, NE US","        57","N","        24","N","         1","N","  25.9"," ,N,0620, ","    250.6"," ,N"

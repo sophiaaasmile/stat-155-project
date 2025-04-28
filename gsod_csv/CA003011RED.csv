@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003011RED","1988","53.6","-114.5833","780.0","DARWELL, AB CA","        69","C","        50","C","         2","C","         8","C","   230"," ,C,0212, ","  63.6"," ,C,0705, ","    547.7"," ,C","      555"," ,C"
+"CA003011RED","1990","53.6","-114.5833","780.0","DARWELL, AB CA","        70","C","        45","C","         3","C","        14","C","   148"," ,C,1004, ","  76.0"," ,C,0702, ","    475.2"," ,C","     1136"," ,C"
+"CA003011RED","1991","53.6","-114.5833","780.0","DARWELL, AB CA","        74","C","        43","C","         3","C","         6","C","   240"," ,C,1021, ","  33.3"," ,C,0513, ","    434.0"," ,C","      766"," ,C"

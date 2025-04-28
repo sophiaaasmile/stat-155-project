@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASC0070","2020","37.062143","-121.554316","87.5","GILROY 3.8 NNE, CA US","        47","N","        21","N","         2","N","  33.3"," ,N,0315, ","    227.3"," ,N"
+"US1CASC0070","2021","37.062143","-121.554316","87.5","GILROY 3.8 NNE, CA US","        47","N","        30","N","         5","N","  74.4"," ,N,1025, ","    485.2"," ,N"
+"US1CASC0070","2022","37.062143","-121.554316","87.5","GILROY 3.8 NNE, CA US","        33","N","        24","N","         4","N","  54.9"," ,N,1211, ","    359.0"," ,N"
+"US1CASC0070","2024","37.062143","-121.554316","87.5","GILROY 3.8 NNE, CA US","        59","N","        46","N","         2","N","  35.1"," ,N,1123, ","    559.2"," ,N"

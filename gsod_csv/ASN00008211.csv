@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00008211","1915","-30.05","116.05",,"MARCHAGEE, AS","        76","a","        59","a","         4","a","  38.1"," ,a,0225, ","    553.5"," ,a"
+"ASN00008211","1916","-30.05","116.05",,"MARCHAGEE, AS","        50","a","        39","a","         5","a","  41.9"," ,a,1005, ","    450.1"," ,a"
+"ASN00008211","1917","-30.05","116.05",,"MARCHAGEE, AS","        64","a","        44","a","         6","a","  68.6"," ,a,0318, ","    707.1"," ,a"

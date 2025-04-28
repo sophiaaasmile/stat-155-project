@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00109506","2006","-33.5175","116.0894",,"MUMBALLUP, AS","        85","a","        40","a","         1","a","  27.6"," ,a,0721, ","    578.0"," ,a"
+"ASN00109506","2007","-33.5175","116.0894",,"MUMBALLUP, AS","","","","","","","","","    837.2"," ,a"
+"ASN00109506","2008","-33.5175","116.0894",,"MUMBALLUP, AS","","","","","","","","","    710.3"," ,a"

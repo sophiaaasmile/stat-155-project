@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040375","1910","-26.7","152.9833",,"GLENBAR, AS","        53","a","        45","a","        11","a","  63.5"," ,a,0602, ","    786.3"," ,a"
+"ASN00040375","1912","-26.7","152.9833",,"GLENBAR, AS","        62","a","        51","a","        12","a","  60.5"," ,a,0303, ","    844.5"," ,a"
+"ASN00040375","1914","-26.7","152.9833",,"GLENBAR, AS","        82","a","        65","a","        10","a","  61.5"," ,a,0222, ","    928.6"," ,a"

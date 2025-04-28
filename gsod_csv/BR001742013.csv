@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001742013","1946","-17.3","-42.02","568.0","QUEIXADA EFBM, BR","        46","I","        32","I","         4","I","  58.6"," ,I,0506, ","    394.9"," ,I"
+"BR001742013","1950","-17.3","-42.02","568.0","QUEIXADA EFBM, BR","        36","I","        27","I","         5","I","  94.2"," ,I,1027, ","    505.5"," ,I"
+"BR001742013","1962","-17.3","-42.02","568.0","QUEIXADA EFBM, BR","        58","I","        48","I","        14","I","  64.0"," ,I,0307, ","    892.2"," ,I"

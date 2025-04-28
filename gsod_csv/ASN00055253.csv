@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00055253","2003","-30.9671","150.6946","330.0","SOMERTON BECTIVE WEST, AS","        61","a","        46","a","         5","a","  42.6"," ,a,0222, ","    588.8"," ,a"
+"ASN00055253","2004","-30.9671","150.6946","330.0","SOMERTON BECTIVE WEST, AS","        66","a","        56","a","         8","a","  34.0"," ,a,1224, ","    722.0"," ,a"
+"ASN00055253","2006","-30.9671","150.6946","330.0","SOMERTON BECTIVE WEST, AS","        51","a","        34","a","         0","a","  25.2"," ,a,0716, ","    349.4"," ,a"

@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FIE00144812","1968","62.65","28.9831","122.0","OUTOKUMPU LUKANVAARA, FI","       176","E","        89","E","         0","E","  24.9"," ,E,0515, ","    735.9"," ,E"
+"FIE00144812","1969","62.65","28.9831","122.0","OUTOKUMPU LUKANVAARA, FI","       166","E","        71","E","         0","E","  25.3"," ,E,0822, ","    604.2"," ,E"
+"FIE00144812","1970","62.65","28.9831","122.0","OUTOKUMPU LUKANVAARA, FI","       165","E","        72","E","         3","E","  32.0"," ,E,0808, ","    649.4"," ,E"
+"FIE00144812","1971","62.65","28.9831","122.0","OUTOKUMPU LUKANVAARA, FI","       173","E","        76","E","         0","E","  23.0"," ,E,0716, ","    603.4"," ,E"
+"FIE00144812","1972","62.65","28.9831","122.0","OUTOKUMPU LUKANVAARA, FI","       156","E","        66","E","         1","E","  28.9"," ,E,0812, ","    526.9"," ,E"
+"FIE00144812","1973","62.65","28.9831","122.0","OUTOKUMPU LUKANVAARA, FI","       162","E","        69","E","         0","E","  19.3"," ,E,0610, ","    604.5"," ,E"

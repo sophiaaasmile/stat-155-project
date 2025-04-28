@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001545004","1997","-15.3","-45.63","0.0","GAUCHOS, BR","        95","I","        72","I","        17","I","  70.5"," ,I,0126, ","   1288.7"," ,I"
+"BR001545004","1999","-15.3","-45.63","0.0","GAUCHOS, BR","        70","I","        61","I","        20","I","  99.5"," ,I,1224, ","   1281.5"," ,I"
+"BR001545004","2000","-15.3","-45.63","0.0","GAUCHOS, BR","        81","I","        73","I","        22","I"," 100.0"," ,I,1214, ","   1588.3"," ,I"

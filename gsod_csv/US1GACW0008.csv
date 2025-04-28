@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GACW0008","2011","33.2486","-84.5536","256.3","SENOIA 4.4 S, GA US","       103","N","        70","N","         9","N","  48.5"," ,N,0807, ","   1039.6"," ,N"
+"US1GACW0008","2012","33.2486","-84.5536","256.3","SENOIA 4.4 S, GA US","       103","N","        80","N","        10","N","  98.0"," ,N,0225, ","   1139.1"," ,N"
+"US1GACW0008","2013","33.2486","-84.5536","256.3","SENOIA 4.4 S, GA US","       123","N","        98","N","        15","N"," 121.9"," ,N,1223, ","   1544.6"," ,N"

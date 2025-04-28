@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006158765","1959","43.7167","-79.2333","174.0","TORONTO PINE RIDGE, ON CA","       141","C","        74","C","         2","C","        15","C","   208"," ,C,0223, ","  42.9"," ,C,0428, ","    811.9"," ,C","     1574"," ,C"
+"CA006158765","1960","43.7167","-79.2333","174.0","TORONTO PINE RIDGE, ON CA","","","","","","","        19","C","   356"," ,C,0225, ","","","","","     1916"," ,C"
+"CA006158765","1961","43.7167","-79.2333","174.0","TORONTO PINE RIDGE, ON CA","","","","","","","        17","C","   287"," ,C,0126, ","","","","","     1586"," ,C"
+"CA006158765","1962","43.7167","-79.2333","174.0","TORONTO PINE RIDGE, ON CA","","","","","","","        19","C","   178"," ,C,0119, ","","","","","     1620"," ,C"
+"CA006158765","1964","43.7167","-79.2333","174.0","TORONTO PINE RIDGE, ON CA","","","","","","","        12","C","   274"," ,C,0310, ","","","","","     1282"," ,C"

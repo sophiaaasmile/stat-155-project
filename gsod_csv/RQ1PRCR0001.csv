@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"RQ1PRCR0001","2015","18.08128","-67.13942","27.4","CABO ROJO 0.8 SE, PR RQ","       149","N","        92","N","        12","N"," 101.3"," ,N,1026, ","   1299.3"," ,N"
+"RQ1PRCR0001","2016","18.08128","-67.13942","27.4","CABO ROJO 0.8 SE, PR RQ","       176","N","       112","N","        31","N","  88.1"," ,N,1025, ","   2192.5"," ,N"
+"RQ1PRCR0001","2020","18.08128","-67.13942","27.4","CABO ROJO 0.8 SE, PR RQ","       150","N","        97","N","        18","N"," 217.2"," ,N,0730, ","   1725.5"," ,N"
+"RQ1PRCR0001","2022","18.08128","-67.13942","27.4","CABO ROJO 0.8 SE, PR RQ","       147","N","       105","N","        23","N"," 270.5"," ,N,0919, ","   2229.7"," ,N"

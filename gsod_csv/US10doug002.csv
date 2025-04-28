@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10doug002","2008","41.199","-96.1841","362.1","OMAHA 13.5 WSW, NE US","        95","N","        56","N","        10","N","","","","","  73.2"," ,N,0716, ","    954.1"," ,N","",""
+"US10doug002","2010","41.199","-96.1841","362.1","OMAHA 13.5 WSW, NE US","        84","N","        53","N","        11","N","","","","","  51.3"," ,N,0621, ","    826.4"," ,N","",""
+"US10doug002","2011","41.199","-96.1841","362.1","OMAHA 13.5 WSW, NE US","        88","N","        50","N","         4","N","","","","","  42.4"," ,N,0625, ","    625.3"," ,N","",""
+"US10doug002","2015","41.199","-96.1841","362.1","OMAHA 13.5 WSW, NE US","","","","","","","         6","N","   216"," ,N,0201, ","","","","","      625"," ,N"

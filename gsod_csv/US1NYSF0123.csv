@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYSF0123","2020","40.80676","-72.798113","10.1","CENTER MORICHES 0.5 N, NY US","       140","N","        86","N","        10","N","  49.3"," ,N,0911, ","   1176.3"," ,N"
+"US1NYSF0123","2021","40.80676","-72.798113","10.1","CENTER MORICHES 0.5 N, NY US","       124","N","        75","N","        12","N"," 120.9"," ,N,1027, ","   1202.8"," ,N"
+"US1NYSF0123","2022","40.80676","-72.798113","10.1","CENTER MORICHES 0.5 N, NY US","       125","N","        78","N","        11","N","  45.5"," ,N,0419, ","   1046.5"," ,N"
+"US1NYSF0123","2023","40.80676","-72.798113","10.1","CENTER MORICHES 0.5 N, NY US","       130","N","        74","N","        12","N","  82.8"," ,N,0710, ","   1236.8"," ,N"
+"US1NYSF0123","2024","40.80676","-72.798113","10.1","CENTER MORICHES 0.5 N, NY US","       123","N","        75","N","        13","N","  63.2"," ,N,1122, ","   1209.5"," ,N"

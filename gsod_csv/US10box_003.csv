@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10box_003","2008","42.017","-102.9953","1236.9","ALLIANCE 8.6 SW, NE US","        87","N","        44","N","         3","N","         7","N","    76"," ,N,0410,+","  45.7"," ,N,0811, ","    458.7"," ,N","      445"," ,N"
+"US10box_003","2010","42.017","-102.9953","1236.9","ALLIANCE 8.6 SW, NE US","        91","N","        50","N","         3","N","         8","N","   203"," ,N,1231, ","  34.0"," ,N,0614, ","    550.0"," ,N","      873"," ,N"
+"US10box_003","2011","42.017","-102.9953","1236.9","ALLIANCE 8.6 SW, NE US","        90","N","        45","N","         4","N","        12","N","    89"," ,N,1102,+","  40.6"," ,N,1009, ","    478.8"," ,N","      677"," ,N"

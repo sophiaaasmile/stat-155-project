@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYFG","DYFG_ATTRIBUTES","DYTS","DYTS_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"BFW00012715","1955","22.36667","-73.03333","21.0","MAYAGUAN, BF","","","","","         2"," ","        36"," ","","","","","",""
+"BFW00012715","1956","22.36667","-73.03333","21.0","MAYAGUAN, BF","        0","","         0","X","         1"," ","        24"," ","     0"," ,X,1231,+","     0"," ,X,1231,+","        0"," ,X"
+"BFW00012715","1957","22.36667","-73.03333","21.0","MAYAGUAN, BF","","","","","","","         2"," ","","","","","",""

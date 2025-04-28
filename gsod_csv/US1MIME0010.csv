@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MIME0010","2016","43.562697","-85.280632","297.2","MECOSTA 4.6 SSW, MI US","       146","N","        76","N","         5","N","        18","N","   185"," ,N,0225, ","  61.2"," ,N,0908, ","    884.8"," ,N","     1555"," ,N"
+"US1MIME0010","2017","43.562697","-85.280632","297.2","MECOSTA 4.6 SSW, MI US","       151","N","        83","N","         6","N","","","","","  90.4"," ,N,0623, ","   1045.4"," ,N","",""
+"US1MIME0010","2018","43.562697","-85.280632","297.2","MECOSTA 4.6 SSW, MI US","       150","N","        80","N","         7","N","","","","","  70.9"," ,N,0822, ","   1030.3"," ,N","",""
+"US1MIME0010","2019","43.562697","-85.280632","297.2","MECOSTA 4.6 SSW, MI US","       168","N","       100","N","         7","N","","","","","  85.6"," ,N,1002, ","   1135.3"," ,N","",""

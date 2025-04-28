@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00046030","2000","-30.8688","143.7073","100.0","WILCANNIA MOUNT JACK, AS","        24","a","        18","a","         3","a"," 167.8"," ,a,0222, ","    421.2"," ,a"
+"ASN00046030","2001","-30.8688","143.7073","100.0","WILCANNIA MOUNT JACK, AS","        11","a","         9","a","         2","a","  62.0"," ,a,0127, ","    187.8"," ,a"
+"ASN00046030","2002","-30.8688","143.7073","100.0","WILCANNIA MOUNT JACK, AS","        10","a","        10","a","         0","a","  25.0"," ,a,0216, ","     96.2"," ,a"
+"ASN00046030","2003","-30.8688","143.7073","100.0","WILCANNIA MOUNT JACK, AS","        22","a","        21","a","         2","a","  57.4"," ,a,0814, ","    241.2"," ,a"

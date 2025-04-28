@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MDSM0018","2020","38.4852826","-76.7339102","36.6","MECHANICSVILLE 3.8 N, MD US","       134","N","        96","N","        23","N"," 150.4"," ,N,0805, ","   1961.2"," ,N"
+"US1MDSM0018","2021","38.4852826","-76.7339102","36.6","MECHANICSVILLE 3.8 N, MD US","       113","N","        76","N","        11","N","  85.3"," ,N,1030, ","   1148.1"," ,N"
+"US1MDSM0018","2022","38.4852826","-76.7339102","36.6","MECHANICSVILLE 3.8 N, MD US","       115","N","        81","N","        16","N","  50.8"," ,N,1216, ","   1271.4"," ,N"
+"US1MDSM0018","2023","38.4852826","-76.7339102","36.6","MECHANICSVILLE 3.8 N, MD US","       101","N","        67","N","        10","N","  81.8"," ,N,1218, ","   1048.0"," ,N"
+"US1MDSM0018","2024","38.4852826","-76.7339102","36.6","MECHANICSVILLE 3.8 N, MD US","        99","N","        68","N","        10","N","  68.1"," ,N,0323, ","    927.2"," ,N"

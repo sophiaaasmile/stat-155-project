@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00023840","1974","-35.2333","138.5167","70.0","MCLAREN VALE SECTION 171, AS","","","","","","","","","    725.1"," ,a"
+"ASN00023840","1975","-35.2333","138.5167","70.0","MCLAREN VALE SECTION 171, AS","","","","","","","","","    544.5"," ,a"
+"ASN00023840","1976","-35.2333","138.5167","70.0","MCLAREN VALE SECTION 171, AS","        93","a","        38","a","         2","a","  35.4"," ,a,0112, ","    409.2"," ,a"
+"ASN00023840","1977","-35.2333","138.5167","70.0","MCLAREN VALE SECTION 171, AS","        72","a","        41","a","         0","a","  23.8"," ,a,0326, ","    460.4"," ,a"

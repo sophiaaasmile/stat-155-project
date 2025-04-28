@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00018208","2006","-33.231","135.4095","60.0","KYANCUTTA BILLABOWIE, AS","        52","a","        28","a","         2","a","  56.8"," ,a,0115, ","    317.1"," ,a"
+"ASN00018208","2011","-33.231","135.4095","60.0","KYANCUTTA BILLABOWIE, AS","        65","a","        30","a","         3","a","  43.8"," ,a,0218, ","    348.1"," ,a"
+"ASN00018208","2013","-33.231","135.4095","60.0","KYANCUTTA BILLABOWIE, AS","        55","a","        33","a","         0","a","  20.0"," ,a,0821, ","    318.5"," ,a"
+"ASN00018208","2015","-33.231","135.4095","60.0","KYANCUTTA BILLABOWIE, AS","        54","a","        25","a","         1","a","  30.4"," ,a,1104, ","    298.0"," ,a"
+"ASN00018208","2016","-33.231","135.4095","60.0","KYANCUTTA BILLABOWIE, AS","        81","a","        47","a","         0","a","  21.4"," ,a,1227, ","    313.4"," ,a"

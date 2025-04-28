@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FRE00104902","1947","46.2431","1.4681","405.0","LA SOUTERRAINE, FR","       141","E","        86","E","         2","E","  33.2"," ,E,1031, ","    758.5"," ,E"
+"FRE00104902","1948","46.2431","1.4681","405.0","LA SOUTERRAINE, FR","       151","E","        87","E","         1","E","  30.3"," ,E,0911, ","    721.9"," ,E"
+"FRE00104902","1949","46.2431","1.4681","405.0","LA SOUTERRAINE, FR","       125","E","        76","E","         0","E","  21.2"," ,E,1106, ","    707.5"," ,E"

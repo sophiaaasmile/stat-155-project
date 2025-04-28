@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1PASC0010","2022","40.59672","-76.0979","157.6","AUBURN 0.1 WNW, PA US","       143","N","        90","N","        15","N","  74.2"," ,N,1005, ","   1313.9"," ,N"
+"US1PASC0010","2023","40.59672","-76.0979","157.6","AUBURN 0.1 WNW, PA US","       137","N","        75","N","        10","N"," 117.6"," ,N,0910, ","   1325.4"," ,N"
+"US1PASC0010","2024","40.59672","-76.0979","157.6","AUBURN 0.1 WNW, PA US","       127","N","        81","N","        11","N","  67.3"," ,N,0110, ","   1198.9"," ,N"

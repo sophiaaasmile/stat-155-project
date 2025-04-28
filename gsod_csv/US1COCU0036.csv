@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COCU0036","2020","38.14047","-105.45961","2418.6","WESTCLIFFE 0.6 NNE, CO US","        75","N","        29","N","         1","N","  40.6"," ,N,0727, ","    274.3"," ,N"
+"US1COCU0036","2021","38.14047","-105.45961","2418.6","WESTCLIFFE 0.6 NNE, CO US","        77","N","        27","N","         1","N","  51.6"," ,N,0722, ","    327.3"," ,N"
+"US1COCU0036","2022","38.14047","-105.45961","2418.6","WESTCLIFFE 0.6 NNE, CO US","        92","N","        43","N","         0","N","  20.8"," ,N,0521, ","    329.7"," ,N"

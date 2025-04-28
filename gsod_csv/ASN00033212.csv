@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00033212","1915","-22.9","150.0333",,"PRINCHESTER, AS","        39","a","        30","a","         7","a","  35.6"," ,a,0220,+","    425.3"," ,a"
+"ASN00033212","1916","-22.9","150.0333",,"PRINCHESTER, AS","        59","a","        47","a","        12","a"," 157.5"," ,a,1228, ","    966.2"," ,a"
+"ASN00033212","1917","-22.9","150.0333",,"PRINCHESTER, AS","        58","a","        51","a","        12","a","  71.1"," ,a,1104, ","    819.1"," ,a"
+"ASN00033212","1918","-22.9","150.0333",,"PRINCHESTER, AS","        52","a","        48","a","        20","a"," 254.0"," ,a,0122, ","   1571.7"," ,a"

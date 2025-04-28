@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00066151","1913","-33.8167","151.2167","30.5","PRIMROSE PARK FOLLY POINT, AS","        83","a","        60","a","        18","a"," 140.2"," ,a,0309, ","   1411.3"," ,a"
+"ASN00066151","1914","-33.8167","151.2167","30.5","PRIMROSE PARK FOLLY POINT, AS","       110","a","        78","a","        17","a","  76.7"," ,a,1019, ","   1391.0"," ,a"
+"ASN00066151","1915","-33.8167","151.2167","30.5","PRIMROSE PARK FOLLY POINT, AS","        86","a","        54","a","        11","a","  61.5"," ,a,0407, ","    975.3"," ,a"
+"ASN00066151","1916","-33.8167","151.2167","30.5","PRIMROSE PARK FOLLY POINT, AS","       115","a","        75","a","        10","a","  99.1"," ,a,1005, ","   1121.7"," ,a"
+"ASN00066151","1917","-33.8167","151.2167","30.5","PRIMROSE PARK FOLLY POINT, AS","       116","a","        75","a","        17","a","  98.6"," ,a,0920, ","   1349.5"," ,a"

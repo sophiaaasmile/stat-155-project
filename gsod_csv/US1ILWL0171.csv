@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILWL0171","2022","41.627561","-88.23367","193.2","PLAINFIELD 1.7 WNW, IL US","       124","N","        68","N","         6","N","  53.6"," ,N,0912, ","    802.2"," ,N"
+"US1ILWL0171","2023","41.627561","-88.23367","193.2","PLAINFIELD 1.7 WNW, IL US","       130","N","        73","N","         3","N","  70.6"," ,N,0712, ","    826.3"," ,N"
+"US1ILWL0171","2024","41.627561","-88.23367","193.2","PLAINFIELD 1.7 WNW, IL US","       110","N","        65","N","         6","N","  36.8"," ,N,0605, ","    878.9"," ,N"

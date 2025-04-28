@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00029070","1888","-18.05","142.0",,"GREEN CREEK, AS","        50","a","        33","a","         7","a","  58.4"," ,a,0204, ","    583.4"," ,a"
+"ASN00029070","1890","-18.05","142.0",,"GREEN CREEK, AS","        59","a","        47","a","        11","a","  72.1"," ,a,0409, ","    840.2"," ,a"
+"ASN00029070","1891","-18.05","142.0",,"GREEN CREEK, AS","        81","a","        73","a","        15","a"," 101.1"," ,a,0320, ","   1170.6"," ,a"
+"ASN00029070","1892","-18.05","142.0",,"GREEN CREEK, AS","        42","a","        32","a","         6","a","  78.2"," ,a,0122, ","    491.8"," ,a"

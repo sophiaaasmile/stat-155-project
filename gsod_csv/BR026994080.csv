@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR026994080","1967","-4.72","-45.47","60.0","ENCRUZILHADA, BR","        59","I","        59","I","        23","I","  91.4"," ,I,0407, ","   1590.8"," ,I"
+"BR026994080","1969","-4.72","-45.47","60.0","ENCRUZILHADA, BR","        60","I","        60","I","        18","I","  63.0"," ,I,0216, ","   1195.8"," ,I"
+"BR026994080","1970","-4.72","-45.47","60.0","ENCRUZILHADA, BR","        67","I","        65","I","        14","I","  73.7"," ,I,0124, ","   1251.0"," ,I"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1ON000046","2015","43.8636513","-81.1522598","336.5","WROXETER 0.3 WSW MVCA, ON CA","       167","N","        78","N","         4","N","  58.7"," ,N,0904, ","    921.1"," ,N"
+"CA1ON000046","2016","43.8636513","-81.1522598","336.5","WROXETER 0.3 WSW MVCA, ON CA","       164","N","        90","N","         5","N","  37.1"," ,N,0325, ","    948.7"," ,N"
+"CA1ON000046","2017","43.8636513","-81.1522598","336.5","WROXETER 0.3 WSW MVCA, ON CA","       188","N","       110","N","         3","N","  95.5"," ,N,0623, ","   1086.7"," ,N"
+"CA1ON000046","2019","43.8636513","-81.1522598","336.5","WROXETER 0.3 WSW MVCA, ON CA","       173","N","        93","N","         0","N","  22.6"," ,N,0914, ","    896.9"," ,N"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00054133","1972","-29.65","151.05","701.0","INVERELL OAKLEIGH, AS","        42","a","        40","a","        10","a","  47.2"," ,a,1025, ","    671.5"," ,a"
+"ASN00054133","1973","-29.65","151.05","701.0","INVERELL OAKLEIGH, AS","        66","a","        61","a","         5","a"," 118.1"," ,a,1221, ","    881.3"," ,a"
+"ASN00054133","1974","-29.65","151.05","701.0","INVERELL OAKLEIGH, AS","        50","a","        46","a","         9","a","  71.9"," ,a,0219, ","    708.7"," ,a"
+"ASN00054133","1975","-29.65","151.05","701.0","INVERELL OAKLEIGH, AS","        46","a","        43","a","        10","a","  92.0"," ,a,0224, ","    968.5"," ,a"
+"ASN00054133","1976","-29.65","151.05","701.0","INVERELL OAKLEIGH, AS","        36","a","        35","a","         9","a"," 172.1"," ,a,0211, ","    822.0"," ,a"

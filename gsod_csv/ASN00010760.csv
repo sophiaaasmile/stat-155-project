@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010760","1916","-33.6","116.8",,"MOODIARUP, AS","        98","a","        51","a","         1","a","  26.9"," ,a,0723, ","    480.5"," ,a"
+"ASN00010760","1917","-33.6","116.8",,"MOODIARUP, AS","       138","a","        78","a","         7","a"," 120.9"," ,a,0326, ","    954.9"," ,a"
+"ASN00010760","1918","-33.6","116.8",,"MOODIARUP, AS","        79","a","        52","a","         3","a","  44.5"," ,a,0126, ","    566.7"," ,a"
+"ASN00010760","1919","-33.6","116.8",,"MOODIARUP, AS","        62","a","        47","a","         2","a","  29.0"," ,a,0415, ","    465.1"," ,a"

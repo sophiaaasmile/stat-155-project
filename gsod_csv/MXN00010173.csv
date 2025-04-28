@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00010173","2000","26.4333","-105.55","1749.9","SAN GABRIEL, MX","        59","m","        40","m","         5","m","  34.8"," ,m,0924, ","    474.3"," ,m"
+"MXN00010173","2001","26.4333","-105.55","1749.9","SAN GABRIEL, MX","        54","m","        34","m","         0","m","  19.8"," ,m,0816,+","    315.0"," ,m"
+"MXN00010173","2009","26.4333","-105.55","1749.9","SAN GABRIEL, MX","        40","m","        16","m","         1","m","  37.8"," ,m,0201, ","    176.2"," ,m"

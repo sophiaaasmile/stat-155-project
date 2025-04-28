@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00067045","1963","-33.9167","150.6","274.3","SILVERDALE, AS","       120","a","        71","a","        14","a","  96.5"," ,a,0116, ","   1399.2"," ,a"
+"ASN00067045","1964","-33.9167","150.6","274.3","SILVERDALE, AS","        63","a","        41","a","        11","a"," 129.5"," ,a,0611, ","    938.6"," ,a"
+"ASN00067045","1965","-33.9167","150.6","274.3","SILVERDALE, AS","        54","a","        32","a","         2","a","  42.4"," ,a,1018, ","    378.9"," ,a"

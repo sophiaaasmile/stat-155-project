@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00036109","1922","-23.55","143.5167",,"EL KANTARA, AS","        17","a","        13","a","         2","a","  63.5"," ,a,0131, ","    220.9"," ,a"
+"ASN00036109","1931","-23.55","143.5167",,"EL KANTARA, AS","        35","a","        28","a","         4","a","  71.4"," ,a,0321, ","    367.4"," ,a"
+"ASN00036109","1932","-23.55","143.5167",,"EL KANTARA, AS","        19","a","        15","a","         1","a","  32.0"," ,a,0519, ","    160.2"," ,a"

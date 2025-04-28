@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00039317","1991","-24.335","151.295",,"LOLOMA, AS","","","","","","","","","    888.2"," ,a"
+"ASN00039317","1993","-24.335","151.295",,"LOLOMA, AS","        43","a","        30","a","         4","a","  53.8"," ,a,1124, ","    583.9"," ,a"
+"ASN00039317","1994","-24.335","151.295",,"LOLOMA, AS","        37","a","        33","a","         8","a"," 143.0"," ,a,0119, ","    671.8"," ,a"

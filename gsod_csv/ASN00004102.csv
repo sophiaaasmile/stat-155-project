@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00004102","2016","-21.2933","120.4658","220.0","MEENTHEENA, AS","        36","a","        17","a","         2","a","  40.6"," ,a,0607, ","    244.0"," ,a"
+"ASN00004102","2020","-21.2933","120.4658","220.0","MEENTHEENA, AS","        32","a","        23","a","         7","a","  94.0"," ,a,0107, ","    536.2"," ,a"
+"ASN00004102","2022","-21.2933","120.4658","220.0","MEENTHEENA, AS","        33","a","        23","a","         8","a"," 250.0"," ,a,0208, ","    674.9"," ,a"

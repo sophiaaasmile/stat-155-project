@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MDAA0002","2006","39.1069","-76.7021","37.2","ODENTON 3.2 N, MD US","       104","N","        61","N","        11","N","         1","N","   330"," ,N,0212, "," 108.2"," ,N,0902, ","   1112.3"," ,N","      330"," ,N"
+"US1MDAA0002","2007","39.1069","-76.7021","37.2","ODENTON 3.2 N, MD US","       106","N","        64","N","        11","N","         7","N","   107"," ,N,0226, "," 114.8"," ,N,1027, ","    906.3"," ,N","      400"," ,N"
+"US1MDAA0002","2008","39.1069","-76.7021","37.2","ODENTON 3.2 N, MD US","       131","N","        79","N","        12","N","","","","","  91.9"," ,N,0512, ","   1257.9"," ,N","",""

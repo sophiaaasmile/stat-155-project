@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10dawe003","2011","42.7696","-103.0213","1081.1","CHADRON 4.7 SSW, NE US","        72","N","        46","N","         5","N","  53.6"," ,N,1009, ","    574.4"," ,N"
+"US10dawe003","2012","42.7696","-103.0213","1081.1","CHADRON 4.7 SSW, NE US","        57","N","        25","N","         0","N","  14.5"," ,N,0524, ","    216.6"," ,N"

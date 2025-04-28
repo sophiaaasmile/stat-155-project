@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZYV0008","2010","34.7287","-111.97","1070.8","CORNVILLE 3.7 WNW, AZ US","        63","N","        37","N","         4","N","  54.1"," ,N,0122, ","    449.0"," ,N"
+"US1AZYV0008","2011","34.7287","-111.97","1070.8","CORNVILLE 3.7 WNW, AZ US","        58","N","        37","N","         2","N","  35.6"," ,N,1213, ","    308.8"," ,N"
+"US1AZYV0008","2012","34.7287","-111.97","1070.8","CORNVILLE 3.7 WNW, AZ US","        47","N","        23","N","         2","N","  30.5"," ,N,0823, ","    248.7"," ,N"
+"US1AZYV0008","2013","34.7287","-111.97","1070.8","CORNVILLE 3.7 WNW, AZ US","        57","N","        30","N","         3","N","  34.8"," ,N,1123, ","    379.1"," ,N"
+"US1AZYV0008","2014","34.7287","-111.97","1070.8","CORNVILLE 3.7 WNW, AZ US","        51","N","        27","N","         1","N","  26.2"," ,N,0820, ","    283.1"," ,N"

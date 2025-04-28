@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00014194","1913","-11.7667","130.6167","30.0","MELVILLE ISLAND, AS","        80","a","        64","a","         8","a","  60.5"," ,a,0204, ","    746.5"," ,a"
+"ASN00014194","1914","-11.7667","130.6167","30.0","MELVILLE ISLAND, AS","       108","a","        93","a","        20","a"," 188.0"," ,a,0102, ","   1764.5"," ,a"
+"ASN00014194","1916","-11.7667","130.6167","30.0","MELVILLE ISLAND, AS","        93","a","        86","a","        13","a","  74.9"," ,a,0216, ","   1291.8"," ,a"

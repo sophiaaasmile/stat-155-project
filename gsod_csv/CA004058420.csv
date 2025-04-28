@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004058420","1965","52.0167","-107.0333","510.0","VANSCOY UPPER AIR, SK CA","        53","C","        38","C","         2","C","        13","C","   140"," ,C,0227, ","  29.2"," ,C,0828, ","    298.5"," ,C","      767"," ,C"
+"CA004058420","1966","52.0167","-107.0333","510.0","VANSCOY UPPER AIR, SK CA","        61","C","        47","C","         4","C","        19","C","   152"," ,C,0316, ","  56.4"," ,C,0805, ","    444.4"," ,C","      996"," ,C"

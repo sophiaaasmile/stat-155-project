@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COME0053","2015","39.2396","-107.9575","1841.9","COLLBRAN 0.2 ESE, CO US","        86","N","        60","N","         0","N","  20.6"," ,N,0611, ","    443.9"," ,N"
+"US1COME0053","2016","39.2396","-107.9575","1841.9","COLLBRAN 0.2 ESE, CO US","        91","N","        48","N","         0","N","  19.3"," ,N,0703, ","    359.6"," ,N"
+"US1COME0053","2019","39.2396","-107.9575","1841.9","COLLBRAN 0.2 ESE, CO US","        83","N","        49","N","         2","N","  32.5"," ,N,0430, ","    386.0"," ,N"

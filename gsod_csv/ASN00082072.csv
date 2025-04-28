@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00082072","1908","-36.55","145.95",,"BENALLA RYANS CREEK 1, AS","        70","a","        54","a","         6","a","  38.1"," ,a,0622, ","    578.2"," ,a"
+"ASN00082072","1910","-36.55","145.95",,"BENALLA RYANS CREEK 1, AS","        93","a","        64","a","         7","a","  51.6"," ,a,0519, ","    779.0"," ,a"
+"ASN00082072","1911","-36.55","145.95",,"BENALLA RYANS CREEK 1, AS","        79","a","        62","a","         5","a","  41.4"," ,a,0210, ","    755.9"," ,a"
+"ASN00082072","1912","-36.55","145.95",,"BENALLA RYANS CREEK 1, AS","        89","a","        58","a","         7","a","  45.0"," ,a,1118, ","    734.0"," ,a"
+"ASN00082072","1916","-36.55","145.95",,"BENALLA RYANS CREEK 1, AS","       110","a","        80","a","        11","a","  87.6"," ,a,0924, ","   1078.4"," ,a"

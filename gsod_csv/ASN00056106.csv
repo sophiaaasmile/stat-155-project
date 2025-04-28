@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056106","1959","-29.6167","151.9167","1116.0","DUNDEE KUBBA JIMBA, AS","        63","a","        55","a","        11","a","  91.4"," ,a,0122, ","   1165.4"," ,a"
+"ASN00056106","1961","-29.6167","151.9167","1116.0","DUNDEE KUBBA JIMBA, AS","","","","","","","","","    695.9"," ,a"
+"ASN00056106","1966","-29.6167","151.9167","1116.0","DUNDEE KUBBA JIMBA, AS","","","","","","","","","    751.2"," ,a"
+"ASN00056106","1967","-29.6167","151.9167","1116.0","DUNDEE KUBBA JIMBA, AS","       109","a","        64","a","         6","a","  97.3"," ,a,0613, ","    979.0"," ,a"

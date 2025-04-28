@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"SWE00139566","1957","61.17","13.12","830.0","STORFJALLET SALEN, SW","       200","E","       121","E","         7","E","","","","","  56.4"," ,E,0728, ","   1226.4"," ,E"
+"SWE00139566","1958","61.17","13.12","830.0","STORFJALLET SALEN, SW","       170","E","       103","E","         3","E","","","","","  32.5"," ,E,0802, ","   1006.2"," ,E"
+"SWE00139566","1963","61.17","13.12","830.0","STORFJALLET SALEN, SW","       156","E","       113","E","         5","E","      180","","  1150"," ,E,0417,+","  36.6"," ,E,0809, ","   1182.4"," ,E"
+"SWE00139566","1966","61.17","13.12","830.0","STORFJALLET SALEN, SW","       191","E","       133","E","         5","E","","","","","  30.7"," ,E,0814, ","   1223.2"," ,E"

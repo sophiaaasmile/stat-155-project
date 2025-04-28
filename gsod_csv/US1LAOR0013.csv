@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1LAOR0013","2019","29.92085","-90.107045","7.3","WESTWEGO 2.4 ENE, LA US","       113","N","        77","N","        18","N"," 193.0"," ,N,0710, ","   1865.1"," ,N"
+"US1LAOR0013","2020","29.92085","-90.107045","7.3","WESTWEGO 2.4 ENE, LA US","       132","N","        87","N","        25","N","  90.4"," ,N,0624, ","   1824.6"," ,N"
+"US1LAOR0013","2021","29.92085","-90.107045","7.3","WESTWEGO 2.4 ENE, LA US","       138","N","        80","N","        26","N"," 132.6"," ,N,0510, ","   2184.4"," ,N"
+"US1LAOR0013","2022","29.92085","-90.107045","7.3","WESTWEGO 2.4 ENE, LA US","       128","N","        81","N","        23","N","  84.1"," ,N,0903, ","   1615.2"," ,N"

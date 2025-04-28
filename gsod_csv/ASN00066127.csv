@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00066127","1969","-33.75","151.25","179.8","BEACON HILL RAAF, AS","       145","a","        81","a","        16","a"," 174.0"," ,a,1114, ","   1678.1"," ,a"
+"ASN00066127","1970","-33.75","151.25","179.8","BEACON HILL RAAF, AS","       103","a","        67","a","         7","a"," 101.6"," ,a,1209, ","    969.5"," ,a"
+"ASN00066127","1972","-33.75","151.25","179.8","BEACON HILL RAAF, AS","       153","a","        80","a","        10","a","  80.0"," ,a,0126, ","   1285.8"," ,a"

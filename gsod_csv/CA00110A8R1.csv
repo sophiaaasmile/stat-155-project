@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA00110A8R1","1992","49.2667","-122.85","51.0","COQUITLAM NORTH, BC CA","","","","","","","       15","","         9","C","   310"," ,C,1220, ","   214"," ,C,1219, ","","","   1887.3"," ,C","      856"," ,C"
+"CA00110A8R1","1993","49.2667","-122.85","51.0","COQUITLAM NORTH, BC CA","","","","","","","       30","","         5","C","   520"," ,C,0108,+","   210"," ,C,0103, ","","","","","      620"," ,C"
+"CA00110A8R1","1994","49.2667","-122.85","51.0","COQUITLAM NORTH, BC CA","","","","","","","       16","","        14","C","    90"," ,C,0209, ","   160"," ,C,1208, ","","","","","     1060"," ,C"
+"CA00110A8R1","1995","49.2667","-122.85","51.0","COQUITLAM NORTH, BC CA","       168","C","       134","C","        25","C","        4","","         3","C","   300"," ,C,0215, ","   300"," ,C,0214, ","  74.2"," ,C,1107, ","   2156.6"," ,C","      460"," ,C"

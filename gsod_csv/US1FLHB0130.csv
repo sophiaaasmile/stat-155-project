@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLHB0130","2018","27.7822","-82.3645","11.9","APOLLO BEACH 2.7 ENE, FL US","       123","N","        80","N","        18","N","  69.3"," ,N,1220, ","   1410.3"," ,N"
+"US1FLHB0130","2019","27.7822","-82.3645","11.9","APOLLO BEACH 2.7 ENE, FL US","       131","N","        79","N","        18","N","  99.3"," ,N,0807, ","   1591.6"," ,N"
+"US1FLHB0130","2020","27.7822","-82.3645","11.9","APOLLO BEACH 2.7 ENE, FL US","       130","N","        88","N","        11","N"," 229.4"," ,N,1112, ","   1581.0"," ,N"
+"US1FLHB0130","2021","27.7822","-82.3645","11.9","APOLLO BEACH 2.7 ENE, FL US","       114","N","        83","N","        23","N"," 102.9"," ,N,1106, ","   1508.8"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00004025","1968","18.15","-92.0","2.7","PALMAR DE VISTA ALEGRE, MX","       145","m","       135","m","        31","m"," 122.7"," ,m,1203, ","   2386.9"," ,m"
+"MXN00004025","1969","18.15","-92.0","2.7","PALMAR DE VISTA ALEGRE, MX","       148","m","       136","m","        31","m","  91.9"," ,m,0827, ","   2508.4"," ,m"
+"MXN00004025","1970","18.15","-92.0","2.7","PALMAR DE VISTA ALEGRE, MX","       135","m","       127","m","        29","m","  84.1"," ,m,1015, ","   2465.5"," ,m"
+"MXN00004025","1971","18.15","-92.0","2.7","PALMAR DE VISTA ALEGRE, MX","       118","m","       109","m","        11","m","  65.5"," ,m,1010, ","   1383.5"," ,m"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001010961","1973","48.5667","-123.45","31.0","BRENTWOOD CLARKE ROAD, BC CA","       137","C","        69","C","         3","C","         4","C","   168"," ,C,1104, ","  51.8"," ,C,1215, ","    767.0"," ,C","      318"," ,C"
+"CA001010961","1974","48.5667","-123.45","31.0","BRENTWOOD CLARKE ROAD, BC CA","       139","C","        87","C","         9","C","         2","C","   112"," ,C,0111, ","  45.2"," ,C,1220, ","    974.0"," ,C","      180"," ,C"
+"CA001010961","1976","48.5667","-123.45","31.0","BRENTWOOD CLARKE ROAD, BC CA","","","","","","","         1","C","    25"," ,C,0228, ","","","    798.5"," ,C","       53"," ,C"
+"CA001010961","1978","48.5667","-123.45","31.0","BRENTWOOD CLARKE ROAD, BC CA","       131","C","        72","C","         1","C","         4","C","    97"," ,C,0201, ","  35.3"," ,C,1103, ","    653.8"," ,C","      228"," ,C"

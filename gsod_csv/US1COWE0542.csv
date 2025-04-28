@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COWE0542","2021","40.49404","-104.62139","1445.1","EATON 5.1 ESE, CO US","        46","N","        21","N","         2","N","  31.5"," ,N,0314, ","    254.6"," ,N"
+"US1COWE0542","2022","40.49404","-104.62139","1445.1","EATON 5.1 ESE, CO US","        54","N","        31","N","         0","N","  19.1"," ,N,0601, ","    247.5"," ,N"
+"US1COWE0542","2024","40.49404","-104.62139","1445.1","EATON 5.1 ESE, CO US","        56","N","        32","N","         2","N","  59.4"," ,N,0529, ","    309.9"," ,N"

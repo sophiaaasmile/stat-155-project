@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COMZ0035","2006","37.4131","-108.7477","2075.1","CORTEZ 10 WNW, CO US","        81","N","        48","N","         0","N","        18","N","   107"," ,N,1211, ","  21.6"," ,N,1009, ","    437.4"," ,N","     1010"," ,N"
+"US1COMZ0035","2007","37.4131","-108.7477","2075.1","CORTEZ 10 WNW, CO US","        86","N","        46","N","         2","N","        12","N","   160"," ,N,0214, ","  44.5"," ,N,1201, ","    424.6"," ,N","      847"," ,N"
+"US1COMZ0035","2008","37.4131","-108.7477","2075.1","CORTEZ 10 WNW, CO US","        78","N","        49","N","         3","N","        30","N","   279"," ,N,0204, ","  35.6"," ,N,0106, ","    450.1"," ,N","     1924"," ,N"

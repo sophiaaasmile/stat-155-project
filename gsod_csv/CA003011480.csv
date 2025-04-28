@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003011480","1951","52.7","-110.1333","628.0","CHAUVIN EXPERIMENTAL ST, AB CA","        58","C","        42","C","         2","C","        12","C","   241"," ,C,1015, ","  31.0"," ,C,0716, ","    412.7"," ,C","      923"," ,C"
+"CA003011480","1952","52.7","-110.1333","628.0","CHAUVIN EXPERIMENTAL ST, AB CA","        53","C","        36","C","         1","C","         6","C","    76"," ,C,0113, ","  30.0"," ,C,0720, ","    319.3"," ,C","      369"," ,C"
+"CA003011480","1954","52.7","-110.1333","628.0","CHAUVIN EXPERIMENTAL ST, AB CA","        57","C","        38","C","         3","C","         6","C","    51"," ,C,1230,+","  55.9"," ,C,0827, ","    445.3"," ,C","      345"," ,C"
+"CA003011480","1955","52.7","-110.1333","628.0","CHAUVIN EXPERIMENTAL ST, AB CA","        42","C","        27","C","         1","C","        13","C","   229"," ,C,0419, ","  25.4"," ,C,0419, ","    248.1"," ,C","     1061"," ,C"

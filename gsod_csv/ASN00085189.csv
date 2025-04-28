@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00085189","1970","-38.4167","146.8167","137.2","WOODSIDE NORTH SUNNYSIDE, AS","       135","a","        77","a","        12","a"," 117.6"," ,a,1210, ","   1186.7"," ,a"
+"ASN00085189","1971","-38.4167","146.8167","137.2","WOODSIDE NORTH SUNNYSIDE, AS","       129","a","        67","a","         6","a","  82.8"," ,a,1108, ","    851.4"," ,a"
+"ASN00085189","1972","-38.4167","146.8167","137.2","WOODSIDE NORTH SUNNYSIDE, AS","       106","a","        51","a","         0","a","  20.6"," ,a,0913,+","    422.8"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00061378","1994","-33.3806","151.4544","10.0","BATEAU BAY ROTHERHAM ST, AS","       105","a","        66","a","         6","a","  71.8"," ,a,0213, ","    978.4"," ,a"
+"ASN00061378","1995","-33.3806","151.4544","10.0","BATEAU BAY ROTHERHAM ST, AS","       130","a","        76","a","        19","a","  75.6"," ,a,0217, ","   1293.6"," ,a"
+"ASN00061378","1996","-33.3806","151.4544","10.0","BATEAU BAY ROTHERHAM ST, AS","       113","a","        78","a","         9","a"," 125.0"," ,a,0831, ","   1183.3"," ,a"

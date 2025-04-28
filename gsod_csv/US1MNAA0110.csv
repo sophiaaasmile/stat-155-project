@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNAA0110","2022","45.199392","-93.102473","278.0","LINO LAKES 2.4 NNW, MN US","       125","N","        57","N","         2","N","  40.1"," ,N,0512, ","    608.5"," ,N"
+"US1MNAA0110","2023","45.199392","-93.102473","278.0","LINO LAKES 2.4 NNW, MN US","       119","N","        60","N","         8","N","  58.2"," ,N,0930, ","    742.9"," ,N"
+"US1MNAA0110","2024","45.199392","-93.102473","278.0","LINO LAKES 2.4 NNW, MN US","       115","N","        69","N","        11","N","  47.0"," ,N,0806, ","    992.3"," ,N"

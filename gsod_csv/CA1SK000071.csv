@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1SK000071","2014","53.597222","-105.736111","529.7","CHRISTOPHER LAKE 7.3 NNE, SK CA","       125","N","        54","N","         4","N","  49.0"," ,N,0630, ","    610.6"," ,N"
+"CA1SK000071","2015","53.597222","-105.736111","529.7","CHRISTOPHER LAKE 7.3 NNE, SK CA","       119","N","        46","N","         2","N","  54.6"," ,N,0717, ","    545.0"," ,N"
+"CA1SK000071","2016","53.597222","-105.736111","529.7","CHRISTOPHER LAKE 7.3 NNE, SK CA","       123","N","        48","N","         1","N","  33.5"," ,N,1006, ","    484.9"," ,N"
+"CA1SK000071","2017","53.597222","-105.736111","529.7","CHRISTOPHER LAKE 7.3 NNE, SK CA","        97","N","        47","N","         0","N","  22.9"," ,N,0920, ","    413.8"," ,N"

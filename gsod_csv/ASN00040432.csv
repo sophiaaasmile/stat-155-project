@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040432","1946","-26.7","152.4","152.0","MONSILDALE SCHOOL, AS","        62","a","        47","a","         5","a"," 143.0"," ,a,0325, ","    750.1"," ,a"
+"ASN00040432","1950","-26.7","152.4","152.0","MONSILDALE SCHOOL, AS","       138","a","        83","a","        11","a","  91.4"," ,a,0228, ","   1147.9"," ,a"
+"ASN00040432","1955","-26.7","152.4","152.0","MONSILDALE SCHOOL, AS","        94","a","        75","a","        12","a"," 185.4"," ,a,0328, ","   1095.2"," ,a"
+"ASN00040432","1956","-26.7","152.4","152.0","MONSILDALE SCHOOL, AS","       107","a","        76","a","        15","a","  99.1"," ,a,1222, ","   1379.2"," ,a"

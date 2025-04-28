@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GATH0005","2010","30.84025","-83.80328","59.7","BOSTON 3.4 NNW, GA US","","","","","","","","","   1153.9"," ,N"
+"US1GATH0005","2011","30.84025","-83.80328","59.7","BOSTON 3.4 NNW, GA US","        83","N","        57","N","        15","N"," 157.7"," ,N,1011, ","   1144.6"," ,N"
+"US1GATH0005","2012","30.84025","-83.80328","59.7","BOSTON 3.4 NNW, GA US","        94","N","        66","N","        11","N"," 169.2"," ,N,0304, ","   1345.9"," ,N"
+"US1GATH0005","2014","30.84025","-83.80328","59.7","BOSTON 3.4 NNW, GA US","       103","N","        82","N","        20","N"," 146.1"," ,N,1224, ","   1583.6"," ,N"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00054141","2006","-29.5833","150.37",,"GWYDER RIVER GRAVESEND RD BDG, AS","        65","a","        32","a","         4","a","  63.5"," ,a,0216, ","    401.0"," ,a"
+"ASN00054141","2007","-29.5833","150.37",,"GWYDER RIVER GRAVESEND RD BDG, AS","        76","a","        43","a","         3","a","  52.5"," ,a,0428, ","    480.0"," ,a"
+"ASN00054141","2008","-29.5833","150.37",,"GWYDER RIVER GRAVESEND RD BDG, AS","        75","a","        50","a","        10","a","  55.5"," ,a,1227, ","    776.0"," ,a"
+"ASN00054141","2009","-29.5833","150.37",,"GWYDER RIVER GRAVESEND RD BDG, AS","        63","a","        39","a","         5","a","  50.0"," ,a,1231, ","    467.0"," ,a"
+"ASN00054141","2010","-29.5833","150.37",,"GWYDER RIVER GRAVESEND RD BDG, AS","        94","a","        57","a","         5","a","  45.5"," ,a,0910, ","    673.0"," ,a"

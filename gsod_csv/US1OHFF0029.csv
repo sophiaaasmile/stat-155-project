@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OHFF0029","2021","39.92527","-82.767385","274.9","PICKERINGTON 2.4 N, OH US","       135","N","        88","N","        10","N","  62.7"," ,N,0901, ","   1095.4"," ,N"
+"US1OHFF0029","2022","39.92527","-82.767385","274.9","PICKERINGTON 2.4 N, OH US","       149","N","        81","N","        11","N","  83.8"," ,N,0706, ","   1259.5"," ,N"
+"US1OHFF0029","2023","39.92527","-82.767385","274.9","PICKERINGTON 2.4 N, OH US","       139","N","        83","N","        11","N","  53.1"," ,N,0614, ","   1103.0"," ,N"
+"US1OHFF0029","2024","39.92527","-82.767385","274.9","PICKERINGTON 2.4 N, OH US","       145","N","        80","N","         5","N","  52.6"," ,N,0403, ","    953.5"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MSLE0008","2021","34.23485","-88.7264","91.1","TUPELO 2.0 S, MS US","       114","N","        85","N","        27","N"," 130.6"," ,N,0609, ","   1716.6"," ,N"
+"US1MSLE0008","2022","34.23485","-88.7264","91.1","TUPELO 2.0 S, MS US","       103","N","        74","N","        19","N","  85.3"," ,N,0801, ","   1425.1"," ,N"
+"US1MSLE0008","2023","34.23485","-88.7264","91.1","TUPELO 2.0 S, MS US","        92","N","        63","N","        13","N"," 100.3"," ,N,0302, ","   1042.8"," ,N"

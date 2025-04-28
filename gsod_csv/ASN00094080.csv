@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00094080","1909","-43.2","147.1",,"PORT CYGNET, AS","       179","a","        88","a","         4","a","  94.7"," ,a,0420, ","    949.0"," ,a"
+"ASN00094080","1911","-43.2","147.1",,"PORT CYGNET, AS","       161","a","        82","a","         4","a","  49.5"," ,a,1031, ","    860.1"," ,a"
+"ASN00094080","1912","-43.2","147.1",,"PORT CYGNET, AS","       167","a","        88","a","         2","a","  33.0"," ,a,1223, ","    783.8"," ,a"
+"ASN00094080","1915","-43.2","147.1",,"PORT CYGNET, AS","       165","a","        83","a","         2","a","  58.9"," ,a,0412, ","    734.3"," ,a"

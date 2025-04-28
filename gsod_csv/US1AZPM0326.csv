@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZPM0326","2022","31.973552","-110.689671","1094.5","VAIL 2.0 SSE, AZ US","        71","N","        37","N","         1","N","  27.9"," ,N,0913, ","    390.7"," ,N"
+"US1AZPM0326","2023","31.973552","-110.689671","1094.5","VAIL 2.0 SSE, AZ US","        57","N","        29","N","         1","N","  40.4"," ,N,1223, ","    295.0"," ,N"
+"US1AZPM0326","2024","31.973552","-110.689671","1094.5","VAIL 2.0 SSE, AZ US","        60","N","        33","N","         1","N","  25.4"," ,N,0622, ","    379.4"," ,N"

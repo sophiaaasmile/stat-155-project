@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002153004","1986","-20.98","-53.64","0.0","LANCEIRO, BR","        53","I","        51","I","        20","I","  57.2"," ,I,1217, ","   1196.3"," ,I"
+"BR002153004","1995","-20.98","-53.64","0.0","LANCEIRO, BR","        64","I","        60","I","        21","I","  72.7"," ,I,0205, ","   1362.5"," ,I"
+"BR002153004","1996","-20.98","-53.64","0.0","LANCEIRO, BR","       104","I","        95","I","        28","I","  76.3"," ,I,0518, ","   1879.7"," ,I"

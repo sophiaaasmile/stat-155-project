@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZMR0228","2010","33.3289","-111.9739","376.4","PHOENIX 9.5 SE, AZ US","        34","N","        23","N","         3","N","  39.4"," ,N,0818, ","    286.8"," ,N"
+"US1AZMR0228","2011","33.3289","-111.9739","376.4","PHOENIX 9.5 SE, AZ US","        24","N","        14","N","         0","N","  15.2"," ,N,1213, ","    110.5"," ,N"
+"US1AZMR0228","2016","33.3289","-111.9739","376.4","PHOENIX 9.5 SE, AZ US","        28","N","        18","N","         0","N","  15.5"," ,N,0108, ","    157.0"," ,N"

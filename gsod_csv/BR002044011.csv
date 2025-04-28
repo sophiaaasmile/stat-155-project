@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002044011","1943","-20.55","-44.63","0.0","CARMOPOLIS DE MINAS, BR","       104","I","        77","I","        15","I","  81.3"," ,I,0119, ","   1430.4"," ,I"
+"BR002044011","1946","-20.55","-44.63","0.0","CARMOPOLIS DE MINAS, BR","        89","I","        85","I","        13","I","  65.3"," ,I,1231, ","   1238.6"," ,I"
+"BR002044011","1947","-20.55","-44.63","0.0","CARMOPOLIS DE MINAS, BR","       113","I","        95","I","        19","I"," 104.3"," ,I,1229, ","   1626.3"," ,I"

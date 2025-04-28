@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASR0026","2018","34.3725","-117.34038","1090.6","HESPERIA 3.9 SW, CA US","        21","N","        16","N","         2","N","  40.6"," ,N,1207, ","    182.8"," ,N"
+"US1CASR0026","2019","34.3725","-117.34038","1090.6","HESPERIA 3.9 SW, CA US","        44","N","        27","N","         3","N","  51.8"," ,N,0203, ","    420.9"," ,N"
+"US1CASR0026","2020","34.3725","-117.34038","1090.6","HESPERIA 3.9 SW, CA US","        21","N","        15","N","         2","N","  34.3"," ,N,0313, ","    199.6"," ,N"

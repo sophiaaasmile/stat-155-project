@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003022778","1981","51.65","-113.0833","823.0","GHOST PINE CREEK, AB CA","        73","C","        42","C","         3","C","         5","C","    60"," ,C,1210,+","  51.0"," ,C,0728, ","    423.9"," ,C","      360"," ,C"
+"CA003022778","1985","51.65","-113.0833","823.0","GHOST PINE CREEK, AB CA","        74","C","        36","C","         2","C","         8","C","    70"," ,C,0424, ","  35.4"," ,C,0821, ","    299.6"," ,C","      524"," ,C"
+"CA003022778","1987","51.65","-113.0833","823.0","GHOST PINE CREEK, AB CA","","","","","","","         4","C","   120"," ,C,0306, ","","","","","      390"," ,C"
+"CA003022778","1988","51.65","-113.0833","823.0","GHOST PINE CREEK, AB CA","","","","","","","","","","","","","    395.5"," ,C","      381"," ,C"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1IDBR0029","2020","48.405071","-116.436861","681.5","SANDPOINT 10.3 NNE, ID US","       146","N","        94","N","         4","N","","","","","  35.1"," ,N,0107, ","    994.7"," ,N","",""
+"US1IDBR0029","2022","48.405071","-116.436861","681.5","SANDPOINT 10.3 NNE, ID US","       149","N","        86","N","         7","N","","","","","  62.0"," ,N,1227, ","    967.8"," ,N","",""
+"US1IDBR0029","2024","48.405071","-116.436861","681.5","SANDPOINT 10.3 NNE, ID US","       156","N","        93","N","         6","N","        20","N","   269"," ,N,0109, ","  48.0"," ,N,0229, ","   1004.7"," ,N","     1824"," ,N"

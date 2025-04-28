@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00022040","1973","-35.0167","137.5667","30.0","YORKETOWN BILNEY, AS","       110","a","        50","a","         2","a","  30.0"," ,a,0318, ","    450.5"," ,a"
+"ASN00022040","1974","-35.0167","137.5667","30.0","YORKETOWN BILNEY, AS","        98","a","        50","a","         0","a","  24.4"," ,a,1004, ","    459.0"," ,a"
+"ASN00022040","1975","-35.0167","137.5667","30.0","YORKETOWN BILNEY, AS","       113","a","        47","a","         2","a","  29.0"," ,a,1024, ","    409.9"," ,a"
+"ASN00022040","1976","-35.0167","137.5667","30.0","YORKETOWN BILNEY, AS","        86","a","        35","a","         0","a","  15.0"," ,a,1223, ","    260.7"," ,a"

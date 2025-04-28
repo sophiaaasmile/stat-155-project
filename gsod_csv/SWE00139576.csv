@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"SWE00139576","1976","61.21","17.09","10.0","LJUSNE STROMMAR, SW","       116","E","        61","E","         3","E","  46.6"," ,E,0914, ","    598.4"," ,E"
+"SWE00139576","1977","61.21","17.09","10.0","LJUSNE STROMMAR, SW","       143","E","        75","E","         3","E","  51.2"," ,E,0724, ","    705.7"," ,E"
+"SWE00139576","1978","61.21","17.09","10.0","LJUSNE STROMMAR, SW","       124","E","        55","E","         3","E","  68.0"," ,E,0805, ","    607.2"," ,E"

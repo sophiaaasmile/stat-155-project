@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR036570960","1963","-7.5","-46.067","251.0","BALSAS, BR","        66","I","        62","I","        20","I","  65.0"," ,I,1102, ","   1368.7"," ,I"
+"BR036570960","1966","-7.5","-46.067","251.0","BALSAS, BR","        58","I","        47","I","        15","I"," 114.5"," ,I,0103, ","   1110.0"," ,I"
+"BR036570960","1968","-7.5","-46.067","251.0","BALSAS, BR","       106","I","        77","I","        14","I"," 121.5"," ,I,1027, ","   1344.6"," ,I"

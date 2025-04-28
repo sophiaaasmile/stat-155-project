@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MDCV0021","2020","38.715468","-76.56774","38.7","NORTH BEACH 1.8 WNW, MD US","       135","N","        99","N","        18","N"," 140.2"," ,N,0805, ","   1630.1"," ,N"
+"US1MDCV0021","2021","38.715468","-76.56774","38.7","NORTH BEACH 1.8 WNW, MD US","       112","N","        72","N","        13","N","  64.5"," ,N,1030, ","   1169.5"," ,N"
+"US1MDCV0021","2023","38.715468","-76.56774","38.7","NORTH BEACH 1.8 WNW, MD US","       119","N","        70","N","        14","N"," 102.4"," ,N,1218, ","   1344.7"," ,N"
+"US1MDCV0021","2024","38.715468","-76.56774","38.7","NORTH BEACH 1.8 WNW, MD US","","","","","","","","","    929.0"," ,N"

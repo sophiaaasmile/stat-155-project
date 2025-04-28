@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00029138","1916","-20.9167","139.95",,"HIGHTVILLE, AS","        51","a","        41","a","        14","a"," 109.2"," ,a,1209, ","    981.2"," ,a"
+"ASN00029138","1917","-20.9167","139.95",,"HIGHTVILLE, AS","        40","a","        35","a","         8","a"," 113.0"," ,a,1102, ","    641.7"," ,a"
+"ASN00029138","1918","-20.9167","139.95",,"HIGHTVILLE, AS","        32","a","        28","a","         7","a","  87.1"," ,a,0115, ","    570.6"," ,a"

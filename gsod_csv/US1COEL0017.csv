@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COEL0017","2006","39.226","-104.6064","2117.1","ELBERT 3.7 W, CO US","       100","N","        54","N","         2","N","        24","N","   711"," ,N,1221, ","  34.3"," ,N,1221, ","    500.9"," ,N","     2858"," ,N"
+"US1COEL0017","2022","39.226","-104.6064","2117.1","ELBERT 3.7 W, CO US","        90","N","        39","N","         1","N","","","","","  28.2"," ,N,0521, ","    307.5"," ,N","",""
+"US1COEL0017","2023","39.226","-104.6064","2117.1","ELBERT 3.7 W, CO US","       102","N","        52","N","         8","N","","","","","  88.1"," ,N,0512, ","    725.7"," ,N","",""
+"US1COEL0017","2024","39.226","-104.6064","2117.1","ELBERT 3.7 W, CO US","        91","N","        43","N","         3","N","","","","","  36.8"," ,N,0701, ","    439.3"," ,N","",""

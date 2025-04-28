@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLFL0033","2019","29.456418","-81.116289","6.1","FLAGLER BEACH 1.3 SE, FL US","       129","N","        74","N","        13","N","  80.5"," ,N,1019, ","   1099.2"," ,N"
+"US1FLFL0033","2020","29.456418","-81.116289","6.1","FLAGLER BEACH 1.3 SE, FL US","       154","N","        89","N","        16","N","  79.5"," ,N,0908, ","   1388.0"," ,N"
+"US1FLFL0033","2021","29.456418","-81.116289","6.1","FLAGLER BEACH 1.3 SE, FL US","       133","N","        73","N","        18","N","  85.6"," ,N,1106, ","   1302.8"," ,N"
+"US1FLFL0033","2022","29.456418","-81.116289","6.1","FLAGLER BEACH 1.3 SE, FL US","       131","N","        85","N","        14","N","  91.9"," ,N,0929,+","   1273.2"," ,N"
+"US1FLFL0033","2024","29.456418","-81.116289","6.1","FLAGLER BEACH 1.3 SE, FL US","       141","N","        77","N","        12","N"," 186.4"," ,N,1010, ","   1517.1"," ,N"

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1IAMR0006","2023","41.127947","-92.903614","286.8","LOVILIA 0.6 SSE, IA US","        84","N","        55","N","         4","N","         1","N","    51"," ,N,1126, ","  49.3"," ,N,0602, ","    652.8"," ,N","       51"," ,N"
+"US1IAMR0006","2024","41.127947","-92.903614","286.8","LOVILIA 0.6 SSE, IA US","        89","N","        61","N","         8","N","","","","","  73.7"," ,N,0731, ","    971.4"," ,N","",""

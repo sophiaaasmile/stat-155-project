@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00087068","2002","-37.645","144.0411",,"MOORABOOL RIVER AT LAL LAL, AS","       116","a","        51","a","         2","a","  33.8"," ,a,0208, ","    445.2"," ,a"
+"ASN00087068","2010","-37.645","144.0411",,"MOORABOOL RIVER AT LAL LAL, AS","       155","a","        76","a","         7","a","  33.6"," ,a,1128, ","    829.4"," ,a"
+"ASN00087068","2021","-37.645","144.0411",,"MOORABOOL RIVER AT LAL LAL, AS","       144","a","        67","a","         3","a","  36.6"," ,a,0504, ","    715.0"," ,a"
+"ASN00087068","2022","-37.645","144.0411",,"MOORABOOL RIVER AT LAL LAL, AS","       164","a","        89","a","         7","a","  40.0"," ,a,1022, ","    878.2"," ,a"
+"ASN00087068","2023","-37.645","144.0411",,"MOORABOOL RIVER AT LAL LAL, AS","       148","a","        62","a","         2","a","  48.0"," ,a,1225, ","    582.8"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TAVG","TAVG_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"MZM00067327","2018","-24.05","34.05","150.0","PANDA INHAMBANE, MZ","","","","","         0","S","       330","S","        84","S","","","   39.5","S,1219,+","","","     29.82","S","",""
+"MZM00067327","2019","-24.05","34.05","150.0","PANDA INHAMBANE, MZ","         0","S","         0","S","         0","S","       339","S","       104","S","   11.3","S,0723, ","   44.5","S,1028, ","     24.98","S","     30.52","S","     19.43","S"
+"MZM00067327","2020","-24.05","34.05","150.0","PANDA INHAMBANE, MZ","         0","S","         0","S","","","","","","","   11.3","S,0809, ","","","","","","","     19.22","S"

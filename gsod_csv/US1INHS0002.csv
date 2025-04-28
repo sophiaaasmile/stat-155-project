@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1INHS0002","2012","39.713974","-86.409034","230.1","PLAINFIELD 1.5 NW, IN US","       106","N","        69","N","        12","N","        8","","         6","N","   152"," ,N,1227, ","   114"," ,N,1226, ","  68.6"," ,N,0908, ","   1024.5"," ,N","      324"," ,N"
+"US1INHS0002","2014","39.713974","-86.409034","230.1","PLAINFIELD 1.5 NW, IN US","","","","","","","","","","","","","","","","","   1044.8"," ,N","",""
+"US1INHS0002","2015","39.713974","-86.409034","230.1","PLAINFIELD 1.5 NW, IN US","","","","","","","","","","","","","","","","","   1374.8"," ,N","",""

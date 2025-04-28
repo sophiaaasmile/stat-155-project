@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASD0072","2014","33.050699","-116.827755","620.0","RAMONA 3 ENE, CA US","        25","N","        20","N","         2","N","  47.2"," ,N,0301, ","    268.7"," ,N"
+"US1CASD0072","2015","33.050699","-116.827755","620.0","RAMONA 3 ENE, CA US","        31","N","        22","N","         3","N","  66.0"," ,N,0720, ","    313.1"," ,N"
+"US1CASD0072","2017","33.050699","-116.827755","620.0","RAMONA 3 ENE, CA US","        15","N","        12","N","         3","N","  51.8"," ,N,0123, ","    250.1"," ,N"
+"US1CASD0072","2018","33.050699","-116.827755","620.0","RAMONA 3 ENE, CA US","        16","N","        11","N","         2","N","  45.7"," ,N,0109, ","    276.7"," ,N"

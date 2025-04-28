@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSKE0001","2009","38.18","-101.123","934.2","DEERFIELD 14 N, KS US","        63","N","        38","N","         2","N","  51.3"," ,N,0730, ","    518.7"," ,N"
+"US1KSKE0001","2010","38.18","-101.123","934.2","DEERFIELD 14 N, KS US","        53","N","        29","N","         4","N","  73.7"," ,N,0801, ","    447.1"," ,N"
+"US1KSKE0001","2012","38.18","-101.123","934.2","DEERFIELD 14 N, KS US","        36","N","        21","N","         1","N","  35.6"," ,N,0322, ","    228.3"," ,N"
+"US1KSKE0001","2013","38.18","-101.123","934.2","DEERFIELD 14 N, KS US","        50","N","        30","N","         4","N","  48.3"," ,N,0801, ","    408.8"," ,N"

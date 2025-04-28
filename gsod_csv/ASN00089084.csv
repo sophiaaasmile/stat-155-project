@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00089084","1973","-37.9333","143.8667","180.0","WARRAMBINE CK AT WARRAMBINE, AS","        52","a","        49","a","         4","a"," 155.2"," ,a,0206, ","    704.2"," ,a"
+"ASN00089084","1974","-37.9333","143.8667","180.0","WARRAMBINE CK AT WARRAMBINE, AS","        62","a","        56","a","         3","a","  60.0"," ,a,0515, ","    657.8"," ,a"
+"ASN00089084","1975","-37.9333","143.8667","180.0","WARRAMBINE CK AT WARRAMBINE, AS","        72","a","        62","a","         1","a","  32.4"," ,a,1029, ","    585.2"," ,a"
+"ASN00089084","2010","-37.9333","143.8667","180.0","WARRAMBINE CK AT WARRAMBINE, AS","       134","a","        68","a","         2","a","  31.4"," ,a,1031, ","    661.0"," ,a"
+"ASN00089084","2024","-37.9333","143.8667","180.0","WARRAMBINE CK AT WARRAMBINE, AS","        94","a","        39","a","         1","a","  36.6"," ,a,1019, ","    344.8"," ,a"

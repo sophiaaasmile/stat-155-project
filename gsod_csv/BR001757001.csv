@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001757001","1972","-17.14","-57.36","0.0","PORTO CONCEI AO PCD, BR","       105","I","        62","I","        15","I","  71.6"," ,I,0220, ","   1126.8"," ,I"
+"BR001757001","1996","-17.14","-57.36","0.0","PORTO CONCEI AO PCD, BR","        60","I","        51","I","        18","I","  74.9"," ,I,0101, ","    976.8"," ,I"
+"BR001757001","1997","-17.14","-57.36","0.0","PORTO CONCEI AO PCD, BR","        52","I","        47","I","        11","I"," 105.4"," ,I,0805, ","   1008.9"," ,I"
+"BR001757001","1998","-17.14","-57.36","0.0","PORTO CONCEI AO PCD, BR","        69","I","        62","I","        17","I"," 114.3"," ,I,0113, ","   1212.7"," ,I"

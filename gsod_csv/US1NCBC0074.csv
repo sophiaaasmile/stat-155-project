@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCBC0074","2014","35.654","-82.338","783.0","BLACK MOUNTAIN 2.8 N, NC US","       128","N","        85","N","        12","N","  76.5"," ,N,1015, ","   1220.2"," ,N"
+"US1NCBC0074","2015","35.654","-82.338","783.0","BLACK MOUNTAIN 2.8 N, NC US","       145","N","        99","N","        16","N","  70.9"," ,N,0926, ","   1441.6"," ,N"
+"US1NCBC0074","2016","35.654","-82.338","783.0","BLACK MOUNTAIN 2.8 N, NC US","       111","N","        72","N","         8","N","  54.6"," ,N,0804, ","    930.3"," ,N"
+"US1NCBC0074","2017","35.654","-82.338","783.0","BLACK MOUNTAIN 2.8 N, NC US","       135","N","        93","N","        11","N"," 128.3"," ,N,0912, ","   1463.5"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00031014","1999","-17.4075","145.4369","915.0","WONDECLA EAST HILLS RD, AS","","","","","","","","","   1983.0"," ,a"
+"ASN00031014","2001","-17.4075","145.4369","915.0","WONDECLA EAST HILLS RD, AS","","","","","","","","","   1274.2"," ,a"
+"ASN00031014","2005","-17.4075","145.4369","915.0","WONDECLA EAST HILLS RD, AS","       156","a","        84","a","         9","a","  79.6"," ,a,0312, ","    977.2"," ,a"
+"ASN00031014","2006","-17.4075","145.4369","915.0","WONDECLA EAST HILLS RD, AS","       183","a","        96","a","        13","a"," 134.0"," ,a,0321, ","   1491.4"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00061339","2003","-32.5584","151.8043","10.0","CLARENCETOWN MILL DAM FALLS, AS","       117","a","        67","a","         9","a","  56.0"," ,a,1124, ","    813.2"," ,a"
+"ASN00061339","2004","-32.5584","151.8043","10.0","CLARENCETOWN MILL DAM FALLS, AS","       109","a","        59","a","         9","a","  86.2"," ,a,0225, ","    956.4"," ,a"
+"ASN00061339","2009","-32.5584","151.8043","10.0","CLARENCETOWN MILL DAM FALLS, AS","       111","a","        70","a","         7","a"," 188.2"," ,a,0215, ","   1131.8"," ,a"
+"ASN00061339","2010","-32.5584","151.8043","10.0","CLARENCETOWN MILL DAM FALLS, AS","       131","a","        71","a","         5","a","  55.8"," ,a,0208, ","    871.2"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00074230","1969","-34.0","146.8","242.0","TALLIMBA TRALEE, AS","        69","a","        55","a","         4","a","  47.5"," ,a,1114, ","    541.6"," ,a"
+"ASN00074230","1970","-34.0","146.8","242.0","TALLIMBA TRALEE, AS","        56","a","        44","a","         5","a","  39.9"," ,a,0423, ","    491.6"," ,a"
+"ASN00074230","1971","-34.0","146.8","242.0","TALLIMBA TRALEE, AS","        71","a","        45","a","         6","a","  47.2"," ,a,0324, ","    511.3"," ,a"
+"ASN00074230","1972","-34.0","146.8","242.0","TALLIMBA TRALEE, AS","        59","a","        34","a","         4","a","  53.8"," ,a,0217, ","    465.5"," ,a"

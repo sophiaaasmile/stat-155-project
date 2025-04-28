@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN003072200","1955","26.2","92.517","66.0","CHAPARMUKH, IN","       131","I","       104","I","        26","I","  65.0"," ,I,0807,+","   1803.2"," ,I"
+"IN003072200","1965","26.2","92.517","66.0","CHAPARMUKH, IN","        94","I","        82","I","        20","I"," 100.0"," ,I,0604, ","   1540.4"," ,I"
+"IN003072200","1968","26.2","92.517","66.0","CHAPARMUKH, IN","        92","I","        89","I","        24","I"," 116.0"," ,I,0819, ","   1801.2"," ,I"

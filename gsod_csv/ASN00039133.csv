@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00039133","1913","-24.0667","150.8",,"KIORA, AS","        88","a","        59","a","         9","a"," 163.6"," ,a,0118, ","   1260.5"," ,a"
+"ASN00039133","1915","-24.0667","150.8",,"KIORA, AS","        50","a","        33","a","         5","a"," 184.9"," ,a,0209, ","    599.8"," ,a"
+"ASN00039133","1916","-24.0667","150.8",,"KIORA, AS","        95","a","        58","a","         8","a","  76.5"," ,a,1028, ","    885.3"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN011261400","1975","24.72","80.17","354.0","PANNA OBSERVATORY, IN","        85","I","        76","I","        39","I"," 305.3"," ,I,0719, ","   3301.6"," ,I"
+"IN011261400","1976","24.72","80.17","354.0","PANNA OBSERVATORY, IN","        75","I","        69","I","        29","I"," 506.0"," ,I,0815, ","   3547.7"," ,I"
+"IN011261400","1980","24.72","80.17","354.0","PANNA OBSERVATORY, IN","        88","I","        78","I","        43","I"," 482.9"," ,I,0716, ","   5897.1"," ,I"
+"IN011261400","1983","24.72","80.17","354.0","PANNA OBSERVATORY, IN","        86","I","        78","I","        34","I"," 366.0"," ,I,0702, ","   3184.8"," ,I"

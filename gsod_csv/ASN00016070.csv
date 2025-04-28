@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00016070","1896","-31.145","134.9667","160.0","ARLCOODABY, AS","        20","a","        15","a","         1","a","  29.5"," ,a,0124, ","    142.3"," ,a"
+"ASN00016070","1897","-31.145","134.9667","160.0","ARLCOODABY, AS","        20","a","        11","a","         0","a","  15.7"," ,a,0404, ","    107.3"," ,a"
+"ASN00016070","1901","-31.145","134.9667","160.0","ARLCOODABY, AS","        35","a","        18","a","         1","a","  70.4"," ,a,0226, ","    251.7"," ,a"

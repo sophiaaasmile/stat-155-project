@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002950062","1994","-29.9","-50.63","0.0","FAZENDA N.SRA.CONCEI AO, BR","       109","I","        86","I","        22","I","  78.8"," ,I,0620, ","   1565.6"," ,I"
+"BR002950062","1996","-29.9","-50.63","0.0","FAZENDA N.SRA.CONCEI AO, BR","        98","I","        76","I","        21","I"," 106.3"," ,I,0212, ","   1524.9"," ,I"
+"BR002950062","1999","-29.9","-50.63","0.0","FAZENDA N.SRA.CONCEI AO, BR","       100","I","        68","I","        15","I","  86.1"," ,I,1105, ","   1236.7"," ,I"

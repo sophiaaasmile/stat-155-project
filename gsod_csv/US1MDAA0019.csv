@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MDAA0019","2008","38.801085","-76.5147","2.1","DEALE 1.8 ENE, MD US","       119","N","        67","N","         8","N","  83.8"," ,N,0512, ","   1010.3"," ,N"
+"US1MDAA0019","2012","38.801085","-76.5147","2.1","DEALE 1.8 ENE, MD US","","","","","","","","","    969.6"," ,N"
+"US1MDAA0019","2013","38.801085","-76.5147","2.1","DEALE 1.8 ENE, MD US","       118","N","        66","N","        10","N","  72.1"," ,N,0619, ","   1108.0"," ,N"

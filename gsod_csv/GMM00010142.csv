@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"GMM00010142","1996","53.983","9.567","26.0","ITZEHOE, GM","       144","S","        63","S","         3","S","  81.5"," ,S,0609, ","    707.3"," ,S"
+"GMM00010142","1997","53.983","9.567","26.0","ITZEHOE, GM","       137","S","        71","S","         4","S","  32.8"," ,S,0801, ","    691.2"," ,S"
+"GMM00010142","2000","53.983","9.567","26.0","ITZEHOE, GM","       192","S","       100","S","         1","S","  39.1"," ,S,0626, ","    728.1"," ,S"

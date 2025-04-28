@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003015640","1953","53.25","-112.45","683.0","RYLEY, AB CA","        79","C","        51","C","         3","C","        17","C","    76"," ,C,1226, ","  40.6"," ,C,0809, ","    495.3"," ,C","      845"," ,C"
+"CA003015640","1954","53.25","-112.45","683.0","RYLEY, AB CA","        75","C","        44","C","         3","C","        11","C","    51"," ,C,1229,+","  59.9"," ,C,0831, ","    473.8"," ,C","      457"," ,C"

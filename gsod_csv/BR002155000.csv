@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002155000","1978","-21.62","-55.14","394.0","MARACAJU, BR","        73","I","        60","I","        16","I","  90.0"," ,I,1122, ","   1262.5"," ,I"
+"BR002155000","1979","-21.62","-55.14","394.0","MARACAJU, BR","        95","I","        72","I","        19","I","  62.8"," ,I,0504, ","   1430.6"," ,I"
+"BR002155000","1996","-21.62","-55.14","394.0","MARACAJU, BR","       110","I","        87","I","        16","I","  65.4"," ,I,1026, ","   1442.6"," ,I"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1ON000526","2019","46.253578","-83.90014","218.8","HILTON BEACH 0.7 SW MNRF, ON CA","       167","N","        86","N","         8","N","  83.3"," ,N,0610, ","   1129.2"," ,N"
+"CA1ON000526","2020","46.253578","-83.90014","218.8","HILTON BEACH 0.7 SW MNRF, ON CA","       155","N","        81","N","         8","N","  66.5"," ,N,0430, ","    991.7"," ,N"
+"CA1ON000526","2021","46.253578","-83.90014","218.8","HILTON BEACH 0.7 SW MNRF, ON CA","       155","N","        92","N","         4","N","  32.0"," ,N,0729, ","    969.0"," ,N"
+"CA1ON000526","2022","46.253578","-83.90014","218.8","HILTON BEACH 0.7 SW MNRF, ON CA","       146","N","        89","N","         4","N","  43.4"," ,N,0407, ","    977.8"," ,N"

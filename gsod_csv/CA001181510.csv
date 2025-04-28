@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001181510","1972","55.2333","-121.65","750.0","CHETWYND SUKUNKA, BC CA","","","","","","","        44","C","   328"," ,C,1008, ","","","","","     4386"," ,C"
+"CA001181510","1973","55.2333","-121.65","750.0","CHETWYND SUKUNKA, BC CA","       123","C","        64","C","         1","C","        30","C","   368"," ,C,0114, ","  36.8"," ,C,0114, ","    539.6"," ,C","     2305"," ,C"
+"CA001181510","1974","55.2333","-121.65","750.0","CHETWYND SUKUNKA, BC CA","","","","","","","        34","C","   295"," ,C,0310, ","","","","","     3562"," ,C"
+"CA001181510","1975","55.2333","-121.65","750.0","CHETWYND SUKUNKA, BC CA","","","","","","","        33","C","   330"," ,C,0413, ","","","    729.9"," ,C","     3151"," ,C"

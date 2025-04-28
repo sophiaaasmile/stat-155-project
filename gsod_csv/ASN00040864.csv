@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040864","1993","-28.0167","153.3517","50.0","CARRARA BRADSTONE RD, AS","       120","a","        72","a","         6","a"," 119.0"," ,a,1208, ","    924.2"," ,a"
+"ASN00040864","1995","-28.0167","153.3517","50.0","CARRARA BRADSTONE RD, AS","       111","a","        80","a","        14","a"," 140.0"," ,a,0215, ","   1352.0"," ,a"
+"ASN00040864","1997","-28.0167","153.3517","50.0","CARRARA BRADSTONE RD, AS","       106","a","        65","a","        15","a"," 123.0"," ,a,0128, ","   1181.4"," ,a"
+"ASN00040864","1998","-28.0167","153.3517","50.0","CARRARA BRADSTONE RD, AS","","","","","","","","","   1325.0"," ,a"

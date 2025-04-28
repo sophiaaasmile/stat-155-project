@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASD0029","2012","32.805737","-117.073243","73.8","SAN DIEGO 7.9NE, CA US","        44","N","        24","N","         1","N","  26.7"," ,N,1214, ","    220.9"," ,N"
+"US1CASD0029","2016","32.805737","-117.073243","73.8","SAN DIEGO 7.9NE, CA US","        42","N","        23","N","         2","N","  45.2"," ,N,0106, ","    330.0"," ,N"
+"US1CASD0029","2020","32.805737","-117.073243","73.8","SAN DIEGO 7.9NE, CA US","        48","N","        22","N","         4","N","  45.5"," ,N,0410, ","    321.4"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00020038","1937","-31.3806","140.9425","90.0","MULYUNGARIE LOCKHART BORE, AS","        16","a","        13","a","         1","a","  25.4"," ,a,1201, ","    143.2"," ,a"
+"ASN00020038","1939","-31.3806","140.9425","90.0","MULYUNGARIE LOCKHART BORE, AS","         9","a","         8","a","         2","a","  76.2"," ,a,0225, ","    173.5"," ,a"
+"ASN00020038","1940","-31.3806","140.9425","90.0","MULYUNGARIE LOCKHART BORE, AS","         4","a","         3","a","         0","a","  20.3"," ,a,0105, ","     27.1"," ,a"
+"ASN00020038","1944","-31.3806","140.9425","90.0","MULYUNGARIE LOCKHART BORE, AS","         5","a","         5","a","         2","a","  45.7"," ,a,0206, ","    101.6"," ,a"

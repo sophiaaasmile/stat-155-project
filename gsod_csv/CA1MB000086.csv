@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1MB000086","2013","50.137723","-99.734006","490.7","CORDOVA 1.6 W, MB CA","       103","N","        45","N","         3","N","  47.2"," ,N,1012, ","    514.4"," ,N"
+"CA1MB000086","2016","50.137723","-99.734006","490.7","CORDOVA 1.6 W, MB CA","       122","N","        46","N","         5","N","  55.6"," ,N,1004, ","    602.1"," ,N"
+"CA1MB000086","2018","50.137723","-99.734006","490.7","CORDOVA 1.6 W, MB CA","        89","N","        41","N","         4","N","  36.8"," ,N,0530, ","    435.6"," ,N"

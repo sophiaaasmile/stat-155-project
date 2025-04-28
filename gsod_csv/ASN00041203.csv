@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00041203","1961","-26.8667","151.2333","390.0","SYLVAN LEA, AS","        60","a","        45","a","         7","a","  54.1"," ,a,0726, ","    657.8"," ,a"
+"ASN00041203","1962","-26.8667","151.2333","390.0","SYLVAN LEA, AS","        65","a","        53","a","         8","a"," 136.7"," ,a,0104, ","    893.5"," ,a"
+"ASN00041203","1973","-26.8667","151.2333","390.0","SYLVAN LEA, AS","        66","a","        51","a","         8","a","  47.5"," ,a,1111, ","    709.2"," ,a"

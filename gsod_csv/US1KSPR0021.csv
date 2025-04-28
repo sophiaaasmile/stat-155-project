@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSPR0021","2022","37.63754","-98.663298","556.6","PRATT 4.0 E, KS US","        51","N","        33","N","         3","N","  29.5"," ,N,0322, ","    380.2"," ,N"
+"US1KSPR0021","2023","37.63754","-98.663298","556.6","PRATT 4.0 E, KS US","        66","N","        46","N","         5","N","  54.9"," ,N,0602, ","    670.2"," ,N"
+"US1KSPR0021","2024","37.63754","-98.663298","556.6","PRATT 4.0 E, KS US","        70","N","        40","N","         8","N","  57.9"," ,N,1102, ","    743.4"," ,N"

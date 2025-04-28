@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001108837","1967","49.3333","-123.1833","46.0","WEST VANCOUVER MATHERS, BC CA","       132","C","       112","C","        18","C","         2","C","   102"," ,C,1221, ","  78.7"," ,C,1221, ","   1791.6"," ,C","      196"," ,C"
+"CA001108837","1976","49.3333","-123.1833","46.0","WEST VANCOUVER MATHERS, BC CA","","","","","","","         3","C","   198"," ,C,0228, ","","","","","      371"," ,C"
+"CA001108837","1977","49.3333","-123.1833","46.0","WEST VANCOUVER MATHERS, BC CA","       160","C","       114","C","        14","C","         3","C","    51"," ,C,1123, ","  44.2"," ,C,0117, ","   1630.9"," ,C","      126"," ,C"
+"CA001108837","1979","49.3333","-123.1833","46.0","WEST VANCOUVER MATHERS, BC CA","       156","C","        94","C","        10","C","         2","C","    40"," ,C,0126, ","  84.8"," ,C,0224, ","   1430.7"," ,C","       70"," ,C"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00014164","1968","-12.3931","130.8714","10.0","JINGILI, AS","       100","a","        85","a","        29","a","  94.5"," ,a,0225, ","   2086.1"," ,a"
+"ASN00014164","1970","-12.3931","130.8714","10.0","JINGILI, AS","        81","a","        67","a","        16","a"," 119.6"," ,a,0211, ","   1338.7"," ,a"
+"ASN00014164","1972","-12.3931","130.8714","10.0","JINGILI, AS","        66","a","        45","a","        10","a"," 103.6"," ,a,0302, ","   1109.5"," ,a"

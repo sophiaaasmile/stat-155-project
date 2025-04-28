@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA005041120","1955","51.1833","-100.8","465.0","GRANDVIEW CDA EPF, MB CA","        60","C","        52","C","         2","C","        26","C","   165"," ,C,1213,+","  31.0"," ,C,0920, ","    418.5"," ,C","     1323"," ,C"
+"CA005041120","1959","51.1833","-100.8","465.0","GRANDVIEW CDA EPF, MB CA","","","","","","","","","","","","","    399.6"," ,C","     1279"," ,C"
+"CA005041120","1965","51.1833","-100.8","465.0","GRANDVIEW CDA EPF, MB CA","","","","","","","","","","","","","    644.1"," ,C","     1724"," ,C"
+"CA005041120","1966","51.1833","-100.8","465.0","GRANDVIEW CDA EPF, MB CA","","","","","","","        17","C","   203"," ,C,0416, ","","","    446.4"," ,C","     1574"," ,C"
+"CA005041120","1969","51.1833","-100.8","465.0","GRANDVIEW CDA EPF, MB CA","","","","","","","        27","C","    76"," ,C,0227,+","","","","","     1357"," ,C"

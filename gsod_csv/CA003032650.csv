@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003032650","1954","49.4833","-111.45","890.0","FOREMOST EXPERIMENTAL ST, AB CA","        42","C","        40","C","         2","C","        16","C","   127"," ,C,0313,+","  39.9"," ,C,0827, ","    396.0"," ,C","     1086"," ,C"
+"CA003032650","1956","49.4833","-111.45","890.0","FOREMOST EXPERIMENTAL ST, AB CA","        51","C","        43","C","         1","C","        15","C","   152"," ,C,1027,+","  36.6"," ,C,0803, ","    423.0"," ,C","     1117"," ,C"
+"CA003032650","1958","49.4833","-111.45","890.0","FOREMOST EXPERIMENTAL ST, AB CA","        42","C","        34","C","         2","C","        13","C","   305"," ,C,0225, ","  30.5"," ,C,0225, ","    360.1"," ,C","     1359"," ,C"

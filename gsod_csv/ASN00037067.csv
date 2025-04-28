@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00037067","1967","-25.0333","143.6667","161.0","WANDSWORTH STATION, AS","        18","a","        13","a","         3","a","  54.6"," ,a,0302, ","    216.9"," ,a"
+"ASN00037067","1968","-25.0333","143.6667","161.0","WANDSWORTH STATION, AS","        25","a","        19","a","         4","a","  76.5"," ,a,0304, ","    347.5"," ,a"
+"ASN00037067","1969","-25.0333","143.6667","161.0","WANDSWORTH STATION, AS","        28","a","        21","a","         1","a","  42.4"," ,a,0316, ","    202.8"," ,a"
+"ASN00037067","1970","-25.0333","143.6667","161.0","WANDSWORTH STATION, AS","        23","a","        19","a","         0","a","  25.1"," ,a,0423, ","    168.0"," ,a"

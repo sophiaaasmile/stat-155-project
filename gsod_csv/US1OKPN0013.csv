@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKPN0013","2019","34.71793","-96.66444","261.5","ADA 4.1 S, OK US","        84","N","        69","N","        17","N","  71.1"," ,N,0803, ","   1245.5"," ,N"
+"US1OKPN0013","2020","34.71793","-96.66444","261.5","ADA 4.1 S, OK US","        91","N","        82","N","        21","N"," 126.5"," ,N,0901, ","   1471.4"," ,N"
+"US1OKPN0013","2021","34.71793","-96.66444","261.5","ADA 4.1 S, OK US","        77","N","        60","N","        17","N"," 106.2"," ,N,0429, ","   1174.0"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00015512","1968","-23.795","133.5017","645.0","JAY CREEK, AS","        54","a","        40","a","         7","a","  40.1"," ,a,0218, ","    521.2"," ,a"
+"ASN00015512","1969","-23.795","133.5017","645.0","JAY CREEK, AS","        22","a","        19","a","         1","a","  32.3"," ,a,0313, ","    214.4"," ,a"
+"ASN00015512","1975","-23.795","133.5017","645.0","JAY CREEK, AS","        38","a","        31","a","         4","a","  85.0"," ,a,1217, ","    586.5"," ,a"

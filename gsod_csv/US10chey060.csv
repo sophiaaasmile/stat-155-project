@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10chey060","2019","41.133951","-102.977719",,"SIDNEY 0.6 S, NE US","        95","N","        49","N","         5","N","  35.6"," ,N,0314, ","    603.5"," ,N"
+"US10chey060","2022","41.133951","-102.977719",,"SIDNEY 0.6 S, NE US","        67","N","        30","N","         2","N","  44.2"," ,N,0608, ","    367.4"," ,N"
+"US10chey060","2024","41.133951","-102.977719",,"SIDNEY 0.6 S, NE US","        62","N","        31","N","         2","N","  31.8"," ,N,0407, ","    338.5"," ,N"

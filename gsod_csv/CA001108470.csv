@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001108470","1956","49.2333","-123.15","84.0","VANCOUVER QUILCHENA, BC CA","","","","","","","         6","C","   127"," ,C,0216,+","","","   1439.3"," ,C","      460"," ,C"
+"CA001108470","1959","49.2333","-123.15","84.0","VANCOUVER QUILCHENA, BC CA","       160","C","       113","C","        12","C","         2","C","    91"," ,C,1114, ","  47.8"," ,C,0224, ","   1442.7"," ,C","      231"," ,C"
+"CA001108470","1960","49.2333","-123.15","84.0","VANCOUVER QUILCHENA, BC CA","","","","","","","         6","C","   150"," ,C,0110, ","","","   1325.5"," ,C","      588"," ,C"

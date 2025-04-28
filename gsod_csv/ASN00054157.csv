@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00054157","1986","-29.2167","151.3833","350.0","BONSHAW GLENROCK, AS","        71","a","        55","a","         8","a","  46.0"," ,a,0508, ","    710.2"," ,a"
+"ASN00054157","1987","-29.2167","151.3833","350.0","BONSHAW GLENROCK, AS","        81","a","        61","a","        10","a","  52.2"," ,a,1224, ","    829.7"," ,a"
+"ASN00054157","1988","-29.2167","151.3833","350.0","BONSHAW GLENROCK, AS","        92","a","        58","a","        10","a","  80.0"," ,a,0401, ","    915.8"," ,a"

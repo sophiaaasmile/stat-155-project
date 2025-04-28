@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00027065","1996","-12.4753","141.9147","30.0","ELY CAMP, AS","       110","a","        96","a","        37","a"," 258.6"," ,a,0310, ","   2998.9"," ,a"
+"ASN00027065","2000","-12.4753","141.9147","30.0","ELY CAMP, AS","       115","a","       106","a","        33","a"," 127.2"," ,a,1124, ","   2598.4"," ,a"
+"ASN00027065","2001","-12.4753","141.9147","30.0","ELY CAMP, AS","       115","a","        95","a","        29","a"," 131.0"," ,a,0213, ","   2403.4"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSCL0032","2022","37.235675","-97.000196","345.6","WINFIELD 2.9 SW, KS US","        70","N","        45","N","         9","N","  98.6"," ,N,0505, ","    886.9"," ,N"
+"US1KSCL0032","2023","37.235675","-97.000196","345.6","WINFIELD 2.9 SW, KS US","        83","N","        56","N","         9","N","  64.0"," ,N,0706, ","    815.9"," ,N"
+"US1KSCL0032","2024","37.235675","-97.000196","345.6","WINFIELD 2.9 SW, KS US","        81","N","        62","N","         9","N","  72.6"," ,N,0630, ","    943.8"," ,N"

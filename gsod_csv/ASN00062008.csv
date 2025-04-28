@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00062008","1941","-32.8","149.8",,"GLEN O MIST, AS","        58","a","        45","a","         4","a","  40.4"," ,a,0104, ","    523.1"," ,a"
+"ASN00062008","1942","-32.8","149.8",,"GLEN O MIST, AS","        50","a","        43","a","        12","a","  59.7"," ,a,0526, ","    731.9"," ,a"
+"ASN00062008","1943","-32.8","149.8",,"GLEN O MIST, AS","        51","a","        44","a","         5","a","  51.3"," ,a,0519, ","    573.6"," ,a"
+"ASN00062008","1944","-32.8","149.8",,"GLEN O MIST, AS","        39","a","        30","a","         0","a","  24.9"," ,a,0207, ","    276.5"," ,a"

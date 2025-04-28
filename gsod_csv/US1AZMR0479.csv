@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZMR0479","2021","33.864071","-112.116356","595.3","ANTHEM 0.9 NE, AZ US","        43","N","        22","N","         2","N","  36.6"," ,N,0724, ","    301.1"," ,N"
+"US1AZMR0479","2022","33.864071","-112.116356","595.3","ANTHEM 0.9 NE, AZ US","        40","N","        23","N","         0","N","  24.9"," ,N,0813, ","    212.6"," ,N"
+"US1AZMR0479","2023","33.864071","-112.116356","595.3","ANTHEM 0.9 NE, AZ US","        44","N","        19","N","         2","N","  62.7"," ,N,0901, ","    280.7"," ,N"

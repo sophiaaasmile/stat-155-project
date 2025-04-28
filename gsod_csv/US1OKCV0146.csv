@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKCV0146","2020","35.22336","-97.45169","356.6","NORMAN 0.7 W, OK US","","","","","","","","","    917.3"," ,N"
+"US1OKCV0146","2021","35.22336","-97.45169","356.6","NORMAN 0.7 W, OK US","        85","N","        50","N","        15","N","  62.5"," ,N,0323, ","    909.0"," ,N"
+"US1OKCV0146","2022","35.22336","-97.45169","356.6","NORMAN 0.7 W, OK US","","","","","","","","","    894.4"," ,N"
+"US1OKCV0146","2024","35.22336","-97.45169","356.6","NORMAN 0.7 W, OK US","        72","N","        45","N","        10","N"," 125.2"," ,N,0923, ","    947.9"," ,N"

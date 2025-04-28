@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00019102","1978","25.35","-100.15","784.9","COLA DE CABALLO, MX","        95","m","        61","m","        15","m"," 251.0"," ,m,0922, ","   1392.4"," ,m"
+"MXN00019102","1981","25.35","-100.15","784.9","COLA DE CABALLO, MX","       106","m","        73","m","        13","m"," 113.5"," ,m,0916, ","   1416.5"," ,m"
+"MXN00019102","1989","25.35","-100.15","784.9","COLA DE CABALLO, MX","        76","m","        38","m","         6","m","  87.1"," ,m,1007, ","    616.0"," ,m"

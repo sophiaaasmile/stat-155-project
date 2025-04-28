@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00029055","1916","-19.4667","141.2167",,"LYRIAN DOWNS STATION, AS","        39","a","        39","a","         8","a","  67.3"," ,a,1209, ","    652.3"," ,a"
+"ASN00029055","1917","-19.4667","141.2167",,"LYRIAN DOWNS STATION, AS","        38","a","        36","a","         8","a","  68.6"," ,a,0125, ","    527.3"," ,a"
+"ASN00029055","1918","-19.4667","141.2167",,"LYRIAN DOWNS STATION, AS","        26","a","        24","a","         7","a","  49.0"," ,a,0102, ","    376.9"," ,a"
+"ASN00029055","1919","-19.4667","141.2167",,"LYRIAN DOWNS STATION, AS","        21","a","        20","a","         5","a","  41.4"," ,a,0211, ","    361.1"," ,a"
+"ASN00029055","1921","-19.4667","141.2167",,"LYRIAN DOWNS STATION, AS","        31","a","        30","a","         8","a"," 153.7"," ,a,0404, ","    674.0"," ,a"

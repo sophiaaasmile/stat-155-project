@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004021240","1951","50.05","-108.65","807.0","CARMICHAEL EXPERIMENTAL ST, SK CA","        74","C","        62","C","         3","C","","","","","  43.2"," ,C,0826, ","    582.1"," ,C","",""
+"CA004021240","1952","50.05","-108.65","807.0","CARMICHAEL EXPERIMENTAL ST, SK CA","        51","C","        40","C","         2","C","        17","C","   127"," ,C,0206, ","  45.7"," ,C,0830, ","    364.0"," ,C","      876"," ,C"
+"CA004021240","1954","50.05","-108.65","807.0","CARMICHAEL EXPERIMENTAL ST, SK CA","        73","C","        62","C","         5","C","        15","C","   152"," ,C,0413,+","  45.7"," ,C,0611, ","    571.3"," ,C","      998"," ,C"

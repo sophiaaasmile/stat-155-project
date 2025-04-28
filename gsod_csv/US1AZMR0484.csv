@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1AZMR0484","2019","33.56355","-111.93105","400.5","PARADISE VALLEY 2.4 NNE, AZ US","        45","N","        27","N","         1","N","","","","","  39.6"," ,N,0924, ","    304.9"," ,N","",""
+"US1AZMR0484","2020","33.56355","-111.93105","400.5","PARADISE VALLEY 2.4 NNE, AZ US","        15","N","        11","N","         1","N","","","","","  27.2"," ,N,0211, ","    139.7"," ,N","",""
+"US1AZMR0484","2021","33.56355","-111.93105","400.5","PARADISE VALLEY 2.4 NNE, AZ US","        33","N","        24","N","         2","N","","","","","  34.3"," ,N,0724, ","    241.8"," ,N","",""
+"US1AZMR0484","2023","33.56355","-111.93105","400.5","PARADISE VALLEY 2.4 NNE, AZ US","        23","N","        17","N","         0","N","         0","N","     0"," ,N,1231,+","  20.3"," ,N,0102, ","    161.2"," ,N","        0"," ,N"

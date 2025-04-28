@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00023330","1959","-34.7","139.05","460.0","SPRINGTON ROESLERS, AS","       111","a","        41","a","         2","a","  32.5"," ,a,0812, ","    428.0"," ,a"
+"ASN00023330","1960","-34.7","139.05","460.0","SPRINGTON ROESLERS, AS","       149","a","        68","a","         8","a","  58.4"," ,a,0505, ","    860.7"," ,a"
+"ASN00023330","1961","-34.7","139.05","460.0","SPRINGTON ROESLERS, AS","       137","a","        53","a","         3","a","  39.6"," ,a,0414, ","    561.3"," ,a"
+"ASN00023330","1962","-34.7","139.05","460.0","SPRINGTON ROESLERS, AS","       140","a","        75","a","         5","a","  36.8"," ,a,0523, ","    770.0"," ,a"
+"ASN00023330","1963","-34.7","139.05","460.0","SPRINGTON ROESLERS, AS","       146","a","        67","a","         7","a","  56.9"," ,a,0602, ","    861.3"," ,a"

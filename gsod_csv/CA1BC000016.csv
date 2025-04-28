@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1BC000016","2020","48.98363","-123.8146","62.2","LADYSMITH 1.1 SSE, BC CA","       168","N","       107","N","        17","N","  86.1"," ,N,0201, ","   1649.5"," ,N"
+"CA1BC000016","2022","48.98363","-123.8146","62.2","LADYSMITH 1.1 SSE, BC CA","       157","N","       100","N","        13","N","  51.3"," ,N,1226, ","   1300.1"," ,N"
+"CA1BC000016","2023","48.98363","-123.8146","62.2","LADYSMITH 1.1 SSE, BC CA","       158","N","        92","N","        12","N","  90.7"," ,N,1025, ","   1303.9"," ,N"
+"CA1BC000016","2024","48.98363","-123.8146","62.2","LADYSMITH 1.1 SSE, BC CA","       165","N","       117","N","        13","N","  69.6"," ,N,1218, ","   1601.3"," ,N"

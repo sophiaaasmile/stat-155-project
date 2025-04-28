@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLHM0005","2020","30.334","-82.762","37.2","WHITE SPRINGS 0.3 NW, FL US","       153","N","        82","N","        17","N"," 182.1"," ,N,0608, ","   1562.9"," ,N"
+"US1FLHM0005","2023","30.334","-82.762","37.2","WHITE SPRINGS 0.3 NW, FL US","       140","N","        81","N","        18","N","  95.8"," ,N,1217, ","   1424.2"," ,N"
+"US1FLHM0005","2024","30.334","-82.762","37.2","WHITE SPRINGS 0.3 NW, FL US","       142","N","        68","N","        20","N"," 205.5"," ,N,0806, ","   1654.8"," ,N"

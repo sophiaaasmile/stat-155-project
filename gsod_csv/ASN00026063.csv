@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00026063","1970","-36.5667","140.55","25.0","PADTHAWAY VALLEY VIEW PASTORA, AS","       118","a","        70","a","         3","a","  50.5"," ,a,1115, ","    598.5"," ,a"
+"ASN00026063","1971","-36.5667","140.55","25.0","PADTHAWAY VALLEY VIEW PASTORA, AS","       122","a","        77","a","         1","a","  27.9"," ,a,1210, ","    672.4"," ,a"
+"ASN00026063","1972","-36.5667","140.55","25.0","PADTHAWAY VALLEY VIEW PASTORA, AS","        85","a","        51","a","         1","a","  25.9"," ,a,0706, ","    457.1"," ,a"
+"ASN00026063","1973","-36.5667","140.55","25.0","PADTHAWAY VALLEY VIEW PASTORA, AS","       112","a","        73","a","         2","a","  56.1"," ,a,0206, ","    657.5"," ,a"

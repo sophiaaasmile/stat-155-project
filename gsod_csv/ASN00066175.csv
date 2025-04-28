@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00066175","1933","-33.85","151.1667","5.0","SCHNAPPER ISLAND, AS","        94","a","        62","a","        10","a","  99.1"," ,a,0520, ","   1010.2"," ,a"
+"ASN00066175","1934","-33.85","151.1667","5.0","SCHNAPPER ISLAND, AS","       139","a","        85","a","        16","a","  83.8"," ,a,0222, ","   1413.3"," ,a"
+"ASN00066175","1935","-33.85","151.1667","5.0","SCHNAPPER ISLAND, AS","        83","a","        56","a","         5","a","  68.8"," ,a,0210, ","    667.2"," ,a"
+"ASN00066175","1936","-33.85","151.1667","5.0","SCHNAPPER ISLAND, AS","        91","a","        57","a","         7","a","  86.9"," ,a,0308, ","    736.3"," ,a"

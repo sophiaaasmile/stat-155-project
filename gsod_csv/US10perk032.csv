@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10perk032","2022","40.8342","-101.695",,"GRANT 1.7 ESE, NE US","        53","N","        25","N","         1","N","  33.0"," ,N,0502, ","    217.9"," ,N"
+"US10perk032","2023","40.8342","-101.695",,"GRANT 1.7 ESE, NE US","        80","N","        43","N","         4","N","  50.8"," ,N,0513, ","    521.9"," ,N"

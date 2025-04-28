@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10sher030","2014","42.508248","-102.734115",,"HAY SPRINGS 12.3 SSW, NE US","        67","N","        50","N","         3","N","         0","N","     0"," ,N,1231,+","  64.8"," ,N,0930, ","    586.1"," ,N","        0"," ,N"
+"US10sher030","2018","42.508248","-102.734115",,"HAY SPRINGS 12.3 SSW, NE US","        64","N","        50","N","         4","N","","","","","  51.1"," ,N,0717, ","    512.1"," ,N","",""
+"US10sher030","2020","42.508248","-102.734115",,"HAY SPRINGS 12.3 SSW, NE US","        59","N","        37","N","         0","N","","","","","  20.8"," ,N,0627, ","    290.0"," ,N","",""
+"US10sher030","2021","42.508248","-102.734115",,"HAY SPRINGS 12.3 SSW, NE US","        54","N","        28","N","         1","N","","","","","  38.9"," ,N,1013, ","    279.8"," ,N","",""
+"US10sher030","2022","42.508248","-102.734115",,"HAY SPRINGS 12.3 SSW, NE US","        68","N","        35","N","         3","N","","","","","  38.4"," ,N,0706, ","    363.0"," ,N","",""

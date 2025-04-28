@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001101151","1960","49.2167","-122.95","99.0","BURNABY EDMONDS, BC CA","       162","C","       126","C","         7","C","         9","C","   152"," ,C,0303, ","  46.5"," ,C,1211, ","   1455.8"," ,C","      579"," ,C"
+"CA001101151","1961","49.2167","-122.95","99.0","BURNABY EDMONDS, BC CA","","","","","","","         7","C","    66"," ,C,1213, ","","","","","      377"," ,C"
+"CA001101151","1962","49.2167","-122.95","99.0","BURNABY EDMONDS, BC CA","       176","C","       138","C","        11","C","        13","C","   241"," ,C,0301, ","  73.9"," ,C,0102, ","   1612.4"," ,C","     1049"," ,C"

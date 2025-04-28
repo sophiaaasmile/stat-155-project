@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NMDA0134","2007","32.306201","-106.729173","1292.0","LAS CRUCES 2.6 SE, NM US","        56","N","        30","N","         0","N","         0","N","    23"," ,N,0107, ","  23.1"," ,N,0526, ","    266.6"," ,N","       23"," ,N"
+"US1NMDA0134","2008","32.306201","-106.729173","1292.0","LAS CRUCES 2.6 SE, NM US","        46","N","        24","N","         1","N","         0","N","    13"," ,N,0216, ","  61.0"," ,N,0727, ","    246.7"," ,N","       13"," ,N"
+"US1NMDA0134","2009","32.306201","-106.729173","1292.0","LAS CRUCES 2.6 SE, NM US","        49","N","        23","N","         0","N","","","","","  22.9"," ,N,0706, ","    251.2"," ,N","",""
+"US1NMDA0134","2010","32.306201","-106.729173","1292.0","LAS CRUCES 2.6 SE, NM US","        43","N","        23","N","         2","N","","","","","  51.3"," ,N,0726, ","    253.8"," ,N","",""

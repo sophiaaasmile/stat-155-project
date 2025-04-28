@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASN0121","2020","38.4777","-122.69","196.0","SANTA ROSA 2.1 NNE, CA US","        67","N","        34","N","         1","N","  38.1"," ,N,1118, ","    335.2"," ,N"
+"US1CASN0121","2022","38.4777","-122.69","196.0","SANTA ROSA 2.1 NNE, CA US","        63","N","        34","N","         5","N","  78.2"," ,N,1227, ","    505.9"," ,N"
+"US1CASN0121","2023","38.4777","-122.69","196.0","SANTA ROSA 2.1 NNE, CA US","","","","","","","","","   1071.4"," ,N"

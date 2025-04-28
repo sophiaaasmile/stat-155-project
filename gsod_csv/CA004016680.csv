@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004016680","1965","50.4333","-104.6333","579.0","REGINA LEGISLATIVE GRNDS, SK CA","        92","C","        40","C","         2","C","","","","","  26.9"," ,C,0525, ","    457.8"," ,C","",""
+"CA004016680","1966","50.4333","-104.6333","579.0","REGINA LEGISLATIVE GRNDS, SK CA","        97","C","        34","C","         0","C","        13","C","   152"," ,C,0426, ","  24.4"," ,C,0624, ","    356.7"," ,C","     1101"," ,C"
+"CA004016680","1967","50.4333","-104.6333","579.0","REGINA LEGISLATIVE GRNDS, SK CA","        94","C","        39","C","         2","C","        18","C","   152"," ,C,0330, ","  45.0"," ,C,0912, ","    344.7"," ,C","     1272"," ,C"

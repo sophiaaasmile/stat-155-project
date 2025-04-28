@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00022042","1974","-35.1367","136.9617","25.0","CARRIBIE WEBB, AS","","","","","","","","","    498.4"," ,a"
+"ASN00022042","1976","-35.1367","136.9617","25.0","CARRIBIE WEBB, AS","","","","","","","","","    335.4"," ,a"
+"ASN00022042","1977","-35.1367","136.9617","25.0","CARRIBIE WEBB, AS","        56","a","        32","a","         0","a","  21.8"," ,a,0528, ","    312.0"," ,a"
+"ASN00022042","1980","-35.1367","136.9617","25.0","CARRIBIE WEBB, AS","        67","a","        39","a","         0","a","  18.8"," ,a,0628, ","    385.2"," ,a"

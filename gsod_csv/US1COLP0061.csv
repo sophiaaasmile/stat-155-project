@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COLP0061","2019","37.2526","-107.9456","2264.7","DURANGO 4.8 WSW, CO US","       117","N","        65","N","         1","N","  40.1"," ,N,0215, ","    681.8"," ,N"
+"US1COLP0061","2020","37.2526","-107.9456","2264.7","DURANGO 4.8 WSW, CO US","        68","N","        32","N","         2","N","  30.0"," ,N,0910, ","    322.9"," ,N"
+"US1COLP0061","2021","37.2526","-107.9456","2264.7","DURANGO 4.8 WSW, CO US","        98","N","        53","N","         3","N","  40.4"," ,N,1210, ","    557.8"," ,N"
+"US1COLP0061","2022","37.2526","-107.9456","2264.7","DURANGO 4.8 WSW, CO US","        94","N","        51","N","         1","N","  27.9"," ,N,0731, ","    545.1"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"GMM00010471","1952","51.317","12.45","151.0","LEIPZIG HOLZHAUSEN, GM","","","","","","","        27","S","        84","S","         5","S","","","   36.1","S,0702, ","","","     12.72","S"
+"GMM00010471","1953","51.317","12.45","151.0","LEIPZIG HOLZHAUSEN, GM","","","","","","","        25","S","       109","S","         1","S","","","   32.8","S,0902, ","","","     14.36","S"
+"GMM00010471","1955","51.317","12.45","151.0","LEIPZIG HOLZHAUSEN, GM","","","","","","","        29","S","        84","S","         0","S","","","   31.1","S,0718, ","","","     12.51","S"
+"GMM00010471","1998","51.317","12.45","151.0","LEIPZIG HOLZHAUSEN, GM","       155","S","        62","S","         1","S","","","","","","","  30.0"," ,S,0728, ","","","    575.0"," ,S","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003072521","1957","55.9667","-118.5","610.0","FAIRVIEW 2, AB CA","        84","C","        59","C","         2","C","        27","C","   160"," ,C,1224, ","  42.2"," ,C,0730, ","    531.9"," ,C","     1970"," ,C"
+"CA003072521","1958","55.9667","-118.5","610.0","FAIRVIEW 2, AB CA","        56","C","        35","C","         0","C","        21","C","   140"," ,C,1129, ","  14.0"," ,C,1129, ","    244.7"," ,C","     1364"," ,C"
+"CA003072521","1959","55.9667","-118.5","610.0","FAIRVIEW 2, AB CA","        69","C","        53","C","         0","C","        23","C","   127"," ,C,1116, ","  15.5"," ,C,0826, ","    317.8"," ,C","     1290"," ,C"

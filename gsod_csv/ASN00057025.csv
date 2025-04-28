@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00057025","1940","-29.2","152.3",,"TENTERFIELD SURFACE HILL, AS","       100","a","        63","a","         7","a","  82.0"," ,a,0319, ","    859.6"," ,a"
+"ASN00057025","1941","-29.2","152.3",,"TENTERFIELD SURFACE HILL, AS","        92","a","        83","a","        10","a","  66.0"," ,a,0125, ","   1101.3"," ,a"
+"ASN00057025","1942","-29.2","152.3",,"TENTERFIELD SURFACE HILL, AS","       103","a","        88","a","        20","a","  72.4"," ,a,0209, ","   1474.7"," ,a"
+"ASN00057025","1943","-29.2","152.3",,"TENTERFIELD SURFACE HILL, AS","        87","a","        81","a","        10","a","  48.3"," ,a,1229, ","   1054.1"," ,a"

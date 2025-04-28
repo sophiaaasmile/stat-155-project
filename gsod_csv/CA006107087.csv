@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006107087","1957","44.7","-76.3","125.0","RIDEAU CANAL NARROWS, ON CA","        83","C","        69","C","         3","C","        13","C","   114"," ,C,0123, ","  34.8"," ,C,0406, ","    606.4"," ,C","      583"," ,C"
+"CA006107087","1966","44.7","-76.3","125.0","RIDEAU CANAL NARROWS, ON CA","        76","C","        65","C","         1","C","        12","C","   178"," ,C,0131,+","  27.9"," ,C,0803, ","    598.6"," ,C","      915"," ,C"
+"CA006107087","1968","44.7","-76.3","125.0","RIDEAU CANAL NARROWS, ON CA","        77","C","        65","C","         6","C","        21","C","   102"," ,C,1204,+","  43.2"," ,C,1129, ","    776.6"," ,C","     1371"," ,C"

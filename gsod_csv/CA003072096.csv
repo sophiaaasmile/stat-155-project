@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003072096","1983","55.7333","-117.1","602.0","DONNELLY, AB CA","        96","C","        39","C","         2","C","        13","C","    60"," ,C,1213, ","  35.4"," ,C,0617, ","    452.8"," ,C","      885"," ,C"
+"CA003072096","1984","55.7333","-117.1","602.0","DONNELLY, AB CA","","","","","","","        19","C","   160"," ,C,1017, ","","","","","     1680"," ,C"
+"CA003072096","2005","55.7333","-117.1","602.0","DONNELLY, AB CA","        83","C","        28","C","         0","C","         9","C","   100"," ,C,1204, ","  19.1"," ,C,0517, ","    232.7"," ,C","      643"," ,C"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NHGR0004","2010","44.1467","-71.965","203.3","BATH 1.4 S, NH US","","","","","","","","","   1084.2"," ,N"
+"US1NHGR0004","2011","44.1467","-71.965","203.3","BATH 1.4 S, NH US","       165","N","        97","N","         6","N","  66.5"," ,N,0829, ","   1138.7"," ,N"
+"US1NHGR0004","2012","44.1467","-71.965","203.3","BATH 1.4 S, NH US","       146","N","        76","N","         6","N","  45.2"," ,N,0705, ","    921.5"," ,N"

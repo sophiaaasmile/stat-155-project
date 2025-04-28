@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00067097","1983","-33.9333","150.8667","25.0","PRESTONS BERNERA ROAD, AS","       108","a","        66","a","         7","a","  47.4"," ,a,0317, ","    817.8"," ,a"
+"ASN00067097","1984","-33.9333","150.8667","25.0","PRESTONS BERNERA ROAD, AS","       115","a","        80","a","        13","a","  50.2"," ,a,0324, ","   1090.8"," ,a"
+"ASN00067097","1985","-33.9333","150.8667","25.0","PRESTONS BERNERA ROAD, AS","       127","a","        76","a","         4","a","  46.2"," ,a,0404, ","    858.2"," ,a"

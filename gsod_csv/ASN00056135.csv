@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056135","1959","-29.9333","151.45","975.0","WANDSWORTH WOOMBI, AS","       109","a","        75","a","        13","a","  66.0"," ,a,1111, ","   1169.6"," ,a"
+"ASN00056135","1960","-29.9333","151.45","975.0","WANDSWORTH WOOMBI, AS","        87","a","        54","a","         8","a","  44.7"," ,a,0513, ","    766.2"," ,a"
+"ASN00056135","1961","-29.9333","151.45","975.0","WANDSWORTH WOOMBI, AS","        91","a","        61","a","        10","a","  61.0"," ,a,1125, ","    890.3"," ,a"
+"ASN00056135","1963","-29.9333","151.45","975.0","WANDSWORTH WOOMBI, AS","","","","","","","","","    886.4"," ,a"
+"ASN00056135","1964","-29.9333","151.45","975.0","WANDSWORTH WOOMBI, AS","        68","a","        43","a","         9","a","  48.5"," ,a,0115, ","    835.7"," ,a"

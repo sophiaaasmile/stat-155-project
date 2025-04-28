@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00076117","1928","-34.35","141.8","73.2","MERRINEE KOMBAHLA, AS","        57","a","        27","a","         1","a","  79.8"," ,a,0216, ","    272.1"," ,a"
+"ASN00076117","1930","-34.35","141.8","73.2","MERRINEE KOMBAHLA, AS","        91","a","        32","a","         1","a","  32.8"," ,a,1011, ","    326.5"," ,a"
+"ASN00076117","1931","-34.35","141.8","73.2","MERRINEE KOMBAHLA, AS","        99","a","        39","a","         1","a","  29.2"," ,a,0414, ","    343.4"," ,a"
+"ASN00076117","1932","-34.35","141.8","73.2","MERRINEE KOMBAHLA, AS","        99","a","        34","a","         1","a","  38.6"," ,a,0208, ","    344.1"," ,a"

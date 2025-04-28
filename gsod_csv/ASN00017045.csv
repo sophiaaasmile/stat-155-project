@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00017045","1950","-26.1317","139.385","40.0","PANDIE PANDIE, AS","        23","a","        22","a","         4","a"," 114.3"," ,a,0307, ","    401.1"," ,a"
+"ASN00017045","1951","-26.1317","139.385","40.0","PANDIE PANDIE, AS","         5","a","         4","a","         0","a","   9.1"," ,a,0612, ","     27.1"," ,a"
+"ASN00017045","1952","-26.1317","139.385","40.0","PANDIE PANDIE, AS","        19","a","        14","a","         1","a","  26.2"," ,a,0717, ","    151.2"," ,a"
+"ASN00017045","1956","-26.1317","139.385","40.0","PANDIE PANDIE, AS","        13","a","         9","a","         3","a","  35.1"," ,a,0329, ","    190.9"," ,a"

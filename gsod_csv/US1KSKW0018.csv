@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSKW0018","2021","37.49776","-99.374446","725.4","GREENSBURG 8.7 SSW, KS US","        74","N","        40","N","        12","N","  54.9"," ,N,0915, ","    774.3"," ,N"
+"US1KSKW0018","2022","37.49776","-99.374446","725.4","GREENSBURG 8.7 SSW, KS US","        50","N","        27","N","         3","N","  47.2"," ,N,0623, ","    353.6"," ,N"
+"US1KSKW0018","2023","37.49776","-99.374446","725.4","GREENSBURG 8.7 SSW, KS US","        77","N","        53","N","         7","N","  45.0"," ,N,1215, ","    713.9"," ,N"
+"US1KSKW0018","2024","37.49776","-99.374446","725.4","GREENSBURG 8.7 SSW, KS US","        73","N","        42","N","        11","N"," 102.6"," ,N,0630, ","    812.4"," ,N"

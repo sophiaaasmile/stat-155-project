@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSWH0003","2010","38.641578","-101.219514","984.2","MARIENTHAL 10.5 N, KS US","        57","N","        30","N","         4","N","  33.5"," ,N,0801, ","    348.4"," ,N"
+"US1KSWH0003","2011","38.641578","-101.219514","984.2","MARIENTHAL 10.5 N, KS US","        49","N","        34","N","         3","N","  71.4"," ,N,0621, ","    553.2"," ,N"
+"US1KSWH0003","2012","38.641578","-101.219514","984.2","MARIENTHAL 10.5 N, KS US","        37","N","        21","N","         1","N","  27.9"," ,N,0322, ","    218.3"," ,N"
+"US1KSWH0003","2013","38.641578","-101.219514","984.2","MARIENTHAL 10.5 N, KS US","        46","N","        23","N","         0","N","  23.4"," ,N,0619, ","    246.9"," ,N"

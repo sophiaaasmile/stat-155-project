@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MDWH0019","2021","39.6916","-77.74997","184.4","HAGERSTOWN 4.1 NNW, MD US","       149","N","        73","N","         5","N","  97.5"," ,N,0902, ","    957.7"," ,N"
+"US1MDWH0019","2023","39.6916","-77.74997","184.4","HAGERSTOWN 4.1 NNW, MD US","       127","N","        70","N","         8","N","  62.2"," ,N,1122, ","    821.2"," ,N"
+"US1MDWH0019","2024","39.6916","-77.74997","184.4","HAGERSTOWN 4.1 NNW, MD US","       132","N","        82","N","         9","N","  87.4"," ,N,0723, ","   1032.2"," ,N"

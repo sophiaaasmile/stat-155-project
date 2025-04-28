@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCLR0022","2021","35.1919","-77.6598","24.1","KINSTON 7.0 SW, NC US","       123","N","        72","N","        16","N","  74.2"," ,N,0604, ","   1270.6"," ,N"
+"US1NCLR0022","2022","35.1919","-77.6598","24.1","KINSTON 7.0 SW, NC US","       103","N","        60","N","         9","N","  83.3"," ,N,0809, ","   1024.4"," ,N"
+"US1NCLR0022","2023","35.1919","-77.6598","24.1","KINSTON 7.0 SW, NC US","       101","N","        61","N","        13","N"," 119.6"," ,N,0831, ","   1150.1"," ,N"
+"US1NCLR0022","2024","35.1919","-77.6598","24.1","KINSTON 7.0 SW, NC US","       109","N","        70","N","        16","N","  84.1"," ,N,0917, ","   1313.9"," ,N"

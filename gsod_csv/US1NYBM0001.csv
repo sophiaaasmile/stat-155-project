@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYBM0001","2020","42.193","-75.848","280.7","CHENANGO FORKS 3.0 SE, NY US","       174","N","        78","N","         7","N","  42.7"," ,N,0828, ","   1001.3"," ,N"
+"US1NYBM0001","2021","42.193","-75.848","280.7","CHENANGO FORKS 3.0 SE, NY US","       157","N","        85","N","        11","N"," 108.2"," ,N,0712, ","   1212.6"," ,N"
+"US1NYBM0001","2023","42.193","-75.848","280.7","CHENANGO FORKS 3.0 SE, NY US","       167","N","        90","N","        12","N","  67.1"," ,N,0501, ","   1194.3"," ,N"

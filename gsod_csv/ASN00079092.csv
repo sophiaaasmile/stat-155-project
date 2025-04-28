@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00079092","1907","-36.8333","143.5",,"ARCHDALE KARA KURRACA WEST, AS","        87","a","        39","a","         1","a","  36.8"," ,a,1227, ","    386.4"," ,a"
+"ASN00079092","1908","-36.8333","143.5",,"ARCHDALE KARA KURRACA WEST, AS","        80","a","        40","a","         3","a","  33.8"," ,a,1016, ","    394.8"," ,a"
+"ASN00079092","1909","-36.8333","143.5",,"ARCHDALE KARA KURRACA WEST, AS","       110","a","        50","a","         4","a","  52.3"," ,a,0820, ","    536.6"," ,a"
+"ASN00079092","1910","-36.8333","143.5",,"ARCHDALE KARA KURRACA WEST, AS","       125","a","        62","a","         3","a","  57.9"," ,a,0306, ","    627.9"," ,a"

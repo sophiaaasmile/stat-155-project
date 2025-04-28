@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001164001","1984","-11.37","-64.89","0.0","BOA VISTA DOS PACAAS, BR","       138","I","       108","I","        21","I","  70.0"," ,I,0327, ","   1780.8"," ,I"
+"BR001164001","1985","-11.37","-64.89","0.0","BOA VISTA DOS PACAAS, BR","       128","I","       107","I","        29","I","  78.0"," ,I,1114, ","   2033.8"," ,I"
+"BR001164001","1994","-11.37","-64.89","0.0","BOA VISTA DOS PACAAS, BR","        89","I","        79","I","        24","I","  71.8"," ,I,0305, ","   1406.4"," ,I"
+"BR001164001","1995","-11.37","-64.89","0.0","BOA VISTA DOS PACAAS, BR","        96","I","        84","I","        17","I","  66.8"," ,I,1125, ","   1396.7"," ,I"
+"BR001164001","1996","-11.37","-64.89","0.0","BOA VISTA DOS PACAAS, BR","        95","I","        89","I","        22","I","  75.8"," ,I,0130, ","   1623.5"," ,I"

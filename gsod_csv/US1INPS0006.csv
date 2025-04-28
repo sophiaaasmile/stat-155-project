@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1INPS0006","2021","37.9888515","-87.71569117","146.9","MOUNT VERNON 10.6 ENE, IN US","       120","N","        76","N","        13","N","         3","N","   135"," ,N,0216, ","  65.0"," ,N,0611, ","   1199.0"," ,N","      268"," ,N"
+"US1INPS0006","2022","37.9888515","-87.71569117","146.9","MOUNT VERNON 10.6 ENE, IN US","       119","N","        76","N","        15","N","         3","N","    64"," ,N,1112, ","  69.3"," ,N,0307, ","   1195.6"," ,N","      155"," ,N"
+"US1INPS0006","2023","37.9888515","-87.71569117","146.9","MOUNT VERNON 10.6 ENE, IN US","       104","N","        59","N","        16","N","","","","","  69.3"," ,N,0303, ","   1100.9"," ,N","",""
+"US1INPS0006","2024","37.9888515","-87.71569117","146.9","MOUNT VERNON 10.6 ENE, IN US","       127","N","        72","N","        16","N","","","","","  52.6"," ,N,0509, ","   1245.5"," ,N","",""

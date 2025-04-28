@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10hitc022","2008","40.2556381","-101.2769775","974.1","STRATTON 7.9 NNW, NE US","        79","N","        46","N","         5","N","  66.0"," ,N,1012, ","    627.3"," ,N"
+"US10hitc022","2012","40.2556381","-101.2769775","974.1","STRATTON 7.9 NNW, NE US","        52","N","        33","N","         1","N","  30.5"," ,N,0708, ","    283.4"," ,N"
+"US10hitc022","2013","40.2556381","-101.2769775","974.1","STRATTON 7.9 NNW, NE US","        77","N","        42","N","         5","N","  77.5"," ,N,0409, ","    618.9"," ,N"
+"US10hitc022","2014","40.2556381","-101.2769775","974.1","STRATTON 7.9 NNW, NE US","        68","N","        47","N","         3","N","  45.0"," ,N,0609, ","    536.3"," ,N"

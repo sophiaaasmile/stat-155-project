@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003046953","1979","49.2833","-112.4167","1109.0","WARNER WEST, AB CA","        67","C","        40","C","         1","C","        27","C","   140"," ,C,0505, ","  26.0"," ,C,0505, ","    322.5"," ,C","     1861"," ,C"
+"CA003046953","1993","49.2833","-112.4167","1109.0","WARNER WEST, AB CA","        83","C","        55","C","         5","C","        15","C","   120"," ,C,0404, ","  46.6"," ,C,0612, ","    669.8"," ,C","      990"," ,C"
+"CA003046953","1999","49.2833","-112.4167","1109.0","WARNER WEST, AB CA","","","","","","","        12","C","   175"," ,C,0428, ","","","    400.6"," ,C","      980"," ,C"

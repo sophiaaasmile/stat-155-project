@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COGF0033","2019","39.4779","-107.2923","1811.1","GLENWOOD SPRINGS 5.3 SSE, CO US","       112","N","        47","N","         0","N","  18.5"," ,N,0622, ","    348.6"," ,N"
+"US1COGF0033","2021","39.4779","-107.2923","1811.1","GLENWOOD SPRINGS 5.3 SSE, CO US","       107","N","        42","N","         0","N","  18.8"," ,N,0820, ","    318.9"," ,N"
+"US1COGF0033","2022","39.4779","-107.2923","1811.1","GLENWOOD SPRINGS 5.3 SSE, CO US","        96","N","        41","N","         0","N","  21.8"," ,N,1001, ","    314.9"," ,N"
+"US1COGF0033","2023","39.4779","-107.2923","1811.1","GLENWOOD SPRINGS 5.3 SSE, CO US","        99","N","        31","N","         0","N","  23.4"," ,N,0825, ","    300.7"," ,N"
+"US1COGF0033","2024","39.4779","-107.2923","1811.1","GLENWOOD SPRINGS 5.3 SSE, CO US","       114","N","        47","N","         1","N","  39.6"," ,N,0811, ","    405.9"," ,N"

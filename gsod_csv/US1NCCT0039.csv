@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NCCT0039","2018","35.635138","-81.183106","292.9","NEWTON 2.9 SE, NC US","","","","","","","","","","","","","   1759.3"," ,N","",""
+"US1NCCT0039","2020","35.635138","-81.183106","292.9","NEWTON 2.9 SE, NC US","","","","","","","","","","","","","   2092.0"," ,N","",""
+"US1NCCT0039","2021","35.635138","-81.183106","292.9","NEWTON 2.9 SE, NC US","       108","N","        68","N","         6","N","         1","N","    43"," ,N,0207, ","  89.4"," ,N,0326, ","    894.2"," ,N","       48"," ,N"
+"US1NCCT0039","2022","35.635138","-81.183106","292.9","NEWTON 2.9 SE, NC US","       118","N","        82","N","        13","N","         1","N","   127"," ,N,0117, ","  74.4"," ,N,0731, ","   1379.5"," ,N","      140"," ,N"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00054146","2006","-29.2333","151.3833",,"BEARDY RIVER HAYSTACK TM, AS","        69","a","        39","a","         4","a","  60.5"," ,a,0113, ","    527.3"," ,a"
+"ASN00054146","2007","-29.2333","151.3833",,"BEARDY RIVER HAYSTACK TM, AS","        88","a","        53","a","         5","a","  41.0"," ,a,0428, ","    607.5"," ,a"
+"ASN00054146","2008","-29.2333","151.3833",,"BEARDY RIVER HAYSTACK TM, AS","        90","a","        48","a","         9","a","  58.0"," ,a,1228, ","    720.0"," ,a"
+"ASN00054146","2009","-29.2333","151.3833",,"BEARDY RIVER HAYSTACK TM, AS","        87","a","        43","a","         4","a","  62.0"," ,a,1229, ","    557.0"," ,a"
+"ASN00054146","2010","-29.2333","151.3833",,"BEARDY RIVER HAYSTACK TM, AS","       112","a","        69","a","         9","a","  58.5"," ,a,1016, ","    931.0"," ,a"

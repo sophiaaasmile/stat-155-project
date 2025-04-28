@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCWK0106","2017","35.796525","-78.787353","137.5","CARY 0.5 NW, NC US","       125","N","        70","N","        15","N"," 170.9"," ,N,0425, ","   1305.6"," ,N"
+"US1NCWK0106","2020","35.796525","-78.787353","137.5","CARY 0.5 NW, NC US","       136","N","        92","N","        18","N"," 102.9"," ,N,0901, ","   1719.3"," ,N"
+"US1NCWK0106","2021","35.796525","-78.787353","137.5","CARY 0.5 NW, NC US","       119","N","        84","N","        11","N"," 108.7"," ,N,1009, ","   1289.2"," ,N"

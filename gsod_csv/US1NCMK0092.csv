@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCMK0092","2019","35.21841","-80.89898","214.9","CHARLOTTE 3.9 WNW, NC US","       111","N","        90","N","        21","N","  47.0"," ,N,0720, ","   1436.2"," ,N"
+"US1NCMK0092","2020","35.21841","-80.89898","214.9","CHARLOTTE 3.9 WNW, NC US","       124","N","        99","N","        16","N"," 108.7"," ,N,1113, ","   1509.6"," ,N"
+"US1NCMK0092","2021","35.21841","-80.89898","214.9","CHARLOTTE 3.9 WNW, NC US","       106","N","        77","N","         9","N","  54.9"," ,N,0812, ","   1044.2"," ,N"
+"US1NCMK0092","2022","35.21841","-80.89898","214.9","CHARLOTTE 3.9 WNW, NC US","       102","N","        79","N","        15","N","  61.0"," ,N,1001,+","   1218.8"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IADV0007","2019","40.77675","-92.488506","265.8","BLOOMFIELD 4.2 WNW, IA US","       117","N","        77","N","        13","N","  96.8"," ,N,0529, ","   1236.2"," ,N"
+"US1IADV0007","2020","40.77675","-92.488506","265.8","BLOOMFIELD 4.2 WNW, IA US","        98","N","        62","N","         8","N","  49.8"," ,N,0515, ","    843.0"," ,N"
+"US1IADV0007","2023","40.77675","-92.488506","265.8","BLOOMFIELD 4.2 WNW, IA US","        91","N","        57","N","         1","N","  44.5"," ,N,0911, ","    628.2"," ,N"
+"US1IADV0007","2024","40.77675","-92.488506","265.8","BLOOMFIELD 4.2 WNW, IA US","","","","","","","","","   1110.8"," ,N"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00023805","1970","-35.2167","138.8167","243.8","STRATHALBYN PATTANGGA, AS","       155","a","        75","a","         5","a","  40.9"," ,a,0101, ","    818.0"," ,a"
+"ASN00023805","1971","-35.2167","138.8167","243.8","STRATHALBYN PATTANGGA, AS","       139","a","        78","a","         3","a","  46.0"," ,a,0427, ","    832.4"," ,a"
+"ASN00023805","1972","-35.2167","138.8167","243.8","STRATHALBYN PATTANGGA, AS","       105","a","        54","a","         0","a","  24.4"," ,a,0715, ","    530.6"," ,a"
+"ASN00023805","1973","-35.2167","138.8167","243.8","STRATHALBYN PATTANGGA, AS","       162","a","        85","a","         1","a","  47.2"," ,a,0206, ","    780.3"," ,a"
+"ASN00023805","1974","-35.2167","138.8167","243.8","STRATHALBYN PATTANGGA, AS","       149","a","        84","a","         3","a","  61.6"," ,a,0201, ","    913.2"," ,a"

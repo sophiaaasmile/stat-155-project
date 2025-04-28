@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00003064","1970","-18.1667","125.5833",,"FITZROY A.I.M, AS","        37","a","        28","a","         5","a","  72.4"," ,a,0307, ","    384.0"," ,a"
+"ASN00003064","1971","-18.1667","125.5833",,"FITZROY A.I.M, AS","        35","a","        29","a","         7","a"," 108.2"," ,a,0323, ","    588.5"," ,a"
+"ASN00003064","1972","-18.1667","125.5833",,"FITZROY A.I.M, AS","        25","a","        21","a","         2","a","  67.1"," ,a,0302, ","    295.4"," ,a"

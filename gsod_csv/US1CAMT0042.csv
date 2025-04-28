@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CAMT0042","2016","36.353871","-121.576605","940.0","CARMEL VALLEY VILLAGE 12.2 SE, CA US","        98","N","        46","N","         9","N","  66.8"," ,N,0306, ","    752.4"," ,N"
+"US1CAMT0042","2018","36.353871","-121.576605","940.0","CARMEL VALLEY VILLAGE 12.2 SE, CA US","        59","N","        42","N","         8","N"," 101.6"," ,N,0109, ","    732.6"," ,N"
+"US1CAMT0042","2019","36.353871","-121.576605","940.0","CARMEL VALLEY VILLAGE 12.2 SE, CA US","        98","N","        75","N","        16","N"," 112.3"," ,N,1202, ","   1416.4"," ,N"
+"US1CAMT0042","2020","36.353871","-121.576605","940.0","CARMEL VALLEY VILLAGE 12.2 SE, CA US","        58","N","        40","N","         3","N","  48.8"," ,N,0406, ","    378.5"," ,N"
+"US1CAMT0042","2022","36.353871","-121.576605","940.0","CARMEL VALLEY VILLAGE 12.2 SE, CA US","        43","N","        35","N","         7","N"," 101.6"," ,N,1211, ","    552.9"," ,N"

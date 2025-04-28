@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA007022374","1973","45.3667","-71.55","59.0","FLANDERS, QC CA","       170","C","       123","C","         9","C","        36","C","   165"," ,C,0410, ","  45.5"," ,C,0630, ","   1349.8"," ,C","     2442"," ,C"
+"CA007022374","1975","45.3667","-71.55","59.0","FLANDERS, QC CA","       166","C","       117","C","         6","C","        43","C","   165"," ,C,0218, ","  74.9"," ,C,0826, ","   1218.2"," ,C","     3070"," ,C"
+"CA007022374","1976","45.3667","-71.55","59.0","FLANDERS, QC CA","       177","C","       137","C","         8","C","        57","C","   470"," ,C,0316, ","  66.3"," ,C,0518, ","   1484.8"," ,C","     4564"," ,C"

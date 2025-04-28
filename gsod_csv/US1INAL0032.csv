@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INAL0032","2019","41.1174","-84.9063","227.1","WOODBURN 2.8 WSW, IN US","       140","N","        80","N","        12","N","  67.1"," ,N,0517, ","   1125.4"," ,N"
+"US1INAL0032","2020","41.1174","-84.9063","227.1","WOODBURN 2.8 WSW, IN US","       124","N","        68","N","         5","N","  42.2"," ,N,0519, ","    743.5"," ,N"
+"US1INAL0032","2022","41.1174","-84.9063","227.1","WOODBURN 2.8 WSW, IN US","","","","","","","","","    931.0"," ,N"
+"US1INAL0032","2024","41.1174","-84.9063","227.1","WOODBURN 2.8 WSW, IN US","       138","N","        83","N","         3","N","  48.8"," ,N,0710, ","    905.6"," ,N"

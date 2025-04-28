@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COFM0023","2006","38.4458","-105.2356","1631.0","CANON CITY .49 NNE, CO US","        75","N","        33","N","         3","N","         9","N","   165"," ,N,0120, ","  50.0"," ,N,0706, ","    408.9"," ,N","      703"," ,N"
+"US1COFM0023","2007","38.4458","-105.2356","1631.0","CANON CITY .49 NNE, CO US","        75","N","        32","N","         1","N","        12","N","   114"," ,N,0113,+","  36.1"," ,N,0507, ","    351.0"," ,N","      891"," ,N"
+"US1COFM0023","2008","38.4458","-105.2356","1631.0","CANON CITY .49 NNE, CO US","        45","N","        22","N","         0","N","         9","N","   178"," ,N,0303, ","  20.1"," ,N,0817, ","    243.0"," ,N","      887"," ,N"
+"US1COFM0023","2010","38.4458","-105.2356","1631.0","CANON CITY .49 NNE, CO US","        56","N","        28","N","         0","N","","","","","  23.1"," ,N,0806, ","    263.6"," ,N","",""

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00048203","1967","-30.05","147.85","131.1","WALGETT ULAH, AS","        21","a","        15","a","         2","a","  71.4"," ,a,0308, ","    265.4"," ,a"
+"ASN00048203","1968","-30.05","147.85","131.1","WALGETT ULAH, AS","        43","a","        32","a","         6","a","  57.4"," ,a,0114, ","    472.3"," ,a"
+"ASN00048203","1969","-30.05","147.85","131.1","WALGETT ULAH, AS","        41","a","        33","a","         2","a","  39.9"," ,a,0812, ","    344.9"," ,a"
+"ASN00048203","1970","-30.05","147.85","131.1","WALGETT ULAH, AS","        37","a","        31","a","         6","a","  69.9"," ,a,0922, ","    545.4"," ,a"

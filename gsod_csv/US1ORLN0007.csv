@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1ORLN0007","2008","44.3486","-122.771","175.0","SWEET HOME 5.0 SW, OR US","       175","N","       105","N","         3","N","         5","N","   173"," ,N,0128, ","  53.6"," ,N,0127, ","   1044.9"," ,N","      349"," ,N"
+"US1ORLN0007","2019","44.3486","-122.771","175.0","SWEET HOME 5.0 SW, OR US","","","","","","","","","","","","","   1126.3"," ,N","",""
+"US1ORLN0007","2022","44.3486","-122.771","175.0","SWEET HOME 5.0 SW, OR US","       172","N","        98","N","         6","N","","","","","  41.4"," ,N,1227, ","   1134.7"," ,N","",""
+"US1ORLN0007","2023","44.3486","-122.771","175.0","SWEET HOME 5.0 SW, OR US","       164","N","       109","N","         4","N","","","","","  35.3"," ,N,0411, ","   1001.9"," ,N","",""

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZPM0404","2021","31.796341","-111.045913","962.9","GREEN VALLEY 4.9 SW, AZ US","        39","N","        29","N","         1","N","  49.0"," ,N,0725, ","    328.8"," ,N"
+"US1AZPM0404","2023","31.796341","-111.045913","962.9","GREEN VALLEY 4.9 SW, AZ US","        37","N","        29","N","         2","N","  31.8"," ,N,1223, ","    243.1"," ,N"
+"US1AZPM0404","2024","31.796341","-111.045913","962.9","GREEN VALLEY 4.9 SW, AZ US","        24","N","        22","N","         3","N","  33.0"," ,N,0726,+","    260.8"," ,N"

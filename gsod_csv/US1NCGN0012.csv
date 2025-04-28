@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCGN0012","2022","35.5088","-77.526","23.2","AYDEN 6.5 WNW, NC US","       100","N","        74","N","         8","N","  58.9"," ,N,1001, ","    947.2"," ,N"
+"US1NCGN0012","2023","35.5088","-77.526","23.2","AYDEN 6.5 WNW, NC US","       103","N","        69","N","        12","N","  73.7"," ,N,1218, ","   1135.6"," ,N"
+"US1NCGN0012","2024","35.5088","-77.526","23.2","AYDEN 6.5 WNW, NC US","       100","N","        73","N","        12","N","  63.5"," ,N,0928, ","   1180.3"," ,N"

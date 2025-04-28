@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","CDSD","CDSD_ATTRIBUTES","CLDD","CLDD_ATTRIBUTES","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"ASN00016081","1974","-31.8953","137.7144","31.0","LAKE TORRENS, AS","","","","","        83","a","        37","a","         4","a","         0","a","       222","a","        75","a","  41.4"," ,a,0509, ","   41.5","a,1206, ","    543.7"," ,a","     25.08","a"
+"ASN00016081","1975","-31.8953","137.7144","31.0","LAKE TORRENS, AS","    893.2","","     893.2","a","","","","","","","","","","","","","","","","","","","",""

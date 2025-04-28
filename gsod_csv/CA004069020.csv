@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004069020","1966","58.05","-103.1667","396.0","WOLLASTON LAKE, SK CA","       121","C","        58","C","         1","C","        26","C","   127"," ,C,0112, ","  26.2"," ,C,0621, ","    402.4"," ,C","     1639"," ,C"
+"CA004069020","1968","58.05","-103.1667","396.0","WOLLASTON LAKE, SK CA","       133","C","        60","C","         2","C","        27","C","   163"," ,C,0125, ","  40.4"," ,C,0916, ","    518.1"," ,C","     1688"," ,C"
+"CA004069020","1969","58.05","-103.1667","396.0","WOLLASTON LAKE, SK CA","        93","C","        47","C","         1","C","        22","C","   142"," ,C,0209, ","  37.1"," ,C,0830, ","    409.1"," ,C","     1541"," ,C"

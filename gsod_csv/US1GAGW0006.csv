@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GAGW0006","2012","34.079855","-83.931254","352.7","BUFORD 4.6 ESE, GA US","       114","N","        71","N","         6","N"," 139.2"," ,N,1002, ","   1090.3"," ,N"
+"US1GAGW0006","2014","34.079855","-83.931254","352.7","BUFORD 4.6 ESE, GA US","","","","","","","","","   1036.2"," ,N"
+"US1GAGW0006","2016","34.079855","-83.931254","352.7","BUFORD 4.6 ESE, GA US","       101","N","        63","N","         9","N","  46.0"," ,N,0517, ","    916.1"," ,N"
+"US1GAGW0006","2017","34.079855","-83.931254","352.7","BUFORD 4.6 ESE, GA US","       121","N","        86","N","        17","N","  88.9"," ,N,0406, ","   1516.3"," ,N"

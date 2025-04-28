@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYOG0012","2017","43.2","-76.26","115.8","CLAY 4.6 NW, NY US","       189","N","       118","N","        13","N","  72.6"," ,N,1030, ","   1528.3"," ,N"
+"US1NYOG0012","2018","43.2","-76.26","115.8","CLAY 4.6 NW, NY US","","","","","","","","","   1289.6"," ,N"
+"US1NYOG0012","2020","43.2","-76.26","115.8","CLAY 4.6 NW, NY US","       169","N","        96","N","         8","N","  70.4"," ,N,0712, ","   1068.3"," ,N"

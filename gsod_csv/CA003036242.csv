@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003036242","1986","50.0667","-111.1667","678.0","SUFFIELD SOUTH, AB CA","        90","C","        43","C","         2","C","         5","C","   116"," ,C,0316, ","  53.0"," ,C,0924, ","    451.0"," ,C","      536"," ,C"
+"CA003036242","1987","50.0667","-111.1667","678.0","SUFFIELD SOUTH, AB CA","        56","C","        29","C","         2","C","         5","C","    46"," ,C,0318, ","  38.0"," ,C,0728, ","    271.1"," ,C","      307"," ,C"
+"CA003036242","1988","50.0667","-111.1667","678.0","SUFFIELD SOUTH, AB CA","        50","C","        22","C","         0","C","         4","C","   120"," ,C,0327, ","  25.0"," ,C,0628, ","    210.1"," ,C","      366"," ,C"

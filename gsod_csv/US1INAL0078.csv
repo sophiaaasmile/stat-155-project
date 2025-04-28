@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INAL0078","2020","41.095116","-85.180108","248.7","FORT WAYNE 2.6 NW, IN US","       122","N","        75","N","         3","N","  66.0"," ,N,0829, ","    862.3"," ,N"
+"US1INAL0078","2023","41.095116","-85.180108","248.7","FORT WAYNE 2.6 NW, IN US","       136","N","        73","N","         6","N","  42.2"," ,N,0223, ","    860.4"," ,N"
+"US1INAL0078","2024","41.095116","-85.180108","248.7","FORT WAYNE 2.6 NW, IN US","       131","N","        83","N","         3","N","  37.8"," ,N,0627, ","    999.2"," ,N"

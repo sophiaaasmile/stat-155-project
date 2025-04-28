@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"IDM00096195","2016","-1.638","103.644","25.0","SULTAN THAHA, ID","         0","S","       320","S","       189","S","   35.4","S,0911, ","     32.20","S"
+"IDM00096195","2018","-1.638","103.644","25.0","SULTAN THAHA, ID","         0","S","       338","S","       172","S","   34.6","S,1227,+","     32.00","S"
+"IDM00096195","2022","-1.638","103.644","25.0","SULTAN THAHA, ID","         0","S","       358","S","       190","S","   35.2","S,1120, ","     31.97","S"

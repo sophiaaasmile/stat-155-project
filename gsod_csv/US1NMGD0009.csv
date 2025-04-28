@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMGD0009","2020","34.63587","-104.46667","1384.7","FORT SUMNER 17.0 NW, NM US","        39","N","        26","N","         0","N","  21.3"," ,N,0704, ","    187.5"," ,N"
+"US1NMGD0009","2021","34.63587","-104.46667","1384.7","FORT SUMNER 17.0 NW, NM US","        41","N","        28","N","         4","N","  48.3"," ,N,0701, ","    349.2"," ,N"
+"US1NMGD0009","2022","34.63587","-104.46667","1384.7","FORT SUMNER 17.0 NW, NM US","        52","N","        31","N","         2","N","  45.2"," ,N,0821, ","    304.7"," ,N"
+"US1NMGD0009","2023","34.63587","-104.46667","1384.7","FORT SUMNER 17.0 NW, NM US","        35","N","        20","N","         1","N","  38.9"," ,N,0601, ","    194.9"," ,N"

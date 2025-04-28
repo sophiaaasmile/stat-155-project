@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00041552","2003","-26.875","150.8714","320.0","WARRA JINGHI JINGHI, AS","        46","a","        37","a","         5","a","  65.2"," ,a,1205, ","    629.9"," ,a"
+"ASN00041552","2004","-26.875","150.8714","320.0","WARRA JINGHI JINGHI, AS","        34","a","        30","a","         8","a","  71.0"," ,a,0115, ","    662.2"," ,a"
+"ASN00041552","2005","-26.875","150.8714","320.0","WARRA JINGHI JINGHI, AS","","","","","","","","","    506.1"," ,a"

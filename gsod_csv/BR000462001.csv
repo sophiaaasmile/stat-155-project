@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000462001","1983","-4.73","-62.15","0.0","ARUMA JUSANTE, BR","       178","I","       145","I","        23","I","  56.8"," ,I,1021, ","   2107.4"," ,I"
+"BR000462001","1984","-4.73","-62.15","0.0","ARUMA JUSANTE, BR","       198","I","       161","I","        25","I","  93.0"," ,I,0305, ","   2535.7"," ,I"
+"BR000462001","1986","-4.73","-62.15","0.0","ARUMA JUSANTE, BR","       202","I","       163","I","        27","I","  87.8"," ,I,0223, ","   2335.8"," ,I"

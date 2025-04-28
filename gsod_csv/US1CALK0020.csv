@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CALK0020","2022","39.035498","-122.913615","406.0","LAKEPORT 0.6 SE, CA US","        50","N","        26","N","         3","N","  34.0"," ,N,1227, ","    377.7"," ,N"
+"US1CALK0020","2023","39.035498","-122.913615","406.0","LAKEPORT 0.6 SE, CA US","        87","N","        63","N","        14","N","  48.0"," ,N,0105, ","    950.6"," ,N"
+"US1CALK0020","2024","39.035498","-122.913615","406.0","LAKEPORT 0.6 SE, CA US","        88","N","        63","N","        11","N","  81.5"," ,N,1122, ","   1018.4"," ,N"

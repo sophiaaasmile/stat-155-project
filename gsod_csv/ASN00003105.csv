@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00003105","2016","-18.1133","125.3428","175.0","LAUREL DOWNS, AS","        50","a","        40","a","        13","a","  91.2"," ,a,0129, ","    978.1"," ,a"
+"ASN00003105","2017","-18.1133","125.3428","175.0","LAUREL DOWNS, AS","        64","a","        48","a","        11","a"," 118.6"," ,a,0210, ","    940.0"," ,a"

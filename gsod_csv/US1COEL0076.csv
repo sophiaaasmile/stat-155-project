@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COEL0076","2016","39.15695","-104.5034389","2190.6","ELBERT 4.6 SSE, CO US","","","","","","","","","    514.4"," ,N"
+"US1COEL0076","2022","39.15695","-104.5034389","2190.6","ELBERT 4.6 SSE, CO US","        72","N","        41","N","         1","N","  27.2"," ,N,0707, ","    377.4"," ,N"
+"US1COEL0076","2023","39.15695","-104.5034389","2190.6","ELBERT 4.6 SSE, CO US","","","","","","","","","    728.9"," ,N"
+"US1COEL0076","2024","39.15695","-104.5034389","2190.6","ELBERT 4.6 SSE, CO US","        72","N","        41","N","         3","N","  27.9"," ,N,0314, ","    451.2"," ,N"

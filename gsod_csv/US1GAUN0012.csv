@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GAUN0012","2021","34.877724","-83.997244","559.0","BLAIRSVILLE 2.6 W, GA US","       133","N","        98","N","        14","N"," 107.7"," ,N,0818, ","   1562.6"," ,N"
+"US1GAUN0012","2022","34.877724","-83.997244","559.0","BLAIRSVILLE 2.6 W, GA US","       124","N","        91","N","        16","N","  73.4"," ,N,0719, ","   1372.1"," ,N"
+"US1GAUN0012","2023","34.877724","-83.997244","559.0","BLAIRSVILLE 2.6 W, GA US","       139","N","        98","N","        13","N","  89.9"," ,N,0829, ","   1252.7"," ,N"
+"US1GAUN0012","2024","34.877724","-83.997244","559.0","BLAIRSVILLE 2.6 W, GA US","       125","N","        92","N","        14","N","  84.3"," ,N,0927, ","   1378.0"," ,N"

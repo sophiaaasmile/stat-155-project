@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00068120","1965","-34.25","150.7","222.0","WILTON POST OFFICE, AS","        24","a","        19","a","         6","a","  49.8"," ,a,1017, ","    378.4"," ,a"
+"ASN00068120","1969","-34.25","150.7","222.0","WILTON POST OFFICE, AS","       104","a","        82","a","        12","a"," 102.1"," ,a,1114, ","   1227.7"," ,a"
+"ASN00068120","1970","-34.25","150.7","222.0","WILTON POST OFFICE, AS","       109","a","        69","a","         4","a","  54.9"," ,a,1210, ","    722.1"," ,a"
+"ASN00068120","1977","-34.25","150.7","222.0","WILTON POST OFFICE, AS","        54","a","        40","a","         8","a","  72.4"," ,a,0223, ","    634.2"," ,a"
+"ASN00068120","1979","-34.25","150.7","222.0","WILTON POST OFFICE, AS","        46","a","        29","a","         1","a","  36.6"," ,a,0622, ","    328.2"," ,a"

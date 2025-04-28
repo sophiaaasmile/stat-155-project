@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009795","1914","-33.0","116.3",,"DUNGALLY, AS","        94","a","        51","a","         4","a","  42.9"," ,a,0625, ","    621.2"," ,a"
+"ASN00009795","1919","-33.0","116.3",,"DUNGALLY, AS","        77","a","        75","a","        15","a","  81.3"," ,a,0719, ","   1147.1"," ,a"
+"ASN00009795","1924","-33.0","116.3",,"DUNGALLY, AS","        91","a","        74","a","        12","a","  63.5"," ,a,0601, ","   1057.8"," ,a"
+"ASN00009795","1925","-33.0","116.3",,"DUNGALLY, AS","        59","a","        49","a","        10","a","  47.5"," ,a,0305, ","    632.3"," ,a"

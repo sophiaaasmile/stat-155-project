@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1OKRG0020","2021","36.2733624","-95.8087578","527.0","OWASSO 1.5 ESE, OK US","       111","N","        58","N","        11","N","         2","N","    99"," ,N,0217, ","  78.7"," ,N,0627, ","   1020.1"," ,N","      234"," ,N"
+"US1OKRG0020","2022","36.2733624","-95.8087578","527.0","OWASSO 1.5 ESE, OK US","        95","N","        55","N","        12","N","","","","","  61.5"," ,N,0729, ","    891.2"," ,N","",""
+"US1OKRG0020","2023","36.2733624","-95.8087578","527.0","OWASSO 1.5 ESE, OK US","       105","N","        67","N","         6","N","","","","","  68.1"," ,N,0814, ","    929.0"," ,N","",""
+"US1OKRG0020","2024","36.2733624","-95.8087578","527.0","OWASSO 1.5 ESE, OK US","        83","N","        54","N","        13","N","         1","N","    36"," ,N,0115, ","  87.6"," ,N,1103, ","   1155.3"," ,N","       57"," ,N"

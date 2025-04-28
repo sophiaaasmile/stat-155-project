@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1LACM0003","2019","30.0483","-93.2414","1.5","LAKE CHARLES 11.5 SSW, LA US","       115","N","        71","N","        18","N"," 140.2"," ,N,0606, ","   1697.1"," ,N"
+"US1LACM0003","2021","30.0483","-93.2414","1.5","LAKE CHARLES 11.5 SSW, LA US","","","","","","","","","   1461.7"," ,N"
+"US1LACM0003","2022","30.0483","-93.2414","1.5","LAKE CHARLES 11.5 SSW, LA US","       111","N","        71","N","        15","N","  66.3"," ,N,0702, ","   1286.5"," ,N"
+"US1LACM0003","2024","30.0483","-93.2414","1.5","LAKE CHARLES 11.5 SSW, LA US","       106","N","        70","N","        22","N"," 113.3"," ,N,0724, ","   1689.5"," ,N"

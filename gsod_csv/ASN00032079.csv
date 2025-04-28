@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00032079","1969","-17.6192","145.8383","304.8","GLENVIEW, AS","       119","a","       116","a","        37","a"," 180.8"," ,a,0126, ","   3254.9"," ,a"
+"ASN00032079","1971","-17.6192","145.8383","304.8","GLENVIEW, AS","       140","a","       116","a","        38","a"," 276.9"," ,a,0310, ","   3291.6"," ,a"
+"ASN00032079","1972","-17.6192","145.8383","304.8","GLENVIEW, AS","","","","","","","","","   3490.2"," ,a"

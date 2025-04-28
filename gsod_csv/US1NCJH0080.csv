@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCJH0080","2018","35.536","-78.1004","66.8","KENLY 4.2 SSE, NC US","       140","N","        78","N","        22","N"," 150.4"," ,N,0915, ","   1523.7"," ,N"
+"US1NCJH0080","2019","35.536","-78.1004","66.8","KENLY 4.2 SSE, NC US","       115","N","        78","N","        15","N"," 150.4"," ,N,0906, ","   1341.7"," ,N"
+"US1NCJH0080","2020","35.536","-78.1004","66.8","KENLY 4.2 SSE, NC US","       139","N","        79","N","        20","N","  98.0"," ,N,1112, ","   1640.5"," ,N"

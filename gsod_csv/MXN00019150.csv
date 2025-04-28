@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00019150","1982","25.6667","-100.2","444.7","LOS LERMA, MX","        71","m","        52","m","         6","m","  58.4"," ,m,1208,+","    707.9"," ,m"
+"MXN00019150","1983","25.6667","-100.2","444.7","LOS LERMA, MX","        79","m","        58","m","        12","m","  59.2"," ,m,0528, ","    902.1"," ,m"
+"MXN00019150","1985","25.6667","-100.2","444.7","LOS LERMA, MX","        83","m","        57","m","        13","m","  78.5"," ,m,0313, ","    977.3"," ,m"

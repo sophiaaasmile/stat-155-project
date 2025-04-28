@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056222","1965","-29.9167","151.9833","1097.3","RED RANGE COORUMBONG, AS","        91","a","        54","a","         5","a","  60.2"," ,a,1215, ","    682.7"," ,a"
+"ASN00056222","1966","-29.9167","151.9833","1097.3","RED RANGE COORUMBONG, AS","        87","a","        49","a","         5","a","  59.9"," ,a,1108, ","    701.9"," ,a"
+"ASN00056222","1967","-29.9167","151.9833","1097.3","RED RANGE COORUMBONG, AS","       124","a","        74","a","         8","a"," 105.4"," ,a,0613, ","   1051.1"," ,a"
+"ASN00056222","1968","-29.9167","151.9833","1097.3","RED RANGE COORUMBONG, AS","        94","a","        59","a","         7","a","  85.3"," ,a,0113, ","    758.6"," ,a"

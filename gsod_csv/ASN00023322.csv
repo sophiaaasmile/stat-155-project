@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00023322","1959","-34.5667","139.0667",,"ANGASTON THE GUMS, AS","        95","a","        40","a","         0","a","  19.6"," ,a,0215, ","    358.7"," ,a"
+"ASN00023322","1960","-34.5667","139.0667",,"ANGASTON THE GUMS, AS","       138","a","        65","a","         4","a","  54.6"," ,a,0505, ","    840.7"," ,a"
+"ASN00023322","1961","-34.5667","139.0667",,"ANGASTON THE GUMS, AS","       117","a","        56","a","         3","a","  49.0"," ,a,1117, ","    593.4"," ,a"
+"ASN00023322","1962","-34.5667","139.0667",,"ANGASTON THE GUMS, AS","       121","a","        71","a","         2","a","  42.4"," ,a,0523, ","    721.3"," ,a"

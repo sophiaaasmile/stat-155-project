@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"KZ000036884","1959","43.2","77.0","1712.0","ALMA ATA MEDEO, KZ","       128","I","        77","I","         6","I","  58.6"," ,I,0408, ","    966.9"," ,I"
+"KZ000036884","1960","43.2","77.0","1712.0","ALMA ATA MEDEO, KZ","       119","I","        75","I","        10","I","  53.4"," ,I,0729, ","    943.4"," ,I"
+"KZ000036884","1961","43.2","77.0","1712.0","ALMA ATA MEDEO, KZ","       111","I","        64","I","        10","I","  37.5"," ,I,0611, ","    866.7"," ,I"
+"KZ000036884","1962","43.2","77.0","1712.0","ALMA ATA MEDEO, KZ","       111","I","        71","I","         4","I","  41.2"," ,I,0612, ","    714.1"," ,I"

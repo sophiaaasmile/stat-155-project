@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004021650","1972","49.7667","-106.1167","720.0","CONGRESS, SK CA","        80","C","        48","C","         2","C","        18","C","   114"," ,C,0208, ","  40.1"," ,C,0525, ","    410.8"," ,C","     1000"," ,C"
+"CA004021650","1973","49.7667","-106.1167","720.0","CONGRESS, SK CA","        67","C","        49","C","         1","C","        14","C","    51"," ,C,1225,+","  30.5"," ,C,0603, ","    392.4"," ,C","      454"," ,C"

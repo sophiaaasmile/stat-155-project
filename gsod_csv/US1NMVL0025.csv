@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMVL0025","2013","34.573079","-106.651801","1546.3","BELEN 9.3 SE, NM US","        52","N","        25","N","         2","N","  30.0"," ,N,0727, ","    233.6"," ,N"
+"US1NMVL0025","2014","34.573079","-106.651801","1546.3","BELEN 9.3 SE, NM US","        60","N","        29","N","         0","N","  20.8"," ,N,0802, ","    233.0"," ,N"
+"US1NMVL0025","2015","34.573079","-106.651801","1546.3","BELEN 9.3 SE, NM US","        69","N","        40","N","         0","N","  23.1"," ,N,1030, ","    314.2"," ,N"

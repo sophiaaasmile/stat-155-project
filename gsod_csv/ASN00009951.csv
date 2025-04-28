@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009951","1975","-34.3175","116.5831",,"KELVIN BANK, AS","       140","a","        70","a","         2","a","  30.4"," ,a,0520, ","    650.9"," ,a"
+"ASN00009951","1976","-34.3175","116.5831",,"KELVIN BANK, AS","       107","a","        61","a","         4","a","  59.6"," ,a,0107, ","    691.0"," ,a"
+"ASN00009951","1977","-34.3175","116.5831",,"KELVIN BANK, AS","        77","a","        49","a","         5","a","  91.6"," ,a,0529, ","    631.0"," ,a"
+"ASN00009951","1978","-34.3175","116.5831",,"KELVIN BANK, AS","        98","a","        69","a","         4","a","  59.8"," ,a,0218, ","    720.1"," ,a"

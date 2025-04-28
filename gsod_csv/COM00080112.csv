@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"COM00080112","1996","6.165","-75.423","2142.1","JOSE MARIA CORDOVA, CO","       191","S","       118","S","        16","S","  85.1"," ,S,0823, ","   1631.7"," ,S"
+"COM00080112","2003","6.165","-75.423","2142.1","JOSE MARIA CORDOVA, CO","       172","S","       117","S","        12","S","  55.1"," ,S,0326, ","   1431.6"," ,S"
+"COM00080112","2019","6.165","-75.423","2142.1","JOSE MARIA CORDOVA, CO","       211","S","       130","S","        17","S","  81.0"," ,S,0525, ","   1812.2"," ,S"
+"COM00080112","2023","6.165","-75.423","2142.1","JOSE MARIA CORDOVA, CO","       204","S","       118","S","        17","S","  58.9"," ,S,0313, ","   1756.7"," ,S"

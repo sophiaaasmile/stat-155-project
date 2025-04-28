@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1GAFR0001","2010","34.29171605","-83.32362236","228.9","CARNESVILLE 7.3 SW, GA US","        85","N","        64","N","        14","N","","","","","  90.2"," ,N,0702, ","   1177.8"," ,N","",""
+"US1GAFR0001","2011","34.29171605","-83.32362236","228.9","CARNESVILLE 7.3 SW, GA US","        86","N","        75","N","        16","N","","","","","  41.4"," ,N,1228, ","   1078.7"," ,N","",""
+"US1GAFR0001","2012","34.29171605","-83.32362236","228.9","CARNESVILLE 7.3 SW, GA US","       107","N","        75","N","         8","N","","","","","  47.5"," ,N,0514, ","    974.7"," ,N","",""
+"US1GAFR0001","2015","34.29171605","-83.32362236","228.9","CARNESVILLE 7.3 SW, GA US","       143","N","        99","N","        18","N","         0","N","    13"," ,N,0224, ","  76.2"," ,N,1004, ","   1500.6"," ,N","       13"," ,N"

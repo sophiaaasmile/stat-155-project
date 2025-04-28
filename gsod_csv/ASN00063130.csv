@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00063130","1963","-33.6333","148.9167",,"WYOMING MANDURAMA, AS","       108","a","        77","a","         6","a","  52.3"," ,a,0512, ","    902.1"," ,a"
+"ASN00063130","1964","-33.6333","148.9167",,"WYOMING MANDURAMA, AS","        90","a","        70","a","         4","a","  33.0"," ,a,1102, ","    660.5"," ,a"
+"ASN00063130","1965","-33.6333","148.9167",,"WYOMING MANDURAMA, AS","        66","a","        50","a","         4","a","  47.0"," ,a,0907, ","    555.2"," ,a"
+"ASN00063130","1966","-33.6333","148.9167",,"WYOMING MANDURAMA, AS","        79","a","        63","a","         7","a","  48.3"," ,a,1019, ","    828.8"," ,a"

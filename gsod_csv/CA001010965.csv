@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001010965","1961","48.5667","-123.4333","91.0","BRENTWOOD W SAANICH RD, BC CA","       145","C","       100","C","         6","C","         4","C","    76"," ,C,1213, ","  94.7"," ,C,0115, ","   1196.3"," ,C","      219"," ,C"
+"CA001010965","1962","48.5667","-123.4333","91.0","BRENTWOOD W SAANICH RD, BC CA","       130","C","        74","C","         8","C","         3","C","   279"," ,C,0227, ","  43.9"," ,C,1231, ","    983.9"," ,C","      699"," ,C"
+"CA001010965","1966","48.5667","-123.4333","91.0","BRENTWOOD W SAANICH RD, BC CA","       137","C","        88","C","         5","C","         6","C","   127"," ,C,0103, ","  41.9"," ,C,0106, ","   1004.4"," ,C","      534"," ,C"
+"CA001010965","1968","48.5667","-123.4333","91.0","BRENTWOOD W SAANICH RD, BC CA","       149","C","       103","C","        10","C","         7","C","   432"," ,C,1227, ","  51.3"," ,C,0118, ","   1307.9"," ,C","     1320"," ,C"
+"CA001010965","1969","48.5667","-123.4333","91.0","BRENTWOOD W SAANICH RD, BC CA","","","","","","","        12","C","   203"," ,C,0130, ","","","","","      970"," ,C"

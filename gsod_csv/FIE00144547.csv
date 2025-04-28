@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FIE00144547","2002","63.185","24.7831","202.0","KIVIJARVI RISUPERA, FI","       117","E","        63","E","         0","E","  22.8"," ,E,0831, ","    504.0"," ,E"
+"FIE00144547","2003","63.185","24.7831","202.0","KIVIJARVI RISUPERA, FI","       132","E","        72","E","         1","E","  36.8"," ,E,0609, ","    513.1"," ,E"
+"FIE00144547","2004","63.185","24.7831","202.0","KIVIJARVI RISUPERA, FI","       151","E","        84","E","         0","E","  18.7"," ,E,0523, ","    639.7"," ,E"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN005112000","1966","22.567","72.933","44.0","VALLABH VIDYANAGAR, IN","        37","I","        26","I","        10","I"," 191.6"," ,I,0907, ","   1004.6"," ,I"
+"IN005112000","1967","22.567","72.933","44.0","VALLABH VIDYANAGAR, IN","        62","I","        46","I","        13","I"," 132.0"," ,I,0619, ","    973.9"," ,I"
+"IN005112000","1968","22.567","72.933","44.0","VALLABH VIDYANAGAR, IN","        33","I","        17","I","         4","I"," 100.3"," ,I,0806, ","    413.0"," ,I"
+"IN005112000","1969","22.567","72.933","44.0","VALLABH VIDYANAGAR, IN","        44","I","        28","I","         9","I","  91.0"," ,I,0607, ","    726.3"," ,I"
+"IN005112000","1970","22.567","72.933","44.0","VALLABH VIDYANAGAR, IN","        71","I","        53","I","        19","I"," 205.0"," ,I,0907, ","   1615.5"," ,I"

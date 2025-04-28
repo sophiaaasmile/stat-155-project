@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSMR0010","2021","38.66503","-96.490191","377.0","COUNCIL GROVE 0.3 N, KS US","        91","N","        52","N","        10","N"," 106.7"," ,N,0903, ","    907.6"," ,N"
+"US1KSMR0010","2022","38.66503","-96.490191","377.0","COUNCIL GROVE 0.3 N, KS US","        93","N","        55","N","         8","N","  71.1"," ,N,0518, ","    881.1"," ,N"
+"US1KSMR0010","2023","38.66503","-96.490191","377.0","COUNCIL GROVE 0.3 N, KS US","        80","N","        45","N","         7","N","  59.2"," ,N,0809, ","    652.3"," ,N"
+"US1KSMR0010","2024","38.66503","-96.490191","377.0","COUNCIL GROVE 0.3 N, KS US","        93","N","        59","N","         9","N","  92.2"," ,N,0520, ","    902.9"," ,N"

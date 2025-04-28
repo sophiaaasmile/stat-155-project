@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10chas016","2005","40.5227","-101.9864","1068.9","LAMAR 3.4 S, NE US","        77","N","        41","N","         3","N","  34.3"," ,N,1010, ","    463.4"," ,N"
+"US10chas016","2006","40.5227","-101.9864","1068.9","LAMAR 3.4 S, NE US","        62","N","        30","N","         7","N","  67.1"," ,N,0727, ","    501.1"," ,N"
+"US10chas016","2008","40.5227","-101.9864","1068.9","LAMAR 3.4 S, NE US","        68","N","        45","N","         6","N","  39.9"," ,N,0616, ","    583.8"," ,N"

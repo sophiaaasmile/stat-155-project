@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00037004","1943","-21.7667","143.5167","240.0","BEAULY, AS","        16","a","        14","a","         5","a","  94.7"," ,a,0905, ","    313.0"," ,a"
+"ASN00037004","1944","-21.7667","143.5167","240.0","BEAULY, AS","        18","a","        15","a","         7","a"," 130.0"," ,a,0209, ","    569.3"," ,a"
+"ASN00037004","1945","-21.7667","143.5167","240.0","BEAULY, AS","        13","a","        13","a","         4","a","  39.1"," ,a,0201, ","    331.3"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1ON000883","2022","43.9564552","-79.5828975","325.2","KING CITY 5.4 NW, ON CA","       139","N","        67","N","         3","N","  31.8"," ,N,1013, ","    740.5"," ,N"
+"CA1ON000883","2023","43.9564552","-79.5828975","325.2","KING CITY 5.4 NW, ON CA","       161","N","        85","N","         6","N","  38.1"," ,N,0713, ","    936.6"," ,N"
+"CA1ON000883","2024","43.9564552","-79.5828975","325.2","KING CITY 5.4 NW, ON CA","       158","N","        75","N","         7","N","  43.4"," ,N,0711, ","    941.0"," ,N"

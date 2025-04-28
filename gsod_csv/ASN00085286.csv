@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00085286","1990","-37.7667","146.6667","111.0","STRINGYBARK CREEK, AS","        97","a","        55","a","         8","a"," 131.6"," ,a,0421, ","    779.0"," ,a"
+"ASN00085286","1993","-37.7667","146.6667","111.0","STRINGYBARK CREEK, AS","       109","a","        63","a","         8","a","  76.0"," ,a,0916, ","    894.6"," ,a"
+"ASN00085286","1996","-37.7667","146.6667","111.0","STRINGYBARK CREEK, AS","       130","a","        67","a","         0","a","  25.0"," ,a,1118, ","    649.6"," ,a"
+"ASN00085286","1997","-37.7667","146.6667","111.0","STRINGYBARK CREEK, AS","        93","a","        52","a","         4","a","  40.4"," ,a,0627, ","    552.8"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00086226","1963","-38.2667","145.0167","19.2","MOUNT MARTHA, AS","       132","a","        75","a","         2","a","  39.6"," ,a,0129, ","    675.4"," ,a"
+"ASN00086226","1964","-38.2667","145.0167","19.2","MOUNT MARTHA, AS","       158","a","       108","a","         4","a","  34.0"," ,a,0408, ","    980.8"," ,a"
+"ASN00086226","1965","-38.2667","145.0167","19.2","MOUNT MARTHA, AS","       133","a","        75","a","         1","a","  29.0"," ,a,0808, ","    592.4"," ,a"

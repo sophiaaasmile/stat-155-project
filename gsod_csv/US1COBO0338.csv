@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COBO0338","2016","40.104343","-105.160483","1547.8","NIWOT 0.7 NNW, CO US","        75","N","        29","N","         2","N","        12","N","   279"," ,N,0202, ","  44.2"," ,N,0323, ","    324.3"," ,N","     1545"," ,N"
+"US1COBO0338","2018","40.104343","-105.160483","1547.8","NIWOT 0.7 NNW, CO US","        72","N","        37","N","         2","N","        12","N","   152"," ,N,1111,+","  38.9"," ,N,0519, ","    410.0"," ,N","      875"," ,N"
+"US1COBO0338","2019","40.104343","-105.160483","1547.8","NIWOT 0.7 NNW, CO US","        84","N","        48","N","         2","N","        24","N","   432"," ,N,1126, ","  32.8"," ,N,1126, ","    430.6"," ,N","     1969"," ,N"

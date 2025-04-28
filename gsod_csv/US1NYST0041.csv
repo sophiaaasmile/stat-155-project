@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYST0041","2020","42.1537","-77.0869","286.5","PAINTED POST 0.7 SSE, NY US","       132","N","        71","N","         8","N","  50.3"," ,N,1225, ","    809.0"," ,N"
+"US1NYST0041","2021","42.1537","-77.0869","286.5","PAINTED POST 0.7 SSE, NY US","       155","N","        91","N","        14","N","  71.1"," ,N,0819, ","   1235.0"," ,N"
+"US1NYST0041","2022","42.1537","-77.0869","286.5","PAINTED POST 0.7 SSE, NY US","       127","N","        67","N","         5","N","  49.5"," ,N,1112, ","    825.4"," ,N"
+"US1NYST0041","2023","42.1537","-77.0869","286.5","PAINTED POST 0.7 SSE, NY US","       142","N","        94","N","         5","N","  36.1"," ,N,0815, ","   1033.8"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001944002","1942","-19.95","-44.7","0.0","IGARATINGA, BR","        84","I","        83","I","        21","I"," 100.1"," ,I,1201, ","   1640.6"," ,I"
+"BR001944002","1943","-19.95","-44.7","0.0","IGARATINGA, BR","        76","I","        76","I","        12","I"," 100.2"," ,I,0225, ","   1319.6"," ,I"
+"BR001944002","1944","-19.95","-44.7","0.0","IGARATINGA, BR","        59","I","        58","I","        16","I"," 125.0"," ,I,0112, ","   1297.2"," ,I"

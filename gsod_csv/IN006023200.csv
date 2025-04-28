@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN006023200","1967","28.42","77.0","225.0","GURGAON OBSERVATORY, IN","        55","I","        46","I","        12","I"," 107.6"," ,I,0826, ","    891.9"," ,I"
+"IN006023200","1969","28.42","77.0","225.0","GURGAON OBSERVATORY, IN","        41","I","        28","I","        11","I","  75.0"," ,I,0911, ","    799.2"," ,I"
+"IN006023200","1970","28.42","77.0","225.0","GURGAON OBSERVATORY, IN","        54","I","        37","I","         9","I","  58.5"," ,I,0707, ","    662.5"," ,I"

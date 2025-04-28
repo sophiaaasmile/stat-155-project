@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00C5-1210","1992","-21.67","-48.18","620.0","FAZENDA SAN GIUSEPPE, BR","        99","I","        80","I","        16","I","  79.7"," ,I,0114, ","   1378.7"," ,I"
+"BR00C5-1210","1993","-21.67","-48.18","620.0","FAZENDA SAN GIUSEPPE, BR","        86","I","        72","I","        15","I","  57.9"," ,I,0409, ","   1173.9"," ,I"
+"BR00C5-1210","1994","-21.67","-48.18","620.0","FAZENDA SAN GIUSEPPE, BR","        85","I","        66","I","        19","I","  66.1"," ,I,0102, ","   1305.3"," ,I"

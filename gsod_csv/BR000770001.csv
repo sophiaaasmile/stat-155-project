@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000770001","1990","-7.27","-70.98","0.0","SERINGAL SANTO AMARO, BR","       130","I","       109","I","        20","I","  96.6"," ,I,1204, ","   1970.3"," ,I"
+"BR000770001","1991","-7.27","-70.98","0.0","SERINGAL SANTO AMARO, BR","       129","I","       114","I","        17","I"," 100.6"," ,I,0223, ","   2102.5"," ,I"
+"BR000770001","1992","-7.27","-70.98","0.0","SERINGAL SANTO AMARO, BR","       119","I","        96","I","        18","I","  82.6"," ,I,1212, ","   1525.4"," ,I"
+"BR000770001","1995","-7.27","-70.98","0.0","SERINGAL SANTO AMARO, BR","       114","I","       109","I","        26","I","  59.4"," ,I,1105, ","   1911.9"," ,I"
+"BR000770001","1996","-7.27","-70.98","0.0","SERINGAL SANTO AMARO, BR","       108","I","       103","I","        28","I","  59.6"," ,I,0727, ","   1918.7"," ,I"

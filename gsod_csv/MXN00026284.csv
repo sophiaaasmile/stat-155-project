@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00026284","1994","28.6167","-109.6","191.7","SAN ANTONIO DE LA HUERTA, MX","        40","m","        27","m","         5","m","  39.9"," ,m,1112, ","    393.2"," ,m"
+"MXN00026284","1995","28.6167","-109.6","191.7","SAN ANTONIO DE LA HUERTA, MX","        38","m","        29","m","         7","m"," 121.9"," ,m,0813, ","    602.7"," ,m"
+"MXN00026284","1996","28.6167","-109.6","191.7","SAN ANTONIO DE LA HUERTA, MX","        46","m","        42","m","         8","m"," 104.9"," ,m,0817, ","    738.8"," ,m"
+"MXN00026284","1997","28.6167","-109.6","191.7","SAN ANTONIO DE LA HUERTA, MX","        49","m","        44","m","         9","m","  69.9"," ,m,1201, ","    710.0"," ,m"

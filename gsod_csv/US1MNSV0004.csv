@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNSV0004","2017","45.716491","-96.06043","338.0","DONNELLY 2.9 NW, MN US","       107","N","        40","N","        10","N","  50.5"," ,N,0614, ","    695.4"," ,N"
+"US1MNSV0004","2019","45.716491","-96.06043","338.0","DONNELLY 2.9 NW, MN US","","","","","","","","","    874.5"," ,N"
+"US1MNSV0004","2020","45.716491","-96.06043","338.0","DONNELLY 2.9 NW, MN US","       101","N","        41","N","         2","N","  42.9"," ,N,0629, ","    437.4"," ,N"
+"US1MNSV0004","2023","45.716491","-96.06043","338.0","DONNELLY 2.9 NW, MN US","","","","","","","","","    558.5"," ,N"

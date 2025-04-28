@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLPK0078","2021","28.221142","-81.544237","26.8","LOUGHMAN 2.0 ESE, FL US","       160","N","        73","N","        11","N","  64.8"," ,N,1106, ","   1112.8"," ,N"
+"US1FLPK0078","2022","28.221142","-81.544237","26.8","LOUGHMAN 2.0 ESE, FL US","       148","N","        86","N","        21","N"," 205.2"," ,N,0929, ","   1748.8"," ,N"
+"US1FLPK0078","2023","28.221142","-81.544237","26.8","LOUGHMAN 2.0 ESE, FL US","       140","N","        78","N","        12","N","  87.4"," ,N,0523, ","   1324.0"," ,N"
+"US1FLPK0078","2024","28.221142","-81.544237","26.8","LOUGHMAN 2.0 ESE, FL US","       140","N","        78","N","        12","N"," 120.1"," ,N,1010, ","   1120.3"," ,N"

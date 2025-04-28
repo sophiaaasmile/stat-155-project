@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00081101","1908","-36.35","146.0667",,"THOONA, AS","        78","a","        47","a","         1","a","  27.9"," ,a,0619, ","    418.7"," ,a"
+"ASN00081101","1915","-36.35","146.0667",,"THOONA, AS","        48","a","        40","a","         4","a","  38.1"," ,a,0919, ","    442.2"," ,a"
+"ASN00081101","1916","-36.35","146.0667",,"THOONA, AS","        74","a","        55","a","         4","a","  50.0"," ,a,1209, ","    680.6"," ,a"

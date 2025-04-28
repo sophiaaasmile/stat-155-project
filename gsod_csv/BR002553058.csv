@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002553058","1992","-25.75","-53.58","0.0","PONTE DO CAPANEMA, BR","        94","I","        86","I","        24","I"," 100.2"," ,I,0529, ","   1888.6"," ,I"
+"BR002553058","1993","-25.75","-53.58","0.0","PONTE DO CAPANEMA, BR","        89","I","        82","I","        20","I","  99.3"," ,I,0605, ","   1884.0"," ,I"
+"BR002553058","1994","-25.75","-53.58","0.0","PONTE DO CAPANEMA, BR","        85","I","        85","I","        31","I"," 119.3"," ,I,0620, ","   2113.6"," ,I"
+"BR002553058","1997","-25.75","-53.58","0.0","PONTE DO CAPANEMA, BR","        73","I","        71","I","        31","I"," 126.0"," ,I,0521, ","   1923.6"," ,I"

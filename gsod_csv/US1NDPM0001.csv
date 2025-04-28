@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NDPM0001","2016","48.851105","-97.77746","287.7","CAVALIER 7.9 WNW, ND US","        80","N","        55","N","         8","N","        10","N","   302"," ,N,1226, ","  78.5"," ,N,0904, ","    863.6"," ,N","      881"," ,N"
+"US1NDPM0001","2017","48.851105","-97.77746","287.7","CAVALIER 7.9 WNW, ND US","        69","N","        35","N","         2","N","         9","N","    89"," ,N,1102, ","  26.9"," ,N,0712, ","    352.9"," ,N","      640"," ,N"
+"US1NDPM0001","2018","48.851105","-97.77746","287.7","CAVALIER 7.9 WNW, ND US","        67","N","        32","N","         1","N","","","","","  36.3"," ,N,0720, ","    344.1"," ,N","",""
+"US1NDPM0001","2024","48.851105","-97.77746","287.7","CAVALIER 7.9 WNW, ND US","        68","N","        45","N","         6","N","","","","","  67.8"," ,N,0816, ","    666.7"," ,N","",""

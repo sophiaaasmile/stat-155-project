@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INFD0030","2020","38.3383","-86.0087","222.2","GREENVILLE 2.6 SSW, IN US","       148","N","        87","N","        15","N"," 122.2"," ,N,0731, ","   1373.6"," ,N"
+"US1INFD0030","2021","38.3383","-86.0087","222.2","GREENVILLE 2.6 SSW, IN US","       116","N","        82","N","        12","N","  64.3"," ,N,0711, ","   1225.4"," ,N"
+"US1INFD0030","2022","38.3383","-86.0087","222.2","GREENVILLE 2.6 SSW, IN US","       113","N","        82","N","        10","N","  51.1"," ,N,0218, ","   1100.4"," ,N"
+"US1INFD0030","2023","38.3383","-86.0087","222.2","GREENVILLE 2.6 SSW, IN US","       103","N","        76","N","        13","N","  78.0"," ,N,0626, ","   1166.2"," ,N"
+"US1INFD0030","2024","38.3383","-86.0087","222.2","GREENVILLE 2.6 SSW, IN US","       125","N","        83","N","        15","N","  74.2"," ,N,0928, ","   1413.4"," ,N"

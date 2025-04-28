@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1PAPH0008","2012","40.025","-75.18","73.5","PHILADELPHIA 2.7 WNW, PA US","","","","","","","","","    940.2"," ,N"
+"US1PAPH0008","2013","40.025","-75.18","73.5","PHILADELPHIA 2.7 WNW, PA US","","","","","","","","","   1230.0"," ,N"
+"US1PAPH0008","2014","40.025","-75.18","73.5","PHILADELPHIA 2.7 WNW, PA US","","","","","","","","","   1122.7"," ,N"
+"US1PAPH0008","2020","40.025","-75.18","73.5","PHILADELPHIA 2.7 WNW, PA US","       127","N","        75","N","        16","N","  90.2"," ,N,0711, ","   1335.8"," ,N"
+"US1PAPH0008","2021","40.025","-75.18","73.5","PHILADELPHIA 2.7 WNW, PA US","       125","N","        78","N","        11","N","  95.0"," ,N,0902, ","   1155.8"," ,N"

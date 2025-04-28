@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001657001","1973","-16.8","-57.02","0.0","SARARE, BR","       107","I","        67","I","        14","I"," 146.7"," ,I,0120, ","   1299.9"," ,I"
+"BR001657001","1978","-16.8","-57.02","0.0","SARARE, BR","        69","I","        44","I","         8","I"," 104.7"," ,I,1210, ","    883.4"," ,I"
+"BR001657001","1983","-16.8","-57.02","0.0","SARARE, BR","        58","I","        55","I","        17","I","  84.5"," ,I,0505, ","   1261.0"," ,I"

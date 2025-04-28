@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COHF0044","2018","37.68","-104.65","1781.6","WALSENBURG 7.9 ENE, CO US","        57","N","        31","N","         1","N","  33.0"," ,N,0906, ","    242.4"," ,N"
+"US1COHF0044","2020","37.68","-104.65","1781.6","WALSENBURG 7.9 ENE, CO US","        53","N","        23","N","         0","N","  20.3"," ,N,1026, ","    183.1"," ,N"
+"US1COHF0044","2021","37.68","-104.65","1781.6","WALSENBURG 7.9 ENE, CO US","        55","N","        31","N","         1","N","  58.4"," ,N,0518, ","    300.6"," ,N"
+"US1COHF0044","2022","37.68","-104.65","1781.6","WALSENBURG 7.9 ENE, CO US","        69","N","        29","N","         0","N","  18.8"," ,N,0521, ","    241.9"," ,N"
+"US1COHF0044","2023","37.68","-104.65","1781.6","WALSENBURG 7.9 ENE, CO US","        57","N","        31","N","         1","N","  25.4"," ,N,0911, ","    331.4"," ,N"

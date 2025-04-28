@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00034082","1975","-22.9547","149.4233","76.0","TARTRUS, AS","        28","a","        27","a","         6","a","  46.0"," ,a,0902, ","    483.9"," ,a"
+"ASN00034082","1976","-22.9547","149.4233","76.0","TARTRUS, AS","        43","a","        41","a","         6","a","  50.0"," ,a,1103,+","    623.1"," ,a"
+"ASN00034082","1995","-22.9547","149.4233","76.0","TARTRUS, AS","        22","a","        22","a","         8","a","  56.9"," ,a,0520, ","    471.6"," ,a"

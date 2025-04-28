@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"SWE00139366","2006","60.45","15.63","130.0","MILSBO D, SW","       157","E","        75","E","         2","E","      122","","   470"," ,E,0307,+","  66.5"," ,E,0816, ","    731.5"," ,E"
+"SWE00139366","2007","60.45","15.63","130.0","MILSBO D, SW","       147","E","        52","E","         1","E","       87","","   310"," ,E,0302,+","  38.2"," ,E,0623, ","    460.9"," ,E"

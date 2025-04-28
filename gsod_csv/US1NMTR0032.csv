@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMTR0032","2021","34.989333","-106.053068","1899.5","MORIARTY 1.0 SSW, NM US","        69","N","        26","N","         3","N","  35.1"," ,N,0703, ","    306.1"," ,N"
+"US1NMTR0032","2022","34.989333","-106.053068","1899.5","MORIARTY 1.0 SSW, NM US","        87","N","        39","N","         3","N","  31.0"," ,N,1009, ","    435.6"," ,N"
+"US1NMTR0032","2024","34.989333","-106.053068","1899.5","MORIARTY 1.0 SSW, NM US","        56","N","        27","N","         2","N","  50.0"," ,N,0630, ","    319.4"," ,N"

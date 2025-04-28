@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00023327","1959","-34.5667","138.9333",,"ROWLAND FLAT KLEEMAN, AS","        92","a","        31","a","         1","a","  33.5"," ,a,0331, ","    316.7"," ,a"
+"ASN00023327","1960","-34.5667","138.9333",,"ROWLAND FLAT KLEEMAN, AS","       127","a","        59","a","         1","a","  39.6"," ,a,0505, ","    688.7"," ,a"
+"ASN00023327","1961","-34.5667","138.9333",,"ROWLAND FLAT KLEEMAN, AS","       113","a","        52","a","         1","a","  37.8"," ,a,1117, ","    506.6"," ,a"
+"ASN00023327","1962","-34.5667","138.9333",,"ROWLAND FLAT KLEEMAN, AS","       130","a","        63","a","         2","a","  36.6"," ,a,0523, ","    596.6"," ,a"
+"ASN00023327","1963","-34.5667","138.9333",,"ROWLAND FLAT KLEEMAN, AS","       119","a","        59","a","         2","a","  29.0"," ,a,0515, ","    610.9"," ,a"

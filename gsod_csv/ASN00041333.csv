@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00041333","1961","-28.2","151.8167","493.8","RODGERS CREEK, AS","        43","a","        37","a","         5","a","  47.8"," ,a,1128, ","    537.5"," ,a"
+"ASN00041333","1962","-28.2","151.8167","493.8","RODGERS CREEK, AS","        53","a","        52","a","         4","a","  59.7"," ,a,0109, ","    739.3"," ,a"
+"ASN00041333","1963","-28.2","151.8167","493.8","RODGERS CREEK, AS","        38","a","        38","a","         8","a","  63.5"," ,a,0325, ","    562.7"," ,a"

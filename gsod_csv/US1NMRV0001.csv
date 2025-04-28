@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NMRV0001","2008","34.159758","-103.685339","1310.0","ELIDA 15.0 N, NM US","        61","N","        35","N","         4","N","         1","N","    46"," ,N,0306, ","  42.7"," ,N,1014, ","    427.3"," ,N","       92"," ,N"
+"US1NMRV0001","2009","34.159758","-103.685339","1310.0","ELIDA 15.0 N, NM US","        65","N","        32","N","         3","N","","","","","  55.6"," ,N,1021, ","    380.3"," ,N","",""
+"US1NMRV0001","2010","34.159758","-103.685339","1310.0","ELIDA 15.0 N, NM US","        62","N","        31","N","         5","N","","","","","  79.8"," ,N,0707, ","    506.0"," ,N","",""

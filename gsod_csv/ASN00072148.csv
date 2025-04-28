@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00072148","1912","-35.3167","147.75",,"TARCUTTA RYEDALE, AS","        74","a","        40","a","         1","a","  27.4"," ,a,1103, ","    418.2"," ,a"
+"ASN00072148","1914","-35.3167","147.75",,"TARCUTTA RYEDALE, AS","        61","a","        30","a","         4","a","  39.4"," ,a,0325, ","    340.9"," ,a"
+"ASN00072148","1915","-35.3167","147.75",,"TARCUTTA RYEDALE, AS","        88","a","        60","a","         4","a","  28.4"," ,a,1215, ","    587.9"," ,a"
+"ASN00072148","1916","-35.3167","147.75",,"TARCUTTA RYEDALE, AS","       109","a","        77","a","         7","a","  44.5"," ,a,0827, ","    982.8"," ,a"

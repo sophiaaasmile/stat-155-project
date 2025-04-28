@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00068176","1969","-34.25","150.6333","198.1","TAHMOOR RANFURLY, AS","       109","a","        70","a","        10","a"," 113.8"," ,a,0416, ","   1157.7"," ,a"
+"ASN00068176","1970","-34.25","150.6333","198.1","TAHMOOR RANFURLY, AS","       108","a","        59","a","         6","a","  44.2"," ,a,1209, ","    666.3"," ,a"
+"ASN00068176","1971","-34.25","150.6333","198.1","TAHMOOR RANFURLY, AS","        92","a","        54","a","         6","a","  45.2"," ,a,1208, ","    686.2"," ,a"

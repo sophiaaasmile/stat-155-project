@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00061194","1962","-32.6","150.7167",,"THE RANCH 2 MARTINDALE, AS","        78","a","        63","a","         7","a","  49.3"," ,a,0218, ","    813.4"," ,a"
+"ASN00061194","1963","-32.6","150.7167",,"THE RANCH 2 MARTINDALE, AS","       109","a","        62","a","         7","a","  79.0"," ,a,0116, ","    934.4"," ,a"
+"ASN00061194","1965","-32.6","150.7167",,"THE RANCH 2 MARTINDALE, AS","        63","a","        37","a","         5","a","  55.1"," ,a,1209, ","    471.6"," ,a"
+"ASN00061194","1966","-32.6","150.7167",,"THE RANCH 2 MARTINDALE, AS","        65","a","        45","a","         6","a","  52.3"," ,a,1229, ","    585.3"," ,a"

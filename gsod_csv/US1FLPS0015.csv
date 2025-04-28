@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1FLPS0015","2008","28.422509","-82.206011","38.1","DADE CITY 4.3 N, FL US","       109","N","        77","N","        16","N","         0","N","     0"," ,N,1231,+","  69.1"," ,N,0707, ","   1274.2"," ,N","        0"," ,N"
+"US1FLPS0015","2022","28.422509","-82.206011","38.1","DADE CITY 4.3 N, FL US","       114","N","        77","N","        19","N","","","",""," 115.3"," ,N,1111, ","   1601.3"," ,N","",""
+"US1FLPS0015","2023","28.422509","-82.206011","38.1","DADE CITY 4.3 N, FL US","       100","N","        75","N","        11","N","","","","","  82.6"," ,N,0803, ","   1150.9"," ,N","",""
+"US1FLPS0015","2024","28.422509","-82.206011","38.1","DADE CITY 4.3 N, FL US","        97","N","        60","N","        16","N","","","",""," 283.0"," ,N,1010, ","   1488.9"," ,N","",""

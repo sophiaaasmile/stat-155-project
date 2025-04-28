@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MAES0077","2022","42.76","-71.013611","34.4","GROVELAND 1.2 NE, MA US","       133","N","        78","N","         8","N","  40.6"," ,N,1014, ","    951.3"," ,N"
+"US1MAES0077","2023","42.76","-71.013611","34.4","GROVELAND 1.2 NE, MA US","       159","N","        90","N","        22","N","  88.4"," ,N,0809, ","   1723.8"," ,N"
+"US1MAES0077","2024","42.76","-71.013611","34.4","GROVELAND 1.2 NE, MA US","       136","N","        77","N","         9","N","  58.9"," ,N,0110, ","   1032.8"," ,N"

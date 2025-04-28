@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COKC0130","2015","39.214733","-102.785733","1411.2","VONA 6.5 SSW, CO US","        84","N","        58","N","         2","N","  41.4"," ,N,0612, ","    548.0"," ,N"
+"US1COKC0130","2016","39.214733","-102.785733","1411.2","VONA 6.5 SSW, CO US","        59","N","        37","N","         2","N","  84.1"," ,N,0903, ","    451.5"," ,N"
+"US1COKC0130","2017","39.214733","-102.785733","1411.2","VONA 6.5 SSW, CO US","        76","N","        47","N","         7","N","  72.6"," ,N,0325, ","    698.2"," ,N"

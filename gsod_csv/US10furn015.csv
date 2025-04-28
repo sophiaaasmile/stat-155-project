@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10furn015","2007","40.2463","-99.9516","719.9","ARAPAHOE 4.8 SW, NE US","        45","N","        44","N","         6","N","  58.4"," ,N,0708, ","    571.4"," ,N"
+"US10furn015","2008","40.2463","-99.9516","719.9","ARAPAHOE 4.8 SW, NE US","        51","N","        48","N","         7","N"," 101.6"," ,N,0524, ","    647.7"," ,N"
+"US10furn015","2018","40.2463","-99.9516","719.9","ARAPAHOE 4.8 SW, NE US","        74","N","        45","N","        13","N","  54.1"," ,N,0905,+","    803.7"," ,N"

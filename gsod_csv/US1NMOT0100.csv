@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMOT0100","2021","32.8981","-105.9195","1404.2","ALAMOGORDO 2.4 ENE, NM US","        50","N","        22","N","         0","N","  17.8"," ,N,0628, ","    232.3"," ,N"
+"US1NMOT0100","2022","32.8981","-105.9195","1404.2","ALAMOGORDO 2.4 ENE, NM US","        56","N","        29","N","         3","N","  38.1"," ,N,0821, ","    300.7"," ,N"
+"US1NMOT0100","2023","32.8981","-105.9195","1404.2","ALAMOGORDO 2.4 ENE, NM US","        53","N","        20","N","         3","N","  40.6"," ,N,0913, ","    227.9"," ,N"
+"US1NMOT0100","2024","32.8981","-105.9195","1404.2","ALAMOGORDO 2.4 ENE, NM US","        63","N","        16","N","         1","N","  25.9"," ,N,1118, ","    199.3"," ,N"

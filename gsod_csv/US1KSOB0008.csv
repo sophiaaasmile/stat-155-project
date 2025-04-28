@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSOB0008","2017","39.4500727","-98.692954","482.2","OSBORNE 0.8 NNE, KS US","        71","N","        42","N","         4","N","  41.9"," ,N,0520, ","    539.0"," ,N"
+"US1KSOB0008","2018","39.4500727","-98.692954","482.2","OSBORNE 0.8 NNE, KS US","       101","N","        58","N","        10","N","  86.6"," ,N,0902, ","    842.6"," ,N"
+"US1KSOB0008","2019","39.4500727","-98.692954","482.2","OSBORNE 0.8 NNE, KS US","        82","N","        54","N","         9","N","  71.9"," ,N,0825, ","    735.4"," ,N"

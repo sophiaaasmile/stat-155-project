@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INRN0006","2016","40.1623","-85.0162","336.8","KC9FXU WINCHESTER 2.2 WSW, IN US","       108","N","        67","N","         6","N","  48.5"," ,N,0730, ","    855.9"," ,N"
+"US1INRN0006","2021","40.1623","-85.0162","336.8","KC9FXU WINCHESTER 2.2 WSW, IN US","       129","N","        80","N","        12","N","  69.9"," ,N,1025, ","   1139.5"," ,N"
+"US1INRN0006","2022","40.1623","-85.0162","336.8","KC9FXU WINCHESTER 2.2 WSW, IN US","       128","N","        71","N","         6","N","  67.8"," ,N,0718, ","    928.8"," ,N"
+"US1INRN0006","2023","40.1623","-85.0162","336.8","KC9FXU WINCHESTER 2.2 WSW, IN US","       134","N","        77","N","         6","N","  75.2"," ,N,0702, ","   1002.1"," ,N"
+"US1INRN0006","2024","40.1623","-85.0162","336.8","KC9FXU WINCHESTER 2.2 WSW, IN US","       133","N","        82","N","         4","N","  40.1"," ,N,0402, ","    927.8"," ,N"

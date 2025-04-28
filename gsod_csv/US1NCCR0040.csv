@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCCR0040","2012","34.7360866","-76.7831385","5.8","MOREHEAD CITY 3.0 WNW, NC US","       139","N","        89","N","        10","N","  71.1"," ,N,0531, ","   1097.6"," ,N"
+"US1NCCR0040","2013","34.7360866","-76.7831385","5.8","MOREHEAD CITY 3.0 WNW, NC US","       145","N","        80","N","        10","N"," 109.7"," ,N,0208, ","   1221.8"," ,N"
+"US1NCCR0040","2015","34.7360866","-76.7831385","5.8","MOREHEAD CITY 3.0 WNW, NC US","       140","N","        89","N","        21","N"," 163.8"," ,N,1120, ","   1760.2"," ,N"
+"US1NCCR0040","2016","34.7360866","-76.7831385","5.8","MOREHEAD CITY 3.0 WNW, NC US","       120","N","        84","N","        16","N"," 127.0"," ,N,0903, ","   1503.7"," ,N"
+"US1NCCR0040","2017","34.7360866","-76.7831385","5.8","MOREHEAD CITY 3.0 WNW, NC US","       130","N","        79","N","        12","N","  99.1"," ,N,0123, ","   1230.6"," ,N"

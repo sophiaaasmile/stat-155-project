@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INEL0078","2022","41.62222","-85.87111","251.5","GOSHEN 3.5 NNW, IN US","       150","N","        86","N","         9","N","  66.3"," ,N,0706, ","   1016.7"," ,N"
+"US1INEL0078","2023","41.62222","-85.87111","251.5","GOSHEN 3.5 NNW, IN US","       157","N","        80","N","         8","N","  75.9"," ,N,0729, ","    980.8"," ,N"
+"US1INEL0078","2024","41.62222","-85.87111","251.5","GOSHEN 3.5 NNW, IN US","       167","N","        85","N","         6","N"," 120.7"," ,N,0710, ","   1098.1"," ,N"

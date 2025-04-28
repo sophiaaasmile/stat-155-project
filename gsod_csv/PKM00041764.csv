@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"PKM00041764","2007","25.383","68.417","41.0","HYDERABAD AIRPORT, PK","","","","","","","         0","S","       337","S","       244","S","","","   45.5","S,0510, ","","","     34.31","S"
+"PKM00041764","2009","25.383","68.417","41.0","HYDERABAD AIRPORT, PK","","","","","","","         0","S","       342","S","       243","S","","","   46.5","S,0612, ","","","     34.44","S"
+"PKM00041764","2010","25.383","68.417","41.0","HYDERABAD AIRPORT, PK","","","","","","","         0","S","       339","S","       237","S","","","   47.5","S,0520, ","","","     34.80","S"
+"PKM00041764","2012","25.383","68.417","41.0","HYDERABAD AIRPORT, PK","        12","S","         7","S","         1","S","         0","S","       329","S","       228","S","  52.3"," ,S,0909, ","   46.5","S,0531, ","     93.2"," ,S","     33.99","S"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00015149","1972","-19.4333","134.0667","359.0","GECKO MINE, AS","        33","a","        25","a","         4","a","  55.9"," ,a,1211,+","    380.6"," ,a"
+"ASN00015149","1973","-19.4333","134.0667","359.0","GECKO MINE, AS","        47","a","        30","a","         9","a","  63.5"," ,a,0613, ","    503.8"," ,a"
+"ASN00015149","1974","-19.4333","134.0667","359.0","GECKO MINE, AS","        41","a","        37","a","        11","a","  89.0"," ,a,0216, ","    718.2"," ,a"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00014922","1931","-13.7","130.6","68.0","MOUNT LITCHFIELD, AS","        96","a","        78","a","        21","a","  87.4"," ,a,0119, ","   1633.7"," ,a"
+"ASN00014922","1932","-13.7","130.6","68.0","MOUNT LITCHFIELD, AS","        89","a","        73","a","        16","a","  91.9"," ,a,0201, ","   1367.5"," ,a"
+"ASN00014922","1933","-13.7","130.6","68.0","MOUNT LITCHFIELD, AS","        79","a","        64","a","        10","a","  61.7"," ,a,1230, ","    983.7"," ,a"
+"ASN00014922","1934","-13.7","130.6","68.0","MOUNT LITCHFIELD, AS","        99","a","        83","a","        17","a"," 105.4"," ,a,0130, ","   1482.4"," ,a"
+"ASN00014922","1935","-13.7","130.6","68.0","MOUNT LITCHFIELD, AS","        81","a","        65","a","        19","a"," 112.5"," ,a,0309, ","   1223.5"," ,a"

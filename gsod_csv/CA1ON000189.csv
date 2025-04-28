@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1ON000189","2021","43.680699","-80.37018","410.6","ELORA 4.6 E, ON CA","       154","N","        71","N","         6","N","  43.2"," ,N,0923, ","    770.2"," ,N"
+"CA1ON000189","2022","43.680699","-80.37018","410.6","ELORA 4.6 E, ON CA","       138","N","        66","N","         1","N","  34.5"," ,N,0217, ","    611.9"," ,N"
+"CA1ON000189","2023","43.680699","-80.37018","410.6","ELORA 4.6 E, ON CA","       131","N","        77","N","         7","N","  36.1"," ,N,0713, ","    867.1"," ,N"

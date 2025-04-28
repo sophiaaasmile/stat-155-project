@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001164903","1966","50.7167","-119.0333","354.0","MARA LAKE, BC CA","       139","C","        91","C","         2","C","        30","C","   203"," ,C,0122, ","  30.2"," ,C,0724, ","    657.9"," ,C","     1978"," ,C"
+"CA001164903","1967","50.7167","-119.0333","354.0","MARA LAKE, BC CA","       112","C","        67","C","         0","C","        19","C","   226"," ,C,1221, ","  22.6"," ,C,1221, ","    536.2"," ,C","     1933"," ,C"
+"CA001164903","1968","50.7167","-119.0333","354.0","MARA LAKE, BC CA","       145","C","        86","C","         0","C","        20","C","   137"," ,C,1231, ","  21.1"," ,C,0825, ","    612.3"," ,C","     1595"," ,C"

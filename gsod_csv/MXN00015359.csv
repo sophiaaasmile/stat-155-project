@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00015359","1983","18.7333","-99.8667","1607.8","POTZONTEPEC, MX","       106","m","        76","m","        11","m","  71.9"," ,m,0713, ","   1149.8"," ,m"
+"MXN00015359","1986","18.7333","-99.8667","1607.8","POTZONTEPEC, MX","       100","m","        86","m","         2","m","  40.4"," ,m,0711, ","    743.7"," ,m"

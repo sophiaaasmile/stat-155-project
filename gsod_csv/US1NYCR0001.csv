@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYCR0001","2022","42.53299","-76.021115","476.7","FREETOWN 1.0 NE, NY US","       165","N","        82","N","         9","N","  52.1"," ,N,1112, ","   1023.3"," ,N"
+"US1NYCR0001","2023","42.53299","-76.021115","476.7","FREETOWN 1.0 NE, NY US","       184","N","        99","N","         7","N","  58.7"," ,N,0501, ","   1174.4"," ,N"
+"US1NYCR0001","2024","42.53299","-76.021115","476.7","FREETOWN 1.0 NE, NY US","       182","N","       102","N","         9","N","  40.9"," ,N,0630, ","   1072.0"," ,N"

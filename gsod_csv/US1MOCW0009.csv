@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MOCW0009","2016","38.7321","-92.1843","181.4","NEW BLOOMFIELD 5.2 W, MO US","       117","N","        57","N","        11","N","  84.6"," ,N,0703, ","   1151.2"," ,N"
+"US1MOCW0009","2021","38.7321","-92.1843","181.4","NEW BLOOMFIELD 5.2 W, MO US","       131","N","        73","N","        17","N","  82.0"," ,N,0626, ","   1363.2"," ,N"
+"US1MOCW0009","2023","38.7321","-92.1843","181.4","NEW BLOOMFIELD 5.2 W, MO US","       108","N","        65","N","         8","N","  72.9"," ,N,0803, ","    904.5"," ,N"
+"US1MOCW0009","2024","38.7321","-92.1843","181.4","NEW BLOOMFIELD 5.2 W, MO US","       117","N","        69","N","        16","N","  71.4"," ,N,0703, ","   1182.5"," ,N"

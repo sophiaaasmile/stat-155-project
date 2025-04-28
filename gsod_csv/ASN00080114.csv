@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00080114","1886","-36.15","145.4833",,"WUNGHNU, AS","        69","a","        49","a","         3","a","  33.0"," ,a,0107, ","    465.4"," ,a"
+"ASN00080114","1887","-36.15","145.4833",,"WUNGHNU, AS","        82","a","        62","a","         5","a","  63.5"," ,a,1104, ","    725.6"," ,a"
+"ASN00080114","1888","-36.15","145.4833",,"WUNGHNU, AS","        43","a","        32","a","         1","a","  30.0"," ,a,1229, ","    291.8"," ,a"

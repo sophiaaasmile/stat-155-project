@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMSR0017","2013","33.22031667","-107.0435","1462.1","TRUTH OR CONSEQUENCES 13.2 ENE, NM US","","","","","","","","","    208.5"," ,N"
+"US1NMSR0017","2014","33.22031667","-107.0435","1462.1","TRUTH OR CONSEQUENCES 13.2 ENE, NM US","        43","N","        22","N","         0","N","  16.0"," ,N,0922, ","    202.5"," ,N"
+"US1NMSR0017","2015","33.22031667","-107.0435","1462.1","TRUTH OR CONSEQUENCES 13.2 ENE, NM US","        55","N","        33","N","         2","N","  44.2"," ,N,0609, ","    297.9"," ,N"
+"US1NMSR0017","2016","33.22031667","-107.0435","1462.1","TRUTH OR CONSEQUENCES 13.2 ENE, NM US","        40","N","        24","N","         2","N","  39.9"," ,N,0813, ","    244.2"," ,N"
+"US1NMSR0017","2017","33.22031667","-107.0435","1462.1","TRUTH OR CONSEQUENCES 13.2 ENE, NM US","        34","N","        21","N","         1","N","  35.6"," ,N,0114, ","    254.6"," ,N"
+"US1NMSR0017","2018","33.22031667","-107.0435","1462.1","TRUTH OR CONSEQUENCES 13.2 ENE, NM US","        35","N","        17","N","         1","N","  30.5"," ,N,1024, ","    187.2"," ,N"
+"US1NMSR0017","2019","33.22031667","-107.0435","1462.1","TRUTH OR CONSEQUENCES 13.2 ENE, NM US","        29","N","        16","N","         0","N","  20.6"," ,N,0806, ","    195.4"," ,N"

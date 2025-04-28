@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCWS0003","2020","35.8983068","-76.582247","3.0","ROPER 2.4 NE, NC US","       123","N","        84","N","        18","N"," 109.2"," ,N,0207, ","   1406.8"," ,N"
+"US1NCWS0003","2021","35.8983068","-76.582247","3.0","ROPER 2.4 NE, NC US","       100","N","        80","N","        16","N"," 130.8"," ,N,0530, ","   1429.3"," ,N"
+"US1NCWS0003","2024","35.8983068","-76.582247","3.0","ROPER 2.4 NE, NC US","        91","N","        68","N","        18","N","  99.3"," ,N,0708, ","   1298.2"," ,N"

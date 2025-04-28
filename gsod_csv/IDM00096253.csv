@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"IDM00096253","2008","-3.864","102.339","15.2","FATMAWATI SOEKARNO, ID","","","","","         0","S","       326","S","        23","S","","","   33.2","S,0206,+","     30.77","S","",""
+"IDM00096253","2010","-3.864","102.339","15.2","FATMAWATI SOEKARNO, ID","","","","","         0","S","       341","S","        64","S","","","   35.0","S,0501, ","     31.21","S","",""
+"IDM00096253","2020","-3.864","102.339","15.2","FATMAWATI SOEKARNO, ID","         0","S","         0","S","","","","","","","   19.9","S,0801, ","","","","","     22.70","S"
+"IDM00096253","2022","-3.864","102.339","15.2","FATMAWATI SOEKARNO, ID","","","","","         0","S","       344","S","       111","S","","","   34.6","S,0723, ","     31.43","S","",""
+"IDM00096253","2023","-3.864","102.339","15.2","FATMAWATI SOEKARNO, ID","","","","","         0","S","       341","S","       141","S","","","   35.5","S,0511, ","     31.85","S","",""

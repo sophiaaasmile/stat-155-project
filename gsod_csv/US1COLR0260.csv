@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COLR0260","2010","40.5707","-105.1121","1545.9","FCL 1.5 WSW, CO US","        77","N","        36","N","         4","N","  43.4"," ,N,0324, ","    405.7"," ,N"
+"US1COLR0260","2011","40.5707","-105.1121","1545.9","FCL 1.5 WSW, CO US","        81","N","        44","N","         4","N","  44.7"," ,N,0609, ","    508.3"," ,N"
+"US1COLR0260","2018","40.5707","-105.1121","1545.9","FCL 1.5 WSW, CO US","        81","N","        31","N","         2","N","  71.9"," ,N,0523, ","    380.8"," ,N"

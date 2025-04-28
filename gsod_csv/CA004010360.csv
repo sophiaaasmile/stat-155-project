@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004010360","1956","51.0","-105.6667","576.0","AYLESBURY CDA EPF, SK CA","        49","C","        43","C","         1","C","        22","C","   203"," ,C,0327, ","  36.1"," ,C,0828, ","    403.7"," ,C","     1573"," ,C"
+"CA004010360","1957","51.0","-105.6667","576.0","AYLESBURY CDA EPF, SK CA","        40","C","        30","C","         1","C","         9","C","   229"," ,C,1222, ","  25.4"," ,C,0831, ","    279.0"," ,C","      800"," ,C"
+"CA004010360","1959","51.0","-105.6667","576.0","AYLESBURY CDA EPF, SK CA","","","","","","","        17","C","   127"," ,C,1225, ","","","    353.4"," ,C","      850"," ,C"
+"CA004010360","1960","51.0","-105.6667","576.0","AYLESBURY CDA EPF, SK CA","        28","C","        19","C","         2","C","        13","C","   254"," ,C,0112, ","  38.6"," ,C,0616, ","    245.7"," ,C","      761"," ,C"

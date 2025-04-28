@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CTHR0057","2020","42.027433","-72.63149","45.1","SUFFIELD DEPOT 3.3 NNE, CT US","       132","N","        73","N","        10","N","         5","N","   224"," ,N,1217, ","  52.1"," ,N,1017, ","   1021.2"," ,N","      488"," ,N"
+"US1CTHR0057","2021","42.027433","-72.63149","45.1","SUFFIELD DEPOT 3.3 NNE, CT US","       138","N","        89","N","        18","N","         9","N","   229"," ,N,0202, "," 139.2"," ,N,0902, ","   1578.0"," ,N","      705"," ,N"
+"US1CTHR0057","2022","42.027433","-72.63149","45.1","SUFFIELD DEPOT 3.3 NNE, CT US","       136","N","        89","N","         9","N","         8","N","   122"," ,N,1212, ","  66.0"," ,N,0906, ","   1173.0"," ,N","      657"," ,N"
+"US1CTHR0057","2023","42.027433","-72.63149","45.1","SUFFIELD DEPOT 3.3 NNE, CT US","","","","","","","","","","","","","   1671.1"," ,N","",""
+"US1CTHR0057","2024","42.027433","-72.63149","45.1","SUFFIELD DEPOT 3.3 NNE, CT US","       133","N","        84","N","         8","N","         7","N","   173"," ,N,0107, ","  83.3"," ,N,0110, ","   1208.8"," ,N","      543"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006158763","1974","43.65","-79.5833","145.0","TOR OLD BURNHAMTHORPE, ON CA","       128","C","        68","C","         4","C","         9","C","   132"," ,C,0108, ","  58.7"," ,C,0516, ","    738.2"," ,C","      555"," ,C"
+"CA006158763","1975","43.65","-79.5833","145.0","TOR OLD BURNHAMTHORPE, ON CA","       129","C","        88","C","         3","C","        19","C","   152"," ,C,1219, ","  69.3"," ,C,0823, ","    857.9"," ,C","     1255"," ,C"
+"CA006158763","1977","43.65","-79.5833","145.0","TOR OLD BURNHAMTHORPE, ON CA","       133","C","        82","C","        11","C","        20","C","   279"," ,C,0109, ","  46.7"," ,C,0924, ","   1020.9"," ,C","     1540"," ,C"
+"CA006158763","1979","43.65","-79.5833","145.0","TOR OLD BURNHAMTHORPE, ON CA","       129","C","        78","C","         2","C","        17","C","   140"," ,C,0408, ","  28.0"," ,C,0913,+","    868.4"," ,C","     1118"," ,C"

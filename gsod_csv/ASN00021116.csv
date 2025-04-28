@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00021116","1973","-33.2069","137.9969","10.0","PORT PIRIE HURST STREET, AS","        81","a","        54","a","         4","a","  78.0"," ,a,0206, ","    600.1"," ,a"
+"ASN00021116","1974","-33.2069","137.9969","10.0","PORT PIRIE HURST STREET, AS","        91","a","        54","a","         5","a","  42.0"," ,a,0130, ","    646.0"," ,a"
+"ASN00021116","1975","-33.2069","137.9969","10.0","PORT PIRIE HURST STREET, AS","        71","a","        31","a","         3","a","  40.0"," ,a,0916, ","    393.3"," ,a"

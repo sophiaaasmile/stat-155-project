@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"SWE00137622","1970","56.0","12.98","90.0","SKROMBERGA, SW","       168","E","       105","E","         0","E","      107","","   420"," ,E,0307, ","  24.6"," ,E,0715, ","    868.3"," ,E"
+"SWE00137622","1971","56.0","12.98","90.0","SKROMBERGA, SW","       135","E","        82","E","         0","E","","","","","  22.8"," ,E,0725, ","    689.8"," ,E"
+"SWE00137622","1972","56.0","12.98","90.0","SKROMBERGA, SW","       111","E","        69","E","         2","E","","","","","  37.0"," ,E,0811, ","    614.1"," ,E"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00005047","1907","-22.25","119.1",,"KERDIADARY, AS","        20","a","        19","a","         2","a","  46.0"," ,a,0315, ","    279.0"," ,a"
+"ASN00005047","1908","-22.25","119.1",,"KERDIADARY, AS","        27","a","        21","a","         3","a","  82.6"," ,a,0220, ","    317.4"," ,a"
+"ASN00005047","1909","-22.25","119.1",,"KERDIADARY, AS","        17","a","        15","a","         4","a"," 108.0"," ,a,0615, ","    298.9"," ,a"

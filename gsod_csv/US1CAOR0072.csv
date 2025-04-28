@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CAOR0072","2019","33.873","-117.7995","96.3","YORBA LINDA 2.2 WSW, CA US","        53","N","        35","N","         6","N","  44.5"," ,N,0215, ","    546.5"," ,N"
+"US1CAOR0072","2021","33.873","-117.7995","96.3","YORBA LINDA 2.2 WSW, CA US","        29","N","        18","N","         3","N","  39.6"," ,N,1224, ","    237.1"," ,N"
+"US1CAOR0072","2022","33.873","-117.7995","96.3","YORBA LINDA 2.2 WSW, CA US","        25","N","        11","N","         2","N","  38.9"," ,N,1109, ","    169.3"," ,N"
+"US1CAOR0072","2023","33.873","-117.7995","96.3","YORBA LINDA 2.2 WSW, CA US","        53","N","        34","N","         7","N","  50.8"," ,N,0225, ","    622.0"," ,N"
+"US1CAOR0072","2024","33.873","-117.7995","96.3","YORBA LINDA 2.2 WSW, CA US","        40","N","        23","N","         6","N","  47.0"," ,N,0205, ","    418.6"," ,N"

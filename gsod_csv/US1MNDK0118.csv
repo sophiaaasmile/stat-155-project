@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNDK0118","2021","44.72057","-92.85418","243.8","HASTINGS 0.7 S, MN US","        53","N","        38","N","         5","N","  46.0"," ,N,0521, ","    525.4"," ,N"
+"US1MNDK0118","2023","44.72057","-92.85418","243.8","HASTINGS 0.7 S, MN US","        98","N","        62","N","         9","N","  62.0"," ,N,1025, ","    890.9"," ,N"
+"US1MNDK0118","2024","44.72057","-92.85418","243.8","HASTINGS 0.7 S, MN US","       102","N","        64","N","         9","N","  55.1"," ,N,0522, ","    954.0"," ,N"

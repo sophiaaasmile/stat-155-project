@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010737","1908","-32.7","117.4",,"GILLIMINNING, AS","        59","a","        34","a","         1","a","  39.6"," ,a,0519, ","    332.4"," ,a"
+"ASN00010737","1909","-32.7","117.4",,"GILLIMINNING, AS","        73","a","        45","a","         4","a","  36.3"," ,a,0808, ","    442.8"," ,a"
+"ASN00010737","1914","-32.7","117.4",,"GILLIMINNING, AS","        45","a","        19","a","         0","a","  19.3"," ,a,1111, ","    203.6"," ,a"
+"ASN00010737","1915","-32.7","117.4",,"GILLIMINNING, AS","        85","a","        57","a","         5","a","  53.1"," ,a,0201, ","    692.6"," ,a"
+"ASN00010737","1916","-32.7","117.4",,"GILLIMINNING, AS","        42","a","        36","a","         3","a","  33.0"," ,a,0821, ","    478.3"," ,a"

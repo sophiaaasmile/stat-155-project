@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CTNL0040","2020","41.3503","-71.8453","14.9","PAWCATUCK 1.8 SSE, CT US","       141","N","        90","N","         9","N","         2","N","   145"," ,N,1217, ","  52.1"," ,N,1206, ","   1102.5"," ,N","      209"," ,N"
+"US1CTNL0040","2021","41.3503","-71.8453","14.9","PAWCATUCK 1.8 SSE, CT US","       120","N","        69","N","        13","N","         6","N","   178"," ,N,0202, "," 105.9"," ,N,09  ,2","   1149.9"," ,N","      637"," ,N"
+"US1CTNL0040","2024","41.3503","-71.8453","14.9","PAWCATUCK 1.8 SSE, CT US","","","","","","","","","","","","","   1547.6"," ,N","",""

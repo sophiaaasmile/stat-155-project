@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00059099","1970","-30.3433","152.71","725.0","DORRIGO POLICE STATION, AS","       150","a","        99","a","        15","a"," 114.6"," ,a,0112, ","   1422.2"," ,a"
+"ASN00059099","1972","-30.3433","152.71","725.0","DORRIGO POLICE STATION, AS","       156","a","       105","a","        24","a"," 125.0"," ,a,1017, ","   1856.3"," ,a"
+"ASN00059099","1975","-30.3433","152.71","725.0","DORRIGO POLICE STATION, AS","       107","a","        74","a","        12","a"," 109.6"," ,a,0302, ","   1236.0"," ,a"

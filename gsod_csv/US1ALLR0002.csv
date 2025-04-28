@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALLR0002","2008","34.5382","-87.2378","213.1","HILLSBORO 7.4 SSW, AL US","       105","N","        85","N","        12","N"," 161.3"," ,N,0528, ","   1541.2"," ,N"
+"US1ALLR0002","2009","34.5382","-87.2378","213.1","HILLSBORO 7.4 SSW, AL US","       127","N","        96","N","        18","N","  63.5"," ,N,1031, ","   1733.5"," ,N"
+"US1ALLR0002","2010","34.5382","-87.2378","213.1","HILLSBORO 7.4 SSW, AL US","        93","N","        76","N","        15","N","  78.7"," ,N,1025, ","   1245.6"," ,N"

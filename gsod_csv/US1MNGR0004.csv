@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNGR0004","2021","45.78456","-95.780407","370.3","KENSINGTON 4.1 W, MN US","        95","N","        50","N","         6","N","  89.7"," ,N,0829, ","    755.1"," ,N"
+"US1MNGR0004","2022","45.78456","-95.780407","370.3","KENSINGTON 4.1 W, MN US","       111","N","        50","N","         3","N","  39.1"," ,N,0625, ","    556.9"," ,N"
+"US1MNGR0004","2023","45.78456","-95.780407","370.3","KENSINGTON 4.1 W, MN US","        98","N","        60","N","         4","N","  91.4"," ,N,0726, ","    705.5"," ,N"
+"US1MNGR0004","2024","45.78456","-95.780407","370.3","KENSINGTON 4.1 W, MN US","        89","N","        50","N","         9","N","  43.9"," ,N,0806, ","    723.3"," ,N"

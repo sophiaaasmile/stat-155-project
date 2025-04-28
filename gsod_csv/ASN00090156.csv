@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00090156","1889","-38.0833","141.4667",,"MOUNY VANDYKE LYONS, AS","       146","a","       101","a","         8","a","  78.2"," ,a,1116, ","   1146.3"," ,a"
+"ASN00090156","1890","-38.0833","141.4667",,"MOUNY VANDYKE LYONS, AS","       155","a","        96","a","         8","a","  44.5"," ,a,0622, ","   1072.0"," ,a"
+"ASN00090156","1892","-38.0833","141.4667",,"MOUNY VANDYKE LYONS, AS","       114","a","        95","a","         3","a","  35.1"," ,a,0706, ","   1080.4"," ,a"

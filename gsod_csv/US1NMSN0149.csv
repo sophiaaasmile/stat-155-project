@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMSN0149","2022","35.3269","-106.438475","1727.9","PLACITAS 1.6 ENE, NM US","        66","N","        34","N","         0","N","  17.0"," ,N,1006, ","    287.9"," ,N"
+"US1NMSN0149","2023","35.3269","-106.438475","1727.9","PLACITAS 1.6 ENE, NM US","        75","N","        30","N","         0","N","  13.0"," ,N,1215, ","    220.0"," ,N"
+"US1NMSN0149","2024","35.3269","-106.438475","1727.9","PLACITAS 1.6 ENE, NM US","        58","N","        31","N","         1","N","  32.8"," ,N,0630, ","    285.3"," ,N"

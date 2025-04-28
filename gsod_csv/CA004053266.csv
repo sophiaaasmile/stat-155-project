@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004053266","1983","53.2333","-106.15","488.0","HOLBEIN, SK CA","        75","C","        49","C","         6","C","        15","C","   172"," ,C,0131, ","  40.7"," ,C,0909, ","    546.6"," ,C","     1249"," ,C"
+"CA004053266","1984","53.2333","-106.15","488.0","HOLBEIN, SK CA","        82","C","        57","C","         4","C","        21","C","   120"," ,C,1014, ","  41.0"," ,C,0606, ","    460.1"," ,C","     1253"," ,C"
+"CA004053266","1985","53.2333","-106.15","488.0","HOLBEIN, SK CA","        74","C","        42","C","         1","C","        14","C","   210"," ,C,0323, ","  56.2"," ,C,0419, ","    407.9"," ,C","     1301"," ,C"

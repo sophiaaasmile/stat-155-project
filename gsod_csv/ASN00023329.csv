@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00023329","1959","-34.7","139.0667",,"SPRINGTON HERBIGS, AS","        83","a","        45","a","         1","a","  27.4"," ,a,0812, ","    365.2"," ,a"
+"ASN00023329","1960","-34.7","139.0667",,"SPRINGTON HERBIGS, AS","       118","a","        68","a","         5","a","  51.3"," ,a,0505, ","    757.6"," ,a"
+"ASN00023329","1961","-34.7","139.0667",,"SPRINGTON HERBIGS, AS","        90","a","        48","a","         3","a","  36.1"," ,a,0413, ","    485.5"," ,a"
+"ASN00023329","1962","-34.7","139.0667",,"SPRINGTON HERBIGS, AS","       103","a","        65","a","         4","a","  44.7"," ,a,0523, ","    685.9"," ,a"
+"ASN00023329","1963","-34.7","139.0667",,"SPRINGTON HERBIGS, AS","       119","a","        73","a","         6","a","  47.2"," ,a,0602, ","    810.8"," ,a"

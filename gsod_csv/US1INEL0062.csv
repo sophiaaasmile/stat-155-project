@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INEL0062","2021","41.7001","-85.9032","232.0","ELKHART 3.5 ENE, IN US","       139","N","        83","N","         9","N","  71.1"," ,N,1025, ","   1119.4"," ,N"
+"US1INEL0062","2022","41.7001","-85.9032","232.0","ELKHART 3.5 ENE, IN US","       124","N","        77","N","         5","N","  52.8"," ,N,0722, ","    921.4"," ,N"
+"US1INEL0062","2023","41.7001","-85.9032","232.0","ELKHART 3.5 ENE, IN US","       136","N","        79","N","        11","N","  63.5"," ,N,0727, ","   1021.1"," ,N"

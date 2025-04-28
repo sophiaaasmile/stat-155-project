@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002950059","1992","-29.82","-50.74","0.0","AGROPECUARIA ANJU, BR","       103","I","        72","I","        10","I","  65.0"," ,I,0125, ","    973.0"," ,I"
+"BR002950059","1995","-29.82","-50.74","0.0","AGROPECUARIA ANJU, BR","","","","","","","","","   1514.0"," ,I"
+"BR002950059","1996","-29.82","-50.74","0.0","AGROPECUARIA ANJU, BR","        77","I","        70","I","        18","I","  69.4"," ,I,0118, ","   1429.1"," ,I"
+"BR002950059","1999","-29.82","-50.74","0.0","AGROPECUARIA ANJU, BR","       101","I","        78","I","        15","I","  94.3"," ,I,1105, ","   1351.6"," ,I"

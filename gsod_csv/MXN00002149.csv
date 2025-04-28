@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00002149","1983","30.3667","-114.8","19.8","PUERTECITOS, MX","         1","m","         1","m","         0","m","  22.9"," ,m,1130, ","     22.9"," ,m"
+"MXN00002149","1984","30.3667","-114.8","19.8","PUERTECITOS, MX","        19","m","        15","m","         1","m","  26.9"," ,m,0818, ","    158.8"," ,m"
+"MXN00002149","1985","30.3667","-114.8","19.8","PUERTECITOS, MX","         1","m","         1","m","         0","m","   4.8"," ,m,0107, ","      4.8"," ,m"
+"MXN00002149","1986","30.3667","-114.8","19.8","PUERTECITOS, MX","         1","m","         1","m","         0","m","   2.8"," ,m,0208, ","      2.8"," ,m"

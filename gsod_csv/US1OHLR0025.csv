@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1OHLR0025","2022","41.4155","-81.9844","214.6","NORTH RIDGEVILLE 2.5 NE, OH US","       155","N","        88","N","         8","N","        14","N","   221"," ,N,0117, ","  38.6"," ,N,0809, ","   1041.5"," ,N","     1337"," ,N"
+"US1OHLR0025","2023","41.4155","-81.9844","214.6","NORTH RIDGEVILLE 2.5 NE, OH US","       154","N","        85","N","         9","N","         6","N","   109"," ,N,0123, ","  97.5"," ,N,0824, ","   1206.9"," ,N","      468"," ,N"
+"US1OHLR0025","2024","41.4155","-81.9844","214.6","NORTH RIDGEVILLE 2.5 NE, OH US","       158","N","        99","N","         2","N","        10","N","   140"," ,N,0120, ","  26.9"," ,N,1229, ","    857.0"," ,N","      649"," ,N"

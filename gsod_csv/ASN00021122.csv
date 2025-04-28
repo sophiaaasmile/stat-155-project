@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00021122","1915","-33.6558","139.0553","365.0","BURRA BALDINA STATION, AS","        49","a","        25","a","         2","a","  39.4"," ,a,0810, ","    284.7"," ,a"
+"ASN00021122","1916","-33.6558","139.0553","365.0","BURRA BALDINA STATION, AS","        53","a","        37","a","         5","a","  54.6"," ,a,0717, ","    405.7"," ,a"
+"ASN00021122","1917","-33.6558","139.0553","365.0","BURRA BALDINA STATION, AS","        60","a","        42","a","         0","a","  25.1"," ,a,1211, ","    366.1"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALJF0076","2022","33.750092","-86.733283","169.8","MORRIS 4.1 E, AL US","       119","N","        83","N","        18","N"," 140.5"," ,N,1130, ","   1643.7"," ,N"
+"US1ALJF0076","2023","33.750092","-86.733283","169.8","MORRIS 4.1 E, AL US","       137","N","        91","N","        20","N","  55.9"," ,N,0810, ","   1355.4"," ,N"
+"US1ALJF0076","2024","33.750092","-86.733283","169.8","MORRIS 4.1 E, AL US","       121","N","        79","N","        17","N","  96.5"," ,N,0302, ","   1438.7"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MIKN0016","2018","42.9697","-85.6075","233.8","GRAND RAPIDS 2.5 ENE, MI US","       161","N","        78","N","        10","N","  71.4"," ,N,0827, ","   1098.4"," ,N"
+"US1MIKN0016","2019","42.9697","-85.6075","233.8","GRAND RAPIDS 2.5 ENE, MI US","       166","N","        96","N","        10","N","  62.2"," ,N,1002, ","   1275.1"," ,N"
+"US1MIKN0016","2020","42.9697","-85.6075","233.8","GRAND RAPIDS 2.5 ENE, MI US","       134","N","        67","N","         6","N","  57.4"," ,N,0518, ","    907.1"," ,N"
+"US1MIKN0016","2021","42.9697","-85.6075","233.8","GRAND RAPIDS 2.5 ENE, MI US","       149","N","        80","N","         8","N","  68.8"," ,N,0626, ","    971.0"," ,N"

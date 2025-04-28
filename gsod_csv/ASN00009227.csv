@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009227","1973","-31.8833","116.15",,"PARKVILLE, AS","       126","a","        88","a","        10","a","  48.5"," ,a,0718, ","   1217.6"," ,a"
+"ASN00009227","1976","-31.8833","116.15",,"PARKVILLE, AS","        78","a","        58","a","         7","a","  44.0"," ,a,0815, ","    803.1"," ,a"
+"ASN00009227","1978","-31.8833","116.15",,"PARKVILLE, AS","        90","a","        61","a","         9","a","  52.0"," ,a,0715, ","    901.7"," ,a"

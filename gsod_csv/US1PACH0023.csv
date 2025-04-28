@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1PACH0023","2013","39.8205","-75.8782","161.2","WEST GROVE 2.6 W, PA US","       116","N","        69","N","        18","N","  80.0"," ,N,0713, ","   1298.5"," ,N"
+"US1PACH0023","2015","39.8205","-75.8782","161.2","WEST GROVE 2.6 W, PA US","       118","N","        74","N","        11","N","  49.0"," ,N,1029, ","   1211.8"," ,N"
+"US1PACH0023","2016","39.8205","-75.8782","161.2","WEST GROVE 2.6 W, PA US","       119","N","        75","N","        10","N","  69.1"," ,N,0930, ","   1010.6"," ,N"
+"US1PACH0023","2017","39.8205","-75.8782","161.2","WEST GROVE 2.6 W, PA US","","","","","","","","","   1053.6"," ,N"

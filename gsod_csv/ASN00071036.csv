@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00071036","1971","-36.6333","148.5","793.0","INGEBYRA GREEN LAWNS, AS","        88","a","        74","a","        11","a","  66.0"," ,a,0123, ","    969.7"," ,a"
+"ASN00071036","1972","-36.6333","148.5","793.0","INGEBYRA GREEN LAWNS, AS","        58","a","        48","a","         4","a","  58.4"," ,a,0123, ","    553.3"," ,a"
+"ASN00071036","1973","-36.6333","148.5","793.0","INGEBYRA GREEN LAWNS, AS","        93","a","        79","a","         3","a","  68.8"," ,a,1105, ","    782.6"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00041281","1960","-28.45","152.0333","755.9","GLEN EDEN, AS","        65","a","        57","a","         5","a","  74.9"," ,a,0213, ","    690.2"," ,a"
+"ASN00041281","1961","-28.45","152.0333","755.9","GLEN EDEN, AS","        77","a","        51","a","         5","a","  59.2"," ,a,0219, ","    742.9"," ,a"
+"ASN00041281","1962","-28.45","152.0333","755.9","GLEN EDEN, AS","        89","a","        70","a","         8","a","  55.4"," ,a,0109, ","    939.2"," ,a"

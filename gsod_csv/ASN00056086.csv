@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00056086","1963","-31.3833","151.4833","1279.9","NIANGALA SOMERLEYTON, AS","       172","a","       110","a","        12","a","  58.9"," ,a,0104, ","   1334.7"," ,a"
+"ASN00056086","1965","-31.3833","151.4833","1279.9","NIANGALA SOMERLEYTON, AS","       100","a","        56","a","         5","a","  68.3"," ,a,1207, ","    674.6"," ,a"
+"ASN00056086","1973","-31.3833","151.4833","1279.9","NIANGALA SOMERLEYTON, AS","        99","a","        90","a","        18","a","  40.6"," ,a,0212, ","   1309.5"," ,a"

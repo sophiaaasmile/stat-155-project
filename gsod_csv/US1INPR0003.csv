@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INPR0003","2021","39.78908","-87.16966","214.0","ROCKVILLE 3.6 ENE, IN US","       134","N","        80","N","        10","N","  69.1"," ,N,0619, ","   1189.6"," ,N"
+"US1INPR0003","2022","39.78908","-87.16966","214.0","ROCKVILLE 3.6 ENE, IN US","       117","N","        70","N","         6","N","  45.5"," ,N,0830, ","    919.3"," ,N"
+"US1INPR0003","2023","39.78908","-87.16966","214.0","ROCKVILLE 3.6 ENE, IN US","       111","N","        72","N","         3","N","  59.7"," ,N,0304, ","    836.7"," ,N"
+"US1INPR0003","2024","39.78908","-87.16966","214.0","ROCKVILLE 3.6 ENE, IN US","       116","N","        77","N","        10","N","  78.7"," ,N,0402, ","    984.5"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00E4-0390","1956","-24.0","-47.9","760.0","FAZENDA JOSE GEORGE0E4 039, BR","       242","I","       150","I","        20","I","  91.7"," ,I,0428, ","   2052.2"," ,I"
+"BR00E4-0390","1961","-24.0","-47.9","760.0","FAZENDA JOSE GEORGE0E4 039, BR","       207","I","       137","I","        25","I"," 135.0"," ,I,1225, ","   2347.8"," ,I"
+"BR00E4-0390","1962","-24.0","-47.9","760.0","FAZENDA JOSE GEORGE0E4 039, BR","       208","I","       144","I","        27","I"," 108.5"," ,I,1204, ","   2462.6"," ,I"
+"BR00E4-0390","1963","-24.0","-47.9","760.0","FAZENDA JOSE GEORGE0E4 039, BR","       190","I","       121","I","        12","I","  70.3"," ,I,0117, ","   1700.1"," ,I"

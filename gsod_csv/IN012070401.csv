@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN012070401","1955","18.98","72.83","20.0","VICTORIA GARDEN OBSERVATORY, IN","       108","I","        87","I","        29","I"," 147.3"," ,I,0824, ","   2358.5"," ,I"
+"IN012070401","1956","18.98","72.83","20.0","VICTORIA GARDEN OBSERVATORY, IN","       125","I","        96","I","        29","I"," 218.2"," ,I,0926, ","   2821.9"," ,I"
+"IN012070401","1957","18.98","72.83","20.0","VICTORIA GARDEN OBSERVATORY, IN","        90","I","        68","I","        22","I"," 148.1"," ,I,0706, ","   1874.2"," ,I"
+"IN012070401","1958","18.98","72.83","20.0","VICTORIA GARDEN OBSERVATORY, IN","        91","I","        74","I","        37","I"," 218.4"," ,I,0627, ","   3227.1"," ,I"
+"IN012070401","1959","18.98","72.83","20.0","VICTORIA GARDEN OBSERVATORY, IN","       102","I","        88","I","        33","I"," 124.4"," ,I,0824, ","   2689.0"," ,I"

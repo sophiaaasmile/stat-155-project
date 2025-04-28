@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA003047670","1982","49.0833","-111.6167","899.0","WRITING ON STONE PARK, AB CA","        85","C","        50","C","         2","C","        21","C","   300"," ,C,0123, ","  37.6"," ,C,0926, ","    428.9"," ,C","     1594"," ,C"
+"CA003047670","1983","49.0833","-111.6167","899.0","WRITING ON STONE PARK, AB CA","        80","C","        43","C","         0","C","        18","C","   130"," ,C,0509,+","  23.0"," ,C,0311, ","    367.9"," ,C","     1370"," ,C"
+"CA003047670","1987","49.0833","-111.6167","899.0","WRITING ON STONE PARK, AB CA","        62","C","        31","C","         1","C","         6","C","   190"," ,C,0318, ","  31.8"," ,C,0718, ","    308.6"," ,C","      660"," ,C"

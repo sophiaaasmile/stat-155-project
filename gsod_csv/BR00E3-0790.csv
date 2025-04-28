@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00E3-0790","1941","-23.0","-46.0","0.0","REPRESA CUCA SABESP, BR","       142","I","        82","I","        12","I","  71.5"," ,I,0102, ","   1356.8"," ,I"
+"BR00E3-0790","1942","-23.0","-46.0","0.0","REPRESA CUCA SABESP, BR","       140","I","        91","I","        16","I","  76.1"," ,I,0116, ","   1429.9"," ,I"
+"BR00E3-0790","1944","-23.0","-46.0","0.0","REPRESA CUCA SABESP, BR","       114","I","        75","I","        13","I","  96.5"," ,I,0225, ","   1124.1"," ,I"
+"BR00E3-0790","1945","-23.0","-46.0","0.0","REPRESA CUCA SABESP, BR","       125","I","        88","I","        12","I"," 139.2"," ,I,0201, ","   1582.0"," ,I"
+"BR00E3-0790","1946","-23.0","-46.0","0.0","REPRESA CUCA SABESP, BR","       121","I","        87","I","        18","I","  83.5"," ,I,0203, ","   1387.9"," ,I"

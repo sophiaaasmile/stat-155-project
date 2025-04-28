@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASD0010","2009","33.1055","-117.0482","210.3","ESCONDIDO 2.5 SSE, CA US","        31","N","        15","N","         2","N","  40.4"," ,N,1208, ","    227.5"," ,N"
+"US1CASD0010","2010","33.1055","-117.0482","210.3","ESCONDIDO 2.5 SSE, CA US","        77","N","        41","N","         8","N","  84.3"," ,N,1222, ","    651.2"," ,N"
+"US1CASD0010","2012","33.1055","-117.0482","210.3","ESCONDIDO 2.5 SSE, CA US","        57","N","        25","N","         3","N","  30.0"," ,N,1214, ","    280.5"," ,N"
+"US1CASD0010","2017","33.1055","-117.0482","210.3","ESCONDIDO 2.5 SSE, CA US","        36","N","        19","N","         4","N","  81.8"," ,N,0228, ","    376.7"," ,N"
+"US1CASD0010","2020","33.1055","-117.0482","210.3","ESCONDIDO 2.5 SSE, CA US","        44","N","        26","N","         4","N","  61.0"," ,N,0313, ","    394.8"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001010066","1991","48.8667","-123.2833","4.0","ACTIVE PASS, BC CA","","","","","","","        6","","         5","C","   380"," ,C,0109, ","   160"," ,C,0301, ","","","","","      611"," ,C"
+"CA001010066","1994","48.8667","-123.2833","4.0","ACTIVE PASS, BC CA","       153","C","        86","C","         4","C","","","         2","C","","","    32"," ,C,0224, ","  35.6"," ,C,1225, ","    839.6"," ,C","       99"," ,C"
+"CA001010066","1995","48.8667","-123.2833","4.0","ACTIVE PASS, BC CA","       145","C","        81","C","         6","C","","","         3","C","","","    91"," ,C,0214, ","  45.0"," ,C,1107, ","    947.4"," ,C","      152"," ,C"

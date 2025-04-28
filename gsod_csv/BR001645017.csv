@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001645017","1977","-16.45","-45.77","0.0","BOA VISTA DA PALMA, BR","        62","I","        44","I","         9","I"," 100.0"," ,I,1006, ","    839.4"," ,I"
+"BR001645017","1980","-16.45","-45.77","0.0","BOA VISTA DA PALMA, BR","        92","I","        71","I","        15","I","  88.0"," ,I,0116, ","   1264.1"," ,I"
+"BR001645017","1983","-16.45","-45.77","0.0","BOA VISTA DA PALMA, BR","       105","I","        86","I","        22","I","  95.3"," ,I,0411, ","   1666.4"," ,I"

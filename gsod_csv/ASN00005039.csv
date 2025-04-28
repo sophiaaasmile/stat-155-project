@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00005039","1917","-22.6","114.4",,"LEARMONTH ARTESIAN, AS","        22","a","        12","a","         3","a","  41.1"," ,a,0126, ","    189.2"," ,a"
+"ASN00005039","1918","-22.6","114.4",,"LEARMONTH ARTESIAN, AS","        34","a","        23","a","         7","a"," 168.9"," ,a,0202, ","    578.6"," ,a"
+"ASN00005039","1919","-22.6","114.4",,"LEARMONTH ARTESIAN, AS","         7","a","         5","a","         1","a","  33.5"," ,a,1229, ","     57.6"," ,a"
+"ASN00005039","1920","-22.6","114.4",,"LEARMONTH ARTESIAN, AS","        31","a","        22","a","         2","a","  40.6"," ,a,0311, ","    196.5"," ,a"
+"ASN00005039","1921","-22.6","114.4",,"LEARMONTH ARTESIAN, AS","        35","a","        26","a","         4","a"," 108.5"," ,a,0217, ","    467.0"," ,a"
+"ASN00005039","1922","-22.6","114.4",,"LEARMONTH ARTESIAN, AS","        10","a","         7","a","         3","a","  58.7"," ,a,0528, ","    177.9"," ,a"

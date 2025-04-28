@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00017085","1927","-30.6369","138.3069","230.0","COPLEY ST RONANS, AS","        13","a","         5","a","         0","a","  20.3"," ,a,0610, ","     78.1"," ,a"
+"ASN00017085","1930","-30.6369","138.3069","230.0","COPLEY ST RONANS, AS","        19","a","        17","a","         1","a","  43.4"," ,a,0203, ","    221.3"," ,a"
+"ASN00017085","1936","-30.6369","138.3069","230.0","COPLEY ST RONANS, AS","         7","a","         6","a","         1","a","  31.8"," ,a,0530, ","     78.5"," ,a"

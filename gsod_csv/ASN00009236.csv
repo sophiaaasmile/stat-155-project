@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009236","1978","-31.7222","116.2747",,"BAILUP STUD, AS","        74","a","        56","a","         3","a","  53.0"," ,a,0715, ","    663.3"," ,a"
+"ASN00009236","1980","-31.7222","116.2747",,"BAILUP STUD, AS","        80","a","        64","a","         5","a","  50.0"," ,a,0622, ","    721.5"," ,a"
+"ASN00009236","1983","-31.7222","116.2747",,"BAILUP STUD, AS","        58","a","        55","a","        11","a","  82.5"," ,a,0725, ","    846.5"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00035097","1964","-25.9167","150.1667",,"YURAL, AS","        55","a","        41","a","         7","a","  59.7"," ,a,0531, ","    537.3"," ,a"
+"ASN00035097","1965","-25.9167","150.1667",,"YURAL, AS","        49","a","        32","a","         7","a","  57.4"," ,a,1215, ","    547.0"," ,a"
+"ASN00035097","1966","-25.9167","150.1667",,"YURAL, AS","        54","a","        43","a","         5","a","  58.4"," ,a,1001, ","    612.8"," ,a"

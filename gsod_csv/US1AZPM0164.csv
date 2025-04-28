@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZPM0164","2011","32.24442","-110.875853","760.2","TUCSON 3.1 ENE, AZ US","        44","N","        26","N","         1","N","  27.7"," ,N,1214, ","    261.6"," ,N"
+"US1AZPM0164","2012","32.24442","-110.875853","760.2","TUCSON 3.1 ENE, AZ US","        39","N","        27","N","         1","N","  27.4"," ,N,0715, ","    274.6"," ,N"
+"US1AZPM0164","2016","32.24442","-110.875853","760.2","TUCSON 3.1 ENE, AZ US","        50","N","        34","N","         4","N","  53.1"," ,N,0810, ","    400.5"," ,N"

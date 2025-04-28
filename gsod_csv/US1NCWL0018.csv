@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCWL0018","2020","36.111715","-81.073993","340.8","NORTH WILKESBORO 5.5 SE, NC US","       177","N","        99","N","        24","N"," 107.2"," ,N,0521, ","   2291.8"," ,N"
+"US1NCWL0018","2021","36.111715","-81.073993","340.8","NORTH WILKESBORO 5.5 SE, NC US","       131","N","        71","N","         7","N","  69.6"," ,N,0702, ","   1070.1"," ,N"
+"US1NCWL0018","2022","36.111715","-81.073993","340.8","NORTH WILKESBORO 5.5 SE, NC US","       141","N","        90","N","        16","N","  83.6"," ,N,1001, ","   1613.6"," ,N"
+"US1NCWL0018","2023","36.111715","-81.073993","340.8","NORTH WILKESBORO 5.5 SE, NC US","       135","N","        90","N","        20","N"," 105.9"," ,N,0620, ","   1664.6"," ,N"
+"US1NCWL0018","2024","36.111715","-81.073993","340.8","NORTH WILKESBORO 5.5 SE, NC US","       134","N","        90","N","        14","N"," 181.4"," ,N,0927, ","   1775.2"," ,N"

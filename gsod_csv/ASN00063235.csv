@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00063235","1969","-33.0167","150.15","353.6","GLEN ALICE WONGARA, AS","        94","a","        58","a","         9","a","  57.9"," ,a,0416, ","    841.0"," ,a"
+"ASN00063235","1970","-33.0167","150.15","353.6","GLEN ALICE WONGARA, AS","        87","a","        60","a","         5","a","  66.3"," ,a,0902, ","    726.9"," ,a"
+"ASN00063235","1971","-33.0167","150.15","353.6","GLEN ALICE WONGARA, AS","        86","a","        53","a","         5","a","  45.5"," ,a,0201, ","    607.9"," ,a"

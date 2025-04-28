@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00084066","1916","-37.6","149.1",,"TONGHI CREEK 1, AS","       120","a","        83","a","        12","a","  51.6"," ,a,0926,+","   1107.4"," ,a"
+"ASN00084066","1917","-37.6","149.1",,"TONGHI CREEK 1, AS","       112","a","        80","a","         5","a","  41.1"," ,a,0618, ","    770.2"," ,a"
+"ASN00084066","1919","-37.6","149.1",,"TONGHI CREEK 1, AS","        95","a","        80","a","        11","a"," 251.5"," ,a,0227, ","   1470.5"," ,a"
+"ASN00084066","1920","-37.6","149.1",,"TONGHI CREEK 1, AS","        97","a","        75","a","        11","a"," 126.7"," ,a,1025, ","   1149.2"," ,a"

@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1KSRN0016","2008","38.03697","-97.93925","481.0","SOUTH HUTCHINSON .7 NNE, KS US","        89","N","        59","N","        14","N","         6","N","   104"," ,N,0206, ","  65.3"," ,N,0827, ","   1042.1"," ,N","      384"," ,N"
+"US1KSRN0016","2009","38.03697","-97.93925","481.0","SOUTH HUTCHINSON .7 NNE, KS US","","","","","","","","","","","","","    741.5"," ,N","",""
+"US1KSRN0016","2012","38.03697","-97.93925","481.0","SOUTH HUTCHINSON .7 NNE, KS US","        53","N","        32","N","         4","N","","","","","  59.2"," ,N,0615, ","    488.0"," ,N","",""
+"US1KSRN0016","2013","38.03697","-97.93925","481.0","SOUTH HUTCHINSON .7 NNE, KS US","","","","","","","","","","","","","    946.2"," ,N","",""
+"US1KSRN0016","2014","38.03697","-97.93925","481.0","SOUTH HUTCHINSON .7 NNE, KS US","        66","N","        43","N","        10","N","","","","","  61.5"," ,N,0524, ","    656.2"," ,N","",""
+"US1KSRN0016","2016","38.03697","-97.93925","481.0","SOUTH HUTCHINSON .7 NNE, KS US","        60","N","        46","N","        12","N","","","","","  61.5"," ,N,0527, ","    836.9"," ,N","",""
+"US1KSRN0016","2019","38.03697","-97.93925","481.0","SOUTH HUTCHINSON .7 NNE, KS US","","","","","","","","","","","","","    890.6"," ,N","",""

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INJH0004","2008","39.448667","-86.056744","221.9","FRANKLIN 3.0 S, IN US","       135","N","        82","N","        16","N"," 153.7"," ,N,0607, ","   1503.1"," ,N"
+"US1INJH0004","2009","39.448667","-86.056744","221.9","FRANKLIN 3.0 S, IN US","       151","N","        82","N","        13","N","  76.5"," ,N,0805, ","   1268.9"," ,N"
+"US1INJH0004","2010","39.448667","-86.056744","221.9","FRANKLIN 3.0 S, IN US","       107","N","        65","N","         7","N","  56.1"," ,N,1125, ","    897.5"," ,N"
+"US1INJH0004","2012","39.448667","-86.056744","221.9","FRANKLIN 3.0 S, IN US","","","","","","","","","    765.7"," ,N"

@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASZ0021","2011","37.1693","-122.1641","266.7","BOULDER CREEK 3.0 NW, CA US","        77","N","        55","N","        13","N","  91.7"," ,N,0320, ","   1072.8"," ,N"
+"US1CASZ0021","2012","37.1693","-122.1641","266.7","BOULDER CREEK 3.0 NW, CA US","        85","N","        57","N","        20","N"," 116.3"," ,N,0121, ","   1533.2"," ,N"
+"US1CASZ0021","2015","37.1693","-122.1641","266.7","BOULDER CREEK 3.0 NW, CA US","        52","N","        27","N","         8","N"," 102.6"," ,N,1222, ","    607.8"," ,N"
+"US1CASZ0021","2016","37.1693","-122.1641","266.7","BOULDER CREEK 3.0 NW, CA US","        86","N","        59","N","        22","N"," 125.2"," ,N,0306, ","   1525.0"," ,N"
+"US1CASZ0021","2020","37.1693","-122.1641","266.7","BOULDER CREEK 3.0 NW, CA US","        62","N","        30","N","         5","N","  61.7"," ,N,0405, ","    472.3"," ,N"

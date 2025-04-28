@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00015354","1984","19.1333","-99.2833","3061.7","EL CAPULIN, MX","       114","m","        98","m","         2","m","  31.2"," ,m,0604, ","    946.4"," ,m"
+"MXN00015354","1986","19.1333","-99.2833","3061.7","EL CAPULIN, MX","       115","m","        97","m","         4","m","  32.0"," ,m,0621, ","   1117.0"," ,m"
+"MXN00015354","1987","19.1333","-99.2833","3061.7","EL CAPULIN, MX","        88","m","        80","m","         7","m","  47.5"," ,m,0724, ","   1035.6"," ,m"

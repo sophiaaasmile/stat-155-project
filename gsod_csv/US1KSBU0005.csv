@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSBU0005","2013","37.553287","-97.085525","394.1","ROSE HILL 2.7 ESE, KS US","        73","N","        51","N","        20","N","  94.7"," ,N,0721, ","   1248.7"," ,N"
+"US1KSBU0005","2022","37.553287","-97.085525","394.1","ROSE HILL 2.7 ESE, KS US","        64","N","        43","N","        10","N"," 137.9"," ,N,0601, ","    889.4"," ,N"
+"US1KSBU0005","2023","37.553287","-97.085525","394.1","ROSE HILL 2.7 ESE, KS US","        72","N","        46","N","         7","N","  46.7"," ,N,0705, ","    750.0"," ,N"
+"US1KSBU0005","2024","37.553287","-97.085525","394.1","ROSE HILL 2.7 ESE, KS US","        82","N","        49","N","        11","N","  96.0"," ,N,0428, ","   1013.8"," ,N"

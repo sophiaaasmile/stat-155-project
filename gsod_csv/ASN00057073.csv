@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00057073","1965","-29.85","152.3","356.0","NEWTON BOYD BROADMEADOWS, AS","        73","a","        55","a","        11","a","  59.7"," ,a,0721, ","    815.0"," ,a"
+"ASN00057073","1966","-29.85","152.3","356.0","NEWTON BOYD BROADMEADOWS, AS","        75","a","        55","a","         6","a","  78.7"," ,a,1108, ","    692.1"," ,a"
+"ASN00057073","1967","-29.85","152.3","356.0","NEWTON BOYD BROADMEADOWS, AS","       116","a","        87","a","        11","a"," 154.9"," ,a,0613, ","   1270.4"," ,a"
+"ASN00057073","1968","-29.85","152.3","356.0","NEWTON BOYD BROADMEADOWS, AS","        78","a","        56","a","         9","a"," 149.9"," ,a,0113, ","    924.9"," ,a"
+"ASN00057073","1969","-29.85","152.3","356.0","NEWTON BOYD BROADMEADOWS, AS","       104","a","        76","a","         8","a","  55.4"," ,a,0211, ","    944.5"," ,a"
+"ASN00057073","1970","-29.85","152.3","356.0","NEWTON BOYD BROADMEADOWS, AS","        91","a","        76","a","        12","a","  68.6"," ,a,1207, ","   1122.0"," ,a"
+"ASN00057073","1971","-29.85","152.3","356.0","NEWTON BOYD BROADMEADOWS, AS","        74","a","        65","a","         7","a","  41.9"," ,a,0118, ","    825.7"," ,a"

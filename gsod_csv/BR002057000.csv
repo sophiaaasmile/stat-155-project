@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002057000","1996","-20.29","-57.65","81.0","TARUMA, BR","        38","I","        38","I","        12","I","  81.0"," ,I,0229, ","    821.9"," ,I"
+"BR002057000","1997","-20.29","-57.65","81.0","TARUMA, BR","        40","I","        39","I","        20","I"," 175.0"," ,I,0413, ","   1234.8"," ,I"
+"BR002057000","1998","-20.29","-57.65","81.0","TARUMA, BR","        30","I","        29","I","        20","I"," 100.3"," ,I,0807, ","   1147.3"," ,I"

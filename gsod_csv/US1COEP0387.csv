@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COEP0387","2019","38.86952","-104.86166","1955.9","COLORADO SPRINGS 3.3 NW, CO US","        75","N","        39","N","         2","N","  37.8"," ,N,0521, ","    390.2"," ,N"
+"US1COEP0387","2020","38.86952","-104.86166","1955.9","COLORADO SPRINGS 3.3 NW, CO US","        67","N","        36","N","         2","N","  36.8"," ,N,0806, ","    342.6"," ,N"
+"US1COEP0387","2021","38.86952","-104.86166","1955.9","COLORADO SPRINGS 3.3 NW, CO US","        67","N","        33","N","         1","N","  30.5"," ,N,0801, ","    419.6"," ,N"
+"US1COEP0387","2022","38.86952","-104.86166","1955.9","COLORADO SPRINGS 3.3 NW, CO US","        76","N","        34","N","         1","N","  50.0"," ,N,0521, ","    334.9"," ,N"
+"US1COEP0387","2023","38.86952","-104.86166","1955.9","COLORADO SPRINGS 3.3 NW, CO US","        75","N","        44","N","         5","N","  54.6"," ,N,0511, ","    544.5"," ,N"

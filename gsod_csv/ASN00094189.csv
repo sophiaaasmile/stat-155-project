@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00094189","1994","-42.9617","147.2636","200.0","KINGSTON SUMMERLEAS, AS","       140","a","        69","a","         3","a","  35.4"," ,a,0407, ","    661.7"," ,a"
+"ASN00094189","1995","-42.9617","147.2636","200.0","KINGSTON SUMMERLEAS, AS","       173","a","        80","a","         4","a","  94.0"," ,a,1219, ","    954.6"," ,a"
+"ASN00094189","1997","-42.9617","147.2636","200.0","KINGSTON SUMMERLEAS, AS","       129","a","        67","a","         4","a","  65.6"," ,a,0122, ","    786.1"," ,a"
+"ASN00094189","1999","-42.9617","147.2636","200.0","KINGSTON SUMMERLEAS, AS","       137","a","        68","a","         3","a","  72.2"," ,a,0207, ","    690.0"," ,a"
+"ASN00094189","2001","-42.9617","147.2636","200.0","KINGSTON SUMMERLEAS, AS","       162","a","        84","a","         7","a","  53.4"," ,a,1012, ","   1075.8"," ,a"

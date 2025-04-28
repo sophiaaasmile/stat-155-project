@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000458000","1984","-4.41","-58.13","0.0","CASTANHO, BR","       147","I","       128","I","        30","I"," 113.8"," ,I,0313, ","   2483.9"," ,I"
+"BR000458000","1988","-4.41","-58.13","0.0","CASTANHO, BR","       121","I","       111","I","        37","I","  96.2"," ,I,0407, ","   2645.8"," ,I"
+"BR000458000","1995","-4.41","-58.13","0.0","CASTANHO, BR","        71","I","        69","I","        37","I","  97.3"," ,I,0423, ","   1970.9"," ,I"

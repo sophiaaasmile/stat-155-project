@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FIE00142841","1965","60.65","24.85","130.0","HYVINKAA LENTOKENTTA, FI","       169","E","        67","E","         1","E","  40.5"," ,E,0804, ","    575.9"," ,E"
+"FIE00142841","1966","60.65","24.85","130.0","HYVINKAA LENTOKENTTA, FI","       196","E","        75","E","         1","E","  27.8"," ,E,1218, ","    664.5"," ,E"
+"FIE00142841","1968","60.65","24.85","130.0","HYVINKAA LENTOKENTTA, FI","       163","E","        66","E","         1","E","  27.0"," ,E,0812, ","    574.8"," ,E"
+"FIE00142841","1969","60.65","24.85","130.0","HYVINKAA LENTOKENTTA, FI","       142","E","        61","E","         1","E","  28.3"," ,E,0701, ","    528.5"," ,E"

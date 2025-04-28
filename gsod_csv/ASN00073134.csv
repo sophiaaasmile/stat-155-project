@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00073134","1896","-33.9","148.3","400.0","MOGONGONG NORTH BRUNDAH, AS","        74","a","        52","a","         2","a","  35.3"," ,a,0225, ","    519.3"," ,a"
+"ASN00073134","1897","-33.9","148.3","400.0","MOGONGONG NORTH BRUNDAH, AS","        55","a","        34","a","         3","a","  74.2"," ,a,0109, ","    372.5"," ,a"
+"ASN00073134","1898","-33.9","148.3","400.0","MOGONGONG NORTH BRUNDAH, AS","        71","a","        42","a","         2","a","  43.2"," ,a,1223, ","    442.3"," ,a"
+"ASN00073134","1905","-33.9","148.3","400.0","MOGONGONG NORTH BRUNDAH, AS","        84","a","        61","a","         7","a","  38.4"," ,a,0403, ","    663.9"," ,a"

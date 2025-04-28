@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZMR0373","2014","33.441218","-111.741685","408.1","MESA 4.7 ENE, AZ US","        29","N","        15","N","         4","N","  63.5"," ,N,0908, ","    300.3"," ,N"
+"US1AZMR0373","2015","33.441218","-111.741685","408.1","MESA 4.7 ENE, AZ US","        48","N","        23","N","         1","N","  48.3"," ,N,0923, ","    231.3"," ,N"
+"US1AZMR0373","2021","33.441218","-111.741685","408.1","MESA 4.7 ENE, AZ US","        47","N","        27","N","         4","N","  47.0"," ,N,0814, ","    378.2"," ,N"

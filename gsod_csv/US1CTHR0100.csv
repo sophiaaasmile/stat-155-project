@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1CTHR0100","2021","41.778162","-72.514841","85.6","MANCHESTER 0.4 ENE, CT US","       139","N","        92","N","        13","N","         9","N","   229"," ,N,0202, "," 131.3"," ,N,0902, ","   1457.4"," ,N","      692"," ,N"
+"US1CTHR0100","2022","41.778162","-72.514841","85.6","MANCHESTER 0.4 ENE, CT US","       135","N","        84","N","        10","N","         9","N","   254"," ,N,0130, ","  59.2"," ,N,1025, ","   1078.2"," ,N","      877"," ,N"
+"US1CTHR0100","2023","41.778162","-72.514841","85.6","MANCHESTER 0.4 ENE, CT US","       132","N","        90","N","        23","N","         4","N","   127"," ,N,0228, ","  81.5"," ,N,1211, ","   1663.8"," ,N","      260"," ,N"
+"US1CTHR0100","2024","41.778162","-72.514841","85.6","MANCHESTER 0.4 ENE, CT US","       133","N","        87","N","        15","N","         6","N","   235"," ,N,0214, ","  63.2"," ,N,0110, ","   1245.6"," ,N","      624"," ,N"

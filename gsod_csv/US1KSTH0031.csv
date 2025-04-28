@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSTH0031","2022","39.348673","-101.05647","975.1","COLBY 2.8 SSW, KS US","        48","N","        24","N","         0","N","  23.9"," ,N,0502, ","    259.8"," ,N"
+"US1KSTH0031","2023","39.348673","-101.05647","975.1","COLBY 2.8 SSW, KS US","        65","N","        40","N","         4","N","  83.8"," ,N,0511, ","    558.0"," ,N"
+"US1KSTH0031","2024","39.348673","-101.05647","975.1","COLBY 2.8 SSW, KS US","        69","N","        40","N","         3","N","  45.0"," ,N,0531, ","    423.2"," ,N"

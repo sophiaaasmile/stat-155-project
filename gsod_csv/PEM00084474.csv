@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"PEM00084474","1977","-7.169","-76.729","349.9","JUANJUI, PE","        83","S","        71","S","        12","S","         0","S","         0","S","   17.0","S,0825,+"," 240.0"," ,S,0612, ","   1241.6"," ,S","     20.29","S"
+"PEM00084474","1978","-7.169","-76.729","349.9","JUANJUI, PE","        95","S","        78","S","        22","S","         0","S","         0","S","   13.0","S,0815, "," 300.0"," ,S,0402, ","   1900.5"," ,S","     19.54","S"
+"PEM00084474","1997","-7.169","-76.729","349.9","JUANJUI, PE","","","","","","","         0"," ","         0","S","   14.3","S,0812, ","","","","","     18.95","S"

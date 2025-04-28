@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MEWS0034","2021","45.025787","-67.102867","57.3","PERRY 3.8 NNW, ME US","       116","N","        88","N","        20","N","  89.4"," ,N,0903, ","   1531.9"," ,N"
+"US1MEWS0034","2022","45.025787","-67.102867","57.3","PERRY 3.8 NNW, ME US","       148","N","       101","N","        22","N","  98.6"," ,N,0420, ","   1810.4"," ,N"
+"US1MEWS0034","2024","45.025787","-67.102867","57.3","PERRY 3.8 NNW, ME US","       148","N","        93","N","        13","N","  59.4"," ,N,0311, ","   1126.3"," ,N"

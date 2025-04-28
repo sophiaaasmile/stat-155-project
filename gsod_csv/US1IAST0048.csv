@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IAST0048","2020","41.56502","-90.50767","211.8","BETTENDORF 1.6 W, IA US","       106","N","        69","N","        14","N","  63.5"," ,N,1022, ","   1077.6"," ,N"
+"US1IAST0048","2021","41.56502","-90.50767","211.8","BETTENDORF 1.6 W, IA US","       108","N","        60","N","         6","N","  69.6"," ,N,0411, ","    901.5"," ,N"
+"US1IAST0048","2022","41.56502","-90.50767","211.8","BETTENDORF 1.6 W, IA US","       117","N","        69","N","         6","N","  54.6"," ,N,1105, ","    866.0"," ,N"
+"US1IAST0048","2023","41.56502","-90.50767","211.8","BETTENDORF 1.6 W, IA US","       112","N","        64","N","        10","N","  51.1"," ,N,0508, ","    870.3"," ,N"

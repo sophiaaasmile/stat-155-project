@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1KSGY0028","2017","37.489404","-100.566664","852.5","COPELAND 4.9 SE, KS US","","","","","","","","","","","","","    688.0"," ,N","",""
+"US1KSGY0028","2018","37.489404","-100.566664","852.5","COPELAND 4.9 SE, KS US","        66","N","        39","N","         5","N","         2","N","    71"," ,N,1112, ","  46.2"," ,N,0728, ","    678.5"," ,N","      120"," ,N"
+"US1KSGY0028","2019","37.489404","-100.566664","852.5","COPELAND 4.9 SE, KS US","        77","N","        34","N","         5","N","         3","N","    51"," ,N,0303, ","  42.9"," ,N,0708, ","    594.8"," ,N","      180"," ,N"

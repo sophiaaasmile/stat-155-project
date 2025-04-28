@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA008102100","1951","45.5333","-65.8333","16.0","HAMPTON, NB CA","       138","C","        98","C","        15","C","        25","C","   363"," ,C,0112, ","  61.7"," ,C,1219, ","   1447.9"," ,C","     2979"," ,C"
+"CA008102100","1952","45.5333","-65.8333","16.0","HAMPTON, NB CA","       133","C","        83","C","        10","C","        19","C","   406"," ,C,0228, ","  49.3"," ,C,0806, ","   1057.8"," ,C","     2312"," ,C"
+"CA008102100","1958","45.5333","-65.8333","16.0","HAMPTON, NB CA","       114","C","        78","C","        13","C","        16","C","   203"," ,C,0213,+","  79.0"," ,C,0429, ","   1336.5"," ,C","     2069"," ,C"

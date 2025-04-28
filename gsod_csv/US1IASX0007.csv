@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IASX0007","2016","43.1131","-96.1795","449.0","SIOUX CENTER 2.6 N, IA US","        94","N","        55","N","         5","N","  57.7"," ,N,0916, ","    795.8"," ,N"
+"US1IASX0007","2020","43.1131","-96.1795","449.0","SIOUX CENTER 2.6 N, IA US","        76","N","        34","N","         3","N","  31.0"," ,N,0329, ","    386.5"," ,N"
+"US1IASX0007","2023","43.1131","-96.1795","449.0","SIOUX CENTER 2.6 N, IA US","        81","N","        52","N","         5","N"," 191.0"," ,N,0806, ","    737.7"," ,N"

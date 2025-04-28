@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10loup006","2008","41.8713","-99.6604","762.9","MILBURN 11.1 NNE, NE US","        39","N","        38","N","         8","N","  81.5"," ,N,0524, ","    685.6"," ,N"
+"US10loup006","2009","41.8713","-99.6604","762.9","MILBURN 11.1 NNE, NE US","        59","N","        47","N","         2","N","  88.4"," ,N,0526, ","    554.4"," ,N"

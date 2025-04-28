@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA001108530","1965","49.1","-122.0","15.0","VEDDER SOUTH LICKMAN, BC CA","","","","","","","        21","C","   305"," ,C,1227, ","","","","","     2259"," ,C"
+"CA001108530","1966","49.1","-122.0","15.0","VEDDER SOUTH LICKMAN, BC CA","       202","C","       135","C","        15","C","        12","C","   254"," ,C,0105, ","  62.0"," ,C,1215, ","   1657.1"," ,C","     1079"," ,C"
+"CA001108530","1967","49.1","-122.0","15.0","VEDDER SOUTH LICKMAN, BC CA","       186","C","       126","C","        11","C","         6","C","   264"," ,C,0311, ","  49.0"," ,C,0118, ","   1565.7"," ,C","      793"," ,C"

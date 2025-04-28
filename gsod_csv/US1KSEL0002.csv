@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1KSEL0002","2007","38.818","-99.4286","652.3","HAYS 7.1 SW, KS US","        57","N","        40","N","         8","N","         5","N","   272"," ,N,1215, ","  64.5"," ,N,0324, ","    697.7"," ,N","      579"," ,N"
+"US1KSEL0002","2008","38.818","-99.4286","652.3","HAYS 7.1 SW, KS US","        79","N","        56","N","         7","N","         8","N","   157"," ,N,0224, ","  58.7"," ,N,0526, ","    729.6"," ,N","      620"," ,N"
+"US1KSEL0002","2023","38.818","-99.4286","652.3","HAYS 7.1 SW, KS US","        73","N","        40","N","         6","N","","","","","  43.2"," ,N,0519, ","    473.4"," ,N","",""
+"US1KSEL0002","2024","38.818","-99.4286","652.3","HAYS 7.1 SW, KS US","        57","N","        44","N","         5","N","","","","","  49.0"," ,N,0619, ","    565.2"," ,N","",""

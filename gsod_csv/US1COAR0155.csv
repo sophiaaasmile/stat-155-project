@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COAR0155","2006","39.5811","-104.9725","1715.1","CENTENNIAL 5.6 W, CO US","        66","N","        36","N","         3","N","        16","N","   508"," ,N,1221, ","  33.8"," ,N,1026, ","    385.4"," ,N","     1810"," ,N"
+"US1COAR0155","2007","39.5811","-104.9725","1715.1","CENTENNIAL 5.6 W, CO US","        97","N","        51","N","         2","N","        23","N","   203"," ,N,0329, ","  56.6"," ,N,0728, ","    503.6"," ,N","     1644"," ,N"

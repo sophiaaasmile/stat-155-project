@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00014934","1964","-13.6333","131.6333","213.0","PINE CREEK WELCOME INN, AS","        80","a","        61","a","        13","a"," 105.4"," ,a,1204, ","   1244.8"," ,a"
+"ASN00014934","1965","-13.6333","131.6333","213.0","PINE CREEK WELCOME INN, AS","        65","a","        55","a","        18","a","  95.3"," ,a,1231, ","   1303.1"," ,a"
+"ASN00014934","1966","-13.6333","131.6333","213.0","PINE CREEK WELCOME INN, AS","        34","a","        34","a","        16","a"," 121.9"," ,a,1202, ","   1351.8"," ,a"

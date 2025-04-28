@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AKMS0019","2021","62.1329","-150.5371","111.6","TRAPPER CREEK 8.5 SSW, AK US","       163","N","        82","N","         2","N","  30.2"," ,N,1206, ","    655.0"," ,N"
+"US1AKMS0019","2022","62.1329","-150.5371","111.6","TRAPPER CREEK 8.5 SSW, AK US","       166","N","        99","N","         8","N","  49.3"," ,N,1009, ","   1083.9"," ,N"
+"US1AKMS0019","2023","62.1329","-150.5371","111.6","TRAPPER CREEK 8.5 SSW, AK US","       203","N","       101","N","         6","N","  53.3"," ,N,0716, ","    990.3"," ,N"
+"US1AKMS0019","2024","62.1329","-150.5371","111.6","TRAPPER CREEK 8.5 SSW, AK US","       168","N","        84","N","         7","N","  49.0"," ,N,0915, ","    892.2"," ,N"

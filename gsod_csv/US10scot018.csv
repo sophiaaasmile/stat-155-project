@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10scot018","2007","41.8279","-103.927","1300.0","LYMAN 8.5 SE, NE US","        65","N","        32","N","         2","N","  31.0"," ,N,0425, ","    300.2"," ,N"
+"US10scot018","2008","41.8279","-103.927","1300.0","LYMAN 8.5 SE, NE US","        64","N","        31","N","         2","N","  38.1"," ,N,0217, ","    342.3"," ,N"

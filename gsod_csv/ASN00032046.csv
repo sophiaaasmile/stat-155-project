@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00032046","1953","-18.1167","145.9167","26.0","BILYANA RAILWAY STATION, AS","        90","a","        78","a","        25","a"," 388.6"," ,a,0113, ","   2954.5"," ,a"
+"ASN00032046","1954","-18.1167","145.9167","26.0","BILYANA RAILWAY STATION, AS","        87","a","        77","a","        27","a"," 160.0"," ,a,0120, ","   2253.6"," ,a"
+"ASN00032046","1955","-18.1167","145.9167","26.0","BILYANA RAILWAY STATION, AS","        87","a","        74","a","        37","a"," 201.2"," ,a,0317, ","   3029.7"," ,a"

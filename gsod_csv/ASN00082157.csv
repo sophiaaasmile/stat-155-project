@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00082157","2002","-36.74","146.34",,"MYRRHEE CRYERS, AS","        99","a","        65","a","         4","a","  66.4"," ,a,0615, ","    783.0"," ,a"
+"ASN00082157","2003","-36.74","146.34",,"MYRRHEE CRYERS, AS","       113","a","        75","a","        13","a","  75.0"," ,a,0724, ","   1259.6"," ,a"
+"ASN00082157","2006","-36.74","146.34",,"MYRRHEE CRYERS, AS","        70","a","        35","a","         2","a","  34.0"," ,a,1113, ","    425.0"," ,a"
+"ASN00082157","2007","-36.74","146.34",,"MYRRHEE CRYERS, AS","       114","a","        66","a","         9","a","  81.0"," ,a,1222, ","    973.0"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00017083","1928","-26.6167","138.6167",,"PUTTABURRA, AS","         9","a","         3","a","         0","a","   6.9"," ,a,0715, ","     25.4"," ,a"
+"ASN00017083","1929","-26.6167","138.6167",,"PUTTABURRA, AS","         5","a","         3","a","         0","a","  10.2"," ,a,0927, ","     23.4"," ,a"
+"ASN00017083","1931","-26.6167","138.6167",,"PUTTABURRA, AS","        19","a","        13","a","         0","a","  20.3"," ,a,0624, ","    148.4"," ,a"
+"ASN00017083","1932","-26.6167","138.6167",,"PUTTABURRA, AS","        19","a","         7","a","         0","a","  22.6"," ,a,0312, ","     95.4"," ,a"

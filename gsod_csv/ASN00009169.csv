@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009169","1973","-30.5006","115.0664","3.0","CERVANTES, AS","       121","a","        60","a","         2","a","  38.6"," ,a,0718, ","    569.9"," ,a"
+"ASN00009169","1974","-30.5006","115.0664","3.0","CERVANTES, AS","        95","a","        56","a","         4","a","  60.8"," ,a,0403, ","    687.0"," ,a"
+"ASN00009169","1975","-30.5006","115.0664","3.0","CERVANTES, AS","       102","a","        59","a","         3","a","  34.8"," ,a,0417, ","    615.8"," ,a"

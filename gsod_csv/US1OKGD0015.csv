@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OKGD0015","2019","36.43258","-97.588969","359.1","GARBER 0.5 WSW, OK US","        97","N","        58","N","        16","N"," 160.3"," ,N,0521, ","   1350.3"," ,N"
+"US1OKGD0015","2021","36.43258","-97.588969","359.1","GARBER 0.5 WSW, OK US","","","","","","","","","    732.5"," ,N"
+"US1OKGD0015","2022","36.43258","-97.588969","359.1","GARBER 0.5 WSW, OK US","        72","N","        43","N","         8","N","  50.8"," ,N,0731, ","    672.2"," ,N"
+"US1OKGD0015","2023","36.43258","-97.588969","359.1","GARBER 0.5 WSW, OK US","        88","N","        50","N","        10","N","  53.6"," ,N,1025, ","    837.1"," ,N"

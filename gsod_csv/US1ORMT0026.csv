@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ORMT0026","2010","45.554752","-122.564548","42.4","PORTLAND 4.6 ENE, OR US","       191","N","       122","N","         7","N","  41.7"," ,N,0101, ","   1370.2"," ,N"
+"US1ORMT0026","2011","45.554752","-122.564548","42.4","PORTLAND 4.6 ENE, OR US","       181","N","        96","N","         5","N","  45.2"," ,N,0301, ","   1052.7"," ,N"
+"US1ORMT0026","2012","45.554752","-122.564548","42.4","PORTLAND 4.6 ENE, OR US","       176","N","       116","N","        11","N","  51.6"," ,N,1120, ","   1441.2"," ,N"
+"US1ORMT0026","2013","45.554752","-122.564548","42.4","PORTLAND 4.6 ENE, OR US","","","","","","","","","    739.8"," ,N"

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10lanc014","2007","40.5529","-96.5009","410.0","ADAMS 6.5 N, NE US","        64","N","        53","N","        13","N","  56.1"," ,N,0506, ","    882.1"," ,N"
+"US10lanc014","2008","40.5529","-96.5009","410.0","ADAMS 6.5 N, NE US","        91","N","        66","N","        16","N","  74.9"," ,N,0605, ","   1067.0"," ,N"

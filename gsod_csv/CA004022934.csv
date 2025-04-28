@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004022934","1974","49.45","-106.6667","610.0","GLENTWORTH, SK CA","        84","C","        47","C","         2","C","        18","C","   140"," ,C,0227, ","  56.4"," ,C,0520, ","    455.7"," ,C","     1014"," ,C"
+"CA004022934","1975","49.45","-106.6667","610.0","GLENTWORTH, SK CA","        94","C","        60","C","         3","C","        26","C","   234"," ,C,0320, ","  68.3"," ,C,0625, ","    514.2"," ,C","     1468"," ,C"

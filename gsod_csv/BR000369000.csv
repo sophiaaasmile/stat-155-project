@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000369000","1988","-3.57","-69.37","0.0","SANTA RITA DO WEIL, BR","        96","I","        95","I","        52","I","  63.0"," ,I,0501, ","   2576.8"," ,I"
+"BR000369000","1991","-3.57","-69.37","0.0","SANTA RITA DO WEIL, BR","       104","I","       104","I","        48","I","  64.0"," ,I,0413, ","   2841.6"," ,I"
+"BR000369000","1994","-3.57","-69.37","0.0","SANTA RITA DO WEIL, BR","       129","I","       126","I","        23","I","  52.4"," ,I,0213, ","   2014.7"," ,I"

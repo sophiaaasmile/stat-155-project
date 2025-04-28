@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00095062","2000","-42.5455","146.8328","103.0","HAMILTON CLYDE RIVER, AS","       101","a","        47","a","         0","a","  20.4"," ,a,1112, ","    349.0"," ,a"
+"ASN00095062","2002","-42.5455","146.8328","103.0","HAMILTON CLYDE RIVER, AS","        94","a","        38","a","         0","a","  13.0"," ,a,1130, ","    283.6"," ,a"
+"ASN00095062","2005","-42.5455","146.8328","103.0","HAMILTON CLYDE RIVER, AS","       110","a","        51","a","         2","a","  33.6"," ,a,1204, ","    459.4"," ,a"

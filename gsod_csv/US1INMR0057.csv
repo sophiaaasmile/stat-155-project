@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INMR0057","2010","39.919","-86.0885","223.4","CARMEL 3.7 SSE, IN US","       123","N","        81","N","         9","N","  77.2"," ,N,0814, ","   1106.1"," ,N"
+"US1INMR0057","2011","39.919","-86.0885","223.4","CARMEL 3.7 SSE, IN US","       140","N","        88","N","        16","N","  73.4"," ,N,0228, ","   1485.6"," ,N"
+"US1INMR0057","2012","39.919","-86.0885","223.4","CARMEL 3.7 SSE, IN US","       114","N","        65","N","        14","N","  75.4"," ,N,0908, ","   1048.6"," ,N"

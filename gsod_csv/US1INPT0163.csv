@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INPT0163","2021","41.50298","-87.07452","249.9","VALPARAISO 2.2 NW, IN US","       126","N","        79","N","         6","N","  76.7"," ,N,1025, ","    946.6"," ,N"
+"US1INPT0163","2022","41.50298","-87.07452","249.9","VALPARAISO 2.2 NW, IN US","       116","N","        68","N","         4","N","  77.7"," ,N,1026, ","    812.4"," ,N"
+"US1INPT0163","2023","41.50298","-87.07452","249.9","VALPARAISO 2.2 NW, IN US","       138","N","        90","N","        13","N","  47.2"," ,N,1005, ","   1152.7"," ,N"
+"US1INPT0163","2024","41.50298","-87.07452","249.9","VALPARAISO 2.2 NW, IN US","       132","N","        88","N","        13","N","  58.2"," ,N,0714, ","   1198.4"," ,N"

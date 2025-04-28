@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GACU0003","2012","33.5418","-82.158","100.0","EVANS 2.1 NNW, GA US","        78","N","        59","N","        10","N","  70.1"," ,N,1115, ","   1020.2"," ,N"
+"US1GACU0003","2020","33.5418","-82.158","100.0","EVANS 2.1 NNW, GA US","        84","N","        65","N","        20","N"," 134.1"," ,N,0917, ","   1675.4"," ,N"
+"US1GACU0003","2021","33.5418","-82.158","100.0","EVANS 2.1 NNW, GA US","        77","N","        65","N","        17","N","  65.0"," ,N,1219, ","   1320.2"," ,N"
+"US1GACU0003","2022","33.5418","-82.158","100.0","EVANS 2.1 NNW, GA US","","","","","","","","","   1007.6"," ,N"

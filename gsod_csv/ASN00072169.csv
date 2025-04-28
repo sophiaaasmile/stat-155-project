@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00072169","2008","-35.7108","148.0026","675.0","TUMBARUMBA WONDALMA, AS","","","","","","","","","    788.9"," ,a"
+"ASN00072169","2020","-35.7108","148.0026","675.0","TUMBARUMBA WONDALMA, AS","       132","a","        77","a","        10","a","  73.0"," ,a,1027, ","   1139.0"," ,a"
+"ASN00072169","2021","-35.7108","148.0026","675.0","TUMBARUMBA WONDALMA, AS","       142","a","        88","a","         9","a","  88.2"," ,a,0206, ","   1328.6"," ,a"
+"ASN00072169","2022","-35.7108","148.0026","675.0","TUMBARUMBA WONDALMA, AS","       166","a","       100","a","        11","a","  53.4"," ,a,1114, ","   1423.4"," ,a"

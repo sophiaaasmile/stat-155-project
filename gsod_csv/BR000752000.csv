@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000752000","1979","-7.47","-52.67","0.0","COCRAIMORO, BR","       136","I","       117","I","        32","I","  77.8"," ,I,1216, ","   2234.8"," ,I"
+"BR000752000","1981","-7.47","-52.67","0.0","COCRAIMORO, BR","       119","I","        89","I","        18","I","  71.6"," ,I,1130,+","   1712.5"," ,I"
+"BR000752000","1982","-7.47","-52.67","0.0","COCRAIMORO, BR","       128","I","       118","I","        27","I","  76.2"," ,I,1225, ","   2274.1"," ,I"

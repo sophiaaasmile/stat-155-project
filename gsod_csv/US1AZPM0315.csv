@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1AZPM0315","2018","32.165545","-111.126018","751.3","TUCSON 12.6 WSW, AZ US","        50","N","        34","N","         2","N","         0","N","     0","T,N,1024,+","  31.8"," ,N,0903, ","    359.5"," ,N","        0","T,N"
+"US1AZPM0315","2019","32.165545","-111.126018","751.3","TUCSON 12.6 WSW, AZ US","        53","N","        31","N","         2","N","         1","N","    58"," ,N,0223, ","  31.8"," ,N,0829, ","    309.3"," ,N","       63"," ,N"
+"US1AZPM0315","2022","32.165545","-111.126018","751.3","TUCSON 12.6 WSW, AZ US","        54","N","        28","N","         1","N","","","","","  31.0"," ,N,0810, ","    282.6"," ,N","",""

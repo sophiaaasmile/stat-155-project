@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN003051800","1976","27.47","95.13","108.0","A.F.CHABUA OBSERVATORY, IN","       167","I","       147","I","        64","I"," 177.8"," ,I,0630, ","   5092.7"," ,I"
+"IN003051800","1977","27.47","95.13","108.0","A.F.CHABUA OBSERVATORY, IN","       180","I","       160","I","        81","I"," 289.1"," ,I,0828, ","   7116.5"," ,I"
+"IN003051800","1980","27.47","95.13","108.0","A.F.CHABUA OBSERVATORY, IN","       172","I","       154","I","        88","I"," 337.3"," ,I,0904, ","   7752.2"," ,I"
+"IN003051800","1981","27.47","95.13","108.0","A.F.CHABUA OBSERVATORY, IN","       181","I","       158","I","        87","I"," 199.6"," ,I,0715, ","   7394.2"," ,I"

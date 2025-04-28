@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COLR0519","2005","40.3748","-104.9708","1510.9","LOVELAND 7 SE, CO US","        71","N","        33","N","         3","N","        10","N","   127"," ,N,0313, ","  63.2"," ,N,0604, ","    429.5"," ,N","      542"," ,N"
+"US1COLR0519","2008","40.3748","-104.9708","1510.9","LOVELAND 7 SE, CO US","        71","N","        21","N","         2","N","         8","N","    89"," ,N,0317, ","  27.7"," ,N,0816, ","    291.5"," ,N","      564"," ,N"
+"US1COLR0519","2014","40.3748","-104.9708","1510.9","LOVELAND 7 SE, CO US","        91","N","        31","N","         2","N","","","","","  35.3"," ,N,0730, ","    339.8"," ,N","",""

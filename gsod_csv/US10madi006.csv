@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10madi006","2007","42.0261","-97.4007","459.9","NORFOLK 0.9 E, NE US","        79","N","        53","N","        12","N","","","","","  99.1"," ,N,0823, ","    891.1"," ,N","",""
+"US10madi006","2008","42.0261","-97.4007","459.9","NORFOLK 0.9 E, NE US","        73","N","        49","N","         4","N","         1","N","    53"," ,N,0212, ","  55.4"," ,N,0608, ","    691.9"," ,N","       53"," ,N"
+"US10madi006","2012","42.0261","-97.4007","459.9","NORFOLK 0.9 E, NE US","        38","N","        25","N","         3","N","         3","N","    61"," ,N,1220,+","  80.0"," ,N,0415, ","    345.3"," ,N","      167"," ,N"

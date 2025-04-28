@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"MXN00007209","1965","17.0333","-91.8667","1239.9","AGUA VERDE, MX","       173","m","       128","m","        24","m"," 158.5"," ,m,0619, ","   2059.8"," ,m"
+"MXN00007209","1966","17.0333","-91.8667","1239.9","AGUA VERDE, MX","       195","m","       107","m","        27","m"," 122.9"," ,m,0922, ","   2186.0"," ,m"
+"MXN00007209","1967","17.0333","-91.8667","1239.9","AGUA VERDE, MX","       168","m","       128","m","        19","m"," 112.3"," ,m,1018, ","   2067.1"," ,m"

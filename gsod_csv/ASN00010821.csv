@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010821","1914","-32.55","117.55",,"AVON GROVE, AS","        48","a","        27","a","         0","a","  17.8"," ,a,0719, ","    207.9"," ,a"
+"ASN00010821","1915","-32.55","117.55",,"AVON GROVE, AS","        67","a","        60","a","         4","a","  32.5"," ,a,0207, ","    545.5"," ,a"
+"ASN00010821","1916","-32.55","117.55",,"AVON GROVE, AS","        48","a","        43","a","         2","a","  31.0"," ,a,0129, ","    383.9"," ,a"
+"ASN00010821","1917","-32.55","117.55",,"AVON GROVE, AS","","","","","","","","","    623.3"," ,a"

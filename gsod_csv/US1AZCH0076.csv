@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZCH0076","2021","31.34465","-109.551799","1215.8","DOUGLAS 0.8 WNW, AZ US","        48","N","        32","N","         5","N","  39.9"," ,N,0816, ","    400.2"," ,N"
+"US1AZCH0076","2022","31.34465","-109.551799","1215.8","DOUGLAS 0.8 WNW, AZ US","        48","N","        29","N","         1","N","  34.0"," ,N,0729, ","    359.0"," ,N"
+"US1AZCH0076","2023","31.34465","-109.551799","1215.8","DOUGLAS 0.8 WNW, AZ US","        31","N","        16","N","         0","N","  15.5"," ,N,0712, ","    118.6"," ,N"
+"US1AZCH0076","2024","31.34465","-109.551799","1215.8","DOUGLAS 0.8 WNW, AZ US","        39","N","        23","N","         3","N","  43.2"," ,N,0808, ","    271.8"," ,N"

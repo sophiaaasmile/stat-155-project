@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00036015","1922","-21.8","146.8167",,"CARINYA, AS","        31","a","        28","a","         8","a","  82.6"," ,a,0202, ","    570.3"," ,a"
+"ASN00036015","1927","-21.8","146.8167",,"CARINYA, AS","        26","a","        25","a","         7","a","  44.5"," ,a,0118, ","    449.5"," ,a"
+"ASN00036015","1928","-21.8","146.8167",,"CARINYA, AS","        17","a","        16","a","         5","a","  68.3"," ,a,0408, ","    351.1"," ,a"

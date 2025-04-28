@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR00E3-1000","1954","-23.75","-46.63","780.0","BAIRRO ALVARENGA, BR","       118","I","        78","I","        11","I","  47.5"," ,I,0119, ","   1086.1"," ,I"
+"BR00E3-1000","1957","-23.75","-46.63","780.0","BAIRRO ALVARENGA, BR","       152","I","        97","I","        20","I","  72.2"," ,I,1012, ","   1655.2"," ,I"
+"BR00E3-1000","1958","-23.75","-46.63","780.0","BAIRRO ALVARENGA, BR","       147","I","        97","I","        13","I","  52.9"," ,I,1222, ","   1418.0"," ,I"

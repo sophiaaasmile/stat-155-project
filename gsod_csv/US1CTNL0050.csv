@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CTNL0050","2021","41.4918","-72.0184","43.3","NORWICH 5.4 SE, CT US","       148","N","        79","N","        14","N"," 190.8"," ,N,0902, ","   1360.0"," ,N"
+"US1CTNL0050","2022","41.4918","-72.0184","43.3","NORWICH 5.4 SE, CT US","       153","N","        87","N","        12","N","  81.5"," ,N,0906, ","   1190.0"," ,N"
+"US1CTNL0050","2023","41.4918","-72.0184","43.3","NORWICH 5.4 SE, CT US","       151","N","        85","N","        19","N"," 107.2"," ,N,1211, ","   1464.6"," ,N"
+"US1CTNL0050","2024","41.4918","-72.0184","43.3","NORWICH 5.4 SE, CT US","       135","N","        88","N","        19","N","  77.5"," ,N,0110, ","   1474.7"," ,N"

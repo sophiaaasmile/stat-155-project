@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1FLLV0001","2008","29.15689","-82.561089","18.9","DUNNELLON 10.1 NW, FL US","        72","N","        61","N","        19","N","         0","N","     0"," ,N,1231,+"," 167.9"," ,N,0823, ","   1402.1"," ,N","        0"," ,N"
+"US1FLLV0001","2009","29.15689","-82.561089","18.9","DUNNELLON 10.1 NW, FL US","","","","","","","","","","","","","    968.2"," ,N","",""
+"US1FLLV0001","2011","29.15689","-82.561089","18.9","DUNNELLON 10.1 NW, FL US","","","","","","","","","","","","","    883.5"," ,N","",""
+"US1FLLV0001","2012","29.15689","-82.561089","18.9","DUNNELLON 10.1 NW, FL US","        73","N","        60","N","        15","N","","","",""," 112.3"," ,N,0625, ","   1196.9"," ,N","",""
+"US1FLLV0001","2021","29.15689","-82.561089","18.9","DUNNELLON 10.1 NW, FL US","","","","","","","","","","","","","   1475.0"," ,N","",""

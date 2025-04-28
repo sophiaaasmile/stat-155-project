@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NMSN0109","2020","35.330627","-106.530229","1554.5","BERNALILLO 1.8 NE, NM US","        29","N","        17","N","         0","N","  11.9"," ,N,0314, ","    134.7"," ,N"
+"US1NMSN0109","2021","35.330627","-106.530229","1554.5","BERNALILLO 1.8 NE, NM US","        37","N","        13","N","         0","N","  13.2"," ,N,0807, ","    111.7"," ,N"
+"US1NMSN0109","2023","35.330627","-106.530229","1554.5","BERNALILLO 1.8 NE, NM US","        52","N","        25","N","         0","N","  15.7"," ,N,0827, ","    178.8"," ,N"

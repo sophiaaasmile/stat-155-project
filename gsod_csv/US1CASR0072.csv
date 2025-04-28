@@ -1,0 +1,7 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASR0072","2019","34.1430609","-116.0632069","624.8","TWENTYNINE PALMS 0.3 NNE, CA US","        32","N","        17","N","         1","N","  41.7"," ,N,1227, ","    181.1"," ,N"
+"US1CASR0072","2020","34.1430609","-116.0632069","624.8","TWENTYNINE PALMS 0.3 NNE, CA US","        18","N","         9","N","         1","N","  41.4"," ,N,0313, ","    109.4"," ,N"
+"US1CASR0072","2021","34.1430609","-116.0632069","624.8","TWENTYNINE PALMS 0.3 NNE, CA US","        15","N","         6","N","         0","N","  20.3"," ,N,0726,+","     70.2"," ,N"
+"US1CASR0072","2022","34.1430609","-116.0632069","624.8","TWENTYNINE PALMS 0.3 NNE, CA US","        16","N","         2","N","         0","N","   6.9"," ,N,0805, ","     27.3"," ,N"
+"US1CASR0072","2023","34.1430609","-116.0632069","624.8","TWENTYNINE PALMS 0.3 NNE, CA US","        23","N","        10","N","         1","N","  26.7"," ,N,0821, ","     90.4"," ,N"
+"US1CASR0072","2024","34.1430609","-116.0632069","624.8","TWENTYNINE PALMS 0.3 NNE, CA US","        17","N","        11","N","         1","N","  35.6"," ,N,0715, ","    124.0"," ,N"

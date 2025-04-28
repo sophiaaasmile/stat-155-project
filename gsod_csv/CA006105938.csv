@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006105938","1956","45.4","-75.6667","61.0","OTTAWA BECKWITH RD, ON CA","       160","C","        85","C","         5","C","        26","C","   127"," ,C,0206, ","  35.6"," ,C,0526, ","    801.8"," ,C","     2062"," ,C"
+"CA006105938","1959","45.4","-75.6667","61.0","OTTAWA BECKWITH RD, ON CA","       157","C","        94","C","         4","C","        36","C","   152"," ,C,1207,+","  43.9"," ,C,0809, ","    863.6"," ,C","     2820"," ,C"
+"CA006105938","1960","45.4","-75.6667","61.0","OTTAWA BECKWITH RD, ON CA","       148","C","        83","C","         0","C","        28","C","   251"," ,C,0219, ","  25.1"," ,C,0219, ","    771.1"," ,C","     2481"," ,C"

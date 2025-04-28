@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1INVN0010","2007","38.02813","-87.54356","116.1","EVANSVILLE 3.0 N, IN US","       113","N","        70","N","        11","N","         2","N","    25"," ,N,1216,+","  42.2"," ,N,1018, ","   1023.0"," ,N","       99"," ,N"
+"US1INVN0010","2008","38.02813","-87.54356","116.1","EVANSVILLE 3.0 N, IN US","       127","N","        79","N","        17","N","","","",""," 142.7"," ,N,0319, ","   1407.4"," ,N","",""
+"US1INVN0010","2009","38.02813","-87.54356","116.1","EVANSVILLE 3.0 N, IN US","       134","N","        86","N","        16","N","","","","","  67.3"," ,N,1009, ","   1371.0"," ,N","",""
+"US1INVN0010","2010","38.02813","-87.54356","116.1","EVANSVILLE 3.0 N, IN US","       103","N","        68","N","         7","N","","","","","  61.7"," ,N,1125, ","    907.9"," ,N","",""

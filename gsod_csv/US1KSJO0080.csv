@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSJO0080","2021","39.042","-94.7785","282.9","LAKE QUIVIRA 0.6 W, KS US","       105","N","        68","N","        11","N"," 122.9"," ,N,0813, ","   1136.4"," ,N"
+"US1KSJO0080","2022","39.042","-94.7785","282.9","LAKE QUIVIRA 0.6 W, KS US","       106","N","        58","N","         9","N","  60.7"," ,N,1105, ","    930.4"," ,N"
+"US1KSJO0080","2023","39.042","-94.7785","282.9","LAKE QUIVIRA 0.6 W, KS US","       109","N","        65","N","        11","N","  66.0"," ,N,1025, ","   1001.6"," ,N"
+"US1KSJO0080","2024","39.042","-94.7785","282.9","LAKE QUIVIRA 0.6 W, KS US","       107","N","        61","N","        11","N","  90.7"," ,N,0704, ","    967.7"," ,N"

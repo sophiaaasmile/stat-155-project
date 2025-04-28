@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1COOT0025","2014","37.966308","-103.544288","1281.7","LA JUNTA 1.0 S, CO US","        69","N","        35","N","         2","N","","","","","  49.8"," ,N,0713, ","    332.4"," ,N","",""
+"US1COOT0025","2015","37.966308","-103.544288","1281.7","LA JUNTA 1.0 S, CO US","        75","N","        41","N","         2","N","         4","N","    79"," ,N,0122, ","  38.1"," ,N,0509, ","    393.5"," ,N","      257"," ,N"
+"US1COOT0025","2018","37.966308","-103.544288","1281.7","LA JUNTA 1.0 S, CO US","        55","N","        25","N","         1","N","","","","","  45.0"," ,N,0724, ","    252.7"," ,N","",""

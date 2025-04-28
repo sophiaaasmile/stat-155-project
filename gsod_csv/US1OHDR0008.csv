@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OHDR0008","2015","39.9463","-84.4537","315.5","POTSDAM 2.6 WSW, OH US","","","","","","","","","   1023.1"," ,N"
+"US1OHDR0008","2016","39.9463","-84.4537","315.5","POTSDAM 2.6 WSW, OH US","       123","N","        77","N","         6","N","  46.7"," ,N,0627, ","    982.7"," ,N"
+"US1OHDR0008","2017","39.9463","-84.4537","315.5","POTSDAM 2.6 WSW, OH US","       131","N","        82","N","        14","N","  95.5"," ,N,0624, ","   1258.1"," ,N"
+"US1OHDR0008","2019","39.9463","-84.4537","315.5","POTSDAM 2.6 WSW, OH US","       131","N","        84","N","         6","N","  52.3"," ,N,0208, ","   1069.9"," ,N"

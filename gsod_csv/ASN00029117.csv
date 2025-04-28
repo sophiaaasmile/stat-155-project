@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00029117","1959","-18.0","140.5667",,"INVERLEIGH STATION, AS","        22","a","        22","a","         7","a"," 111.8"," ,a,0112, ","    517.5"," ,a"
+"ASN00029117","1960","-18.0","140.5667",,"INVERLEIGH STATION, AS","        28","a","        28","a","         7","a","  83.8"," ,a,1107, ","    589.2"," ,a"
+"ASN00029117","1969","-18.0","140.5667",,"INVERLEIGH STATION, AS","        28","a","        28","a","         8","a","  91.2"," ,a,0104, ","    641.2"," ,a"
+"ASN00029117","1970","-18.0","140.5667",,"INVERLEIGH STATION, AS","        27","a","        27","a","        12","a","  76.2"," ,a,0205, ","    664.4"," ,a"

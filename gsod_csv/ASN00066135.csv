@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00066135","1968","-33.8333","151.0667","8.0","SILVERWATER RANAD NEWINGTON, AS","        70","a","        39","a","         5","a","  51.7"," ,a,0105, ","    489.0"," ,a"
+"ASN00066135","1969","-33.8333","151.0667","8.0","SILVERWATER RANAD NEWINGTON, AS","        94","a","        54","a","         9","a"," 167.4"," ,a,0416, ","   1044.4"," ,a"
+"ASN00066135","1970","-33.8333","151.0667","8.0","SILVERWATER RANAD NEWINGTON, AS","        89","a","        53","a","         3","a","  91.5"," ,a,1209, ","    668.7"," ,a"
+"ASN00066135","1971","-33.8333","151.0667","8.0","SILVERWATER RANAD NEWINGTON, AS","        99","a","        56","a","         8","a","  46.1"," ,a,0916, ","    717.5"," ,a"
+"ASN00066135","1972","-33.8333","151.0667","8.0","SILVERWATER RANAD NEWINGTON, AS","       121","a","        66","a","        10","a"," 106.7"," ,a,1017, ","    924.9"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA007020835","1969","45.6333","-72.8167","69.0","BRITANNIA MILLS, QC CA","       116","C","       100","C","         5","C","        30","C","   533"," ,C,1227, ","  53.3"," ,C,1227, ","   1051.6"," ,C","     3651"," ,C"
+"CA007020835","1973","45.6333","-72.8167","69.0","BRITANNIA MILLS, QC CA","       133","C","       121","C","         3","C","        28","C","   178"," ,C,1221, ","  37.8"," ,C,0317, ","   1053.2"," ,C","     1994"," ,C"
+"CA007020835","1974","45.6333","-72.8167","69.0","BRITANNIA MILLS, QC CA","       119","C","        97","C","         8","C","        24","C","   203"," ,C,1121, ","  36.8"," ,C,0509, ","   1033.2"," ,C","     1712"," ,C"

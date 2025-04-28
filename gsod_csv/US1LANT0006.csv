@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1LANT0006","2019","31.933048","-93.027671","0.9","CAMPTI 5.7 ENE, LA US","       101","N","        82","N","        22","N","  79.5"," ,N,0509, ","   1520.8"," ,N"
+"US1LANT0006","2020","31.933048","-93.027671","0.9","CAMPTI 5.7 ENE, LA US","       105","N","        88","N","        22","N"," 136.1"," ,N,0827, ","   1888.4"," ,N"
+"US1LANT0006","2023","31.933048","-93.027671","0.9","CAMPTI 5.7 ENE, LA US","        79","N","        57","N","        17","N","  87.9"," ,N,0103, ","   1174.2"," ,N"

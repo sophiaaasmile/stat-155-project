@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00030066","1914","-21.2333","142.3333","137.0","BELFORD STATION, AS","        28","a","        24","a","         1","a","  26.9"," ,a,1225, ","    273.0"," ,a"
+"ASN00030066","1915","-21.2333","142.3333","137.0","BELFORD STATION, AS","        26","a","        20","a","         4","a","  53.3"," ,a,0124, ","    334.4"," ,a"
+"ASN00030066","1916","-21.2333","142.3333","137.0","BELFORD STATION, AS","        46","a","        40","a","        11","a"," 120.1"," ,a,0126, ","    869.3"," ,a"

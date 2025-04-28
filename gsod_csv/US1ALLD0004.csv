@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ALLD0004","2008","34.792123","-87.678868","154.8","FLORENCE 2.6 SSW, AL US","       124","N","        81","N","        10","N"," 112.5"," ,N,1210, ","   1265.3"," ,N"
+"US1ALLD0004","2009","34.792123","-87.678868","154.8","FLORENCE 2.6 SSW, AL US","       155","N","        91","N","        18","N","  93.7"," ,N,0717, ","   1733.3"," ,N"
+"US1ALLD0004","2010","34.792123","-87.678868","154.8","FLORENCE 2.6 SSW, AL US","       119","N","        79","N","        10","N","  60.2"," ,N,0503, ","   1137.1"," ,N"
+"US1ALLD0004","2011","34.792123","-87.678868","154.8","FLORENCE 2.6 SSW, AL US","       127","N","        77","N","        20","N"," 116.1"," ,N,0629, ","   1677.1"," ,N"

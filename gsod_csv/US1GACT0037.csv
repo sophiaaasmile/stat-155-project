@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GACT0037","2014","32.018709","-80.85","2.1","TYBEE ISLAND 0.7 NNE, GA US","","","","","","","","","   1417.9"," ,N"
+"US1GACT0037","2019","32.018709","-80.85","2.1","TYBEE ISLAND 0.7 NNE, GA US","","","","","","","","","   1098.7"," ,N"
+"US1GACT0037","2021","32.018709","-80.85","2.1","TYBEE ISLAND 0.7 NNE, GA US","        98","N","        60","N","        12","N"," 115.1"," ,N,0708, ","   1171.6"," ,N"
+"US1GACT0037","2023","32.018709","-80.85","2.1","TYBEE ISLAND 0.7 NNE, GA US","       105","N","        73","N","        11","N","  80.0"," ,N,1218, ","   1216.2"," ,N"

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004016522","1980","49.5333","-101.7","587.0","REDVERS, SK CA","        67","C","        39","C","         2","C","        12","C","   140"," ,C,0220, ","  65.0"," ,C,0803, ","    434.6"," ,C","      950"," ,C"
+"CA004016522","1981","49.5333","-101.7","587.0","REDVERS, SK CA","        82","C","        48","C","         2","C","         8","C","   200"," ,C,0124, ","  35.0"," ,C,0823, ","    452.0"," ,C","      700"," ,C"

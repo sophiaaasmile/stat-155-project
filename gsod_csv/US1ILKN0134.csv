@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILKN0134","2022","41.8508017","-88.5877128","249.3","MAPLE PARK 3.9 S, IL US","       103","N","        62","N","         5","N","  39.4"," ,N,0809, ","    784.1"," ,N"
+"US1ILKN0134","2023","41.8508017","-88.5877128","249.3","MAPLE PARK 3.9 S, IL US","       124","N","        78","N","         6","N","  41.9"," ,N,0712, ","    797.7"," ,N"
+"US1ILKN0134","2024","41.8508017","-88.5877128","249.3","MAPLE PARK 3.9 S, IL US","       107","N","        65","N","         5","N","  66.0"," ,N,0623, ","    789.4"," ,N"

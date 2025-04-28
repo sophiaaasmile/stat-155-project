@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00065107","2005","-32.167","148.9607","330.0","DUBBO MURONBUNG YOURALLA, AS","        47","a","        34","a","         3","a","  31.0"," ,a,0917, ","    569.0"," ,a"
+"ASN00065107","2008","-32.167","148.9607","330.0","DUBBO MURONBUNG YOURALLA, AS","        39","a","        35","a","         7","a","  53.0"," ,a,0119, ","    726.3"," ,a"
+"ASN00065107","2009","-32.167","148.9607","330.0","DUBBO MURONBUNG YOURALLA, AS","        48","a","        36","a","         4","a","  80.0"," ,a,1225, ","    470.0"," ,a"
+"ASN00065107","2010","-32.167","148.9607","330.0","DUBBO MURONBUNG YOURALLA, AS","        66","a","        59","a","        14","a","  71.0"," ,a,0330, ","   1171.0"," ,a"

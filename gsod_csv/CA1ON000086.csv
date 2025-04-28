@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1ON000086","2019","43.4969101","-80.2438583","321.9","GUELPH 5.1 S CANWARN, ON CA","       172","N","        91","N","         4","N","  33.8"," ,N,1002, ","    954.7"," ,N"
+"CA1ON000086","2020","43.4969101","-80.2438583","321.9","GUELPH 5.1 S CANWARN, ON CA","       155","N","        84","N","         5","N","  78.5"," ,N,0112, ","    931.5"," ,N"
+"CA1ON000086","2021","43.4969101","-80.2438583","321.9","GUELPH 5.1 S CANWARN, ON CA","       152","N","        86","N","         8","N","  53.6"," ,N,0609, ","    953.8"," ,N"
+"CA1ON000086","2022","43.4969101","-80.2438583","321.9","GUELPH 5.1 S CANWARN, ON CA","       127","N","        66","N","         1","N","  28.2"," ,N,1013, ","    591.9"," ,N"

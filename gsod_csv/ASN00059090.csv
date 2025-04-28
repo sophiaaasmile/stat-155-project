@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00059090","1971","-30.75","153.0","10.0","SCOTTS HEAD POST OFFICE, AS","        92","a","        66","a","        12","a","  87.9"," ,a,0617, ","   1142.1"," ,a"
+"ASN00059090","1972","-30.75","153.0","10.0","SCOTTS HEAD POST OFFICE, AS","       113","a","        81","a","        18","a","  95.3"," ,a,1001, ","   1543.0"," ,a"
+"ASN00059090","1975","-30.75","153.0","10.0","SCOTTS HEAD POST OFFICE, AS","        97","a","        71","a","        14","a","  92.8"," ,a,1220, ","   1353.9"," ,a"

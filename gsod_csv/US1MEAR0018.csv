@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1MEAR0018","2015","47.0108","-68.1439","258.5","NEW SWEDEN 4.9 NNW, ME US","","","","","","","","","","","","","","","","","    997.0"," ,N","",""
+"US1MEAR0018","2020","47.0108","-68.1439","258.5","NEW SWEDEN 4.9 NNW, ME US","","","","","","","","","","","","","","","","","   1030.2"," ,N","",""
+"US1MEAR0018","2021","47.0108","-68.1439","258.5","NEW SWEDEN 4.9 NNW, ME US","       160","N","        86","N","         9","N","      137","","        28","N","   749"," ,N,0303,+","   208"," ,N,1223, ","  44.7"," ,N,0927, ","    980.5"," ,N","     2578"," ,N"
+"US1MEAR0018","2022","47.0108","-68.1439","258.5","NEW SWEDEN 4.9 NNW, ME US","       164","N","        97","N","        10","N","","","        33","N","","","   221"," ,N,0130, ","  91.9"," ,N,0528, ","   1378.5"," ,N","     3324"," ,N"
+"US1MEAR0018","2024","47.0108","-68.1439","258.5","NEW SWEDEN 4.9 NNW, ME US","       152","N","        88","N","         4","N","","","","","","","","","  60.7"," ,N,1212, ","    923.9"," ,N","",""

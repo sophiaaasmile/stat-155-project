@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA00703CFQD","1969","47.4167","-74.8667","396.0","LAC PARENT, QC CA","       170","C","       117","C","         7","C","        36","C","   417"," ,C,1227, ","  46.5"," ,C,1013, ","   1044.6"," ,C","     2790"," ,C"
+"CA00703CFQD","1970","47.4167","-74.8667","396.0","LAC PARENT, QC CA","       154","C","       107","C","         7","C","        37","C","   394"," ,C,0210, ","  88.6"," ,C,0720, ","   1120.4"," ,C","     3007"," ,C"
+"CA00703CFQD","1972","47.4167","-74.8667","396.0","LAC PARENT, QC CA","","","","","","","        55","C","   368"," ,C,0203, ","","","","","     4868"," ,C"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1IALN0027","2020","42.055233","-91.6072","263.0","MARION 1.7 NNW, IA US","       100","N","        60","N","         9","N","  65.0"," ,N,0912, ","    929.7"," ,N"
+"US1IALN0027","2021","42.055233","-91.6072","263.0","MARION 1.7 NNW, IA US","        98","N","        56","N","         6","N","  87.1"," ,N,0626, ","    677.1"," ,N"
+"US1IALN0027","2023","42.055233","-91.6072","263.0","MARION 1.7 NNW, IA US","        95","N","        54","N","         4","N","  41.7"," ,N,1012, ","    588.7"," ,N"

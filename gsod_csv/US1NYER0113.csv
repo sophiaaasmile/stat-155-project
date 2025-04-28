@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYER0113","2015","42.837002","-78.743309","198.4","WEST SENECA 0.4 E, NY US","       171","N","        92","N","         6","N","  49.3"," ,N,0930, ","    979.6"," ,N"
+"US1NYER0113","2016","42.837002","-78.743309","198.4","WEST SENECA 0.4 E, NY US","       154","N","        82","N","         6","N","  52.8"," ,N,0918, ","    932.5"," ,N"
+"US1NYER0113","2017","42.837002","-78.743309","198.4","WEST SENECA 0.4 E, NY US","       170","N","       108","N","        11","N","  77.2"," ,N,0714, ","   1392.4"," ,N"
+"US1NYER0113","2018","42.837002","-78.743309","198.4","WEST SENECA 0.4 E, NY US","       182","N","        96","N","         8","N","  45.2"," ,N,1102, ","   1132.1"," ,N"

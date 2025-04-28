@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSND","DSND_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSD","EMSD_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"RMC00914895","1986","11.2333","169.85","1.8","UTIRIK, MH RM","       193","0","       117","0","        16","0","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+"," 133.4"," ,0,1128, ","   1857.4"," ,0","        0"," ,0"
+"RMC00914895","1987","11.2333","169.85","1.8","UTIRIK, MH RM","","","","","","","        0","","         0","0","     0"," ,0,1231,+","     0"," ,0,1231,+","","","","","        0"," ,0"
+"RMC00914895","2014","11.2333","169.85","1.8","UTIRIK, MH RM","       173","7","       112","7","        12","7","","","","","","","","","  64.3"," ,7,0521, ","   1308.7"," ,7","",""

@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10sarp036","2012","41.148628","-95.922888",,"BELLEVUE 1.9 WNW, NE US","        72","N","        48","N","         4","N","         1","N","   152"," ,N,1220, "," 106.7"," ,N,0415, ","    630.6"," ,N","      152"," ,N"
+"US10sarp036","2013","41.148628","-95.922888",,"BELLEVUE 1.9 WNW, NE US","        97","N","        54","N","        11","N","         0","N","     0"," ,N,1231,+","  84.8"," ,N,1004, ","    823.9"," ,N","        0"," ,N"

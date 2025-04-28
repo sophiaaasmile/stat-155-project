@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COLR0625","2011","40.4693","-104.9843","1509.1","FORT COLLINS 10 SSE, CO US","        79","N","        41","N","         2","N","  49.0"," ,N,0519, ","    439.6"," ,N"
+"US1COLR0625","2012","40.4693","-104.9843","1509.1","FORT COLLINS 10 SSE, CO US","        56","N","        25","N","         0","N","  18.8"," ,N,0708, ","    214.8"," ,N"
+"US1COLR0625","2013","40.4693","-104.9843","1509.1","FORT COLLINS 10 SSE, CO US","        90","N","        41","N","         4","N","  55.1"," ,N,0912, ","    485.5"," ,N"

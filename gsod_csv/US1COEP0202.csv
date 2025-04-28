@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COEP0202","2012","38.69105","-104.681681","1695.6","FOUNTAIN 1.8 NNE, CO US","        54","N","        18","N","         0","N","  21.1"," ,N,0913, ","    168.9"," ,N"
+"US1COEP0202","2016","38.69105","-104.681681","1695.6","FOUNTAIN 1.8 NNE, CO US","        72","N","        40","N","         4","N","  30.2"," ,N,0726, ","    484.3"," ,N"
+"US1COEP0202","2017","38.69105","-104.681681","1695.6","FOUNTAIN 1.8 NNE, CO US","        83","N","        41","N","         4","N","  60.5"," ,N,0727, ","    620.4"," ,N"

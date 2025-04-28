@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006150898","1968","43.6833","-79.7167","206.0","BRAMALEA, ON CA","       129","C","        78","C","         8","C","        18","C","   318"," ,C,0114, ","  64.3"," ,C,0822, ","    955.2"," ,C","     1897"," ,C"
+"CA006150898","1969","43.6833","-79.7167","206.0","BRAMALEA, ON CA","       109","C","        67","C","         6","C","        20","C","   191"," ,C,1021, ","  64.5"," ,C,0816, ","    739.4"," ,C","     1505"," ,C"
+"CA006150898","1970","43.6833","-79.7167","206.0","BRAMALEA, ON CA","       115","C","        90","C","         2","C","        31","C","   117"," ,C,1211,+","  50.5"," ,C,0830, ","    905.1"," ,C","     2044"," ,C"

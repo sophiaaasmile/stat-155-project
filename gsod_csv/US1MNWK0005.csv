@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNWK0005","2019","46.5692","-96.7154","285.3","WOLVERTON 1.1 ENE, MN US","","","","","","","","","    698.0"," ,N"
+"US1MNWK0005","2021","46.5692","-96.7154","285.3","WOLVERTON 1.1 ENE, MN US","        89","N","        46","N","         2","N","  33.0"," ,N,0903, ","    509.4"," ,N"
+"US1MNWK0005","2022","46.5692","-96.7154","285.3","WOLVERTON 1.1 ENE, MN US","       117","N","        58","N","         2","N","  26.7"," ,N,0625, ","    538.1"," ,N"
+"US1MNWK0005","2023","46.5692","-96.7154","285.3","WOLVERTON 1.1 ENE, MN US","        94","N","        41","N","         5","N","  43.4"," ,N,0924, ","    535.1"," ,N"
+"US1MNWK0005","2024","46.5692","-96.7154","285.3","WOLVERTON 1.1 ENE, MN US","       101","N","        51","N","         5","N","  47.0"," ,N,0516, ","    643.8"," ,N"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10lanc067","2014","40.78892","-96.741346",,"LINCOLN 3.9 W, NE US","        98","N","        51","N","         9","N","         2","N","   102"," ,N,0205, "," 153.2"," ,N,1001, ","    891.4"," ,N","      159"," ,N"
+"US10lanc067","2018","40.78892","-96.741346",,"LINCOLN 3.9 W, NE US","       100","N","        65","N","        12","N","","","","","  78.7"," ,N,0902, ","    945.8"," ,N","",""
+"US10lanc067","2019","40.78892","-96.741346",,"LINCOLN 3.9 W, NE US","       124","N","        70","N","         9","N","","","","","  84.1"," ,N,1002, ","    956.9"," ,N","",""
+"US10lanc067","2020","40.78892","-96.741346",,"LINCOLN 3.9 W, NE US","        63","N","        45","N","         4","N","","","","","  50.8"," ,N,0523, ","    546.1"," ,N","",""

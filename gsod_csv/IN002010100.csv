@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN002010100","1966","27.27","92.43","2484.0","BOMDILA OBSERVATORY, IN","       107","I","        75","I","         6","I","  49.8"," ,I,1002, ","    925.7"," ,I"
+"IN002010100","1967","27.27","92.43","2484.0","BOMDILA OBSERVATORY, IN","       132","I","        88","I","         7","I","  50.0"," ,I,0708, ","   1112.8"," ,I"
+"IN002010100","1968","27.27","92.43","2484.0","BOMDILA OBSERVATORY, IN","        82","I","        62","I","        12","I"," 131.2"," ,I,0619, ","   1057.8"," ,I"
+"IN002010100","1969","27.27","92.43","2484.0","BOMDILA OBSERVATORY, IN","        91","I","        69","I","         9","I","  87.0"," ,I,0718, ","   1131.0"," ,I"

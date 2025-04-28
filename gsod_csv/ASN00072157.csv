@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00072157","1982","-35.4667","148.7167","690.0","BRINDABELLA KOORABRI, AS","        71","a","        41","a","         2","a","  50.0"," ,a,0324, ","    445.6"," ,a"
+"ASN00072157","1983","-35.4667","148.7167","690.0","BRINDABELLA KOORABRI, AS","       130","a","        89","a","        13","a","  82.2"," ,a,0322, ","   1324.5"," ,a"
+"ASN00072157","1984","-35.4667","148.7167","690.0","BRINDABELLA KOORABRI, AS","       110","a","        72","a","        11","a","  95.0"," ,a,0126, ","   1107.3"," ,a"

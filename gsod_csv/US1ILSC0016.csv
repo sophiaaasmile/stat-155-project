@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILSC0016","2012","38.6049","-89.9685","171.0","FAIRVIEW HEIGHTS 2.0 ENE, IL US","       106","N","        59","N","        12","N","  62.0"," ,N,0926, ","    953.1"," ,N"
+"US1ILSC0016","2016","38.6049","-89.9685","171.0","FAIRVIEW HEIGHTS 2.0 ENE, IL US","       127","N","        72","N","         7","N","  81.5"," ,N,0910, ","   1006.5"," ,N"
+"US1ILSC0016","2017","38.6049","-89.9685","171.0","FAIRVIEW HEIGHTS 2.0 ENE, IL US","       107","N","        58","N","         9","N","  77.5"," ,N,0430, ","    895.1"," ,N"
+"US1ILSC0016","2018","38.6049","-89.9685","171.0","FAIRVIEW HEIGHTS 2.0 ENE, IL US","       123","N","        80","N","        17","N","  69.3"," ,N,0908, ","   1430.6"," ,N"
+"US1ILSC0016","2019","38.6049","-89.9685","171.0","FAIRVIEW HEIGHTS 2.0 ENE, IL US","       133","N","        81","N","        18","N","  63.8"," ,N,0618, ","   1463.3"," ,N"
+"US1ILSC0016","2022","38.6049","-89.9685","171.0","FAIRVIEW HEIGHTS 2.0 ENE, IL US","       123","N","        71","N","        13","N"," 156.5"," ,N,0726, ","   1290.4"," ,N"
+"US1ILSC0016","2024","38.6049","-89.9685","171.0","FAIRVIEW HEIGHTS 2.0 ENE, IL US","       111","N","        75","N","        15","N"," 126.2"," ,N,0717, ","   1349.9"," ,N"

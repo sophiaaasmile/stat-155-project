@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"SWE00140346","1990","64.5","19.05","220.0","EKORRTRASK, SW","       137","E","        74","E","         0","E","  23.0"," ,E,0804, ","    562.3"," ,E"
+"SWE00140346","1991","64.5","19.05","220.0","EKORRTRASK, SW","       138","E","        66","E","         0","E","  22.5"," ,E,0710, ","    490.5"," ,E"
+"SWE00140346","1992","64.5","19.05","220.0","EKORRTRASK, SW","       146","E","        70","E","         1","E","  41.1"," ,E,0811, ","    612.3"," ,E"
+"SWE00140346","1993","64.5","19.05","220.0","EKORRTRASK, SW","       139","E","        64","E","         3","E","  34.5"," ,E,0731, ","    649.7"," ,E"

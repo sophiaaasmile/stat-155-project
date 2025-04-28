@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INHM0067","2019","39.966561","-85.943146","249.0","FISHERS 4.3 ENE, IN US","       115","N","        90","N","         7","N","  96.0"," ,N,0616, ","   1243.0"," ,N"
+"US1INHM0067","2021","39.966561","-85.943146","249.0","FISHERS 4.3 ENE, IN US","       121","N","        89","N","        16","N","  79.5"," ,N,1025, ","   1267.2"," ,N"
+"US1INHM0067","2022","39.966561","-85.943146","249.0","FISHERS 4.3 ENE, IN US","       103","N","        70","N","         9","N","  80.0"," ,N,0912, ","   1039.4"," ,N"
+"US1INHM0067","2023","39.966561","-85.943146","249.0","FISHERS 4.3 ENE, IN US","       104","N","        81","N","         6","N","  59.7"," ,N,0810, ","    953.3"," ,N"

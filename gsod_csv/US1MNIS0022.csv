@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNIS0022","2021","45.55762","-93.44595","293.5","PRINCETON 6.6 E, MN US","       105","N","        52","N","         4","N","  62.0"," ,N,0407, ","    642.0"," ,N"
+"US1MNIS0022","2022","45.55762","-93.44595","293.5","PRINCETON 6.6 E, MN US","       121","N","        71","N","         8","N","  72.1"," ,N,0512, ","    883.7"," ,N"
+"US1MNIS0022","2023","45.55762","-93.44595","293.5","PRINCETON 6.6 E, MN US","       105","N","        64","N","         8","N","  55.9"," ,N,0924, ","    794.7"," ,N"
+"US1MNIS0022","2024","45.55762","-93.44595","293.5","PRINCETON 6.6 E, MN US","       105","N","        68","N","        12","N","  72.4"," ,N,0603, ","    978.4"," ,N"

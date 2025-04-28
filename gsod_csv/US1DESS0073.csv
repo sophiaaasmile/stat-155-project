@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1DESS0073","2021","38.5319","-75.4732","11.6","LAUREL 5.6 ESE, DE US","       120","N","        74","N","        13","N","  73.9"," ,N,0709, ","   1194.7"," ,N"
+"US1DESS0073","2022","38.5319","-75.4732","11.6","LAUREL 5.6 ESE, DE US","       121","N","        84","N","        13","N","  50.5"," ,N,1001, ","   1055.1"," ,N"
+"US1DESS0073","2023","38.5319","-75.4732","11.6","LAUREL 5.6 ESE, DE US","       115","N","        68","N","        13","N"," 119.4"," ,N,1218, ","   1196.6"," ,N"
+"US1DESS0073","2024","38.5319","-75.4732","11.6","LAUREL 5.6 ESE, DE US","       111","N","        63","N","        12","N","  82.6"," ,N,0713, ","   1080.2"," ,N"

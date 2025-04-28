@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00051100","1930","-30.8","147.6",,"WALLANBAH, AS","        30","a","        29","a","         4","a","  41.4"," ,a,1011,+","    390.2"," ,a"
+"ASN00051100","1931","-30.8","147.6",,"WALLANBAH, AS","        38","a","        36","a","         6","a","  57.2"," ,a,0527, ","    587.5"," ,a"
+"ASN00051100","1932","-30.8","147.6",,"WALLANBAH, AS","        21","a","        13","a","         2","a","  31.0"," ,a,0915, ","    184.7"," ,a"
+"ASN00051100","1933","-30.8","147.6",,"WALLANBAH, AS","        46","a","        37","a","         3","a","  49.3"," ,a,1001, ","    453.3"," ,a"

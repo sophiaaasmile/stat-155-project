@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASA0015","2009","38.608611","-121.412222","14.0","SACRAMENTO 4.1 NE, CA US","        59","N","        38","N","         4","N","  57.4"," ,N,1014, ","    492.4"," ,N"
+"US1CASA0015","2010","38.608611","-121.412222","14.0","SACRAMENTO 4.1 NE, CA US","        85","N","        50","N","         2","N","  36.8"," ,N,0303, ","    627.0"," ,N"
+"US1CASA0015","2011","38.608611","-121.412222","14.0","SACRAMENTO 4.1 NE, CA US","        58","N","        39","N","         2","N","  29.2"," ,N,0325, ","    459.2"," ,N"
+"US1CASA0015","2012","38.608611","-121.412222","14.0","SACRAMENTO 4.1 NE, CA US","        58","N","        40","N","         6","N","  40.6"," ,N,1203, ","    639.9"," ,N"

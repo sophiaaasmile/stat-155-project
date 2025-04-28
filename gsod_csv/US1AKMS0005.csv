@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1AKMS0005","2009","61.699466","-149.989656","92.7","WILLOW 3.6 SE, AK US","","","","","","","","","","","","","    433.7"," ,N","",""
+"US1AKMS0005","2012","61.699466","-149.989656","92.7","WILLOW 3.6 SE, AK US","       140","N","        66","N","         4","N","","","","","  46.2"," ,N,0920, ","    688.0"," ,N","",""
+"US1AKMS0005","2013","61.699466","-149.989656","92.7","WILLOW 3.6 SE, AK US","       155","N","        73","N","         3","N","        34","N","   198"," ,N,0323, ","  39.1"," ,N,1028, ","    884.4"," ,N","     2689"," ,N"
+"US1AKMS0005","2014","61.699466","-149.989656","92.7","WILLOW 3.6 SE, AK US","       133","N","        58","N","         0","N","","","","","  21.3"," ,N,0627, ","    563.7"," ,N","",""

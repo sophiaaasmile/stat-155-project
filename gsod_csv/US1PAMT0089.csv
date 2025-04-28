@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1PAMT0089","2016","40.094095","-75.14316","84.4","WYNCOTE 0.3 ENE, PA US","       105","N","        66","N","         8","N","  52.6"," ,N,0731, ","    868.4"," ,N"
+"US1PAMT0089","2017","40.094095","-75.14316","84.4","WYNCOTE 0.3 ENE, PA US","","","","","","","","","    980.4"," ,N"
+"US1PAMT0089","2022","40.094095","-75.14316","84.4","WYNCOTE 0.3 ENE, PA US","","","","","","","","","   1174.0"," ,N"
+"US1PAMT0089","2024","40.094095","-75.14316","84.4","WYNCOTE 0.3 ENE, PA US","       103","N","        77","N","        12","N","  78.2"," ,N,0110, ","   1053.9"," ,N"

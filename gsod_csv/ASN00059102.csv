@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00059102","1974","-30.1667","152.8833","556.3","MOLETON CRADLE CREEK ROAD, AS","       137","a","        97","a","        22","a"," 244.4"," ,a,0311, ","   2750.0"," ,a"
+"ASN00059102","1975","-30.1667","152.8833","556.3","MOLETON CRADLE CREEK ROAD, AS","       123","a","        77","a","        16","a","  96.8"," ,a,1115,+","   1353.2"," ,a"
+"ASN00059102","1976","-30.1667","152.8833","556.3","MOLETON CRADLE CREEK ROAD, AS","       144","a","        97","a","        21","a"," 176.4"," ,a,0622, ","   2035.6"," ,a"

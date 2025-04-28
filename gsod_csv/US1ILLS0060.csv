@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILLS0060","2020","41.346993","-89.117667","194.8","PERU 0.7 ENE, IL US","       119","N","        71","N","         7","N","  41.9"," ,N,0515, ","    926.4"," ,N"
+"US1ILLS0060","2021","41.346993","-89.117667","194.8","PERU 0.7 ENE, IL US","       126","N","        65","N","        10","N","  88.9"," ,N,1025, ","    972.0"," ,N"
+"US1ILLS0060","2022","41.346993","-89.117667","194.8","PERU 0.7 ENE, IL US","       128","N","        73","N","         9","N","  77.7"," ,N,0705, ","    997.1"," ,N"

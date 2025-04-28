@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040085","1947","-26.8167","151.65",,"GLENCLIFFE, AS","        57","a","        54","a","        18","a","  71.1"," ,a,1128, ","   1016.9"," ,a"
+"ASN00040085","1948","-26.8167","151.65",,"GLENCLIFFE, AS","        46","a","        44","a","         7","a","  44.5"," ,a,0615, ","    631.2"," ,a"
+"ASN00040085","1949","-26.8167","151.65",,"GLENCLIFFE, AS","        64","a","        53","a","        11","a","  69.6"," ,a,1025, ","    800.7"," ,a"
+"ASN00040085","1951","-26.8167","151.65",,"GLENCLIFFE, AS","        63","a","        45","a","         4","a","  69.9"," ,a,0131, ","    559.4"," ,a"

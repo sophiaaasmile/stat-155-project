@@ -1,0 +1,8 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00019078","2004","-32.5172","137.8425","34.0","PORT AUGUSTA STIRLING NORTH, AS","        47","a","        29","a","         0","a","  21.0"," ,a,0602, ","    253.4"," ,a"
+"ASN00019078","2005","-32.5172","137.8425","34.0","PORT AUGUSTA STIRLING NORTH, AS","        41","a","        30","a","         1","a","  27.4"," ,a,1107, ","    280.6"," ,a"
+"ASN00019078","2006","-32.5172","137.8425","34.0","PORT AUGUSTA STIRLING NORTH, AS","        36","a","        22","a","         0","a","  25.0"," ,a,0223, ","    188.5"," ,a"
+"ASN00019078","2007","-32.5172","137.8425","34.0","PORT AUGUSTA STIRLING NORTH, AS","        36","a","        22","a","         1","a","  44.4"," ,a,0119, ","    248.6"," ,a"
+"ASN00019078","2008","-32.5172","137.8425","34.0","PORT AUGUSTA STIRLING NORTH, AS","        41","a","        17","a","         1","a","  69.3"," ,a,1212, ","    228.2"," ,a"
+"ASN00019078","2009","-32.5172","137.8425","34.0","PORT AUGUSTA STIRLING NORTH, AS","        41","a","        23","a","         2","a","  52.0"," ,a,1122, ","    254.2"," ,a"
+"ASN00019078","2021","-32.5172","137.8425","34.0","PORT AUGUSTA STIRLING NORTH, AS","        54","a","        28","a","         1","a","  59.8"," ,a,1112, ","    296.9"," ,a"

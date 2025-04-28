@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00088115","1969","-37.4","144.4","686.0","TRENTHAM EAST, AS","       157","a","        89","a","         7","a","  39.9"," ,a,0903, ","    874.6"," ,a"
+"ASN00088115","1970","-37.4","144.4","686.0","TRENTHAM EAST, AS","       172","a","       102","a","        10","a","  97.8"," ,a,0102, ","   1317.2"," ,a"
+"ASN00088115","1971","-37.4","144.4","686.0","TRENTHAM EAST, AS","       182","a","       111","a","         5","a","  55.4"," ,a,1108, ","   1244.4"," ,a"
+"ASN00088115","1972","-37.4","144.4","686.0","TRENTHAM EAST, AS","       125","a","        76","a","         3","a","  58.7"," ,a,0217, ","    791.2"," ,a"

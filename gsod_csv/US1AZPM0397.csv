@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZPM0397","2021","32.390278","-110.994167","755.9","ORO VALLEY 2.0 W, AZ US","        58","N","        31","N","         2","N","  46.7"," ,N,0723, ","    344.2"," ,N"
+"US1AZPM0397","2022","32.390278","-110.994167","755.9","ORO VALLEY 2.0 W, AZ US","        48","N","        26","N","         2","N","  27.9"," ,N,0811, ","    262.8"," ,N"
+"US1AZPM0397","2023","32.390278","-110.994167","755.9","ORO VALLEY 2.0 W, AZ US","        42","N","        23","N","         1","N","  25.7"," ,N,0116, ","    222.4"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","FZF0","FZF0_ATTRIBUTES","FZF5","FZF5_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"MU000041254","1995","23.067","57.633","1755.0","SAIQ, MU","         0","I","         0","I","","","","","","","    0.3","I,0109, ","","","","","","","","","     12.08","I"
+"MU000041254","1996","23.067","57.633","1755.0","SAIQ, MU","         0","I","         3","I","","","","","","","   -0.6","I,0116, ","","","-0.3","I,1218","0.0","I,0117","","","     11.48","I"
+"MU000041254","2005","23.067","57.633","1755.0","SAIQ, MU","","","","","         0","S","       219","S","        11","S","","","   34.9","S,0627, ","","","","","     23.24","S","",""

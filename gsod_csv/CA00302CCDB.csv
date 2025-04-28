@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA00302CCDB","1967","52.85","-114.2","914.0","HOADLEY, AB CA","       101","C","        44","C","         0","C","        19","C","   117"," ,C,1030, ","  24.4"," ,C,0721, ","    323.6"," ,C","     1388"," ,C"
+"CA00302CCDB","1969","52.85","-114.2","914.0","HOADLEY, AB CA","        87","C","        58","C","         3","C","        15","C","   114"," ,C,1115, ","  39.6"," ,C,0704, ","    516.0"," ,C","      920"," ,C"
+"CA00302CCDB","1974","52.85","-114.2","914.0","HOADLEY, AB CA","        99","C","        67","C","         3","C","        34","C","   229"," ,C,1221, ","  71.4"," ,C,0711, ","    593.2"," ,C","     2191"," ,C"
+"CA00302CCDB","1979","52.85","-114.2","914.0","HOADLEY, AB CA","        92","C","        49","C","         1","C","        11","C","   170"," ,C,1124, ","  26.1"," ,C,0728, ","    362.1"," ,C","     1218"," ,C"

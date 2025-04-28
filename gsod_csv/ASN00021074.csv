@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00021074","1960","-33.3825","138.585","355.0","SPALDING WASHPOOL, AS","       104","a","        70","a","         2","a","  34.8"," ,a,0506, ","    658.6"," ,a"
+"ASN00021074","1961","-33.3825","138.585","355.0","SPALDING WASHPOOL, AS","        67","a","        49","a","         3","a","  41.7"," ,a,1117, ","    476.0"," ,a"
+"ASN00021074","1962","-33.3825","138.585","355.0","SPALDING WASHPOOL, AS","        45","a","        38","a","         3","a","  35.6"," ,a,0329, ","    379.6"," ,a"
+"ASN00021074","1963","-33.3825","138.585","355.0","SPALDING WASHPOOL, AS","        64","a","        53","a","         1","a","  31.2"," ,a,1212, ","    501.2"," ,a"

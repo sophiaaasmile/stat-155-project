@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1INDL0012","2014","40.186499","-85.489698","282.9","YORKTOWN 1.1 NNW, IN US","       124","N","        82","N","        11","N"," 117.6"," ,N,0822, ","   1138.2"," ,N"
+"US1INDL0012","2016","40.186499","-85.489698","282.9","YORKTOWN 1.1 NNW, IN US","       127","N","        84","N","         7","N","  38.1"," ,N,0831, ","   1049.5"," ,N"
+"US1INDL0012","2022","40.186499","-85.489698","282.9","YORKTOWN 1.1 NNW, IN US","       127","N","        69","N","         8","N"," 159.0"," ,N,0718, ","    961.0"," ,N"
+"US1INDL0012","2023","40.186499","-85.489698","282.9","YORKTOWN 1.1 NNW, IN US","       128","N","        73","N","         5","N","  41.4"," ,N,0304, ","    884.5"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR000560001","1993","-5.29","-60.7","0.0","RECREIO PEDREIRAS, BR","       161","I","       144","I","        24","I","  99.6"," ,I,1230, ","   2306.0"," ,I"
+"BR000560001","1994","-5.29","-60.7","0.0","RECREIO PEDREIRAS, BR","       170","I","       149","I","        20","I","  88.4"," ,I,0628, ","   2164.9"," ,I"
+"BR000560001","1996","-5.29","-60.7","0.0","RECREIO PEDREIRAS, BR","       169","I","       154","I","        29","I","  67.3"," ,I,0410, ","   2503.4"," ,I"

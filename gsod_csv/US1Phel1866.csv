@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1Phel1866","2018","40.42379508","-99.30829203",,"HOLDREGE 3.7 ESE, NE US","        98","N","        66","N","        11","N","  62.7"," ,N,0620, ","    976.9"," ,N"
+"US1Phel1866","2019","40.42379508","-99.30829203",,"HOLDREGE 3.7 ESE, NE US","        96","N","        54","N","         9","N"," 122.9"," ,N,0709, ","    921.7"," ,N"
+"US1Phel1866","2020","40.42379508","-99.30829203",,"HOLDREGE 3.7 ESE, NE US","        69","N","        39","N","         2","N","  43.4"," ,N,0522, ","    408.9"," ,N"
+"US1Phel1866","2021","40.42379508","-99.30829203",,"HOLDREGE 3.7 ESE, NE US","        76","N","        51","N","         9","N"," 119.4"," ,N,0314, ","    860.8"," ,N"

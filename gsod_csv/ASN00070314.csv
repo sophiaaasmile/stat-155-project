@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00070314","1985","-35.3928","149.0819","660.0","WANNIASSA HILLS HOLDEN CRESC, AS","        93","a","        43","a","         2","a","  34.4"," ,a,1127, ","    628.8"," ,a"
+"ASN00070314","1986","-35.3928","149.0819","660.0","WANNIASSA HILLS HOLDEN CRESC, AS","        83","a","        45","a","         2","a","  75.2"," ,a,1119, ","    590.4"," ,a"
+"ASN00070314","1987","-35.3928","149.0819","660.0","WANNIASSA HILLS HOLDEN CRESC, AS","        83","a","        42","a","         3","a","  61.0"," ,a,0221, ","    588.6"," ,a"
+"ASN00070314","1990","-35.3928","149.0819","660.0","WANNIASSA HILLS HOLDEN CRESC, AS","       100","a","        52","a","         7","a","  43.4"," ,a,0411, ","    673.6"," ,a"

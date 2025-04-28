@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA008300550","1958","46.3167","-63.5","99.0","ROSE VALLEY, PE CA","       115","C","        89","C","         8","C","        21","C","   254"," ,C,0322, ","  44.5"," ,C,0907, ","   1091.1"," ,C","     1929"," ,C"
+"CA008300550","1959","46.3167","-63.5","99.0","ROSE VALLEY, PE CA","       129","C","        96","C","         2","C","        18","C","   178"," ,C,1230, ","  36.8"," ,C,1116, ","    972.8"," ,C","     1219"," ,C"
+"CA008300550","1960","46.3167","-63.5","99.0","ROSE VALLEY, PE CA","       129","C","        78","C","         6","C","        28","C","   356"," ,C,1212, ","  35.6"," ,C,1212, ","    798.8"," ,C","     2417"," ,C"

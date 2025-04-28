@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OHHM0013","2018","39.25","-84.579","252.7","CINCINNATI 8.9 NW, OH US","       159","N","       105","N","        12","N","  79.5"," ,N,0909, ","   1456.1"," ,N"
+"US1OHHM0013","2021","39.25","-84.579","252.7","CINCINNATI 8.9 NW, OH US","       145","N","        77","N","        11","N"," 105.2"," ,N,0701, ","   1178.0"," ,N"
+"US1OHHM0013","2022","39.25","-84.579","252.7","CINCINNATI 8.9 NW, OH US","       130","N","        71","N","        11","N","  50.3"," ,N,0218, ","   1013.4"," ,N"
+"US1OHHM0013","2023","39.25","-84.579","252.7","CINCINNATI 8.9 NW, OH US","       112","N","        69","N","         8","N","  72.1"," ,N,0304, ","    932.6"," ,N"
+"US1OHHM0013","2024","39.25","-84.579","252.7","CINCINNATI 8.9 NW, OH US","       122","N","        85","N","         7","N","  62.5"," ,N,0928, ","   1103.8"," ,N"

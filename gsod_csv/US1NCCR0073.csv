@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCCR0073","2015","34.698465","-76.7939278","3.4","PINE KNOLL SHORES 1.4 E, NC US","       140","N","        91","N","        23","N"," 175.3"," ,N,1120, ","   1931.9"," ,N"
+"US1NCCR0073","2017","34.698465","-76.7939278","3.4","PINE KNOLL SHORES 1.4 E, NC US","       132","N","        76","N","        13","N","  81.0"," ,N,0123, ","   1276.2"," ,N"
+"US1NCCR0073","2020","34.698465","-76.7939278","3.4","PINE KNOLL SHORES 1.4 E, NC US","       146","N","        93","N","        24","N","  63.0"," ,N,1225, ","   1759.7"," ,N"
+"US1NCCR0073","2023","34.698465","-76.7939278","3.4","PINE KNOLL SHORES 1.4 E, NC US","       130","N","        81","N","        19","N"," 123.4"," ,N,0831, ","   1555.6"," ,N"
+"US1NCCR0073","2024","34.698465","-76.7939278","3.4","PINE KNOLL SHORES 1.4 E, NC US","        99","N","        70","N","        17","N"," 160.0"," ,N,0917, ","   1498.1"," ,N"

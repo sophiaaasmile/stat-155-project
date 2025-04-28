@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00040418","1969","-27.5275","152.9222","40.0","MOGGILL VET RES FARM, AS","        93","a","        57","a","         9","a"," 100.3"," ,a,1114, ","    921.3"," ,a"
+"ASN00040418","1972","-27.5275","152.9222","40.0","MOGGILL VET RES FARM, AS","","","","","","","","","   1823.6"," ,a"
+"ASN00040418","1973","-27.5275","152.9222","40.0","MOGGILL VET RES FARM, AS","       107","a","        64","a","         7","a","  71.1"," ,a,0215, ","   1245.8"," ,a"

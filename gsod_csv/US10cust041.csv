@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10cust041","2014","41.40039","-99.584402",,"BROKEN BOW 2.9 E, NE US","        60","N","        45","N","         3","N","  59.4"," ,N,0809, ","    511.5"," ,N"
+"US10cust041","2018","41.40039","-99.584402",,"BROKEN BOW 2.9 E, NE US","        70","N","        46","N","         4","N","  46.5"," ,N,0905, ","    630.5"," ,N"
+"US10cust041","2020","41.40039","-99.584402",,"BROKEN BOW 2.9 E, NE US","        60","N","        36","N","         5","N","  53.8"," ,N,0726, ","    464.0"," ,N"
+"US10cust041","2021","41.40039","-99.584402",,"BROKEN BOW 2.9 E, NE US","        59","N","        37","N","         4","N","  71.1"," ,N,0314, ","    542.6"," ,N"

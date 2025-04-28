@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN022043400","1975","11.92","79.83","6.0","PONDICHERY OBSERVATORY, IN","        79","I","        71","I","        33","I"," 318.0"," ,I,1124, ","   3454.4"," ,I"
+"IN022043400","1976","11.92","79.83","6.0","PONDICHERY OBSERVATORY, IN","        67","I","        64","I","        32","I"," 252.0"," ,I,1016, ","   2958.4"," ,I"
+"IN022043400","1979","11.92","79.83","6.0","PONDICHERY OBSERVATORY, IN","        66","I","        66","I","        29","I"," 271.8"," ,I,0917, ","   3396.8"," ,I"
+"IN022043400","1984","11.92","79.83","6.0","PONDICHERY OBSERVATORY, IN","        73","I","        73","I","        36","I"," 240.8"," ,I,0930, ","   3236.5"," ,I"

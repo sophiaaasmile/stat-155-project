@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00039182","1913","-24.8833","152.1",,"NORTH KOLAN, AS","        89","a","        57","a","        14","a"," 327.7"," ,a,0115, ","   1686.1"," ,a"
+"ASN00039182","1914","-24.8833","152.1",,"NORTH KOLAN, AS","        84","a","        51","a","         8","a","  50.3"," ,a,0328, ","    737.2"," ,a"
+"ASN00039182","1916","-24.8833","152.1",,"NORTH KOLAN, AS","        92","a","        64","a","        18","a"," 133.9"," ,a,0222, ","   1336.4"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"AO000066422","1958","-15.2","12.15","45.0","MOCAMEDES, AO","         0","I","         0","I","    7.2","I,0715,+","     15.55","I"
+"AO000066422","1959","-15.2","12.15","45.0","MOCAMEDES, AO","         0","I","         0","I","    6.1","I,0512, ","     16.05","I"
+"AO000066422","1961","-15.2","12.15","45.0","MOCAMEDES, AO","         0","I","         0","I","    7.8","I,0731,+","     16.95","I"

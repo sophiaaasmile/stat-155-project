@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR037923680","1964","-9.67","-43.65","503.0","CARAIBA DE SANTA TERESA, BR","        47","I","        43","I","         7","I","  43.1"," ,I,0101, ","    665.5"," ,I"
+"BR037923680","1975","-9.67","-43.65","503.0","CARAIBA DE SANTA TERESA, BR","        26","I","        26","I","         8","I","  51.0"," ,I,0202, ","    593.5"," ,I"
+"BR037923680","1978","-9.67","-43.65","503.0","CARAIBA DE SANTA TERESA, BR","        34","I","        34","I","        11","I","  95.4"," ,I,0110, ","    806.7"," ,I"
+"BR037923680","1980","-9.67","-43.65","503.0","CARAIBA DE SANTA TERESA, BR","        42","I","        42","I","        16","I","  76.4"," ,I,1207, ","   1171.1"," ,I"

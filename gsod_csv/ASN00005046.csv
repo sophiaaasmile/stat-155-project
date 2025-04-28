@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00005046","1923","-22.7","116.1",,"HARDY JUNCTION, AS","        31","a","        24","a","         3","a","  33.5"," ,a,0410, ","    280.9"," ,a"
+"ASN00005046","1924","-22.7","116.1",,"HARDY JUNCTION, AS","        12","a","         9","a","         0","a","  21.1"," ,a,0608, ","     70.8"," ,a"
+"ASN00005046","1926","-22.7","116.1",,"HARDY JUNCTION, AS","        21","a","        17","a","         3","a","  53.3"," ,a,1212, ","    228.2"," ,a"
+"ASN00005046","1929","-22.7","116.1",,"HARDY JUNCTION, AS","        35","a","        28","a","         8","a"," 109.2"," ,a,0220, ","    534.6"," ,a"
+"ASN00005046","1931","-22.7","116.1",,"HARDY JUNCTION, AS","        26","a","        22","a","         4","a"," 101.9"," ,a,0504, ","    403.9"," ,a"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COAD0249","2021","39.963457","-103.839581","1436.5","ADENA 4.4 SSE, CO US","        50","N","        23","N","         4","N","  48.8"," ,N,0702, ","    344.4"," ,N"
+"US1COAD0249","2022","39.963457","-103.839581","1436.5","ADENA 4.4 SSE, CO US","        39","N","        20","N","         2","N","  29.2"," ,N,0816, ","    271.7"," ,N"
+"US1COAD0249","2023","39.963457","-103.839581","1436.5","ADENA 4.4 SSE, CO US","        58","N","        42","N","         6","N","  88.9"," ,N,0511, ","    639.9"," ,N"

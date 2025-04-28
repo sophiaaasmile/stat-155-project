@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00058122","1968","-28.4167","152.75","274.3","UNUMGAR STATE FOREST, AS","        62","a","        50","a","         8","a","  57.7"," ,a,0814, ","    750.0"," ,a"
+"ASN00058122","1969","-28.4167","152.75","274.3","UNUMGAR STATE FOREST, AS","        90","a","        67","a","         7","a","  82.3"," ,a,1223, ","    854.2"," ,a"
+"ASN00058122","1970","-28.4167","152.75","274.3","UNUMGAR STATE FOREST, AS","       107","a","        60","a","        13","a","  81.3"," ,a,0122, ","   1161.8"," ,a"
+"ASN00058122","1971","-28.4167","152.75","274.3","UNUMGAR STATE FOREST, AS","       114","a","        72","a","        13","a","  63.2"," ,a,0218, ","   1106.0"," ,a"

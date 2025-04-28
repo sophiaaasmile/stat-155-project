@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00076132","1904","-35.2333","143.1833",,"WOOD WOOD PRETTY PINE, AS","        54","a","        30","a","         0","a","  24.1"," ,a,0120, ","    248.7"," ,a"
+"ASN00076132","1905","-35.2333","143.1833",,"WOOD WOOD PRETTY PINE, AS","        61","a","        34","a","         2","a","  31.8"," ,a,0409, ","    356.2"," ,a"
+"ASN00076132","1906","-35.2333","143.1833",,"WOOD WOOD PRETTY PINE, AS","        67","a","        36","a","         4","a","  45.2"," ,a,0522, ","    393.1"," ,a"

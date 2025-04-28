@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00088122","1970","-37.3333","145.2833","256.0","FLOWERDALE KINLOCHIEL, AS","       122","a","        81","a","         6","a","  49.3"," ,a,0102, ","    883.4"," ,a"
+"ASN00088122","1971","-37.3333","145.2833","256.0","FLOWERDALE KINLOCHIEL, AS","       131","a","        86","a","         7","a","  40.1"," ,a,1108, ","    965.1"," ,a"
+"ASN00088122","1972","-37.3333","145.2833","256.0","FLOWERDALE KINLOCHIEL, AS","       109","a","        69","a","         2","a","  46.0"," ,a,0217, ","    638.1"," ,a"

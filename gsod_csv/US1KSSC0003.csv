@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSSC0003","2016","38.3956","-100.7684","912.0","SCOTT CITY 9.6 SE, KS US","        47","N","        29","N","         4","N","  48.8"," ,N,0807, ","    452.0"," ,N"
+"US1KSSC0003","2017","38.3956","-100.7684","912.0","SCOTT CITY 9.6 SE, KS US","        63","N","        39","N","         8","N","  49.3"," ,N,0501, ","    710.8"," ,N"
+"US1KSSC0003","2018","38.3956","-100.7684","912.0","SCOTT CITY 9.6 SE, KS US","","","","","","","","","    602.6"," ,N"
+"US1KSSC0003","2019","38.3956","-100.7684","912.0","SCOTT CITY 9.6 SE, KS US","        53","N","        34","N","         2","N","  40.1"," ,N,0524, ","    398.3"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00034004","1999","-22.5133","148.4267","175.0","KYEWONG, AS","        51","a","        28","a","         4","a","  83.0"," ,a,1219, ","    467.4"," ,a"
+"ASN00034004","2000","-22.5133","148.4267","175.0","KYEWONG, AS","        74","a","        44","a","         8","a"," 143.6"," ,a,1030, ","    919.8"," ,a"
+"ASN00034004","2001","-22.5133","148.4267","175.0","KYEWONG, AS","        46","a","        34","a","         4","a","  48.0"," ,a,0131, ","    501.4"," ,a"

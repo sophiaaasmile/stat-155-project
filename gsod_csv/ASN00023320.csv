@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00023320","1990","-34.4769","138.9933","265.0","NURIOOTPA TOWN BRIDGE, AS","       100","a","        46","a","         1","a","  29.4"," ,a,0627, ","    453.1"," ,a"
+"ASN00023320","1991","-34.4769","138.9933","265.0","NURIOOTPA TOWN BRIDGE, AS","        89","a","        48","a","         1","a","  43.8"," ,a,0609, ","    500.0"," ,a"
+"ASN00023320","1992","-34.4769","138.9933","265.0","NURIOOTPA TOWN BRIDGE, AS","       115","a","        75","a","         4","a","  31.0"," ,a,0830, ","    839.8"," ,a"
+"ASN00023320","1993","-34.4769","138.9933","265.0","NURIOOTPA TOWN BRIDGE, AS","        84","a","        47","a","         0","a","  22.0"," ,a,0919, ","    433.2"," ,a"

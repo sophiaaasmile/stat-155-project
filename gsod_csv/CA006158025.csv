@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA006158025","1972","43.6167","-79.9333","259.0","STEWARTOWN, ON CA","","","","","","","        20","C","   117"," ,C,0202, ","","","","","     1337"," ,C"
+"CA006158025","1973","43.6167","-79.9333","259.0","STEWARTOWN, ON CA","       139","C","        78","C","         6","C","        13","C","   112"," ,C,1219, ","  44.2"," ,C,0731, ","    857.7"," ,C","      839"," ,C"
+"CA006158025","1974","43.6167","-79.9333","259.0","STEWARTOWN, ON CA","       120","C","        70","C","         7","C","        11","C","   127"," ,C,0108, ","  68.3"," ,C,0516, ","    783.5"," ,C","      916"," ,C"

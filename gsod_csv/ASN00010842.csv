@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010842","1916","-33.85","116.9833",,"MURADUP, AS","       117","a","        65","a","         1","a","  30.7"," ,a,0215, ","    553.2"," ,a"
+"ASN00010842","1917","-33.85","116.9833",,"MURADUP, AS","       163","a","        89","a","         7","a","  40.6"," ,a,0630, ","    952.6"," ,a"
+"ASN00010842","1918","-33.85","116.9833",,"MURADUP, AS","       104","a","        65","a","         2","a","  31.8"," ,a,0327,+","    606.7"," ,a"

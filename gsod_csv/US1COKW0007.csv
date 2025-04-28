@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1COKW0007","2020","38.4532","-103.1634","1386.8","HASWELL .07 NNW, CO US","        40","N","        14","N","         1","N","  42.9"," ,N,0805, ","    154.9"," ,N"
+"US1COKW0007","2022","38.4532","-103.1634","1386.8","HASWELL .07 NNW, CO US","        33","N","        21","N","         4","N","  66.5"," ,N,0608, ","    298.4"," ,N"
+"US1COKW0007","2024","38.4532","-103.1634","1386.8","HASWELL .07 NNW, CO US","        46","N","        24","N","         2","N","  37.8"," ,N,1110, ","    254.6"," ,N"

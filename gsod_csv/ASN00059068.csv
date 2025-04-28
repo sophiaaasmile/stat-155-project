@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00059068","2001","-30.9809","152.799","51.0","COLLOMBATTI BENBULLEN, AS","        86","a","        58","a","        11","a","  81.0"," ,a,0308, ","   1063.0"," ,a"
+"ASN00059068","2002","-30.9809","152.799","51.0","COLLOMBATTI BENBULLEN, AS","        79","a","        49","a","         6","a"," 105.0"," ,a,0331, ","    733.6"," ,a"
+"ASN00059068","2004","-30.9809","152.799","51.0","COLLOMBATTI BENBULLEN, AS","        66","a","        41","a","         8","a","  84.2"," ,a,1019, ","    926.2"," ,a"

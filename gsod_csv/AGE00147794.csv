@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES"
+"AGE00147794","1932","36.78","5.1","225.0","BEJAIA CAP CARBON, AG","         0","E","       164","E","        11","E","   39.0","E,0816, ","     21.19","E"
+"AGE00147794","1935","36.78","5.1","225.0","BEJAIA CAP CARBON, AG","         0","E","       149","E","        20","E","   39.0","E,0808, ","     21.34","E"
+"AGE00147794","1938","36.78","5.1","225.0","BEJAIA CAP CARBON, AG","         0","E","       179","E","        17","E","   39.0","E,0726, ","     21.70","E"

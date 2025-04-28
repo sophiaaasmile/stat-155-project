@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZPM0012","2016","32.025488","-111.274892","916.8","THREE POINTS 2.9 S, AZ US","        59","N","        29","N","         0","N","  22.9"," ,N,0730, ","    288.6"," ,N"
+"US1AZPM0012","2018","32.025488","-111.274892","916.8","THREE POINTS 2.9 S, AZ US","        54","N","        33","N","         3","N","  34.0"," ,N,0215, ","    411.9"," ,N"
+"US1AZPM0012","2023","32.025488","-111.274892","916.8","THREE POINTS 2.9 S, AZ US","        37","N","        21","N","         3","N","  30.5"," ,N,1223, ","    262.9"," ,N"
+"US1AZPM0012","2024","32.025488","-111.274892","916.8","THREE POINTS 2.9 S, AZ US","        44","N","        29","N","         0","N","  21.6"," ,N,0721, ","    307.1"," ,N"

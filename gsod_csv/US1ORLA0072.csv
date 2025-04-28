@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ORLA0072","2012","44.0717","-122.9814","142.6","SPRINGFIELD 1.3 N, OR US","","","","","","","","","   1434.7"," ,N"
+"US1ORLA0072","2018","44.0717","-122.9814","142.6","SPRINGFIELD 1.3 N, OR US","       127","N","        88","N","         1","N","  25.7"," ,N,0408, ","    806.3"," ,N"
+"US1ORLA0072","2019","44.0717","-122.9814","142.6","SPRINGFIELD 1.3 N, OR US","       158","N","        93","N","         5","N","  39.4"," ,N,0408, ","    965.8"," ,N"
+"US1ORLA0072","2020","44.0717","-122.9814","142.6","SPRINGFIELD 1.3 N, OR US","       150","N","       104","N","         4","N","  35.3"," ,N,1220, ","   1025.8"," ,N"

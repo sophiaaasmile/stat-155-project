@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASA0061","2020","38.570137","-121.196535","74.1","RANCHO CORDOVA 5.9 ESE, CA US","        40","N","        20","N","         2","N","  34.3"," ,N,0405, ","    253.0"," ,N"
+"US1CASA0061","2021","38.570137","-121.196535","74.1","RANCHO CORDOVA 5.9 ESE, CA US","        56","N","        38","N","         5","N"," 128.3"," ,N,1025, ","    572.9"," ,N"
+"US1CASA0061","2022","38.570137","-121.196535","74.1","RANCHO CORDOVA 5.9 ESE, CA US","        46","N","        27","N","         4","N","  63.5"," ,N,1231, ","    419.3"," ,N"
+"US1CASA0061","2023","38.570137","-121.196535","74.1","RANCHO CORDOVA 5.9 ESE, CA US","        72","N","        47","N","         5","N","  64.3"," ,N,0101, ","    634.3"," ,N"
+"US1CASA0061","2024","38.570137","-121.196535","74.1","RANCHO CORDOVA 5.9 ESE, CA US","        69","N","        49","N","         2","N","  55.9"," ,N,1123, ","    601.2"," ,N"

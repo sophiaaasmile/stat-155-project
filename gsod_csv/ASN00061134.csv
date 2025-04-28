@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00061134","1962","-32.1667","150.55","243.8","BALAIBLUAN, AS","        72","a","        46","a","         5","a","  57.2"," ,a,0512, ","    636.9"," ,a"
+"ASN00061134","1963","-32.1667","150.55","243.8","BALAIBLUAN, AS","        71","a","        55","a","         7","a","  66.3"," ,a,0129, ","    810.2"," ,a"
+"ASN00061134","1964","-32.1667","150.55","243.8","BALAIBLUAN, AS","        50","a","        39","a","         6","a","  55.4"," ,a,0421, ","    631.1"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00030151","1985","-20.36","144.34","640.0","BOONDEROO STATION, AS","        29","a","        27","a","         7","a","  50.0"," ,a,1104, ","    445.1"," ,a"
+"ASN00030151","1986","-20.36","144.34","640.0","BOONDEROO STATION, AS","        24","a","        24","a","         7","a","  56.0"," ,a,0214, ","    478.2"," ,a"
+"ASN00030151","1987","-20.36","144.34","640.0","BOONDEROO STATION, AS","        26","a","        21","a","         7","a","  68.4"," ,a,0302,+","    455.9"," ,a"
+"ASN00030151","1990","-20.36","144.34","640.0","BOONDEROO STATION, AS","        27","a","        23","a","         6","a","  85.0"," ,a,1208, ","    572.0"," ,a"

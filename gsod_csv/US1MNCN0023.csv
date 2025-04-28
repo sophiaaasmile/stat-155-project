@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNCN0023","2019","46.4852","-92.3403","290.2","HOLYOKE 2.7 ENE, MN US","       146","N","        87","N","        11","N"," 109.5"," ,N,0930, ","   1170.8"," ,N"
+"US1MNCN0023","2020","46.4852","-92.3403","290.2","HOLYOKE 2.7 ENE, MN US","       106","N","        50","N","         7","N","  66.0"," ,N,0808, ","    678.6"," ,N"
+"US1MNCN0023","2022","46.4852","-92.3403","290.2","HOLYOKE 2.7 ENE, MN US","       136","N","        72","N","         7","N","  45.7"," ,N,1110, ","    810.2"," ,N"
+"US1MNCN0023","2024","46.4852","-92.3403","290.2","HOLYOKE 2.7 ENE, MN US","       127","N","        64","N","         7","N","  54.4"," ,N,0522, ","    767.5"," ,N"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00097059","1938","-42.5667","145.6833","24.4","GORDON RIVER SIR JOHN FALLS, AS","       251","a","       180","a","        23","a","  69.9"," ,a,1211, ","   2516.9"," ,a"
+"ASN00097059","1939","-42.5667","145.6833","24.4","GORDON RIVER SIR JOHN FALLS, AS","       261","a","       176","a","        22","a","  79.2"," ,a,0917, ","   2576.9"," ,a"
+"ASN00097059","1940","-42.5667","145.6833","24.4","GORDON RIVER SIR JOHN FALLS, AS","       278","a","       195","a","        22","a","  55.6"," ,a,0606, ","   2571.6"," ,a"

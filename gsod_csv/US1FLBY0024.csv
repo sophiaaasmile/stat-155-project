@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1FLBY0024","2021","30.15108","-85.65493","8.2","PANAMA CITY 1.9 SE, FL US","       131","N","        91","N","        30","N"," 155.7"," ,N,0823, ","   2405.4"," ,N"
+"US1FLBY0024","2022","30.15108","-85.65493","8.2","PANAMA CITY 1.9 SE, FL US","       110","N","        85","N","        25","N"," 121.4"," ,N,0526, ","   1843.9"," ,N"
+"US1FLBY0024","2023","30.15108","-85.65493","8.2","PANAMA CITY 1.9 SE, FL US","        98","N","        70","N","        26","N"," 124.2"," ,N,1203, ","   1732.0"," ,N"
+"US1FLBY0024","2024","30.15108","-85.65493","8.2","PANAMA CITY 1.9 SE, FL US","       105","N","        79","N","        19","N"," 102.1"," ,N,0411, ","   1594.2"," ,N"

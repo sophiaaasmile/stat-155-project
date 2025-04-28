@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00008259","1916","-28.3333","115.1",,"WEIRMONGER, AS","        41","a","        26","a","         3","a","  45.2"," ,a,0121, ","    309.2"," ,a"
+"ASN00008259","1917","-28.3333","115.1",,"WEIRMONGER, AS","        64","a","        54","a","         7","a","  49.5"," ,a,0319, ","    649.4"," ,a"
+"ASN00008259","1918","-28.3333","115.1",,"WEIRMONGER, AS","        47","a","        38","a","         2","a","  38.1"," ,a,0224, ","    342.5"," ,a"
+"ASN00008259","1919","-28.3333","115.1",,"WEIRMONGER, AS","        31","a","        25","a","         3","a","  52.3"," ,a,0608, ","    359.0"," ,a"

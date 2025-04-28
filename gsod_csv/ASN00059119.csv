@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00059119","1934","-30.5167","151.6833","80.0","KALANG WYEMBAH, AS","       142","a","        89","a","        20","a"," 100.6"," ,a,0729, ","   1610.9"," ,a"
+"ASN00059119","1940","-30.5167","151.6833","80.0","KALANG WYEMBAH, AS","        77","a","        55","a","         9","a"," 152.9"," ,a,0319, ","    851.9"," ,a"
+"ASN00059119","1941","-30.5167","151.6833","80.0","KALANG WYEMBAH, AS","        99","a","        63","a","        10","a","  54.9"," ,a,0117, ","    917.2"," ,a"

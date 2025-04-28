@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1ILMP0007","2018","39.244467","-89.923627","187.1","CARLINVILLE 3.4 SW, IL US","       119","N","        83","N","        11","N","  57.2"," ,N,0825, ","   1126.7"," ,N"
+"US1ILMP0007","2019","39.244467","-89.923627","187.1","CARLINVILLE 3.4 SW, IL US","       118","N","        84","N","        15","N","  57.2"," ,N,0501, ","   1308.9"," ,N"
+"US1ILMP0007","2022","39.244467","-89.923627","187.1","CARLINVILLE 3.4 SW, IL US","        89","N","        64","N","         8","N","  72.9"," ,N,0726, ","   1090.3"," ,N"
+"US1ILMP0007","2024","39.244467","-89.923627","187.1","CARLINVILLE 3.4 SW, IL US","        99","N","        68","N","        10","N","  98.3"," ,N,1105, ","   1129.9"," ,N"

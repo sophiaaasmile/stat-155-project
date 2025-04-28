@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"PEM00084673","1977","-13.155","-74.204","2717.9","CORONEL FAP ALFREDO MENDIVIL, PE","        77","S","        43","S","         1","S","         0","S","         0","S","    2.0","S,0528, ","  41.9"," ,S,1101, ","    427.2"," ,S","      9.21","S"
+"PEM00084673","1978","-13.155","-74.204","2717.9","CORONEL FAP ALFREDO MENDIVIL, PE","       101","S","        71","S","         1","S","","","","","","","  70.1"," ,S,0315, ","    643.0"," ,S","",""
+"PEM00084673","1996","-13.155","-74.204","2717.9","CORONEL FAP ALFREDO MENDIVIL, PE","","","","","","","         0"," ","         0","S","    1.0","S,0707,+","","","","","      6.83","S"
+"PEM00084673","2017","-13.155","-74.204","2717.9","CORONEL FAP ALFREDO MENDIVIL, PE","","","","","","","         0"," ","         0","S","    2.8","S,0722, ","","","","","      9.79","S"

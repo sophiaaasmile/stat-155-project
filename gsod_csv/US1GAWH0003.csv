@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1GAWH0003","2015","34.612","-83.826","487.7","CLEVELAND 3.9 WNW, GA US","       154","N","       110","N","        26","N","  97.3"," ,N,1004, ","   2093.4"," ,N"
+"US1GAWH0003","2016","34.612","-83.826","487.7","CLEVELAND 3.9 WNW, GA US","       103","N","        70","N","        11","N","  44.7"," ,N,0804, ","    975.6"," ,N"
+"US1GAWH0003","2021","34.612","-83.826","487.7","CLEVELAND 3.9 WNW, GA US","       138","N","        99","N","        22","N"," 119.9"," ,N,0818, ","   1920.8"," ,N"

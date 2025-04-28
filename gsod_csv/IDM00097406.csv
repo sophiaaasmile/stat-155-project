@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DT00","DT00_ATTRIBUTES","DT32","DT32_ATTRIBUTES","DX32","DX32_ATTRIBUTES","DX70","DX70_ATTRIBUTES","DX90","DX90_ATTRIBUTES","EMNT","EMNT_ATTRIBUTES","EMXT","EMXT_ATTRIBUTES","TAVG","TAVG_ATTRIBUTES","TMAX","TMAX_ATTRIBUTES","TMIN","TMIN_ATTRIBUTES"
+"IDM00097406","2012","1.817","127.833","8.0","GALELA GAMARMALAMU, ID","         0","S","         0","S","         0","S","       342","S","       143","S","   18.2","S,0517, ","   34.8","S,1010, ","     26.98","S","     31.85","S","     22.12","S"
+"IDM00097406","2020","1.817","127.833","8.0","GALELA GAMARMALAMU, ID","","","","","         0","S","       345","S","       206","S","","","   34.4","S,0503, ","","","     32.12","S","",""
+"IDM00097406","2022","1.817","127.833","8.0","GALELA GAMARMALAMU, ID","","","","","         0","S","       356","S","       180","S","","","   34.3","S,0413, ","","","     31.79","S","",""

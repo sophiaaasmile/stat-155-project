@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00010247","1965","-31.7167","116.5333","231.0","BLUE VALLEY, AS","       113","a","        64","a","         3","a","  28.7"," ,a,0701, ","    634.1"," ,a"
+"ASN00010247","1966","-31.7167","116.5333","231.0","BLUE VALLEY, AS","        92","a","        49","a","         0","a","  25.1"," ,a,0721, ","    500.3"," ,a"
+"ASN00010247","1967","-31.7167","116.5333","231.0","BLUE VALLEY, AS","        88","a","        46","a","         3","a","  49.3"," ,a,0509, ","    566.9"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00055156","1959","-31.0833","150.8833","387.1","TAMWORTH HEWITT, AS","        99","a","        63","a","         5","a","  50.8"," ,a,0305, ","    765.3"," ,a"
+"ASN00055156","1960","-31.0833","150.8833","387.1","TAMWORTH HEWITT, AS","        98","a","        56","a","         6","a","  76.2"," ,a,1122, ","    695.1"," ,a"
+"ASN00055156","1961","-31.0833","150.8833","387.1","TAMWORTH HEWITT, AS","        86","a","        53","a","         5","a","  50.8"," ,a,1017, ","    687.7"," ,a"
+"ASN00055156","1963","-31.0833","150.8833","387.1","TAMWORTH HEWITT, AS","       111","a","        62","a","         7","a","  75.4"," ,a,0104, ","    829.6"," ,a"

@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"FIE00145597","1973","64.6331","24.4831","13.0","RAAHE SALOINEN, FI","       131","E","        65","E","         0","E","  24.9"," ,E,0723, ","    499.8"," ,E"
+"FIE00145597","1974","64.6331","24.4831","13.0","RAAHE SALOINEN, FI","       145","E","        78","E","         0","E","  22.4"," ,E,0830, ","    601.2"," ,E"
+"FIE00145597","1975","64.6331","24.4831","13.0","RAAHE SALOINEN, FI","       116","E","        56","E","         0","E","  19.7"," ,E,0822, ","    429.2"," ,E"
+"FIE00145597","1976","64.6331","24.4831","13.0","RAAHE SALOINEN, FI","       111","E","        55","E","         0","E","  18.5"," ,E,0731, ","    387.3"," ,E"

@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00009797","1937","-34.1167","116.3667",,"THE CUMBERLAND, AS","       127","a","        73","a","         3","a","  54.4"," ,a,0518, ","    813.2"," ,a"
+"ASN00009797","1938","-34.1167","116.3667",,"THE CUMBERLAND, AS","       113","a","        67","a","         4","a","  71.4"," ,a,0513, ","    722.3"," ,a"
+"ASN00009797","1939","-34.1167","116.3667",,"THE CUMBERLAND, AS","       161","a","        86","a","         2","a","  27.4"," ,a,0729, ","    889.7"," ,a"

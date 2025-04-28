@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCHN0003","2010","35.330479","-82.51953","666.6","LAUREL PARK 1.7 NW, NC US","       137","N","        78","N","        19","N","  95.0"," ,N,1201, ","   1479.0"," ,N"
+"US1NCHN0003","2011","35.330479","-82.51953","666.6","LAUREL PARK 1.7 NW, NC US","       136","N","        92","N","        12","N","  69.9"," ,N,0416, ","   1451.0"," ,N"
+"US1NCHN0003","2012","35.330479","-82.51953","666.6","LAUREL PARK 1.7 NW, NC US","       142","N","        85","N","        14","N","  61.0"," ,N,1002, ","   1315.2"," ,N"
+"US1NCHN0003","2013","35.330479","-82.51953","666.6","LAUREL PARK 1.7 NW, NC US","       174","N","       102","N","        27","N"," 119.9"," ,N,1223, ","   2168.8"," ,N"

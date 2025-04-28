@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN017041600","1966","20.32","86.73","4.0","PARADIP PORT OBSERVATORY, IN","        72","I","        68","I","        25","I"," 175.0"," ,I,1122, ","   1840.8"," ,I"
+"IN017041600","1967","20.32","86.73","4.0","PARADIP PORT OBSERVATORY, IN","        81","I","        75","I","        12","I","  78.5"," ,I,0902, ","   1232.3"," ,I"
+"IN017041600","1968","20.32","86.73","4.0","PARADIP PORT OBSERVATORY, IN","        69","I","        59","I","        16","I"," 116.0"," ,I,1113, ","   1429.9"," ,I"
+"IN017041600","1969","20.32","86.73","4.0","PARADIP PORT OBSERVATORY, IN","        71","I","        61","I","        16","I"," 100.8"," ,I,1009, ","   1251.5"," ,I"
+"IN017041600","1970","20.32","86.73","4.0","PARADIP PORT OBSERVATORY, IN","        81","I","        72","I","        24","I"," 214.0"," ,I,0630, ","   1786.0"," ,I"

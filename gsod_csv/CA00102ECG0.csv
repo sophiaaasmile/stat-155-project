@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA00102ECG0","1963","49.0833","-124.0833","204.0","NANAIMO RIVER CAMP, BC CA","       166","C","       118","C","        11","C","         4","C","    86"," ,C,1121, ","  75.4"," ,C,1020, ","   1577.3"," ,C","      260"," ,C"
+"CA00102ECG0","1965","49.0833","-124.0833","204.0","NANAIMO RIVER CAMP, BC CA","       146","C","       104","C","         7","C","        16","C","   432"," ,C,1226, ","  51.3"," ,C,1005, ","   1364.4"," ,C","     2248"," ,C"
+"CA00102ECG0","1966","49.0833","-124.0833","204.0","NANAIMO RIVER CAMP, BC CA","       156","C","        99","C","        18","C","         9","C","   356"," ,C,0102, ","  54.6"," ,C,0105, ","   1598.3"," ,C","     1392"," ,C"
+"CA00102ECG0","1967","49.0833","-124.0833","204.0","NANAIMO RIVER CAMP, BC CA","       160","C","       119","C","        13","C","         8","C","   241"," ,C,0310, ","  62.7"," ,C,0315, ","   1566.8"," ,C","      700"," ,C"

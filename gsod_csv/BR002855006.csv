@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR002855006","1946","-28.88","-55.65","140.0","FAZENDA SAO RAFAEL, BR","        75","I","        63","I","        24","I","  69.5"," ,I,1213, ","   1512.5"," ,I"
+"BR002855006","1947","-28.88","-55.65","140.0","FAZENDA SAO RAFAEL, BR","        46","I","        42","I","        19","I"," 122.7"," ,I,0515, ","   1204.4"," ,I"
+"BR002855006","1949","-28.88","-55.65","140.0","FAZENDA SAO RAFAEL, BR","        58","I","        51","I","        22","I","  94.1"," ,I,0423, ","   1348.8"," ,I"
+"BR002855006","1950","-28.88","-55.65","140.0","FAZENDA SAO RAFAEL, BR","        55","I","        53","I","        17","I","  61.5"," ,I,0122, ","   1076.0"," ,I"

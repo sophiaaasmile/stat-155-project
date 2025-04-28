@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZPM0070","2021","32.365649","-111.065515","704.4","FLOWING WELLS 6.0 NNW, AZ US","        58","N","        29","N","         3","N","  58.9"," ,N,0723, ","    362.8"," ,N"
+"US1AZPM0070","2022","32.365649","-111.065515","704.4","FLOWING WELLS 6.0 NNW, AZ US","        50","N","        25","N","         1","N","  27.2"," ,N,0810, ","    214.0"," ,N"
+"US1AZPM0070","2023","32.365649","-111.065515","704.4","FLOWING WELLS 6.0 NNW, AZ US","        52","N","        26","N","         0","N","  21.6"," ,N,1223, ","    210.8"," ,N"
+"US1AZPM0070","2024","32.365649","-111.065515","704.4","FLOWING WELLS 6.0 NNW, AZ US","        43","N","        26","N","         1","N","  33.0"," ,N,0803, ","    293.0"," ,N"

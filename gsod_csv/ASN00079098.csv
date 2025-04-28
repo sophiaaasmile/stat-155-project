@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00079098","1985","-36.7667","142.3667","152.0","PINE LAKE, AS","       105","a","        36","a","         0","a","  19.6"," ,a,0805, ","    332.2"," ,a"
+"ASN00079098","1986","-36.7667","142.3667","152.0","PINE LAKE, AS","       109","a","        45","a","         2","a","  31.8"," ,a,0702, ","    472.8"," ,a"

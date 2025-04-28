@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OHGR0037","2021","39.78098","-84.03863","266.7","FAIRBORN 2.0 SW, OH US","       136","N","        86","N","         7","N","  78.2"," ,N,0619, ","   1102.4"," ,N"
+"US1OHGR0037","2022","39.78098","-84.03863","266.7","FAIRBORN 2.0 SW, OH US","       127","N","        76","N","        13","N","  48.5"," ,N,0307, ","   1079.6"," ,N"
+"US1OHGR0037","2023","39.78098","-84.03863","266.7","FAIRBORN 2.0 SW, OH US","       120","N","        74","N","         9","N","  64.3"," ,N,0304, ","    961.4"," ,N"
+"US1OHGR0037","2024","39.78098","-84.03863","266.7","FAIRBORN 2.0 SW, OH US","       134","N","        88","N","         5","N","  48.3"," ,N,0928, ","    988.6"," ,N"

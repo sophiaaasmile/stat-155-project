@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1OHLG0012","2021","40.4911","-83.92532","302.1","LAKEVIEW 0.2 N, OH US","","","","","","","","","   1101.0"," ,N"
+"US1OHLG0012","2023","40.4911","-83.92532","302.1","LAKEVIEW 0.2 N, OH US","       131","N","        71","N","         4","N","  53.6"," ,N,0304, ","    916.9"," ,N"
+"US1OHLG0012","2024","40.4911","-83.92532","302.1","LAKEVIEW 0.2 N, OH US","       149","N","        82","N","         5","N","  40.9"," ,N,0402, ","    931.8"," ,N"

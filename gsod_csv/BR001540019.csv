@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR001540019","1996","-15.89","-40.17","0.0","JORDANIA, BR","        65","I","        51","I","         5","I","  65.0"," ,I,1125, ","    610.4"," ,I"
+"BR001540019","1999","-15.89","-40.17","0.0","JORDANIA, BR","       113","I","        95","I","         6","I","  68.0"," ,I,1202, ","    900.2"," ,I"
+"BR001540019","2000","-15.89","-40.17","0.0","JORDANIA, BR","       118","I","        82","I","         8","I","  72.4"," ,I,0124, ","    975.3"," ,I"

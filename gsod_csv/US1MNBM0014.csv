@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MNBM0014","2020","47.49069","-95.12177","435.3","SOLWAY 2.1 S, MN US","       103","N","        45","N","         5","N","  42.4"," ,N,0814, ","    614.6"," ,N"
+"US1MNBM0014","2021","47.49069","-95.12177","435.3","SOLWAY 2.1 S, MN US","        94","N","        48","N","         3","N","  32.8"," ,N,0821, ","    491.9"," ,N"
+"US1MNBM0014","2024","47.49069","-95.12177","435.3","SOLWAY 2.1 S, MN US","       115","N","        56","N","         1","N","  42.7"," ,N,0618, ","    616.2"," ,N"

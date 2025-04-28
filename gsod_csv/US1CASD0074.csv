@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASD0074","2013","33.013895","-117.106214","209.4","RANCHO BERNARDO 1.9WSW, CA US","        43","N","        17","N","         1","N","  31.8"," ,N,0308, ","    178.6"," ,N"
+"US1CASD0074","2014","33.013895","-117.106214","209.4","RANCHO BERNARDO 1.9WSW, CA US","        34","N","        15","N","         0","N","  24.6"," ,N,1217, ","    175.0"," ,N"
+"US1CASD0074","2015","33.013895","-117.106214","209.4","RANCHO BERNARDO 1.9WSW, CA US","        40","N","        25","N","         1","N","  26.2"," ,N,0719, ","    246.6"," ,N"
+"US1CASD0074","2016","33.013895","-117.106214","209.4","RANCHO BERNARDO 1.9WSW, CA US","        37","N","        24","N","         3","N","  53.6"," ,N,0107, ","    365.8"," ,N"
+"US1CASD0074","2017","33.013895","-117.106214","209.4","RANCHO BERNARDO 1.9WSW, CA US","        27","N","        15","N","         4","N","  65.0"," ,N,0228, ","    360.7"," ,N"

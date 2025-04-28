@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"CA1ON000798","2021","42.925683","-80.984325","295.4","MOSSLEY 3.2 SE KCCA, ON CA","       141","N","        80","N","         9","N","  65.3"," ,N,0626, ","   1028.5"," ,N"
+"CA1ON000798","2022","42.925683","-80.984325","295.4","MOSSLEY 3.2 SE KCCA, ON CA","       126","N","        76","N","         2","N","  29.7"," ,N,1231, ","    753.8"," ,N"
+"CA1ON000798","2023","42.925683","-80.984325","295.4","MOSSLEY 3.2 SE KCCA, ON CA","       134","N","        96","N","         8","N","  73.7"," ,N,0401, ","   1104.6"," ,N"
+"CA1ON000798","2024","42.925683","-80.984325","295.4","MOSSLEY 3.2 SE KCCA, ON CA","       148","N","        83","N","         8","N","  44.7"," ,N,1230, ","   1091.0"," ,N"

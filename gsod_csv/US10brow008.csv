@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10brow008","2012","42.3248","-100.061",,"AINSWORTH 18.7 SW, NE US","        53","N","        33","N","         1","N","  27.7"," ,N,0413, ","    297.6"," ,N"
+"US10brow008","2013","42.3248","-100.061",,"AINSWORTH 18.7 SW, NE US","        60","N","        51","N","         2","N","  38.1"," ,N,0529, ","    575.3"," ,N"
+"US10brow008","2014","42.3248","-100.061",,"AINSWORTH 18.7 SW, NE US","        59","N","        45","N","         3","N","  95.3"," ,N,0609, ","    576.8"," ,N"

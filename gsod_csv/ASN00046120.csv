@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00046120","1889","-31.7","143.2167","62.0","WILCANNIA MELROSE, AS","        56","a","        33","a","         3","a","  39.1"," ,a,1017, ","    368.6"," ,a"
+"ASN00046120","1890","-31.7","143.2167","62.0","WILCANNIA MELROSE, AS","        66","a","        31","a","         4","a","  30.5"," ,a,0409, ","    367.2"," ,a"
+"ASN00046120","1892","-31.7","143.2167","62.0","WILCANNIA MELROSE, AS","        38","a","        22","a","         2","a","  43.2"," ,a,0528, ","    285.7"," ,a"
+"ASN00046120","1893","-31.7","143.2167","62.0","WILCANNIA MELROSE, AS","        46","a","        19","a","         2","a","  31.8"," ,a,0528, ","    257.2"," ,a"

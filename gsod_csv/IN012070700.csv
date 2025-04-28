@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"IN012070700","1947","19.12","72.83","4.0","BOMBAY JUHU AEROOBSY, IN","        92","I","        70","I","        25","I"," 113.3"," ,I,0818, ","   1882.5"," ,I"
+"IN012070700","1948","19.12","72.83","4.0","BOMBAY JUHU AEROOBSY, IN","       100","I","        69","I","        26","I"," 140.0"," ,I,1122, ","   1969.1"," ,I"
+"IN012070700","1949","19.12","72.83","4.0","BOMBAY JUHU AEROOBSY, IN","       115","I","        92","I","        28","I"," 465.1"," ,I,0923, ","   2994.2"," ,I"
+"IN012070700","1950","19.12","72.83","4.0","BOMBAY JUHU AEROOBSY, IN","        87","I","        63","I","        20","I"," 154.2"," ,I,0708, ","   1821.9"," ,I"
+"IN012070700","1951","19.12","72.83","4.0","BOMBAY JUHU AEROOBSY, IN","       102","I","        69","I","        26","I"," 132.6"," ,I,0725, ","   1870.7"," ,I"

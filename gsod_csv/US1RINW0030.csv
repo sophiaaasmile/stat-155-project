@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1RINW0030","2022","41.505","-71.3649","16.8","JAMESTOWN 0.7 NNE, RI US","       179","N","        81","N","         7","N","  45.5"," ,N,0914, ","   1183.2"," ,N"
+"US1RINW0030","2023","41.505","-71.3649","16.8","JAMESTOWN 0.7 NNE, RI US","       191","N","        85","N","        16","N","  77.0"," ,N,0521, ","   1368.1"," ,N"
+"US1RINW0030","2024","41.505","-71.3649","16.8","JAMESTOWN 0.7 NNE, RI US","       169","N","        85","N","        16","N","  91.4"," ,N,0516, ","   1430.5"," ,N"

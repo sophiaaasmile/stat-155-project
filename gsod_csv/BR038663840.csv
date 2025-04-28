@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"BR038663840","1968","-8.15","-36.58","770.0","SITIO CANHOTO, BR","        43","I","        38","I","         6","I","  54.8"," ,I,0118, ","    543.7"," ,I"
+"BR038663840","1969","-8.15","-36.58","770.0","SITIO CANHOTO, BR","        51","I","        50","I","         8","I"," 126.0"," ,I,0314, ","    765.6"," ,I"
+"BR038663840","1970","-8.15","-36.58","770.0","SITIO CANHOTO, BR","        28","I","        25","I","         3","I","  51.6"," ,I,0123, ","    326.7"," ,I"
+"BR038663840","1971","-8.15","-36.58","770.0","SITIO CANHOTO, BR","        51","I","        45","I","         3","I","  76.9"," ,I,0322, ","    509.8"," ,I"

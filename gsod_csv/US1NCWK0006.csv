@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NCWK0006","2016","35.64888","-78.81709","123.1","HOLLY SPRINGS 1.1 ESE, NC US","       108","N","        71","N","        16","N"," 246.6"," ,N,1009, ","   1472.5"," ,N"
+"US1NCWK0006","2017","35.64888","-78.81709","123.1","HOLLY SPRINGS 1.1 ESE, NC US","       113","N","        69","N","        10","N"," 136.7"," ,N,0425, ","   1074.9"," ,N"
+"US1NCWK0006","2019","35.64888","-78.81709","123.1","HOLLY SPRINGS 1.1 ESE, NC US","       116","N","        83","N","        14","N","  67.3"," ,N,0724, ","   1355.7"," ,N"
+"US1NCWK0006","2020","35.64888","-78.81709","123.1","HOLLY SPRINGS 1.1 ESE, NC US","       147","N","        92","N","        18","N","  89.2"," ,N,0207, ","   1655.1"," ,N"
+"US1NCWK0006","2021","35.64888","-78.81709","123.1","HOLLY SPRINGS 1.1 ESE, NC US","       129","N","        88","N","        12","N","  76.7"," ,N,1009, ","   1271.9"," ,N"

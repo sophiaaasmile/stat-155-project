@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00057098","1974","-29.0167","152.5667","140.0","ALICE CLEVELAND, AS","        99","a","        77","a","        13","a","  89.6"," ,a,0115, ","   1298.3"," ,a"
+"ASN00057098","1975","-29.0167","152.5667","140.0","ALICE CLEVELAND, AS","","","","","","","","","   1224.7"," ,a"
+"ASN00057098","1977","-29.0167","152.5667","140.0","ALICE CLEVELAND, AS","        40","a","        31","a","         6","a","  91.0"," ,a,0222, ","    918.4"," ,a"

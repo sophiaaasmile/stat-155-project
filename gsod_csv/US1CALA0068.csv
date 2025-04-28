@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CALA0068","2017","33.8675","-118.089","18.0","ARTESIA 0.5 W, CA US","        39","N","        21","N","         4","N","  80.5"," ,N,0123, ","    377.9"," ,N"
+"US1CALA0068","2019","33.8675","-118.089","18.0","ARTESIA 0.5 W, CA US","        56","N","        34","N","         6","N","  73.7"," ,N,1226, ","    511.6"," ,N"
+"US1CALA0068","2020","33.8675","-118.089","18.0","ARTESIA 0.5 W, CA US","        25","N","        16","N","         3","N","  41.4"," ,N,0313, ","    227.3"," ,N"

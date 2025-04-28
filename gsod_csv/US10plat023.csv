@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US10plat023","2014","41.6142306","-97.523146",,"HUMPHREY 5.7 SSW, NE US","        48","N","        43","N","         6","N","  58.2"," ,N,0615, ","    574.8"," ,N"
+"US10plat023","2019","41.6142306","-97.523146",,"HUMPHREY 5.7 SSW, NE US","        80","N","        68","N","         5","N","  71.1"," ,N,0527, ","    764.8"," ,N"
+"US10plat023","2021","41.6142306","-97.523146",,"HUMPHREY 5.7 SSW, NE US","        70","N","        55","N","         7","N","  63.8"," ,N,0314, ","    736.1"," ,N"
+"US10plat023","2022","41.6142306","-97.523146",,"HUMPHREY 5.7 SSW, NE US","        56","N","        33","N","         1","N"," 158.8"," ,N,0429, ","    496.0"," ,N"

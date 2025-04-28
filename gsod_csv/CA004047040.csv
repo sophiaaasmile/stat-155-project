@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"CA004047040","1946","51.9","-108.5167","695.0","RUTHILDA, SK CA","        82","C","        52","C","         2","C","        18","C","   152"," ,C,1118,+","  36.3"," ,C,0807, ","    422.3"," ,C","     1215"," ,C"
+"CA004047040","1955","51.9","-108.5167","695.0","RUTHILDA, SK CA","        99","C","        47","C","         2","C","        21","C","   305"," ,C,0419, ","  33.5"," ,C,0419, ","    388.6"," ,C","     1405"," ,C"
+"CA004047040","1956","51.9","-108.5167","695.0","RUTHILDA, SK CA","        82","C","        41","C","         2","C","        17","C","   254"," ,C,0212, ","  26.4"," ,C,0621, ","    358.8"," ,C","     1383"," ,C"

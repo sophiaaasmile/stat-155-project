@@ -1,0 +1,3 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00068084","1962","-34.8667","150.6333","9.1","TERARA, AS","       110","a","        77","a","         9","a","  91.4"," ,a,0112, ","   1178.8"," ,a"
+"ASN00068084","1963","-34.8667","150.6333","9.1","TERARA, AS","       130","a","        86","a","        16","a"," 256.5"," ,a,0429, ","   1795.3"," ,a"

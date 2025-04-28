@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1NCMR0040","2019","35.147273","-79.428785","120.1","ABERDEEN 0.7 NW, NC US","       128","N","        75","N","        12","N","","","","","  57.9"," ,N,0409, ","   1211.3"," ,N","",""
+"US1NCMR0040","2021","35.147273","-79.428785","120.1","ABERDEEN 0.7 NW, NC US","       121","N","        76","N","        10","N","         0","N","     0"," ,N,1231,+","  97.3"," ,N,0923, ","   1107.0"," ,N","        0"," ,N"
+"US1NCMR0040","2022","35.147273","-79.428785","120.1","ABERDEEN 0.7 NW, NC US","       106","N","        67","N","        14","N","","","","","  85.1"," ,N,0317, ","   1179.5"," ,N","",""
+"US1NCMR0040","2023","35.147273","-79.428785","120.1","ABERDEEN 0.7 NW, NC US","       110","N","        70","N","        13","N","","","","","  60.2"," ,N,0423, ","   1170.8"," ,N","",""

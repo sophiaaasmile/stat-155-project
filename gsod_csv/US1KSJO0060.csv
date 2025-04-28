@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1KSJO0060","2019","38.91729","-94.79424","315.5","OLATHE 2.4 NNE, KS US","       124","N","        81","N","        16","N","  63.8"," ,N,0830, ","   1314.4"," ,N"
+"US1KSJO0060","2020","38.91729","-94.79424","315.5","OLATHE 2.4 NNE, KS US","       106","N","        67","N","        10","N","  54.4"," ,N,0529, ","    858.1"," ,N"
+"US1KSJO0060","2021","38.91729","-94.79424","315.5","OLATHE 2.4 NNE, KS US","       114","N","        61","N","        10","N"," 151.4"," ,N,0813, ","   1065.0"," ,N"

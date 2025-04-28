@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1CASR0095","2022","33.958188","-117.642188","174.7","CHINO 4.2 SE, CA US","        25","N","        12","N","         1","N","  27.4"," ,N,1109, ","    126.7"," ,N"
+"US1CASR0095","2023","33.958188","-117.642188","174.7","CHINO 4.2 SE, CA US","        47","N","        28","N","         7","N","  71.9"," ,N,0821, ","    599.9"," ,N"
+"US1CASR0095","2024","33.958188","-117.642188","174.7","CHINO 4.2 SE, CA US","        38","N","        22","N","         5","N","  78.0"," ,N,0205, ","    434.0"," ,N"

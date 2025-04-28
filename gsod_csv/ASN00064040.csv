@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00064040","1970","-31.2667","149.2167","550.0","COONABARABRAN HOMELEIGH, AS","        85","a","        61","a","         8","a","  66.3"," ,a,1221, ","    845.1"," ,a"
+"ASN00064040","1971","-31.2667","149.2167","550.0","COONABARABRAN HOMELEIGH, AS","        79","a","        54","a","         6","a"," 156.7"," ,a,0131, ","    951.1"," ,a"
+"ASN00064040","1972","-31.2667","149.2167","550.0","COONABARABRAN HOMELEIGH, AS","        64","a","        40","a","         7","a","  74.2"," ,a,0114, ","    635.2"," ,a"
+"ASN00064040","1973","-31.2667","149.2167","550.0","COONABARABRAN HOMELEIGH, AS","       101","a","        69","a","        18","a","  77.2"," ,a,1231, ","   1364.5"," ,a"
