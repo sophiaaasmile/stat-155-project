@@ -1,6 +1,10 @@
 ---
 title: "pres"
-format: html
+format:
+  html:
+    toc: true
+    embed-resources: true
+    code-tools: true    
 ---
 
 
@@ -22,6 +26,8 @@ library(leaflet)
 library(maps)
 library(tigris)
 library(rnaturalearth)
+library(tidyterra)
+library(terra)
 
 ```
 
@@ -184,4 +190,25 @@ ggplot() +
   theme_minimal()
 ```
 
+```{r}
+cropland <- rast("~/Desktop/2024_10m_cdls/2024_10m_cdls.tif")  
 
+print(cropland) 
+plot(cropland) 
+
+```
+```{r}
+stations_sf <- stations_sf |> 
+  st_transform(st_crs(cropland))
+```
+
+```{r}
+ggplot() +
+  # Plot cropland with its native color scale
+  geom_spatraster(data = cropland, alpha = 0.7) +  # alpha controls translucency
+  # Overlay weather stations
+  geom_sf(data = stations_sf, color = "red", size = 1, alpha = 0.3) +
+  # Minimal styling
+  theme_minimal() +
+  labs(title = "US Cropland with Weather Stations")
+```
