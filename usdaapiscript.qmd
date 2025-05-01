@@ -22,45 +22,55 @@ library(tibble)
 
 ```{r}
 
-apikey <- "95A548D2-108A-39D9-AAFA-ABC87DFAE9FD"
-
-# Base endpoint
-base_url <- "https://quickstats.nass.usda.gov/api/api_GET/"
+# ---- credentials and constants --------------------------------------------
+apikey   <- "95A548D2-108A-39D9-AAFA-ABC87DFAE9FD"
+states   <- state.abb           # "AL", "AK", …, "WY"
+years    <- 2000:2020
+base_get <- "https://quickstats.nass.usda.gov/api/get_counts/" # row-count endpoint
+base_csv <- "https://quickstats.nass.usda.gov/api/api_GET/"    # CSV endpoint
 
 ```
 
 
 ```{r}
-states <- state.abb        # "AL", "AK", ..., "WY"
-years  <- 2000:2020        # adjust as needed
 
-# Prepare an empty data.frame
-all_corn_county <- data.frame()
+# ── polite wrappers ─────────────────────────────────────────────────────
+rate  <- rate_delay(pause = 0.6)         # ≤ ~2 req s⁻¹
+slow  <- slowly(GET, rate = rate)        # honour the delay
+retry <- purrr::possibly(function(...) { # retry on 403/500
+           RETRY("GET", ..., times = 5, pause_min = 2, pause_cap = 30)
+         }, otherwise = NULL, quiet = TRUE)
 
-for (st in states) {
-  for (yr in years) {
-    message("Fetching ", st, " ", yr)
-    # build the URL (URLencode the spaces)
-    url <- paste0(
-      base_url,
-      "?key=",        apikey,
-      "&commodity_desc=CORN",
-      "&statisticcat_desc=", URLencode("AREA HARVESTED"),
-      "&unit_desc=ACRES",
-      "&agg_level_desc=COUNTY",
-      "&freq_desc=ANNUAL",
-      "&state_alpha=",  st,
-      "&year=",         yr,
-      "&format=CSV"
-    )
-    # pull and rbind
-    df <- read_csv(url, show_col_types = FALSE)
-    all_corn_county <- rbind(all_corn_county, df)
+# ── one pull; returns data.frame or NULL ─────────────────────────────────
+pull_corn_area <- function(st, yr) {
+
+  qry <- list(
+    key               = apikey,
+    commodity_desc    = "CORN",
+    statisticcat_desc = "AREA HARVESTED",
+    unit_desc         = "ACRES",
+    agg_level_desc    = "COUNTY",
+    freq_desc         = "ANNUAL",
+    state_alpha       = st,
+    year              = yr,
+    format            = "CSV"
+  )
+
+  # 1. how many rows?
+  cnt_resp <- retry(slow(base_get, query = qry))
+  if (is.null(cnt_resp)) return(NULL)                  # network failure
+  cnt <- content(cnt_resp, "parsed", simplifyVector = TRUE)$count
+  if (cnt == 0) {
+    message("  • ", st, " ", yr, " = 0 rows (skipped)")
+    return(NULL)
   }
+
+  # 2. fetch the CSV
+  csv_resp <- retry(slow(base_csv, query = qry))
+  if (is.null(csv_resp)) return(NULL)
+  read_csv(content(csv_resp, "raw"), show_col_types = FALSE)
 }
 
-# quick check
-str(all_corn_county)
 ```
 
 
