@@ -1,0 +1,82 @@
+---
+title: "NOAA data analysis"
+format: html
+editor: visual
+---
+
+```{r}
+library(ggplot2)
+library(readr)
+library(dplyr)
+library(broom)
+weather <- read_csv("modified_noaa_monthly.csv")
+```
+
+> *Does the effect of global warming vary by latitude? More specifically, does latitude have an effect on the relationship between year and average July high temperature?*
+
+```{r}
+ggplot(filter(weather,MONTH==7), aes(x = YEAR, y = TMAX, color = LAT)) + 
+  geom_point(alpha = 0.1)
+```
+
+> We can definitely see that further south, July high temperatures increase. This is obvious and we don't really care. It's harder to see whether latitude has an effect on the rate of change in high temperature over time, which is to say, the slope of the line for dark blue dots is different than the slope for light blue dots.
+
+```{r}
+weather_mod1 <- lm(TMAX ~ YEAR * LAT, data = filter(weather,MONTH==7))
+summary(weather_mod1)
+```
+
+> On average, we expect 0.0094-degree Fahrenheit *decrease* in average July high temperature for each passing year, holding latitude fixed at zero degrees N. However, we expect this rate of change to increase by 0.00086 degrees Fahrenheit per year in response to a one-degree increase in latitude.
+
+```{r}
+134 + 2020*(-0.009448 + 30*0.0008595) - 30*2.428
+```
+
+> As an example, our model predicts that the average July high temperature recorded in 2020 by a station at latitude $30^\circ$ N would be 94.2 degrees Fahrenheit. Since the mainland United States ranges across approximately twenty degrees in latitude, our model predicts that the total warming effects of climate change varies by about 0.0172 degrees Fahrenheit per year, which sums to a rough 1.7-degree Fahrenheit difference in warming over 100 years.
+
+> *Do longitude and latitude have an effect on the average rate of change in precipitation over time?*
+
+```{r}
+ggplot(weather, aes(x = YEAR, y = PRCP, color = LAT)) +
+  geom_point(alpha = 0.05)
+ggplot(weather, aes(x = YEAR, y = PRCP, color = LONG)) +
+  geom_point(alpha=0.05)
+```
+
+> Our research question is not concerned with the effects of longitude and latitude on the amount of precipitation in a year; only the rate of change in precipitation. As such, the visualizations itself doesn't do much to answer our research question. However, we can see that precipitation seems to decrease as longitude decreases, i.e. stations further west generally seem to see less precipitation.
+
+```{r}
+weather_mod2 <- lm(PRCP ~ YEAR * LAT + YEAR * LONG, data = weather)
+summary(weather_mod2)
+```
+
+> On average, we expect the yearly rate of change in monthly precipitation to decrease by 0.000077 inches for each one-degree movement north. We expect this rate of change in monthly precipitation to increase by 0.00017 inches for each one-degree movement east.
+
+```{r}
+-34.65 + 2020*(.02242 - (0.00007749*33.9) - (0.0001657*118.4)) + 0.1011*33.9 + 0.2757*118.4
+```
+
+> Our model predicts that the average monthly precipitation in Los Angeles county, CA (33.9, -118.4) is 1.77 inches in 2020, which amounts to 21.2 inches over the year. LA county (WBAN Station USW00023174, (33.9, -118.4)) documented a total of 9.04 inches of rain in 2020.
+
+> These models show that an increase in latitude is associated with a change in the relationship between year and high temperature, and a decrease in the average yearly change in average monthly precipitation. Moreover, an increase in longitude is associated with an increase in the yearly rate of change in precipitation.
+
+
+
+> *Is elevation associated with a change in the average July high temperature, after controlling for time?*
+
+> We saw in our first model that increases in latitude see decreases in average July high temperature, after controlling for year. Furthermore, the rate of change in high temperature over time associated with climate change is sharpened by an increase in latitude. We wish to see whether elevation also plays a role in high temperature.
+
+```{r}
+ggplot(filter(weather, MONTH==7), aes(x = ELEV, y = TMAX)) +
+  geom_point(alpha=0.05) + 
+  geom_smooth()
+```
+
+> It seems that a linear model could detect a trend in temperature as elevation increases, but only past around 1000 metres above sea level. Hence a linear model would not be 
+
+
+
+
+
+
+
