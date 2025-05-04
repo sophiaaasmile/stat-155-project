@@ -20,16 +20,6 @@ library(purrr)
 library(tibble)
 ```
 
-```{r}
-
-# ---- credentials and constants --------------------------------------------
-apikey   <- "95A548D2-108A-39D9-AAFA-ABC87DFAE9FD"
-states   <- state.abb           # "AL", "AK", …, "WY"
-years    <- 2000:2020
-base_get <- "https://quickstats.nass.usda.gov/api/get_counts/" # row-count endpoint
-base_csv <- "https://quickstats.nass.usda.gov/api/api_GET/"    # CSV endpoint
-
-```
 
 
 ```{r}
@@ -37,8 +27,8 @@ base_csv <- "https://quickstats.nass.usda.gov/api/api_GET/"    # CSV endpoint
 states   <- state.abb
 years    <- 2000:2020
 
-UA       <- "corn-harvest-pull/0.2 (your_email@example.com)"
-pause    <- 0.40      # seconds between *every* HTTP hit
+UA       <- "hay-harvest-pull/0.2 (your_email@example.com)"
+pause    <- 0.25      # seconds between *every* HTTP hit
 tries    <- 5         # total RETRY() attempts
 
 base_get <- "https://quickstats.nass.usda.gov/api/get_counts/"
@@ -84,13 +74,13 @@ polite_read_csv <- function(url) {
 }
 
 # ---- one state-year pull, still fault-tolerant ------------------
-pull_corn_area <- function(st, yr) {
+pull_hay_area <- function(st, yr) {
 
   qry <- list(
     key               = apikey,
-    commodity_desc    = "CORN",          # Focus on corn
-    statisticcat_desc = "YIELD",         # Change from AREA HARVESTED to YIELD
-    unit_desc         = "$ / ACRE",      # Yield in dollars per acre
+    commodity_desc    = "HAY",          # Focus on corn
+    statisticcat_desc = "AREA HARVESTED",         # Change from AREA HARVESTED to YIELD
+    unit_desc         = "ACRES",      # Yield in dollars per acre
     agg_level_desc    = "COUNTY",        # County-level data
     freq_desc         = "ANNUAL",        # Annual data
     state_alpha       = st,              # State abbreviation
@@ -123,9 +113,9 @@ pull_corn_area <- function(st, yr) {
 }
 
 # ---- main loop -------------------------------------------------
-all_corn_county <- pmap(
+all_hay_county <- pmap(
   expand.grid(state = states, year = years, stringsAsFactors = FALSE),
-  ~ pull_corn_area(..1, ..2)
+  ~ pull_hay_area(..1, ..2)
 ) %>%
   # Remove NULL elements (failed downloads)
   compact() %>%
@@ -143,7 +133,13 @@ all_corn_county <- pmap(
   ))
 ```
 
+```{r}
+data.table::fwrite(
+  all_hay_county,
+ "~/Desktop/STAT155/stat-155-project/agricsvs/CottonArea_20Yr.csv"
+)
 
+```
 
 
 
