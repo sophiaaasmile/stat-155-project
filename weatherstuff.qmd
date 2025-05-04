@@ -1,0 +1,130 @@
+---
+title: "WeatherViz"
+format: html
+editor: visual
+---
+```{r}
+library(ggplot2)
+library(dplyr)
+library(broom)
+library(readr)
+library(tidyr)
+library(tibble)
+library(arrow)    
+library(dplyr)
+library(data.table)
+library(stringr) 
+library(fs) 
+library(sf)
+library(purrr)
+library(leaflet)
+library(maps)
+library(tigris)
+library(rnaturalearth)
+
+```
+```{r} 
+station_list <- readRDS("~/Desktop/stat-155-project/station_list.rds")
+```
+
+```{r}
+
+#cleaning cleaning cleaning
+weather_cols <- c(                      
+  "STATION", "DATE", "LATITUDE", "LONGITUDE", "ELEVATION",
+  "TAVG", "TMAX", "TMIN",                # temperature core
+  "PRCP",                                # daily precip depth
+  "SNDP",                                # snow depth on ground
+  "CLDD", "HTDD",                        # cooling / heating degree-days
+  "DP01", "DP10", "DP1X",                # days ≥ 0.01 / ≥ 0.10 / ≥ 1 in
+  "DX32", "DX70", "DX90",                # days ≥ 32 °F, 70 °F, 90 °F
+  "DT32", "DT00",                        # days < 32 °F, < 0 °F
+  "EMXT", "EMNT",                        # monthly record high / low
+  "EMXP",                                # monthly record precip
+  "FRSHTT"                               # fog-rain-snow-hail-thunder-tornado flags
+)
+
+all_stations <- station_list %>%
+  lapply(function(x) {
+    x %>%
+      mutate(across(everything(), as.character)) %>%
+      select(any_of(weather_cols))  # Only keeps columns in weather_cols
+  }) %>%
+  bind_rows(.id = "STATION") %>%
+  distinct(STATION, .keep_all = TRUE) %>%
+  mutate(
+    network = case_when(
+      str_starts(STATION, "US1") ~ "COOP",
+      str_starts(STATION, "GHCND") ~ "GHCN",
+      str_detect(STATION, "K[A-Z]{3}") ~ "ASOS/AWOS",  # Airport stations (KXXX)
+      TRUE ~ "Other"  # Everything else
+    )
+  )
+
+#number data should actually be stay numbers. putting it back
+num_cols <- c("LATITUDE", "LONGITUDE", "ELEVATION", "TAVG", "TMAX", "TMIN", "PRCP")
+all_stations <- all_stations %>%
+  mutate(across(any_of(num_cols), ~ {
+    nums <- suppressWarnings(as.numeric(.))
+    ifelse(is.finite(nums), nums, NA)  
+  }))
+
+
+# Filter like a blue whale babey
+stations_geo <- all_stations %>% 
+  filter(
+    !is.na(LATITUDE), 
+    !is.na(LONGITUDE),
+    between(LONGITUDE, -180, -50),  
+    between(LATITUDE, 15, 72)       
+  ) %>%
+  arrange(STATION, desc(DATE)) %>%
+  distinct(STATION, .keep_all = TRUE)
+
+stations_sf <- stations_geo %>%
+  st_as_sf(
+    coords = c("LONGITUDE", "LATITUDE"),
+    crs = 4326,
+    remove = FALSE
+  ) %>%
+  st_make_valid()
+
+```
+
+```{r}
+
+weather_yearly <- stations_geo %>%
+  select(STATION, DATE, LATITUDE, LONGITUDE, ELEVATION, TAVG, TMAX, PRCP) %>%
+  rename(
+    YEAR = DATE,
+    LAT = LATITUDE,
+    LONG = LONGITUDE,
+    ELEV = ELEVATION
+  ) %>%
+  filter(!is.na(TMAX), !is.na(YEAR), !is.na(LAT))
+
+weather_yearly$YEAR <- as.numeric(as.character(weather_yearly$YEAR))
+
+model_clean <- lm(TMAX ~ YEAR * LAT, data = weather_yearly)
+summary(model_clean)
+
+```
+```{r}
+
+weather_yearly <- weather_yearly %>%
+  mutate(lat_band = cut(LAT, breaks = seq(25, 50, 5), include.lowest = TRUE))
+
+# Plot temperature trend over time by lat_band
+ggplot(weather_yearly, aes(x = YEAR, y = TMAX, color = lat_band)) +
+  geom_point(alpha = 0.2) +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(
+    title = "Max Temperature Trends by Latitude Band (Annual Data)",
+    x = "Year", y = "Max Temperature (°F)",
+    color = "Latitude Band"
+  ) +
+  theme_minimal()
+
+```
+
+
