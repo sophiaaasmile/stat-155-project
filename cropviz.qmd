@@ -7,7 +7,6 @@ format: html
 
 ```{r}
 library(ggplot2)
-library(dplyr)
 library(broom)
 library(readr)
 library(tidyr)
@@ -30,14 +29,26 @@ library(tidyterra)
 
 ```{r}
 
-stations <- readRDS("~/Desktop/STAT155/stat-155-project/station_list.rds")
+stations <- readRDS(
+  url(
+    "https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/main/station_list.rds",
+    "rb"
+  )
+)
+
 ```
 
 ```{r}
 
-wheat <- read_csv("~/Desktop/STAT155/stat-155-project/agricsvs/WheatArea_20Yr.csv")
-corn <- read_csv("~/Desktop/STAT155/stat-155-project/agricsvs/cornArea_20yrcounty.csv")
-cornCash <- read_csv("~/Desktop/STAT155/stat-155-project/agricsvs/cornCashYield_20yrcounty.csv")
+cotton    <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/CottonArea_20Yr.csv")
+wheat     <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/WheatArea_20Yr.csv")
+corn      <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/cornArea_20yrcounty.csv")
+cornCash  <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/cornCashYield_20yrcounty.csv")
+
+fruitnuts <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/fruitTreeNutArea_20yrcounty.csv")
+hay       <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/hayArea_20yrcounty.csv")
+soybean   <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/soybeanArea_20yrcounty.csv")
+
 ```
 
 ```{r}
@@ -81,7 +92,6 @@ all_stations <- all_stations %>%
     nums <- suppressWarnings(as.numeric(.))
     ifelse(is.finite(nums), nums, NA)  
   }))
-
 
 # 2. Filter like a blue whale babey
 stations_geo <- all_stations %>% 
@@ -143,23 +153,15 @@ stations_with_county <- st_join(
 station_list <- readRDS("~/Desktop/STAT155/stat-155-project/station_list.rds")
 
 weather_all <- imap_dfr(station_list, function(df, st) {
-  # if there's no PRCP in this station’s data, skip it
-  if (! "PRCP" %in% names(df)) {
-    return(tibble())
-  }
-  
   df %>%
     transmute(
       STATION = st,
       DATE    = as.integer(DATE),
       PRCP    = as.numeric(PRCP),
+      
       year    = as.integer(substr(DATE, 1, 4))
     )
 })
-
-# quick check
-glimpse(weather_all)
-
 
 ```
 ```{r}
@@ -174,13 +176,27 @@ weather_all <- weather_all %>%
   filter(!is.na(GEOID))
 ```
 ```{r}
-weather_county_year <- weather_all %>%
-  group_by(GEOID, year) %>%
+weather_summary <- weather_daily %>%
+  mutate(
+    year  = year(DATE),
+    month = month(DATE),
+    # compute daily GDD above 50°F
+    gdd    = pmax(((TMAX + TMIN) / 2) - 50, 0)
+  ) %>%
+  filter(month %in% grow_months) %>%
+  group_by(STATION, year) %>%
   summarise(
-    mean_prcp = mean(PRCP, na.rm = TRUE),
-    .groups   = "drop"
+    mean_temp       = mean(TAVG, na.rm = TRUE),
+    total_prcp      = sum(PRCP, na.rm = TRUE),
+    prcp_days       = sum(DP01, na.rm = TRUE),
+    heavy_prcp_days = sum(DP1X, na.rm = TRUE),
+    hot_days        = sum(DX90, na.rm = TRUE),
+    freeze_days     = sum(DT32, na.rm = TRUE),
+    cdd_sum         = sum(CLDD, na.rm = TRUE),
+    hdd_sum         = sum(HTDD, na.rm = TRUE),
+    gdd_base50      = sum(gdd, na.rm = TRUE),
+    .groups         = "drop"
   )
-
 ```
 
 ```{r}
@@ -224,7 +240,7 @@ ggplot(df_mod, aes(x = mean_prcp, y = wheat_area)) +
   geom_smooth(method = "lm", se = FALSE, color = br2[4]) +
   labs(
     title = "Wheat Area Harvested vs. Mean Annual Precipitation",
-    x     = "Mean Annual Precipitation (inches)",
+    x     = "Mean Annual Precipitation (mm)",
     y     = "Wheat Area Harvested (acres)"
   ) +
   theme_minimal()
