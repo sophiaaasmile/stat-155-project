@@ -1,0 +1,232 @@
+---
+title: "cropviz"
+format: html
+---
+
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(broom)
+library(readr)
+library(tidyr)
+library(tibble)
+library(arrow)    
+library(dplyr)
+library(data.table)
+library(stringr) 
+library(fs) 
+library(sf)
+library(purrr)
+library(leaflet)
+library(maps)
+library(tigris)
+library(rnaturalearth)
+library(terra) 
+library(tidyterra)
+
+```
+
+```{r}
+
+stations <- readRDS("~/Desktop/STAT155/stat-155-project/station_list.rds")
+```
+
+```{r}
+
+wheat <- read_csv("~/Desktop/STAT155/stat-155-project/agricsvs/WheatArea_20Yr.csv")
+corn <- read_csv("~/Desktop/STAT155/stat-155-project/agricsvs/cornArea_20yrcounty.csv")
+cornCash <- read_csv("~/Desktop/STAT155/stat-155-project/agricsvs/cornCashYield_20yrcounty.csv")
+```
+
+```{r}
+
+weather_cols <- c(                      
+  "STATION", "DATE", "LATITUDE", "LONGITUDE", "ELEVATION",
+  "TAVG", "TMAX", "TMIN",                # temperature core
+  "PRCP",                                # daily precip depth
+  "SNDP",                                # snow depth on ground
+  "CLDD", "HTDD",                        # cooling / heating degree-days
+  "DP01", "DP10", "DP1X",                # days ≥ 0.01 / ≥ 0.10 / ≥ 1 in
+  "DX32", "DX70", "DX90",                # days ≥ 32 °F, 70 °F, 90 °F
+  "DT32", "DT00",                        # days < 32 °F, < 0 °F
+  "EMXT", "EMNT",                        # monthly record high / low
+  "EMXP",                                # monthly record precip
+  "FRSHTT"                               # fog-rain-snow-hail-thunder-tornado flags
+)
+
+all_stations <- stations %>%
+  lapply(function(x) {
+    x %>%
+      mutate(across(everything(), as.character)) %>%
+      select(any_of(weather_cols))  # Only keeps columns in weather_cols
+  }) %>%
+  bind_rows(.id = "STATION") %>%
+  distinct(STATION, .keep_all = TRUE) %>%
+  mutate(
+    network = case_when(
+      str_starts(STATION, "US1") ~ "COOP",
+      str_starts(STATION, "GHCND") ~ "GHCN",
+      str_detect(STATION, "K[A-Z]{3}") ~ "ASOS/AWOS",  # Airport stations (KXXX)
+      TRUE ~ "Other"  # Everything else
+    )
+  )
+
+
+#number data should actually be stay numbers. putting it back
+num_cols <- c("LATITUDE", "LONGITUDE", "ELEVATION", "TAVG", "TMAX", "TMIN", "PRCP")
+all_stations <- all_stations %>%
+  mutate(across(any_of(num_cols), ~ {
+    nums <- suppressWarnings(as.numeric(.))
+    ifelse(is.finite(nums), nums, NA)  
+  }))
+
+
+# 2. Filter like a blue whale babey
+stations_geo <- all_stations %>% 
+  filter(
+    !is.na(LATITUDE), 
+    !is.na(LONGITUDE),
+    between(LONGITUDE, -180, -50),  
+    between(LATITUDE, 15, 72)       
+  ) %>%
+  arrange(STATION, desc(DATE)) %>%
+  distinct(STATION, .keep_all = TRUE)
+
+stations_sf <- stations_geo %>%
+  st_as_sf(
+    coords = c("LONGITUDE", "LATITUDE"),
+    crs = 4326,
+    remove = FALSE
+  ) %>%
+  st_make_valid()
+
+```
+
+```{r}
+us_counties <- read_csv("~/Desktop/STAT155/stat-155-project/US_County_Boundaries.csv")
+```
+```{r}
+counties_sf <- st_read(
+  "~/Desktop/STAT155/stat-155-project/US_County_Boundaries/US_County_Boundaries.shp",
+  quiet = TRUE
+) %>%
+  select(GEOID, geometry)   
+
+```
+
+```{r}
+
+stations_sf <- stations_geo %>%
+  st_as_sf(
+    coords = c("LONGITUDE", "LATITUDE"),
+    crs    = 4326,
+    remove = FALSE
+  )
+
+# 3. Reproject stations to match counties
+stations_sf <- st_transform(stations_sf, st_crs(counties_sf))
+
+# 4. Now the join will work
+stations_with_county <- st_join(
+  stations_sf,
+  counties_sf,
+  join = st_within,
+  left = FALSE
+)
+
+
+```
+
+```{r}
+station_list <- readRDS("~/Desktop/STAT155/stat-155-project/station_list.rds")
+
+weather_all <- imap_dfr(station_list, function(df, st) {
+  # if there's no PRCP in this station’s data, skip it
+  if (! "PRCP" %in% names(df)) {
+    return(tibble())
+  }
+  
+  df %>%
+    transmute(
+      STATION = st,
+      DATE    = as.integer(DATE),
+      PRCP    = as.numeric(PRCP),
+      year    = as.integer(substr(DATE, 1, 4))
+    )
+})
+
+# quick check
+glimpse(weather_all)
+
+
+```
+```{r}
+station2county <- stations_with_county %>%
+  st_drop_geometry() %>%
+  select(STATION, GEOID)
+```
+
+```{r}
+weather_all <- weather_all %>%
+  left_join(station2county, by = "STATION") %>%
+  filter(!is.na(GEOID))
+```
+```{r}
+weather_county_year <- weather_all %>%
+  group_by(GEOID, year) %>%
+  summarise(
+    mean_prcp = mean(PRCP, na.rm = TRUE),
+    .groups   = "drop"
+  )
+
+```
+
+```{r}
+wheat2 <- wheat %>%
+  transmute(
+    # zero-pad state and county ANSI codes
+    state_fips  = str_pad(state_ansi, 2, pad = "0"),
+    county_fips = str_pad(county_ansi, 3, pad = "0"),
+    GEOID       = paste0(state_fips, county_fips),   # e.g. "01031"
+    year        = as.integer(year),
+    wheat_area  = as.numeric(Value)
+  )
+```
+
+```{r}
+df_mod <- inner_join(
+  wheat2,
+  weather_county_year,
+  by = c("GEOID", "year")
+)
+```
+
+```{r}
+glimpse(df_mod)
+
+```
+```{r}
+mod <- lm(wheat_area ~ mean_prcp, data = df_mod)
+print(summary(mod))
+```
+
+```{r}
+library(ggplot2)
+library(wesanderson)
+
+br2 <- wes_palette("BottleRocket2")
+
+# 2. plot with br2[2] for points, br2[4] for the line
+ggplot(df_mod, aes(x = mean_prcp, y = wheat_area)) +
+  geom_point(alpha = 0.6, color = br2[2]) +
+  geom_smooth(method = "lm", se = FALSE, color = br2[4]) +
+  labs(
+    title = "Wheat Area Harvested vs. Mean Annual Precipitation",
+    x     = "Mean Annual Precipitation (inches)",
+    y     = "Wheat Area Harvested (acres)"
+  ) +
+  theme_minimal()
+
+```
