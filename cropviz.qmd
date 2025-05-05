@@ -37,6 +37,7 @@ stations <- readRDS(
 )
 ```
 
+
 ```{r}
 
 cotton    <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/CottonArea_20Yr.csv")
@@ -70,13 +71,13 @@ all_stations <- stations %>%
       mutate(across(everything(), as.character)) %>%
       select(any_of(weather_cols))
   }) %>%
-  bind_rows(.id = "STATION") %>%      # every station’s full time series
+  bind_rows(.id = "STATION") %>%      # ← this turns the list into a tibble
   mutate(
     network = case_when(
-      str_starts(STATION, "US1")  ~ "COOP",
-      str_starts(STATION, "GHCND")~ "GHCN",
+      str_starts(STATION, "US1")   ~ "COOP",
+      str_starts(STATION, "GHCND") ~ "GHCN",
       str_detect(STATION, "K[A-Z]{3}") ~ "ASOS/AWOS",
-      TRUE ~ "Other"
+      TRUE                          ~ "Other"
     )
   )
 ```
@@ -111,10 +112,13 @@ stations_sf <- stations_geo %>%
 ```
 
 ```{r}
-us_counties <- read_csv("~/Desktop/STAT155/stat-155-project/US_County_Boundaries.csv")
+
+us_counties <- read_csv("/Users/evelynpaul/Desktop/US_County_Boundaries/US_County_Boundaries.csv")
+
 ```
 
 ```{r}
+
 counties_sf <- st_read(
   "~/Desktop/US_County_Boundaries/US_County_Boundaries.shp",
   quiet = TRUE
