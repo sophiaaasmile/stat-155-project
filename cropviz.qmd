@@ -35,7 +35,6 @@ stations <- readRDS(
     "rb"
   )
 )
-
 ```
 
 ```{r}
@@ -44,11 +43,9 @@ cotton    <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-
 wheat     <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/WheatArea_20Yr.csv")
 corn      <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/cornArea_20yrcounty.csv")
 cornCash  <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/cornCashYield_20yrcounty.csv")
-
 fruitnuts <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/fruitTreeNutArea_20yrcounty.csv")
 hay       <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/hayArea_20yrcounty.csv")
 soybean   <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/soybeanArea_20yrcounty.csv")
-
 ```
 
 ```{r}
@@ -71,19 +68,18 @@ all_stations <- stations %>%
   lapply(function(x) {
     x %>%
       mutate(across(everything(), as.character)) %>%
-      select(any_of(weather_cols))  # Only keeps columns in weather_cols
+      select(any_of(weather_cols))
   }) %>%
-  bind_rows(.id = "STATION") %>%
-  distinct(STATION, .keep_all = TRUE) %>%
+  bind_rows(.id = "STATION") %>%      # every station’s full time series
   mutate(
     network = case_when(
-      str_starts(STATION, "US1") ~ "COOP",
-      str_starts(STATION, "GHCND") ~ "GHCN",
-      str_detect(STATION, "K[A-Z]{3}") ~ "ASOS/AWOS",  # Airport stations (KXXX)
-      TRUE ~ "Other"  # Everything else
+      str_starts(STATION, "US1")  ~ "COOP",
+      str_starts(STATION, "GHCND")~ "GHCN",
+      str_detect(STATION, "K[A-Z]{3}") ~ "ASOS/AWOS",
+      TRUE ~ "Other"
     )
   )
-
+```
 
 #number data should actually be stay numbers. putting it back
 num_cols <- c("LATITUDE", "LONGITUDE", "ELEVATION", "TAVG", "TMAX", "TMIN", "PRCP")
@@ -117,9 +113,10 @@ stations_sf <- stations_geo %>%
 ```{r}
 us_counties <- read_csv("~/Desktop/STAT155/stat-155-project/US_County_Boundaries.csv")
 ```
+
 ```{r}
 counties_sf <- st_read(
-  "~/Desktop/STAT155/stat-155-project/US_County_Boundaries/US_County_Boundaries.shp",
+  "~/Desktop/US_County_Boundaries/US_County_Boundaries.shp",
   quiet = TRUE
 ) %>%
   select(GEOID, geometry)   
@@ -150,20 +147,18 @@ stations_with_county <- st_join(
 ```
 
 ```{r}
-station_list <- readRDS("~/Desktop/STAT155/stat-155-project/station_list.rds")
-
 weather_all <- imap_dfr(station_list, function(df, st) {
   df %>%
     transmute(
       STATION = st,
       DATE    = as.integer(DATE),
-      PRCP    = as.numeric(PRCP),
       
       year    = as.integer(substr(DATE, 1, 4))
     )
 })
 
 ```
+
 ```{r}
 station2county <- stations_with_county %>%
   st_drop_geometry() %>%
@@ -175,6 +170,7 @@ weather_all <- weather_all %>%
   left_join(station2county, by = "STATION") %>%
   filter(!is.na(GEOID))
 ```
+
 ```{r}
 weather_summary <- weather_daily %>%
   mutate(
