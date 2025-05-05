@@ -1,0 +1,35 @@
+---
+title: "precipitation analysis"
+format: html
+editor: visual
+---
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(broom)
+library(readr)
+
+```
+
+**In order to use this file, you need to run the cropviz.qmd file in the repo far enough that you have a usable all_stations dataframe.**
+
+```{r}
+ggplot(all_stations, aes(x = TDIF, y = PRCP, color = TAVG)) +
+  geom_point(alpha = 0.05) +
+  geom_smooth(method = "lm")
+```
+
+```{r}
+wm1 <- lm(PRCP ~ LATITUDE * LONGITUDE, data = filter(all_stations, TDIF>= -100))
+wm2 <- lm(PRCP ~ TDIF + LATITUDE * LONGITUDE, data = all_stations)
+summary(wm1)
+summary(wm2)
+```
+
+```{r}
+anova(with(all_stations,wm1), with(all_stations,wm2))
+```
+
+
+
