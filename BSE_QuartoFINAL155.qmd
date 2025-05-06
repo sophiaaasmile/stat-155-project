@@ -179,11 +179,31 @@ ggsave("regression_table.png", tbl, width = 7, height = 3, dpi = 300)
 ```
 
 
-#### NOAA Models for July ####
+#### NOAA Models for Monthly ####
 
 
 ```{r}
 weather <- read_csv("modified_noaa_monthly.csv")
+
+ggplot(weather, aes(x = TDIF, y = PRCP, color = YEAR)) +
+  geom_point(alpha=0.05) +
+  geom_smooth(method="lm")
+
+ggplot(filter(weather, MONTH == 7), aes(x = ELEV, y = TMAX)) +
+  geom_point(alpha=0.05) +
+  geom_smooth()
+
+WM0 <- LM(TMAX ~ YEAR * LAT, data = filter(weather, MONTH == 7))
+WM1 <- lm(PRCP ~ YEAR * LAT + YEAR * LONG, data = filter(weather, TDIF >= -100))
+WM2 <- lm(PRCP ~ TDIF + YEAR * LAT + YEAR * LONG, data = weather)
+summary(WM0)
+summary(WM1)
+summary(WM2)
+
+anova(with(weather, WM1), with(weather,WM2))
+
+summary(lm(TDIF ~ LONG + LAT, data = weather))
+
 ```
 
 ### Weather combined with crops ###
