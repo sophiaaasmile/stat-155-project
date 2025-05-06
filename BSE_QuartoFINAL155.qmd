@@ -1,0 +1,566 @@
+---
+title: "BSE_QuartoFINAL155"
+author: "Batsambuu Batbold, Sophia Stevenson, Evelyn Paul"
+format:
+  html:
+    toc: true
+    embed-resources: true
+    code-tools: true    
+---
+
+This code is probably easier to view here: https://github.com/sophiaaasmile/stat-155-project/tree/main
+
+In separate files it's going to be easier to parse this mess of code. 
+
+Also, you need to download this file and access the path from your local desktop https://github.com/sophiaaasmile/stat-155-project/blob/baf9953ae78c20d65d19d1ef6b4f21dbc689033b/US_County_Boundaries.zip
+Github doesn't let us upload the unzipped files without crashing the entire repository. When you get to the chunk where we use it we will warn you again, or you will run into an error. 
+
+
+```{r}
+library(ggplot2)
+library(broom)
+library(readr)
+library(tidyr)
+library(wesanderson)
+library(tibble)
+library(arrow)    
+library(dplyr)
+library(data.table)
+library(stringr) 
+library(fs) 
+library(sf)
+library(purrr)
+library(leaflet)
+library(maps)
+library(tigris)
+library(rnaturalearth)
+library(terra) 
+library(tidyterra)
+library(lubridate)
+library(gridExtra)
+library(scales)
+
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, 
+                      fig.align = "center", fig.width = 8, fig.height = 6, include = FALSE)
+```
+
+#### Crop and GDP ####
+
+```{r}
+# Reading the crop and GDP data files
+GDP2022 <- read.csv("Data/GDP2022.csv")
+
+wheat2022 <- read.csv("Data/wheat_area_sale_production.csv")
+soybean2022 <- read.csv("Data/soybeans_area_sale_production.csv")
+corn2022 <- read.csv("Data/corn_area_sales_production.csv")
+```
+
+```{r}
+# Cleaning and reformatting the GDP dataset: 
+#   separate state and county, remove symbols, and match full state names
+
+GDP2022 %>%
+  separate(GeoName, into = c("County", "StateAbb"), sep = ",\\s*") %>%
+  mutate(StateAbb = gsub("\\*", "", StateAbb)) %>%
+  mutate(State = state.name[match(StateAbb, state.abb)]) %>%
+  select(-StateAbb, -GeoFips) -> GDP2022
+```
+
+```{r}
+# Defining a general function to clean crop data: 
+#   filter for 2022, reshape, rename columns, and merge with GDP
+clean_data <- function(crop_data, crop_name1, crop_name2 = crop_name1, crop_name3 = crop_name1){
+  crop_data %>%
+    filter(Year == 2022) %>%
+    select(State, County, Data.Item, Value) %>%
+    mutate(Value = as.numeric(gsub(",", "", Value))) -> crop_clean
+  
+  crop_clean %>%
+    pivot_wider(names_from = Data.Item, values_from = Value) %>%
+    rename(area = paste(crop_name1, '- ACRES HARVESTED'), production = paste(crop_name2, '- PRODUCTION, MEASURED IN BU'), sales = paste(crop_name3, '- SALES, MEASURED IN $')) -> crop_clean
+  
+  crop_clean %>%
+    mutate(State = tolower(State), County = tolower(County)) %>%
+    full_join(
+      GDP2022 %>% mutate(State = tolower(State), County = tolower(County)), 
+      by = c("State", "County")
+    ) %>% drop_na() %>% mutate(GDP = as.numeric(GDP)) -> crop_clean
+  
+  return (crop_clean)
+}
+```
+
+```{r}
+# Cleaning individual crop datasets and combine them into a single dataset for analysis
+soybean_clean <- clean_data(soybean2022, "SOYBEANS") %>% mutate(crop = "SOYBEANS")
+wheat_clean <- clean_data(wheat2022, "WHEAT") %>% mutate(crop = "WHEAT")
+corn_clean <- clean_data(corn2022, "CORN, GRAIN", crop_name3 = "CORN") %>% mutate(crop = "CORN")
+
+rbind(corn_clean, soybean_clean, wheat_clean) %>% arrange(State, County) -> data_clean
+```
+
+```{r}
+# Creating a scatter plot of Sales vs. Production, colored by crop type
+data_clean %>%
+  ggplot(aes(x = sales, y = production, color = crop)) + 
+  geom_point(alpha = 0.6, size = 2) +
+  geom_smooth(method = "lm", se = FALSE, linewidth = 1.2) +
+  scale_x_continuous(labels = dollar_format()) +
+  scale_y_continuous(labels = comma_format()) +
+  labs(
+    title = "Sales vs. Production by Crop",
+    subtitle = "Each point represents a U.S. county in 2022",
+    x = "Sales (USD)",
+    y = "Production (Bushels)",
+    color = "Crop"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    plot.title = element_text(face = "bold", size = 16),
+    plot.subtitle = element_text(size = 12, margin = margin(b = 10)),
+    axis.title = element_text(face = "bold"),
+    axis.text = element_text(color = "gray20"),
+    legend.title = element_text(face = "bold"),
+    plot.caption = element_text(size = 9, face = "italic", color = "gray40"),
+    panel.grid.minor = element_blank()
+  )
+```
+
+```{r}
+# Creating a scatter plot of Area vs. Production, colored by crop type
+data_clean %>%
+  ggplot(aes(x = area, y = production, color = crop)) + 
+  geom_point(alpha = 0.6, size = 2) +
+  geom_smooth(method = "lm", se = FALSE, linewidth = 1.2) +
+  scale_x_continuous(labels = comma_format()) +
+  scale_y_continuous(labels = comma_format()) +
+  labs(
+    title = "Area vs. Production by Crop",
+    subtitle = "Each point represents a U.S. county in 2022",
+    x = "Area Harvested (Acres)",
+    y = "Production (Bushels)",
+    color = "Crop"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    plot.title = element_text(face = "bold", size = 16),
+    plot.subtitle = element_text(size = 12, margin = margin(b = 10)),
+    axis.title = element_text(face = "bold"),
+    axis.text = element_text(color = "gray20"),
+    legend.title = element_text(face = "bold"),
+    panel.grid.minor = element_blank()
+  )
+```
+
+
+
+```{r}
+# Fitting a multiple linear regression model
+mod <- lm(GDP ~ production + area + sales + crop, data = data_clean)
+
+summary(mod)
+```
+```{r}
+# Building and saving a table of regression coefficients as an image
+coefs <- data.frame(
+  Predictor = c("(Intercept)", "Production", "Area", "Sales", "Crop: Soybeans", "Crop: Wheat"),
+  Estimate = c(6313000, -0.236, -43.37, 0.04921, -869000, -335500),
+  Std_Error = c(397000, 0.1313, 9.527, 0.02439, 600200, 561800),
+  t_value = c(15.90, -1.796, -4.553, 2.018, -1.448, -0.597),
+  p_value = c("< 0.001", "0.0726", "< 0.001", "0.0437", "0.1477", "0.5504")
+)
+
+coefs$Estimate <- prettyNum(round(coefs$Estimate, 3), big.mark = ",")
+coefs$Std_Error <- prettyNum(round(coefs$Std_Error, 3), big.mark = ",")
+coefs$t_value <- round(coefs$t_value, 2)
+
+tbl <- tableGrob(coefs)
+ggsave("regression_table.png", tbl, width = 7, height = 3, dpi = 300)
+```
+
+
+#### NOAA Models for July ####
+
+
+```{r}
+weather <- read_csv("modified_noaa_monthly.csv")
+```
+
+### Weather combined with crops ###
+
+```{r}
+
+stations <- readRDS(
+  url(
+    "https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/main/station_list.rds",
+    "rb"
+  )
+)
+
+cotton    <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/CottonArea_20Yr.csv")
+wheat     <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/WheatArea_20Yr.csv")
+corn      <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/cornArea_20yrcounty.csv")
+cornCash  <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/cornCashYield_20yrcounty.csv")
+fruitnuts <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/fruitTreeNutArea_20yrcounty.csv")
+hay       <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/hayArea_20yrcounty.csv")
+soybean   <- read_csv("https://raw.githubusercontent.com/sophiaaasmile/stat-155-project/ea18c576a116251cda738ac8bb912a70d86d2ca9/agricsvs/soybeanArea_20yrcounty.csv")
+```
+
+```{r}
+
+weather_cols <- c(                      
+  "STATION", "DATE", "LATITUDE", "LONGITUDE", "ELEVATION",
+  "TAVG", "TMAX", "TMIN",                # temperature core
+  "PRCP",                                # daily precip depth
+  "SNDP",                                # snow depth on ground
+  "CLDD", "HTDD",                        # cooling / heating degree-days
+  "DP01", "DP10", "DP1X",                # days ≥ 0.01 / ≥ 0.10 / ≥ 1 in
+  "DX32", "DX70", "DX90",                # days ≥ 32 °F, 70 °F, 90 °F
+  "DT32", "DT00",                        # days < 32 °F, < 0 °F
+  "EMXT", "EMNT",                        # monthly record high / low
+  "EMXP",                                # monthly record precip
+  "FRSHTT"                               # fog-rain-snow-hail-thunder-tornado flags
+)
+
+all_stations <- stations %>%
+  lapply(function(x) {
+    x %>%
+      mutate(across(everything(), as.character)) %>%
+      select(any_of(weather_cols))
+  }) %>%
+  bind_rows(.id = "STATION") %>%      # ← this turns the list into a tibble
+  mutate(
+    network = case_when(
+      str_starts(STATION, "US1")   ~ "COOP",
+      str_starts(STATION, "GHCND") ~ "GHCN",
+      str_detect(STATION, "K[A-Z]{3}") ~ "ASOS/AWOS",
+      TRUE                          ~ "Other"
+    )
+  )
+```
+
+```{r}
+#Clean the data 
+#number data should actually be stay numbers. putting it back
+num_cols <- c("LATITUDE", "LONGITUDE", "ELEVATION", "TAVG", "TMAX", "TMIN", "PRCP")
+all_stations <- all_stations %>%
+  mutate(across(any_of(num_cols), ~ {
+    nums <- suppressWarnings(as.numeric(.))
+    ifelse(is.finite(nums), nums, NA)  
+  }))
+
+# Filter like a blue whale 
+stations_geo <- all_stations %>% 
+  filter(
+    !is.na(LATITUDE), 
+    !is.na(LONGITUDE),
+    between(LONGITUDE, -180, -50),  
+    between(LATITUDE, 15, 72)       
+  ) %>%
+  arrange(STATION, desc(DATE)) %>%
+  distinct(STATION, .keep_all = TRUE)
+
+stations_sf <- stations_geo %>%
+  st_as_sf(
+    coords = c("LONGITUDE", "LATITUDE"),
+    crs = 4326,
+    remove = FALSE
+  ) %>%
+  st_make_valid()
+
+```
+
+> !!! UNZIP THIS FILE NOW !!! 
+> https://github.com/sophiaaasmile/stat-155-project/blob/baf9953ae78c20d65d19d1ef6b4f21dbc689033b/US_County_Boundaries.zip
+
+```{r}
+
+us_counties <- read_csv("~/Desktop/US_County_Boundaries/US_County_Boundaries.csv") #or whatever your actual path is 
+us_counties_sf <- st_read("~/Desktop/US_County_Boundaries/US_County_Boundaries.shp")
+
+```
+
+```{r}
+
+# More cleaning, joins, etc 
+
+us_counties_sf <- st_transform(us_counties_sf, st_crs(stations_sf))
+
+stations_with_county <- st_join(
+  stations_sf,
+  us_counties_sf %>% select(GEOID),
+  join = st_within
+)
+
+station2county <- stations_with_county %>%
+  st_drop_geometry() %>%
+  select(STATION, GEOID)
+
+all_stations <- all_stations %>%
+  mutate(
+    DATE = as.character(DATE),
+    year = as.integer(substr(DATE, 1, 4))
+  )
+
+station2county <- stations_with_county %>%
+  st_drop_geometry() %>%
+  select(STATION, GEOID)
+
+weather_all <- all_stations %>%
+  mutate(year = as.integer(DATE)) %>%
+  left_join(station2county, by = "STATION") %>%
+  filter(!is.na(GEOID))
+
+weather_daily <- all_stations %>%
+  mutate(
+    year = as.integer(DATE)
+  ) %>%
+  left_join(station2county, by = "STATION") %>%
+  filter(!is.na(GEOID))
+
+weather_daily <- all_stations %>%
+  mutate(
+    year = as.integer(DATE)
+  ) %>%
+  left_join(station2county, by = "STATION") %>%
+  filter(!is.na(GEOID)) %>%
+  mutate(across(
+    c(TAVG, TMAX, TMIN, PRCP,
+      DP01, DP10, DP1X,
+      DX32, DX70, DX90,
+      DT32, DT00,
+      CLDD, HTDD),
+    ~ as.numeric(.)
+  ))
+
+weather_summary <- weather_daily %>%
+  group_by(GEOID, year) %>%
+  summarise(
+    mean_tavg       = mean(TAVG, na.rm = TRUE),
+    mean_tmax       = mean(TMAX, na.rm = TRUE),
+    mean_tmin       = mean(TMIN, na.rm = TRUE),
+    total_prcp      = sum(PRCP, na.rm = TRUE),
+    prcp_days       = sum(DP01, na.rm = TRUE),
+    prcp10_days     = sum(DP10, na.rm = TRUE),
+    prcp1in_days    = sum(DP1X, na.rm = TRUE),
+    dx32_days       = sum(DX32, na.rm = TRUE),
+    dx70_days       = sum(DX70, na.rm = TRUE),
+    hot_days        = sum(DX90, na.rm = TRUE),
+    freeze32_days   = sum(DT32, na.rm = TRUE),
+    freeze0_days    = sum(DT00, na.rm = TRUE),
+    cdd_sum         = sum(CLDD, na.rm = TRUE),
+    hdd_sum         = sum(HTDD, na.rm = TRUE),
+    gdd_base50      = sum(pmax(((TMAX + TMIN)/2) - 50, 0), na.rm = TRUE),
+    record_max_temp = max(EMXT, na.rm = TRUE),
+    record_min_temp = min(EMNT, na.rm = TRUE),
+    record_prcp     = max(EMXP, na.rm = TRUE),
+    .groups         = "drop"
+  )
+```
+
+```{r}
+
+wheat2 <- wheat %>%
+  transmute(
+    # zero-pad state and county ANSI codes. Credit to geo nerds who figured this out. not me. 
+    state_fips  = str_pad(state_ansi, 2, pad = "0"),
+    county_fips = str_pad(county_ansi, 3, pad = "0"),
+    GEOID       = paste0(state_fips, county_fips),   # e.g. "01031"
+    year        = as.integer(year),
+    wheat_area  = as.numeric(Value)
+  )
+
+cotton2 <- cotton %>%
+  transmute(
+    state_fips    = str_pad(state_ansi,  2, pad = "0"),
+    county_fips   = str_pad(county_ansi, 3, pad = "0"),
+    GEOID         = paste0(state_fips, county_fips),
+    year          = as.integer(year),
+    cotton_area   = as.numeric(Value)
+  )
+
+corn2 <- corn %>%
+  transmute(
+    state_fips   = str_pad(state_ansi,  2, pad = "0"),
+    county_fips  = str_pad(county_ansi, 3, pad = "0"),
+    GEOID        = paste0(state_fips, county_fips),
+    year         = as.integer(year),
+    corn_area    = as.numeric(Value)
+  )
+
+cornCash2 <- cornCash %>%
+  transmute(
+    state_fips      = str_pad(state_ansi,  2, pad = "0"),
+    county_fips     = str_pad(county_ansi, 3, pad = "0"),
+    GEOID           = paste0(state_fips, county_fips),
+    year            = as.integer(year),
+    corn_cash_yield = as.numeric(Value)
+  )
+
+fruitnuts2 <- fruitnuts %>%
+  transmute(
+    state_fips      = str_pad(state_ansi,  2, pad = "0"),
+    county_fips     = str_pad(county_ansi, 3, pad = "0"),
+    GEOID           = paste0(state_fips, county_fips),
+    year            = as.integer(year),
+    fruitnut_area   = as.numeric(Value)
+  )
+
+hay2 <- hay %>%
+  transmute(
+    state_fips   = str_pad(state_ansi,  2, pad = "0"),
+    county_fips  = str_pad(county_ansi, 3, pad = "0"),
+    GEOID        = paste0(state_fips, county_fips),
+    year         = as.integer(year),
+    hay_area     = as.numeric(Value)
+  )
+
+soybean2 <- soybean %>%
+  transmute(
+    state_fips    = str_pad(state_ansi,  2, pad = "0"),
+    county_fips   = str_pad(county_ansi, 3, pad = "0"),
+    GEOID         = paste0(state_fips, county_fips),
+    year          = as.integer(year),
+    soybean_area  = as.numeric(Value)
+  )
+
+```
+
+```{r}
+df_mod_wheat <- inner_join(
+  wheat2,
+  weather_summary,
+  by = c("GEOID", "year")
+)
+
+df_mod_corn <- inner_join(
+  corn2,
+  weather_summary,
+  by = c("GEOID", "year")
+)
+
+df_mod_cornCash <- inner_join(
+  cornCash2,
+  weather_summary,
+  by = c("GEOID", "year")
+)
+
+df_mod_cotton <- inner_join(
+  cotton2,
+  weather_summary,
+  by = c("GEOID", "year")
+)
+
+df_mod_fruitnuts <- inner_join(
+  fruitnuts2,
+  weather_summary,
+  by = c("GEOID", "year")
+)
+
+df_mod_hay <- inner_join(
+  hay2,
+  weather_summary,
+  by = c("GEOID", "year")
+)
+
+df_mod_soybean <- inner_join(
+  soybean2,
+  weather_summary,
+  by = c("GEOID", "year")
+)
+
+
+```
+
+### Corn - You can make any of the major crop models but wheat was the only one that we could pull $/Acres in a timely manner (see usdaapiscript) so this our best crop/weather model).L= Log models are slightly better fits than anything else. See cropviz.qmd for the full set of 
+
+```{r}
+
+# Full linear
+corn_full_mod <- lm(
+  corn_area ~ 
+    total_prcp + mean_tavg + hot_days +
+    prcp_days + prcp1in_days + freeze32_days +
+    cdd_sum + hdd_sum + gdd_base50,
+  data      = df_mod_corn,
+  na.action = na.exclude
+)
+summary(corn_full_mod)
+
+# Log‐linear + interaction
+df_log_corn <- df_mod_corn %>%
+  mutate(
+    log_corn  = log(corn_area + 1),
+    log_prcp  = log(total_prcp + 1),
+    log_temp  = log(mean_tavg   + 1)
+  ) %>%
+  drop_na()
+corn_log_mod <- lm(
+  log_corn ~ log_prcp * log_temp +
+               hot_days + prcp_days + prcp1in_days +
+               freeze32_days + cdd_sum + hdd_sum,
+  data = df_log_corn
+)
+summary(corn_log_mod)
+
+# 4) Residuals vs fitted
+resid_df_corn <- augment(corn_log_mod)
+ggplot(resid_df_corn, aes(.fitted, .resid)) +
+  geom_point(alpha = 0.3) + geom_hline(yintercept = 0) +
+  labs(title="Corn Residuals vs Fitted",
+       x="Fitted", y="Residuals") +
+  theme_minimal()
+```
+
+```{r}
+# Merge in cash yield & weather
+df_mod_corn_cash <- corn2 %>%
+  inner_join(cornCash2, by = c("GEOID","year")) %>%
+  inner_join(weather_summary, by = c("GEOID","year"))
+
+# Cash + weather model
+corn_cash_area_mod <- lm(
+  corn_area ~ corn_cash_yield +
+    total_prcp + mean_tavg +
+    hot_days + prcp_days + prcp1in_days +
+    freeze32_days + cdd_sum + hdd_sum,
+  data      = df_mod_corn_cash,
+  na.action = na.exclude
+)
+summary(corn_cash_area_mod)
+
+# Log‐linear with cash
+df_log_corn_cash <- df_mod_corn_cash %>%
+  mutate(
+    log_area = log(corn_area       + 1),
+    log_cash = log(corn_cash_yield + 1),
+    log_prcp = log(total_prcp      + 1),
+    log_temp = log(mean_tavg       + 1)
+  ) %>%
+  drop_na()
+corn_cash_log_mod <- lm(
+  log_area ~ log_cash + log_prcp * log_temp +
+               hot_days + prcp_days + prcp1in_days +
+               freeze32_days + cdd_sum + hdd_sum,
+  data = df_log_corn_cash
+)
+summary(corn_cash_log_mod)
+
+```
+
+```{r}
+
+# 1. Set up the BottleRocket2 palette
+br2 <- wes_palette("BottleRocket2")
+
+# 2. Scatterplot with linear fit
+ggplot(df_mod_corn_cash, aes(x = corn_cash_yield, y = corn_area)) +
+  geom_point(alpha = 0.6, color = br2[2]) +
+  geom_smooth(method = "lm", se = FALSE, color = br2[4]) +
+  labs(
+    title = "County-Year Corn Area vs. Cash Yield",
+    x     = "Cash Yield ($ per acre)",
+    y     = "Corn Area (acres)"
+  ) +
+  theme_minimal()
+```
